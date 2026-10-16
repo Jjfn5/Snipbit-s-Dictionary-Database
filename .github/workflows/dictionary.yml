@@ -1,1 +1,57 @@
+name: build-dictionary
 
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # weekly, Monday 03:00 UTC
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if upstream is unchanged"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  jmdict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: python tests/test_translit.py
+
+      - name: Fetch previous manifest (for change detection)
+        if: ${{ !inputs.force }}
+        run: |
+          mkdir -p out
+          curl -fsSL -o out/prev-manifest.json \
+            "https://github.com/${{ github.repository }}/releases/download/jmdict/manifest.json" || true
+
+      - name: Build jmdict.db
+        id: build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/build_jmdict.py \
+            --out-dir out \
+            --prev-manifest out/prev-manifest.json \
+            --base-url "https://github.com/${{ github.repository }}/releases/download/jmdict"
+
+      # One rolling release tag ("jmdict"): the app always reads the same
+      # stable URL, and re-publishing just replaces the assets.
+      - name: Publish release assets
+        if: steps.build.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: jmdict
+          name: JMdict (rolling)
+          make_latest: false
+          files: |
+            out/jmdict.db.gz
+            out/manifest.json
