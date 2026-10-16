@@ -2,7 +2,7 @@ name: build-dictionary
 
 on:
   schedule:
-    - cron: "0 3 * * 1"   # weekly, Monday 03:00 UTC
+    - cron: "0 3 * * 1"
   workflow_dispatch:
     inputs:
       force:
@@ -43,8 +43,6 @@ jobs:
             --prev-manifest out/prev-manifest.json \
             --base-url "https://github.com/${{ github.repository }}/releases/download/jmdict"
 
-      # One rolling release tag ("jmdict"): the app always reads the same
-      # stable URL, and re-publishing just replaces the assets.
       - name: Publish release assets
         if: steps.build.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
