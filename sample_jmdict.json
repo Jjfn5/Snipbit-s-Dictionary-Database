@@ -1,0 +1,9 @@
+{"version":"3.6.1","words":[
+ {"id":1,"kanji":[{"common":true,"text":"食べる"},{"common":false,"text":"喰べる"}],"kana":[{"common":true,"text":"たべる","appliesToKanji":["*"]}],
+  "sense":[{"partOfSpeech":["v1","vt"],"field":[],"misc":[],"info":[],"gloss":[{"lang":"eng","text":"to eat"},{"lang":"eng","text":"to live on"}]},
+           {"partOfSpeech":["v1"],"misc":["uk"],"info":["fig"],"gloss":[{"lang":"ger","text":"essen"}]}]},
+ {"id":2,"kanji":[],"kana":[{"common":true,"text":"コーヒー"}],"sense":[{"partOfSpeech":["n"],"gloss":[{"lang":"eng","text":"coffee"}]}]},
+ {"id":3,"kanji":[{"common":false,"text":"学校"}],"kana":[{"common":false,"text":"がっこう"}],"sense":[{"partOfSpeech":["n"],"field":["comp"],"gloss":[{"lang":"eng","text":"school"}]}]},
+ {"id":4,"kanji":[],"kana":[{"text":"ファイル"}],"sense":[{"gloss":[{"text":"file"}]}]},
+ {"id":5,"kanji":[{"text":"空"}],"kana":[{"text":"そら"}],"sense":[{"gloss":[{"lang":"fre","text":"ciel"}]}]}
+]}
