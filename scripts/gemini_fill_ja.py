@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sqlite3
 import sys
 import time
@@ -26,7 +27,21 @@ from pathlib import Path
 from typing import Callable, Optional
 
 MAX_ATTEMPTS = 3
-DEFAULT_MODEL = "gemini-2.5-flash-lite"
+# Tried in this order; anything unavailable/overloaded/out of quota is
+# skipped automatically. Override with the repo variable GEMINI_MODELS
+# (comma-separated) -- see parse_models().
+DEFAULT_MODELS = [
+    "gemini-2.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-flash-lite-latest",
+    "gemini-3.5-flash-lite",
+    "gemini-2.5-flash",
+    "gemini-flash-latest",
+]
+# Words that mark a listed model as not being a plain text model.
+NOT_TEXT_MODEL = ("tts", "image", "live", "audio", "embed", "computer", "robotics",
+                  "antigravity", "research", "lyria", "transcribe", "omni", "gemma",
+                  "nano", "banana", "pro", "customtools", "argon")
 API = "https://generativelanguage.googleapis.com/v1beta"
 VERB_ADJ_TAGS = ("v1", "v5", "vk", "vz", "vs-i", "vs-s", "adj-i")
 BAD_CHARS = set("[]{}()（）「」『』<>")
@@ -60,7 +75,26 @@ RESPONSE_SCHEMA = {
 
 
 class QuotaExhausted(Exception):
-    pass
+    """No model is usable right now (all gone, rate-limited or overloaded)."""
+
+
+class FatalError(Exception):
+    """Problem no other model can fix (e.g. a bad API key)."""
+
+
+class ModelGone(Exception):
+    """This model doesn't exist / isn't allowed for this key: skip it for the whole run."""
+
+
+class RateLimited(Exception):
+    def __init__(self, msg, retry_after=None, per_day=False):
+        super().__init__(msg)
+        self.retry_after = retry_after
+        self.per_day = per_day
+
+
+class Overloaded(Exception):
+    """Temporary server trouble (5xx, timeout, network): retry, then rest the model."""
 
 
 # ------------------------------------------------------------------ helpers
@@ -120,7 +154,9 @@ def build_prompt(batch: list[dict]) -> str:
 
 
 # --------------------------------------------------------------- gemini call
-def call_gemini(prompt: str, model: str, key: str) -> list[dict]:
+def call_model(prompt: str, model: str, key: str) -> list[dict]:
+    """One request to one model. Raises ModelGone / RateLimited / Overloaded /
+    FatalError; returns [] when the model answered with nothing usable."""
     url = f"{API}/models/{model}:generateContent"
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
@@ -134,52 +170,166 @@ def call_gemini(prompt: str, model: str, key: str) -> list[dict]:
         url, data=body, method="POST",
         headers={"Content-Type": "application/json", "x-goog-api-key": key},
     )
-    last_err: Optional[str] = None
-    for attempt in range(3):
-        try:
-            with urllib.request.urlopen(req, timeout=120) as r:
-                data = json.load(r)
-            cands = data.get("candidates") or []
-            parts = (cands[0].get("content") or {}).get("parts") if cands else None
-            if not parts:
-                return []  # blocked / empty -> counts as a failed attempt for those words
-            return json.loads(parts[0].get("text", "[]"))
-        except urllib.error.HTTPError as e:
-            detail = e.read().decode(errors="replace")[:500]
-            if e.code == 429:
-                if attempt == 0:
-                    print("429 from Gemini; waiting 65s once (may just be the per-minute limit)")
-                    time.sleep(65)
-                    continue
-                raise QuotaExhausted(detail)
-            if e.code >= 500:
-                last_err = f"HTTP {e.code}: {detail}"
-                time.sleep(5 * (attempt + 1))
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            data = json.load(r)
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode(errors="replace")[:600]
+        low = detail.lower()
+        if e.code in (400, 401, 403) and ("api key" in low or "api_key" in low):
+            raise FatalError(f"Gemini rejected the API key (HTTP {e.code}): {detail}")
+        if e.code == 429:
+            m = re.search(r'"retryDelay":\s*"(\d+(?:\.\d+)?)s"', detail)
+            raise RateLimited(detail, float(m.group(1)) if m else None, "PerDay" in detail)
+        if e.code in (400, 403, 404):
+            raise ModelGone(f"HTTP {e.code}: {detail[:200]}")
+        raise Overloaded(f"HTTP {e.code}: {detail[:200]}")
+    except (urllib.error.URLError, TimeoutError, OSError) as e:
+        raise Overloaded(str(e))
+    try:
+        cands = data.get("candidates") or []
+        parts = (cands[0].get("content") or {}).get("parts") if cands else None
+        if not parts:
+            return []  # blocked / empty
+        out = json.loads(parts[0].get("text", "[]"))
+        return out if isinstance(out, list) else []
+    except (ValueError, AttributeError, IndexError):
+        return []
+
+
+class ModelPool:
+    """Tracks which models are usable: dead for the run, or resting until a time."""
+
+    def __init__(self, models, now=time.monotonic):
+        self.models = list(models)
+        self.now = now
+        self.dead: dict[str, str] = {}
+        self.until: dict[str, float] = {}
+        self.why: dict[str, str] = {}
+
+    def usable(self):
+        t = self.now()
+        return [m for m in self.models if m not in self.dead and self.until.get(m, 0) <= t]
+
+    def mark_dead(self, model, why):
+        print(f"  model {model}: unavailable for this run ({why[:120]})")
+        self.dead[model] = why
+
+    def cooldown(self, model, seconds, why):
+        print(f"  model {model}: resting {int(seconds)}s ({why[:120]})")
+        self.until[model] = self.now() + seconds
+        self.why[model] = why
+
+    def next_wake(self):
+        """Seconds until the soonest resting model is usable; None if none will be."""
+        t = self.now()
+        waits = [self.until[m] - t for m in self.models if m not in self.dead and m in self.until]
+        waits = [w for w in waits if w > 0]
+        return min(waits) if waits else None
+
+    def summary(self):
+        parts = []
+        for m in self.models:
+            if m in self.dead:
+                parts.append(f"{m}: gone ({self.dead[m][:80]})")
+            else:
+                parts.append(f"{m}: resting ({self.why.get(m, 'n/a')[:80]})")
+        return "; ".join(parts)
+
+
+def call_with_pool(prompt: str, pool: ModelPool, call=None, sleep=time.sleep):
+    """Sends [prompt] to the first usable model, switching automatically.
+
+    - model missing / not allowed  -> skipped for the whole run
+    - daily quota hit              -> rests 6h (i.e. the rest of the run)
+    - per-minute limit             -> waits the server's retry delay once, else rests 2 min
+    - overloaded / network error   -> retried twice (5s, 15s), then rests 5 min
+    - empty answer                 -> next model gets a try
+    Returns (items, model_used). Raises QuotaExhausted when nothing is usable.
+    """
+    call = call or (lambda pr, m: call_model(pr, m, os.environ["GEMINI_API_KEY"]))
+    tried: set[str] = set()
+    last = ""
+    while True:
+        cands = [m for m in pool.usable() if m not in tried]
+        if not cands:
+            if tried:
+                return [], last  # every usable model answered with nothing
+            wake = pool.next_wake()
+            if wake is not None and wake <= 90:
+                sleep(wake + 1)
                 continue
-            if e.code == 404:
-                list_models(key)
-                raise RuntimeError(
-                    f"Model '{model}' not found. Pick one from the list above and set the "
-                    f"repo variable GEMINI_MODEL (Settings > Secrets and variables > Actions > Variables)."
-                )
-            raise RuntimeError(f"Gemini HTTP {e.code}: {detail}")
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
-            last_err = str(e)
-            time.sleep(5 * (attempt + 1))
-    raise RuntimeError(f"Gemini request failed: {last_err}")
+            raise QuotaExhausted(pool.summary())
+        model = cands[0]
+        for attempt in range(3):
+            try:
+                items = call(prompt, model)
+                if items:
+                    return items, model
+                tried.add(model)
+                last = model
+                break
+            except ModelGone as e:
+                pool.mark_dead(model, str(e))
+                break
+            except RateLimited as e:
+                if e.per_day:
+                    pool.cooldown(model, 6 * 3600, "daily quota")
+                    break
+                if e.retry_after is not None and e.retry_after <= 60 and attempt == 0:
+                    sleep(e.retry_after + 1)
+                    continue
+                pool.cooldown(model, 120, "rate limited")
+                break
+            except Overloaded as e:
+                if attempt < 2:
+                    sleep(5 * 3 ** attempt)
+                    continue
+                pool.cooldown(model, 300, f"overloaded: {e}")
+                break
 
 
-def list_models(key: str) -> None:
+def parse_models(*values: str) -> list[str]:
+    """Comma/space separated model names -> clean ordered list (no 'models/' prefix)."""
+    out: list[str] = []
+    for v in values:
+        for name in re.split(r"[,\s]+", v or ""):
+            name = name.strip().removeprefix("models/")
+            if name and name not in out:
+                out.append(name)
+    return out
+
+
+def available_models(key: str):
+    """Names of models the key can call generateContent on, or None if the lookup fails."""
     try:
         req = urllib.request.Request(f"{API}/models?pageSize=200", headers={"x-goog-api-key": key})
         with urllib.request.urlopen(req, timeout=60) as r:
             data = json.load(r)
-        print("Models available to this key that support generateContent:")
-        for m in data.get("models", []):
-            if "generateContent" in m.get("supportedGenerationMethods", []):
-                print("  ", m["name"].split("/", 1)[-1])
+        return [m["name"].split("/", 1)[-1] for m in data.get("models", [])
+                if "generateContent" in m.get("supportedGenerationMethods", [])]
     except Exception as e:  # noqa: BLE001 - diagnostic only
         print(f"(could not list models: {e})")
+        return None
+
+
+def build_chain(configured: list[str], available) -> list[str]:
+    """Configured models first (in order), then up to 4 other plain 'flash' models the key
+    offers as last resorts. A model listed as available can still 404 at call time; the
+    pool handles that, so this only drops names the key clearly doesn't have."""
+    if available is None:
+        return configured
+    chain = []
+    for m in configured:
+        if m in available:
+            chain.append(m)
+        else:
+            print(f"skipping {m}: not offered to this key")
+    extras = [m for m in available
+              if "flash" in m and not any(w in m for w in NOT_TEXT_MODEL) and m not in chain]
+    # lite first, then stable before preview, then by name
+    extras.sort(key=lambda m: ("lite" not in m, "preview" in m, m))
+    return chain + extras[:4]
 
 
 # ----------------------------------------------------------------- store/state
@@ -221,7 +371,7 @@ def pick_candidates(jmdict_db: Path, covered: set[str], done: set[str],
 
 
 # ------------------------------------------------------------------------ run
-def run(args, generate: Callable[[str], list[dict]]) -> dict:
+def run(args, generate: Callable[[str], tuple[list[dict], str]]) -> dict:
     store = load_store(args.store)
     state = load_state(args.state)
     attempts: dict = state.setdefault("attempts", {})
@@ -242,7 +392,7 @@ def run(args, generate: Callable[[str], list[dict]]) -> dict:
         for start in range(0, len(cands), args.batch_size):
             batch = cands[start:start + args.batch_size]
             try:
-                items = generate(build_prompt(batch))
+                items, used_model = generate(build_prompt(batch))
             except QuotaExhausted as e:
                 stopped = f"quota exhausted: {e}"
                 break
@@ -255,7 +405,7 @@ def run(args, generate: Callable[[str], list[dict]]) -> dict:
                         "word": entry["headword"], "reading": entry["reading"],
                         "sentence": item["sentence"].strip(),
                         "translation": item["translation"].strip(),
-                        "model": args.model, "added": today,
+                        "model": used_model, "added": today,
                     }, ensure_ascii=False) + "\n")
                     attempts.pop(entry["headword"], None)
                     accepted += 1
@@ -289,11 +439,26 @@ def main() -> int:
     if not key:
         print("GEMINI_API_KEY not set -- skipping Gemini step.")
         return 0
-    args.model = os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL
-    print(f"Using model {args.model}")
+
+    configured = parse_models(os.environ.get("GEMINI_MODELS", ""),
+                              os.environ.get("GEMINI_MODEL", ""),
+                              ",".join(DEFAULT_MODELS))
+    chain = build_chain(configured, available_models(key))
+    if not chain:
+        print("::warning::No usable Gemini model found for this key -- skipping Gemini step.")
+        return 0
+    print("Model order:", ", ".join(chain))
+    pool = ModelPool(chain)
+
     args.store.parent.mkdir(parents=True, exist_ok=True)
     args.store.touch(exist_ok=True)
-    run(args, lambda prompt: call_gemini(prompt, args.model, key))
+    try:
+        res = run(args, lambda prompt: call_with_pool(prompt, pool, lambda pr, m: call_model(pr, m, key)))
+    except FatalError as e:
+        print(f"::warning::Gemini step skipped: {e}")
+        return 0
+    if res["stopped"] and res["accepted"] == 0:
+        print(f"::warning::Gemini unavailable this run: {res['stopped'][:300]}")
     return 0
 
 
