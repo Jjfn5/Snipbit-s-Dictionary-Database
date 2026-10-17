@@ -17,8 +17,9 @@ permissions:
   contents: write
 
 # Never two runs at once: both would append to examples/ja/gemini.jsonl.
+# Same group as the dictionary build: both publish into the one jmdict release.
 concurrency:
-  group: examples-ja
+  group: release-jmdict
   cancel-in-progress: false
 
 jobs:
@@ -62,7 +63,7 @@ jobs:
       - name: Previous examples manifest
         run: |
           curl -fsSL -o out/prev-manifest.json \
-            "https://github.com/${{ github.repository }}/releases/download/examples-ja/manifest.json" || true
+            "https://github.com/${{ github.repository }}/releases/download/jmdict/examples-manifest.json" || true
 
       # A Gemini outage must never block publishing the Tatoeba examples.
       - name: Gemini fill
@@ -101,15 +102,15 @@ jobs:
             --gemini examples/ja/gemini.jsonl \
             --out-dir out \
             --prev-manifest out/prev-manifest.json \
-            --base-url "https://github.com/${{ github.repository }}/releases/download/examples-ja"
+            --base-url "https://github.com/${{ github.repository }}/releases/download/jmdict"
 
       - name: Publish release assets
         if: steps.assemble.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: examples-ja
-          name: Japanese examples (rolling)
+          tag_name: jmdict
+          name: Japanese (rolling)
           make_latest: false
           files: |
             out/jmdict_examples.db.gz
-            out/manifest.json
+            out/examples-manifest.json

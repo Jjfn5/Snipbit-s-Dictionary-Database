@@ -14,14 +14,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    concurrency:
+      group: release-${{ matrix.tag }}
+      cancel-in-progress: false
     strategy:
       fail-fast: false
       matrix:
         include:
-          - { lang: zh, tag: examples-zh, db: ccedict_examples }
-          - { lang: ko, tag: examples-ko, db: kor_examples }
-          - { lang: es, tag: examples-es, db: spa_examples }
-          - { lang: fr, tag: examples-fr, db: fra_examples }
+          - { lang: zh, tag: ccedict, name: Chinese, db: ccedict_examples }
+          - { lang: ko, tag: kor, name: Korean, db: kor_examples }
+          - { lang: es, tag: spa, name: Spanish, db: spa_examples }
+          - { lang: fr, tag: fra, name: French, db: fra_examples }
     steps:
       - uses: actions/checkout@v4
 
@@ -40,7 +43,7 @@ jobs:
         run: |
           mkdir -p out
           curl -fsSL -o out/prev-manifest.json \
-            "https://github.com/${{ github.repository }}/releases/download/${{ matrix.tag }}/manifest.json" || true
+            "https://github.com/${{ github.repository }}/releases/download/${{ matrix.tag }}/examples-manifest.json" || true
 
       - name: Build ${{ matrix.db }}.db
         id: build
@@ -55,8 +58,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ matrix.tag }}
-          name: ${{ matrix.lang }} examples (rolling)
+          name: ${{ matrix.name }} (rolling)
           make_latest: false
           files: |
             out/${{ matrix.db }}.db.gz
-            out/manifest.json
+            out/examples-manifest.json
