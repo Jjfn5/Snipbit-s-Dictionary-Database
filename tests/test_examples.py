@@ -91,11 +91,12 @@ def test_gemini_and_assemble(monkeypatch=None):
         def fake(prompt):
             calls.append(prompt)
             assert "食べる" not in prompt  # already covered, must not be requested
-            return [
+            items = [
                 {"index": 1, "sentence": "水を飲みます。", "surface": "水", "translation": "I drink water."},
                 {"index": 2, "sentence": "山に登る。", "surface": "山", "translation": "I climb the mountain."},
                 {"index": 3, "sentence": "これは何ですか。", "surface": "珍", "translation": "What is this?"},  # fails stem
             ]
+            return items, "test"
 
         args = SimpleNamespace(jmdict=d / "jm.db", tatoeba=d / "t.db", store=d / "g.jsonl",
                                state=d / "s.json", max_requests=5, batch_size=25, sleep=0, model="test")
@@ -124,7 +125,88 @@ def test_gemini_and_assemble(monkeypatch=None):
         assert asm.main() == 0
 
 
+def test_model_pool():
+    clock = [0.0]
+    pool = gem.ModelPool(["A", "B", "C"], now=lambda: clock[0])
+    slept = []
+    sleep = lambda s: (slept.append(s), clock.__setitem__(0, clock[0] + s))  # noqa: E731
+    calls = []
+
+    def fake_call(prompt, model):
+        calls.append(model)
+        if model == "A":
+            raise gem.ModelGone("404 not found")
+        if model == "B":
+            raise gem.RateLimited("quota", None, per_day=True)
+        return [{"index": 1}]
+
+    items, used = gem.call_with_pool("p", pool, fake_call, sleep)
+    assert used == "C" and calls == ["A", "B", "C"]
+    calls.clear()
+    gem.call_with_pool("p", pool, fake_call, sleep)
+    assert calls == ["C"]  # A is gone, B is resting: straight to C
+
+    # overloaded: retried twice with backoff, then succeeds on the same model
+    pool = gem.ModelPool(["X", "Y"], now=lambda: clock[0])
+    n = {"x": 0}
+
+    def flaky(prompt, model):
+        if model == "X":
+            n["x"] += 1
+            if n["x"] < 3:
+                raise gem.Overloaded("503")
+        return [{"index": 1}]
+
+    slept.clear()
+    assert gem.call_with_pool("p", pool, flaky, sleep)[1] == "X" and slept == [5, 15]
+
+    # short per-minute limit: waits the server's delay once, then same model works
+    pool = gem.ModelPool(["X", "Y"], now=lambda: clock[0])
+    state = {"first": True}
+
+    def rpm(prompt, model):
+        if model == "X" and state["first"]:
+            state["first"] = False
+            raise gem.RateLimited("slow down", 20.0, per_day=False)
+        return [{"index": 1}]
+
+    slept.clear()
+    assert gem.call_with_pool("p", pool, rpm, sleep)[1] == "X" and slept == [21.0]
+
+    # everything dead/resting for long -> QuotaExhausted
+    pool = gem.ModelPool(["X", "Y"], now=lambda: clock[0])
+
+    def nope(prompt, model):
+        raise gem.ModelGone("gone") if model == "X" else gem.RateLimited("q", None, True)
+
+    try:
+        gem.call_with_pool("p", pool, nope, sleep)
+        raise AssertionError("should have raised")
+    except gem.QuotaExhausted as e:
+        assert "X" in str(e) and "Y" in str(e)
+
+    # empty answers fall through to the next model, then give up quietly
+    pool = gem.ModelPool(["X", "Y"], now=lambda: clock[0])
+    seen = []
+    items, used = gem.call_with_pool("p", pool, lambda pr, m: (seen.append(m), [])[1], sleep)
+    assert items == [] and seen == ["X", "Y"]
+
+
+def test_chain_building():
+    assert gem.parse_models("a, b", "models/c", "a") == ["a", "b", "c"]
+    avail = ["gemini-2.5-flash", "gemini-3.1-flash-lite", "gemini-3.5-flash-lite-tts",
+             "gemini-3.5-flash", "gemini-2.5-pro", "gemma-4-31b-it", "gemini-3.1-flash-lite-preview"]
+    chain = gem.build_chain(["gemini-2.5-flash-lite", "gemini-3.1-flash-lite"], avail)
+    assert chain[0] == "gemini-3.1-flash-lite"           # unlisted name dropped, listed kept
+    assert "gemini-3.5-flash-lite-tts" not in chain and "gemini-2.5-pro" not in chain
+    assert "gemma-4-31b-it" not in chain
+    assert chain[1] == "gemini-3.1-flash-lite-preview"   # extras: lite first
+    assert gem.build_chain(["x"], None) == ["x"]         # lookup failed -> try configured as-is
+
+
 if __name__ == "__main__":
+    test_model_pool()
+    test_chain_building()
     test_headword_from_token()
     test_tatoeba_build()
     test_validate()
