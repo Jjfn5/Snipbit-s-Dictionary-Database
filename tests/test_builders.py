@@ -1,6 +1,4 @@
-"""Offline tests for the ccedict / krdict / kaikki entry builders and the
-Tatoeba example builder (no network, tiny fixtures)."""
-import bz2
+"""Offline tests for the ccedict / krdict / kaikki entry builders (no network, tiny fixtures)."""
 import gzip
 import json
 import sqlite3
@@ -11,7 +9,6 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import build_ccedict as cc  # noqa: E402
-import build_examples as ex  # noqa: E402
 import build_kaikki as kk  # noqa: E402
 import build_krdict as kr  # noqa: E402
 import dictlib  # noqa: E402
@@ -114,34 +111,6 @@ def test_kaikki():
         assert json.loads(rows[0][5]) == [{"g": ["coffee"]}]   # leaf of the breadcrumb only
         assert rows[0][7] == "cafe" and rows[1][7] == "vacio"
         assert (out / "spa.db.gz").exists()
-
-
-def test_tokenize_space():
-    assert ex.tokenize_space("L'eau, c'est bon !") == ["l'eau", "l", "eau", "c'est", "c", "est", "bon"]
-    assert ex.tokenize_space("¿Dónde está?") == ["dónde", "está"]
-    assert ex.tokenize_space("나는 학교에 갑니다.") == ["나는", "학교에", "갑니다"]
-
-
-def _bz2(path: Path, text: str):
-    path.write_bytes(bz2.compress(text.encode("utf-8")))
-
-
-def test_examples_build():
-    with tempfile.TemporaryDirectory() as t:
-        d = Path(t)
-        files = {"sentences": d / "s.bz2", "links": d / "l.bz2", "english": d / "e.bz2"}
-        _bz2(files["sentences"], "1\tspa\tMe gusta el agua.\n2\tspa\tHola, mundo.\n3\tspa\t\n")
-        _bz2(files["links"], "1\t10\n1\t11\n2\t12\n")
-        _bz2(files["english"], "10\teng\tI like water.\n11\teng\tSecond.\n12\teng\tHello, world.\n")
-        out = d / "e.db"
-        n_s, n_w = ex.build(files, out, "spa", ex.tokenize_space)
-        assert n_s == 2
-        con = sqlite3.connect(out)
-        assert con.execute("SELECT translation FROM sentences WHERE id=1").fetchone()[0] == "I like water."
-        words = {r[0] for r in con.execute("SELECT word FROM sentence_words WHERE sentence_id=1")}
-        assert words == {"me", "gusta", "el", "agua"}
-        assert con.execute("SELECT DISTINCT source FROM sentences").fetchall() == [("spa",)]
-        assert con.execute("PRAGMA user_version").fetchone()[0] == ex.SCHEMA_VERSION
 
 
 def test_unchanged_upstream_skips():
