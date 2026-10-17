@@ -1,0 +1,110 @@
+name: build-examples-ja
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # daily, 03:30 UTC (after the weekly dictionary build on Mondays)
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: "Max Gemini requests this run (25 words each)"
+        default: "40"
+      skip_gemini:
+        description: "Skip the Gemini step (Tatoeba only)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Never two runs at once: both would append to examples/ja/gemini.jsonl.
+concurrency:
+  group: examples-ja
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: |
+          python tests/test_translit.py
+          python tests/test_examples.py
+
+      - name: Month key (Tatoeba is rebuilt at most monthly)
+        id: month
+        run: echo "key=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore Tatoeba build
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: out/tatoeba_ja.db
+          key: tatoeba-ja-${{ steps.month.outputs.key }}-v1
+
+      - name: Build Tatoeba db
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: python scripts/build_tatoeba_ja.py --out out/tatoeba_ja.db
+
+      - name: Get jmdict.db (word list for the Gemini step)
+        run: |
+          mkdir -p out
+          curl -fsSL -o out/jmdict.db.gz \
+            "https://github.com/${{ github.repository }}/releases/download/jmdict/jmdict.db.gz"
+          gunzip -f out/jmdict.db.gz
+
+      - name: Previous examples manifest
+        run: |
+          curl -fsSL -o out/prev-manifest.json \
+            "https://github.com/${{ github.repository }}/releases/download/examples-ja/manifest.json" || true
+
+      - name: Gemini fill
+        if: ${{ !inputs.skip_gemini }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: |
+          python scripts/gemini_fill_ja.py \
+            --jmdict out/jmdict.db \
+            --tatoeba out/tatoeba_ja.db \
+            --max-requests "${{ inputs.max_requests || '40' }}"
+
+      - name: Commit new Gemini sentences
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add examples/ja
+          if git diff --cached --quiet; then
+            echo "No new Gemini sentences"
+          else
+            git commit -m "Add Gemini example sentences ($(date -u +%F))"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Assemble jmdict_examples.db
+        id: assemble
+        run: |
+          python scripts/assemble_examples_ja.py \
+            --tatoeba out/tatoeba_ja.db \
+            --gemini examples/ja/gemini.jsonl \
+            --out-dir out \
+            --prev-manifest out/prev-manifest.json \
+            --base-url "https://github.com/${{ github.repository }}/releases/download/examples-ja"
+
+      - name: Publish release assets
+        if: steps.assemble.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: examples-ja
+          name: Japanese examples (rolling)
+          make_latest: false
+          files: |
+            out/jmdict_examples.db.gz
+            out/manifest.json
