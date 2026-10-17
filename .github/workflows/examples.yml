@@ -64,10 +64,15 @@ jobs:
           curl -fsSL -o out/prev-manifest.json \
             "https://github.com/${{ github.repository }}/releases/download/examples-ja/manifest.json" || true
 
+      # A Gemini outage must never block publishing the Tatoeba examples.
       - name: Gemini fill
+        continue-on-error: true
         if: ${{ !inputs.skip_gemini }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional repo variables: comma-separated model priority list; models
+          # missing/overloaded/out of quota are skipped automatically.
+          GEMINI_MODELS: ${{ vars.GEMINI_MODELS }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
           python scripts/gemini_fill_ja.py \
