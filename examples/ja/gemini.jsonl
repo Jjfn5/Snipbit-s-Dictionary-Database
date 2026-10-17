@@ -1,1 +1,978 @@
 
+{"word": "抑", "reading": "そもそも", "sentence": "抑その計画には無理がありました。", "translation": "To begin with, that plan was unreasonable.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Α", "reading": "アルファ", "sentence": "ギリシャ文字の最初はΑです。", "translation": "The first letter of the Greek alphabet is alpha.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "＆", "reading": "アンド", "sentence": "看板にパン＆カフェと書いてある。", "translation": "It says Bakery & Cafe on the sign.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Ｓ", "reading": "エス", "sentence": "このシャツのＳサイズをください。", "translation": "Please give me this shirt in size S.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Ｈ", "reading": "エッチ", "sentence": "鉛筆の濃さはＨを選びました。", "translation": "I chose an H hardness for the pencil.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Ω", "reading": "オメガ", "sentence": "ギリシャ文字の最後はΩです。", "translation": "The last letter of the Greek alphabet is omega.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Γ", "reading": "ガンマ", "sentence": "数学の授業でΓ関数を習った。", "translation": "I learned about the gamma function in math class.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Δ", "reading": "デルタ", "sentence": "川の河口に大きなΔが広がる。", "translation": "A large delta spreads out at the mouth of the river.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "Β", "reading": "ベータ", "sentence": "新しいアプリのΒ版を試した。", "translation": "I tried the beta version of the new app.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "竓", "reading": "ミリリットル", "sentence": "水を二百竓加えてよく混ぜます。", "translation": "Add two hundred milliliters of water and mix well.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "１", "reading": "ワン", "sentence": "ナンバー１を目指して練習する。", "translation": "I practice aiming to be number one.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "庵", "reading": "いおり", "sentence": "山奥にある小さな庵を訪れた。", "translation": "I visited a small hermitage deep in the mountains.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "因", "reading": "いん", "sentence": "すべての結果には因がある。", "translation": "Every result has a cause.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "韻", "reading": "いん", "sentence": "英語の詩で綺麗に韻を踏む。", "translation": "It rhymes nicely in the English poem.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "丑", "reading": "うし", "sentence": "来年の干支は丑にあたります。", "translation": "Next year's zodiac sign falls on the Ox.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "渦", "reading": "うず", "sentence": "川の流れに大きな渦ができた。", "translation": "A large whirlpool formed in the river's current.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "浦", "reading": "うら", "sentence": "静かな浦に小舟が浮かんでいる。", "translation": "A small boat is floating in the quiet inlet.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "襖", "reading": "ふすま", "sentence": "部屋を分けるために襖を閉めた。", "translation": "I closed the sliding screen to divide the room.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "荻", "reading": "おぎ", "sentence": "川沿いに背の高い荻が生えている。", "translation": "Tall Amur silvergrass is growing along the river.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "加", "reading": "か", "sentence": "二つの数を加して合計を出す。", "translation": "Add the two numbers to calculate the total.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "科", "reading": "か", "sentence": "大きな病院のどの科に行きますか。", "translation": "Which department of the large hospital will you go to?", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "霞", "reading": "かすみ", "sentence": "春の朝に山が薄い霞で覆われた。", "translation": "On a spring morning, the mountains were covered in a thin mist.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "岳", "reading": "たけ", "sentence": "雪をかぶった高い岳が見える。", "translation": "I can see a high, snow-capped mountain.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "笠", "reading": "かさ", "sentence": "強い日差しを防ぐため笠をかぶる。", "translation": "I wear a conical hat to block the strong sunlight.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "潟", "reading": "かた", "sentence": "静かな潟に多くの水鳥が集まる。", "translation": "Many waterbirds gather at the quiet lagoon.", "model": "gemini-3.8-flash", "added": "2026-10-17"}
+{"word": "葛", "reading": "くず", "sentence": "葛湯を飲むと体が温まります。", "translation": "Drinking kudzu starch soup warms up your body.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "釜", "reading": "かま", "sentence": "大きな釜でご飯を炊きました。", "translation": "We cooked rice in a large iron pot.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "竿", "reading": "さお", "sentence": "新しい釣り竿を一本買いました。", "translation": "I bought a new fishing rod.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "肝", "reading": "きも", "sentence": "この魚は肝が一番おいしいです。", "translation": "The liver of this fish is the most delicious part.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "艦", "reading": "かん", "sentence": "港に巨大な艦が停泊しています。", "translation": "A huge warship is anchored in the port.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "関", "reading": "せき", "sentence": "昔はこの場所に関がありました。", "translation": "There used to be a checkpoint barrier in this place long ago.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "儀", "reading": "ぎ", "sentence": "厳かな雰囲気の中で儀が行われた。", "translation": "The ceremony was held in a solemn atmosphere.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "橘", "reading": "たちばな", "sentence": "庭に綺麗な橘の木が植えてある。", "translation": "A beautiful tachibana orange tree is planted in the garden.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "球", "reading": "きゅう", "sentence": "彼は速い球を投げることができます。", "translation": "He can throw a fast ball.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "京", "reading": "きょう", "sentence": "昔の人は都のことを京と呼んだ。", "translation": "People in the past called the capital Kyo.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "供", "reading": "とも", "sentence": "供を連れて旅に出かけました。", "translation": "I went on a journey with an attendant.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "桐", "reading": "きり", "sentence": "桐の箱に大切な物を保管します。", "translation": "I keep my valuable items in a paulownia box.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "桑", "reading": "くわ", "sentence": "蚕は桑の葉をたくさん食べます。", "translation": "Silkworms eat a lot of mulberry leaves.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "桂", "reading": "かつら", "sentence": "公園で大きな桂の木を見つけました。", "translation": "I found a large katsura tree in the park.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "元", "reading": "もと", "sentence": "失敗の元をしっかり調べましょう。", "translation": "Let us thoroughly investigate the root cause of the failure.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "股", "reading": "また", "sentence": "長時間歩いたので股が痛いです。", "translation": "My crotch hurts because I walked for a long time.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "鼓", "reading": "つづみ", "sentence": "彼女は鼓を上手に叩くことができる。", "translation": "She was able to play the tsuzumi drum well.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "午", "reading": "うま", "sentence": "来年の干支は午になります。", "translation": "Next year's zodiac sign will be the Horse.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "侯", "reading": "こう", "sentence": "その地域は有名な侯が治めていた。", "translation": "That region was ruled by a famous marquis.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "幸", "reading": "さち", "sentence": "山の幸と海の幸をたくさん食べた。", "translation": "I ate a lot of bounties from the mountain and the sea.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "江", "reading": "え", "sentence": "静かな江の近くに家を建てました。", "translation": "I built a house near a quiet inlet.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "麹", "reading": "こうじ", "sentence": "味噌を作るために麹を買ってきた。", "translation": "I bought koji to make miso.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "債", "reading": "さい", "sentence": "彼は多額の債を抱えて苦しんでいる。", "translation": "He is suffering with a large amount of debt.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "菜", "reading": "な", "sentence": "庭で新鮮な菜を収穫しました。", "translation": "I harvested fresh greens from the garden.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "崎", "reading": "さき", "sentence": "あの崎の先には綺麗な灯台がある。", "translation": "Beyond that cape, there is a beautiful lighthouse.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "漆", "reading": "うるし", "sentence": "このお椀には綺麗な漆が塗られています。", "translation": "This bowl is coated with beautiful lacquer.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "寂", "reading": "さび", "sentence": "この古いお皿には独特の寂がある。", "translation": "This old plate has a unique antique look.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "寿", "reading": "ことぶき", "sentence": "新しい門出に寿の言葉を贈ります。", "translation": "I offer words of congratulations for your new beginning.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "衆", "reading": "しゅう", "sentence": "烏合の衆では強い敵に勝てない。", "translation": "A disorderly crowd cannot defeat a strong enemy.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "住", "reading": "じゅう", "sentence": "人間が生きていくには衣食住が必要だ。", "translation": "Food, clothing, and shelter are necessary for human survival.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "準", "reading": "じゅん", "sentence": "彼は準決勝で惜しくも敗れてしまった。", "translation": "He was unfortunately defeated in the semifinals.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "曙", "reading": "あけぼの", "sentence": "曙の空に美しい朝焼けが見えた。", "translation": "A beautiful sunrise was visible in the dawn sky.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "匠", "reading": "たくみ", "sentence": "伝統を守る匠の技に深く感動した。", "translation": "I was deeply moved by the skill of the artisan preserving tradition.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "升", "reading": "ます", "sentence": "升でお酒を飲むのは風情があります。", "translation": "Drinking sake from a wooden measuring box is charming.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "商", "reading": "しょう", "sentence": "割り算をして商と余りを求めなさい。", "translation": "Do the division and find the quotient and remainder.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "宵", "reading": "よい", "sentence": "宵の口に友達と公園で待ち合わせた。", "translation": "I met a friend at the park in the early evening.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "松", "reading": "まつ", "sentence": "庭の大きな松の木が風で揺れている。", "translation": "The large pine tree in the garden is swaying in the wind.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "状", "reading": "じょう", "sentence": "現場の床に粉末状の薬品が散らばっていた。", "translation": "Powdered chemicals were scattered on the floor at the scene.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "畝", "reading": "うね", "sentence": "畑に畝を作って野菜の種をまいた。", "translation": "I made ridges in the field and planted vegetable seeds.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "政", "reading": "まつりごと", "sentence": "昔の王様は民のために政を行った。", "translation": "Ancient kings conducted government for the people.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "正", "reading": "せい", "sentence": "この論理演算の結果は正となります。", "translation": "The result of this logical operation is true.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "精", "reading": "せい", "sentence": "森の精が迷った旅人を案内してくれた。", "translation": "A forest spirit guided the lost traveler.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "積", "reading": "せき", "sentence": "二と三の積は六になります。", "translation": "The product of two and three is six.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "扇", "reading": "おうぎ", "sentence": "風を送るために綺麗に飾られた扇を使う。", "translation": "I use a beautifully decorated folding fan to fan myself.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "膳", "reading": "ぜん", "sentence": "豪華な料理が並んだ膳が運ばれてきた。", "translation": "A dining tray lined with luxurious food was brought in.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "礎", "reading": "いしずえ", "sentence": "彼の努力が会社の発展の礎となった。", "translation": "His efforts became the foundation of the company's development.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "双", "reading": "そう", "sentence": "床の間に美しい一双の屏風が飾られている。", "translation": "A beautiful pair of folding screens is displayed in the alcove.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "喪", "reading": "も", "sentence": "祖父が亡くなり家族は喪に服している。", "translation": "My grandfather passed away and the family is in mourning.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "操", "reading": "みさお", "sentence": "彼女はどんな困難の中でも操を守り抜いた。", "translation": "She maintained her honor through every hardship.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "藻", "reading": "も", "sentence": "池の底に緑色の藻がたくさん生えている。", "translation": "A lot of green algae is growing at the bottom of the pond.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "臓", "reading": "ぞう", "sentence": "臓の働きを詳しく調べました。", "translation": "We investigated the function of the internal organs in detail.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "多", "reading": "た", "sentence": "多目的ホールでイベントを行う。", "translation": "We will hold an event in the multipurpose hall.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "舵", "reading": "かじ", "sentence": "船長が舵をとって船を進める。", "translation": "The captain took the helm and advanced the ship.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "卓", "reading": "たく", "sentence": "卓を囲んでみんなで食事をした。", "translation": "Everyone gathered around the table to eat a meal.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "沢", "reading": "さわ", "sentence": "山の中で冷たい沢の水を飲んだ。", "translation": "I drank cold stream water in the mountains.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "辰", "reading": "たつ", "sentence": "来年の干支は辰年です。", "translation": "Next year's zodiac sign is the Year of the Dragon.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "炭", "reading": "すみ", "sentence": "バーベキューのために炭を買う。", "translation": "I will buy charcoal for the barbecue.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "壇", "reading": "だん", "sentence": "校長先生が壇に上がって話した。", "translation": "The principal stood on the podium and spoke.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "猪", "reading": "いのしし", "sentence": "山で大きな猪を見かけました。", "translation": "I saw a large wild boar in the mountains.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "兆", "reading": "ちょう", "sentence": "国の予算が百兆円を超えた。", "translation": "The national budget exceeded one hundred trillion yen.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "庁", "reading": "ちょう", "sentence": "警察庁から新しい発表があった。", "translation": "There was a new announcement from the National Police Agency.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "塚", "reading": "つか", "sentence": "古い塚の近くに花が咲いている。", "translation": "Flowers are blooming near the old mound.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "辻", "reading": "つじ", "sentence": "辻で友達とばったり会いました。", "translation": "I unexpectedly bumped into a friend at the crossroads.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "坪", "reading": "つぼ", "sentence": "この家は三十坪の広さがあります。", "translation": "This house has an area of thirty tsubo.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "堤", "reading": "つつみ", "sentence": "川の堤をゆっくり散歩しました。", "translation": "I took a leisurely walk along the river embankment.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "帝", "reading": "みかど", "sentence": "古い物語に帝が登場します。", "translation": "An emperor appears in the ancient tale.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "田", "reading": "た", "sentence": "春になると田に水を入れます。", "translation": "In spring, they flood the rice fields with water.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "斗", "reading": "と", "sentence": "お米を一斗買いに行きました。", "translation": "I went to buy one to of rice.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "唐", "reading": "とう", "sentence": "唐の時代に多くの文化が生まれた。", "translation": "Many elements of culture developed during the Tang dynasty.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "筒", "reading": "つつ", "sentence": "賞状を丸めて紙の筒に入れた。", "translation": "I rolled up the certificate and put it in a paper tube.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "堂", "reading": "どう", "sentence": "大きな堂の中で静かに祈った。", "translation": "I prayed quietly inside the large temple hall.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "洞", "reading": "ほら", "sentence": "木の大きな洞に鳥の巣があった。", "translation": "There was a bird's nest in the large hollow of the tree.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "禿", "reading": "はげ", "sentence": "頭の禿を隠すために帽子をかぶる。", "translation": "He wears a hat to hide the bald spot on his head.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "寅", "reading": "とら", "sentence": "祖父は寅年の生まれだと言っていた。", "translation": "My grandfather said he was born in the Year of the Tiger.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "酉", "reading": "とり", "sentence": "十番目の干支は酉です。", "translation": "The tenth sign of the zodiac is the Rooster.", "model": "gemini-3.6-flash", "added": "2026-10-17"}
+{"word": "難", "reading": "なん", "sentence": "人生には多くの難がある。", "translation": "There are many hardships in life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "尼", "reading": "あま", "sentence": "寺で尼が修行をしている。", "translation": "A Buddhist nun is training at the temple.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "任", "reading": "にん", "sentence": "それは私の重要な任だ。", "translation": "That is my important duty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "農", "reading": "のう", "sentence": "祖父は農に従事している。", "translation": "My grandfather is engaged in farming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "巴", "reading": "ともえ", "sentence": "神社の紋に巴がある。", "translation": "There is a tomoe design on the shrine crest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "蠅", "reading": "はえ", "sentence": "部屋の中に大きな蠅がいる。", "translation": "There is a big fly in the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "萩", "reading": "はぎ", "sentence": "庭に萩の花が咲いている。", "translation": "Bush clover flowers are blooming in the garden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "伯", "reading": "はく", "sentence": "彼は伯の地位を継いだ。", "translation": "He inherited the rank of count.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "閥", "reading": "ばつ", "sentence": "会社内で派閥ができた。", "translation": "A faction was formed within the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隼", "reading": "はやぶさ", "sentence": "空を隼が飛んでいる。", "translation": "A falcon is flying in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "判", "reading": "はん", "sentence": "書類に判を押してください。", "translation": "Please stamp your seal on the document.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "藩", "reading": "はん", "sentence": "昔はこの地は藩だった。", "translation": "Long ago, this area was a feudal domain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "肥", "reading": "こえ", "sentence": "畑に肥をまく時期だ。", "translation": "It is time to spread manure on the field.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "評", "reading": "ひょう", "sentence": "映画の評を書いてみた。", "translation": "I tried writing a review of the movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "淵", "reading": "ふち", "sentence": "川の淵はとても深い。", "translation": "The deep pool in the river is very deep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "箆", "reading": "へら", "sentence": "料理で箆を使う。", "translation": "I use a spatula for cooking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "弁", "reading": "べん", "sentence": "彼は弁が立つ人だ。", "translation": "He is a person who is good at speaking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "舗", "reading": "ほ", "sentence": "駅前に新しい舗がある。", "translation": "There is a new shop in front of the station.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "穂", "reading": "ほ", "sentence": "稲の穂が黄金色になった。", "translation": "The ears of rice have turned golden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "砲", "reading": "ほう", "sentence": "城に大きな砲がある。", "translation": "There is a large cannon at the castle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "没", "reading": "ぼつ", "sentence": "偉人の没年を調べる。", "translation": "I will check the year of the great person's death.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "堀", "reading": "ほり", "sentence": "城の周りには堀がある。", "translation": "There is a moat around the castle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "麻", "reading": "あさ", "sentence": "麻の服は夏に涼しい。", "translation": "Hemp clothes are cool in the summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "膜", "reading": "まく", "sentence": "細胞の膜を観察する。", "translation": "I will observe the cell membrane.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "巳", "reading": "み", "sentence": "今年は巳年です", "translation": "This year is the Year of the Snake.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "婿", "reading": "むこ", "sentence": "娘の婿はとても優しい人です", "translation": "My daughter's husband is a very kind person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "厄", "reading": "やく", "sentence": "今年は厄を払うために神社へ行く", "translation": "I am going to the shrine to ward off bad luck this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "窯", "reading": "かま", "sentence": "陶芸家が窯で皿を焼いています", "translation": "The potter is firing plates in the kiln.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "謡", "reading": "うたい", "sentence": "能の謡を聞くと心が落ち着く", "translation": "Listening to Noh chanting calms my heart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "藍", "reading": "あい", "sentence": "藍で服を鮮やかに染めました", "translation": "I dyed the clothes vividly with indigo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "流", "reading": "りゅう", "sentence": "私は私流のやり方で進めます", "translation": "I will proceed in my own way.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "了", "reading": "りょう", "sentence": "仕事が了して家に帰りました", "translation": "I went home after my work was finished.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "陵", "reading": "みささぎ", "sentence": "歴史ある陵を見学しました", "translation": "I visited the historic imperial mausoleum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鱗", "reading": "うろこ", "sentence": "魚の鱗がキラキラ光っている", "translation": "The fish scales are sparkling.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塁", "reading": "るい", "sentence": "選手が二塁へ走りました", "translation": "The player ran to second base.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "齢", "reading": "よわい", "sentence": "父は今年で齢八十になります", "translation": "My father turns eighty years old this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "暦", "reading": "こよみ", "sentence": "新しい暦を壁に掛けました", "translation": "I hung the new calendar on the wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "丼", "reading": "どんぶり", "sentence": "重い丼に料理を盛りました", "translation": "I served the food in a heavy porcelain bowl.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "戌", "reading": "いぬ", "sentence": "私は戌年生まれです", "translation": "I was born in the Year of the Dog.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "掟", "reading": "おきて", "sentence": "この村には古い掟がある", "translation": "There is an old rule in this village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旁", "reading": "つくり", "sentence": "漢字の旁を覚えるのは難しい", "translation": "It is difficult to learn the right-hand radicals of kanji.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "臍", "reading": "へそ", "sentence": "お風呂で臍を洗いました", "translation": "I washed my navel in the bath.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "舅", "reading": "しゅうと", "sentence": "優しい舅と仲良く暮らしています", "translation": "I live happily with my kind father-in-law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "亥", "reading": "い", "sentence": "来年は亥年になります", "translation": "Next year will be the Year of the Boar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "卯", "reading": "う", "sentence": "庭に卯の置物を飾りました", "translation": "I decorated the garden with a rabbit figurine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "翁", "reading": "おきな", "sentence": "舞台に翁が登場しました", "translation": "An old man appeared on stage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "嗽", "reading": "うがい", "sentence": "帰宅したら必ず嗽をする", "translation": "I always gargle when I get home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "興", "reading": "きょう", "sentence": "今日のイベントはとても興がある", "translation": "Today's event is very interesting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "弦", "reading": "つる", "sentence": "弓の弦を強く引きました", "translation": "I pulled the bowstring hard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "紅", "reading": "くれない", "sentence": "夕焼けが空を紅に染めた。", "translation": "The sunset dyed the sky crimson.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "舎", "reading": "しゃ", "sentence": "古い校舎の窓が開いている。", "translation": "The windows of the old school building are open.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "信", "reading": "しん", "sentence": "彼には何の信もない。", "translation": "He has no sincerity at all.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "佃", "reading": "つくだ", "sentence": "広い佃で米を育てている。", "translation": "They are growing rice in the large cultivated field.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "博", "reading": "はく", "sentence": "彼は物理学の博士です。", "translation": "He is a doctor of physics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "俵", "reading": "たわら", "sentence": "米が一俵届きました。", "translation": "One straw bag of rice has arrived.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "丙", "reading": "へい", "sentence": "契約書には丙と書かれている。", "translation": "The contract says party C.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "凡", "reading": "ぼん", "sentence": "私はごく凡な人間です。", "translation": "I am a very ordinary person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鯵", "reading": "アジ", "sentence": "スーパーで鯵を買った。", "translation": "I bought a horse mackerel at the supermarket.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鮎", "reading": "あゆ", "sentence": "川で鮎を釣りました。", "translation": "I caught sweetfish in the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鮑", "reading": "アワビ", "sentence": "新鮮な鮑を刺身で食べる。", "translation": "I will eat fresh abalone as sashimi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "卸", "reading": "おろし", "sentence": "この店は卸をしている。", "translation": "This shop does wholesale.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "蔵", "reading": "くら", "sentence": "庭に古い蔵があります。", "translation": "There is an old warehouse in the garden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "筍", "reading": "たけのこ", "sentence": "春は筍がおいしい季節です。", "translation": "Spring is a season when bamboo shoots are delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "並", "reading": "なみ", "sentence": "牛丼の並を注文しました。", "translation": "I ordered a medium-sized beef bowl.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "矛", "reading": "ほこ", "sentence": "博物館に古い矛がある。", "translation": "There is an old spear in the museum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "詔", "reading": "みことのり", "sentence": "王が国民に詔を伝えた。", "translation": "The king delivered an imperial edict to the people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "陽", "reading": "よう", "sentence": "彼はいつも陽な性格だ。", "translation": "He always has a positive personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "把", "reading": "わ", "sentence": "花を一把もらいました。", "translation": "I received one bundle of flowers.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "要", "reading": "かなめ", "sentence": "それがこの計画の要だ。", "translation": "That is the pivot of this plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "餡", "reading": "あん", "sentence": "甘い餡のパンが好きだ。", "translation": "I like bread with sweet red bean paste.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "純", "reading": "じゅん", "sentence": "彼女は純な心を持っている。", "translation": "She has an innocent heart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "酷", "reading": "こく", "sentence": "冬の寒さはとても酷だ。", "translation": "The winter cold is very severe.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "断", "reading": "だん", "sentence": "早急な断を下す必要がある", "translation": "We need to make a decision quickly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "不", "reading": "ふ", "sentence": "それは非常に不公平な話だ", "translation": "That is a very unfair story.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "磯", "reading": "いそ", "sentence": "磯で小さなカニを見つけた", "translation": "I found a small crab on the rocky beach.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "堰", "reading": "せき", "sentence": "川に古い堰が作られている", "translation": "An old dam is built on the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "棺", "reading": "かん", "sentence": "棺を静かに運んでいった", "translation": "They carried the coffin quietly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "貫", "reading": "かん", "sentence": "一貫の重さも量れない", "translation": "I cannot even measure the weight of one kan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "願", "reading": "がん", "sentence": "神様に平和を願をかける", "translation": "I make a vow to God for peace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漁", "reading": "りょう", "sentence": "父は漁に出かけている", "translation": "My father is out fishing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "菌", "reading": "きん", "sentence": "この菌はパンに生える", "translation": "This fungus grows on bread.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "訓", "reading": "くん", "sentence": "漢字の訓を覚えるのは大変だ", "translation": "Memorizing the native Japanese readings of kanji is hard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽", "reading": "けい", "sentence": "近所には軽自動車が多い", "translation": "There are many light vehicles in the neighborhood.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "決", "reading": "けつ", "sentence": "明日の会議で決をとる", "translation": "We will take a vote at tomorrow's meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "壕", "reading": "ごう", "sentence": "城の周りには深い壕がある", "translation": "There is a deep moat around the castle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "賛", "reading": "さん", "sentence": "彼の行動に賛を送る", "translation": "I offer praise for his actions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "柴", "reading": "しば", "sentence": "山で柴を拾って帰る", "translation": "I gather brushwood in the mountains and return home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "宗", "reading": "しゅう", "sentence": "彼は新しい宗を広めた", "translation": "He spread a new sect.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "籍", "reading": "せき", "sentence": "日本に籍を置いている", "translation": "I have my family register in Japan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "選", "reading": "せん", "sentence": "代表の選を行う予定だ", "translation": "We plan to hold a selection for a representative.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "祖", "reading": "そ", "sentence": "祖の墓を大切に守る", "translation": "We take good care of our ancestor's grave.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "途", "reading": "と", "sentence": "途で美しい花を見つけた", "translation": "I found a beautiful flower on the way.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "灘", "reading": "なだ", "sentence": "その船は灘を渡る", "translation": "The ship crosses the open sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "汎", "reading": "はん", "sentence": "世界的な汎用性がある", "translation": "It has global versatility.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "範", "reading": "はん", "sentence": "彼はみんなの範となる人だ", "translation": "He is a person who serves as a model for everyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "妃", "reading": "ひ", "sentence": "王妃が町にやってきた", "translation": "The princess came to town.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "紋", "reading": "もん", "sentence": "着物に家紋が入っている", "translation": "There is a family crest on the kimono.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "独", "reading": "どく", "sentence": "来月は独へ旅行に行きます", "translation": "I will travel to Germany next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "少", "reading": "しょう", "sentence": "少量の砂糖を入れました", "translation": "I added a small amount of sugar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "菅", "reading": "すげ", "sentence": "川の近くに菅が生えている", "translation": "Sedge is growing near the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "伊", "reading": "い", "sentence": "伊の料理はとても美味しい", "translation": "Italian food is very delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "眼", "reading": "まなこ", "sentence": "彼は鋭い眼で私を見た", "translation": "He looked at me with sharp eyes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "豪", "reading": "ごう", "sentence": "豪へ留学する予定です", "translation": "I plan to study abroad in Australia.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "士", "reading": "し", "sentence": "彼は有名な弁護士です", "translation": "He is a famous lawyer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "０", "reading": "ゼロ", "sentence": "この計算の答えは０です", "translation": "The answer to this calculation is zero.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "あの", "reading": "あの", "sentence": "あの、少し手伝ってください", "translation": "Um, please help me a little.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "御田", "reading": "おでん", "sentence": "冬は御田が食べたくなります", "translation": "I want to eat oden in winter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "比べ", "reading": "くらべ", "sentence": "二人で力の比べをする", "translation": "The two of them are having a test of strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "せず", "reading": "せず", "sentence": "宿題をせず寝てしまった", "translation": "I went to sleep without doing my homework.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "とろ", "reading": "とろ", "sentence": "お寿司屋さんでとろを頼む", "translation": "I order fatty tuna at the sushi restaurant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "めく", "reading": "めく", "sentence": "春めく季節になりましたね", "translation": "It has become a spring-like season, hasn't it?", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "アド", "reading": "アド", "sentence": "テレビで新しいアドを見る", "translation": "I see a new ad on TV.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "アナ", "reading": "アナ", "sentence": "テレビのアナがニュースを読む", "translation": "The TV announcer reads the news.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "アマ", "reading": "アマ", "sentence": "彼は写真が趣味のアマだ", "translation": "He is an amateur whose hobby is photography.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "エア", "reading": "エア", "sentence": "部屋のエアを入れ替える", "translation": "I will change the air in the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "エネ", "reading": "エネ", "sentence": "家でエネを節約している", "translation": "I am saving energy at home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "エペ", "reading": "エペ", "sentence": "彼はエペの選手をしています", "translation": "He is an épée fencer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "エロ", "reading": "エロ", "sentence": "あの映画は少しエロいですね。", "translation": "That movie is a little erotic.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ＯＫ", "reading": "オッケー", "sentence": "明日の予定はＯＫです。", "translation": "Tomorrow's schedule is okay.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "オケ", "reading": "オケ", "sentence": "今日はオケの練習に行きます。", "translation": "I am going to orchestra practice today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "オペ", "reading": "オペ", "sentence": "明日の朝にオペがあります。", "translation": "I have an operation tomorrow morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ＯＮ", "reading": "オン", "sentence": "テレビをＯＮにしてください。", "translation": "Please turn the television on.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "カツ", "reading": "カツ", "sentence": "お昼ごはんはカツを食べます。", "translation": "I will eat a cutlet for lunch.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "カブ", "reading": "カブ", "sentence": "森の中で小さなカブを見ました。", "translation": "I saw a small cub in the forest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "カム", "reading": "カム", "sentence": "機械のカムが壊れました。", "translation": "The machine's cam broke.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ガイ", "reading": "ガイ", "sentence": "彼はとても親切なガイです。", "translation": "He is a very kind guy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ガン", "reading": "ガン", "sentence": "映画の中でガンを使いました。", "translation": "They used a gun in the movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "キル", "reading": "キル", "sentence": "ゲームで敵をキルしました。", "translation": "I got a kill in the game.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ギガ", "reading": "ギガ", "sentence": "このデータは１ギガあります。", "translation": "This data is one gigabyte.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "グロ", "reading": "グロ", "sentence": "その絵は少しグロいですね。", "translation": "That painting is a little grotesque.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ＫＯ", "reading": "ケー・オー", "sentence": "試合はＫＯで終わりました。", "translation": "The match ended in a knockout.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ゲル", "reading": "ゲル", "sentence": "髪にゲルをつけました。", "translation": "I put gel in my hair.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "コア", "reading": "コア", "sentence": "問題のコアを考えます。", "translation": "I will think about the core of the problem.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "コマ", "reading": "コマ", "sentence": "空に彗星のコマが見えます。", "translation": "I can see the comet's coma in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "コル", "reading": "コル", "sentence": "山道のコルを歩きました。", "translation": "I walked through the mountain pass.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "サド", "reading": "サド", "sentence": "彼は少しサドな性格です。", "translation": "He has a bit of a sadistic personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "サブ", "reading": "サブ", "sentence": "今日はサブの選手が出ます。", "translation": "The substitute player will play today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "シン", "reading": "シン", "sentence": "彼はシンな生地の服を着る。", "translation": "He wears clothes made of thin fabric.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "セル", "reading": "セル", "sentence": "生物はセルからできている。", "translation": "Living things are made of cells.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ゼミ", "reading": "ゼミ", "sentence": "来週のゼミの準備をする。", "translation": "I will prepare for next week's seminar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "タイ", "reading": "タイ", "sentence": "新しいタイを買いました。", "translation": "I bought a new necktie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "タブ", "reading": "タブ", "sentence": "ブラウザのタブを閉じる。", "translation": "Close the browser tab.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "タン", "reading": "タン", "sentence": "焼き肉屋でタンを頼んだ。", "translation": "I ordered beef tongue at the yakiniku restaurant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ダカ", "reading": "ダカ", "sentence": "この数はダカという単位だ。", "translation": "This number is the unit called deca.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "チア", "reading": "チア", "sentence": "彼女はチアの練習に行く。", "translation": "She is going to cheer practice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ツナ", "reading": "ツナ", "sentence": "朝食にツナサンドを食べる。", "translation": "I eat a tuna sandwich for breakfast.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "テキ", "reading": "テキ", "sentence": "今夜は美味しいテキを焼く。", "translation": "I will grill a delicious steak tonight.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "テン", "reading": "テン", "sentence": "あとテン分で授業が終わる。", "translation": "The class will end in ten minutes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "デシ", "reading": "デシ", "sentence": "デシメートルは長さの単位だ。", "translation": "Decimeter is a unit of length.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "トス", "reading": "トス", "sentence": "ボールを高くトスする。", "translation": "I toss the ball high up.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ナチ", "reading": "ナチ", "sentence": "歴史の授業でナチの話を聞く。", "translation": "I hear about the Nazis in history class.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ナノ", "reading": "ナノ", "sentence": "ナノテクノロジーは進化する。", "translation": "Nanotechnology is evolving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ニー", "reading": "ニー", "sentence": "転んでニーをすりむいた。", "translation": "I fell and scraped my knee.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ネオ", "reading": "ネオ", "sentence": "ネオクラシックな家が好きだ。", "translation": "I like neoclassical houses.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ネガ", "reading": "ネガ", "sentence": "この写真はネガが残っている。", "translation": "The negative for this photo still exists.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ネス", "reading": "ネス", "sentence": "それは彼女の誠実ネスだ。", "translation": "That is her sincerity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ノン", "reading": "ノン", "sentence": "彼はノンアルを飲んでいる。", "translation": "He is drinking non-alcoholic beer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ハウ", "reading": "ハウ", "sentence": "ハウ・アー・ユーと言う。", "translation": "I say how are you.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヒア", "reading": "ヒア", "sentence": "英語のヒアの練習をする。", "translation": "I am practicing my English listening.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヒレ", "reading": "ヒレ", "sentence": "夕食に柔らかいヒレを食べる。", "translation": "I am eating tender fillet for dinner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ビス", "reading": "ビス", "sentence": "このビスはとても小さいです", "translation": "This screw is very small.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ビラ", "reading": "ビラ", "sentence": "夏休みは海辺のビラに泊まる", "translation": "We will stay at a villa by the sea during summer vacation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ピケ", "reading": "ピケ", "sentence": "彼女はピケのワンピースを着た", "translation": "She wore a pique dress.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ピコ", "reading": "ピコ", "sentence": "一ピコ秒はとても短い時間だ", "translation": "One picosecond is a very short time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ピリ", "reading": "ピリ", "sentence": "試合の第二ピリが始まった", "translation": "The second period of the game started.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ブル", "reading": "ブル", "sentence": "闘牛場で大きなブルを見た", "translation": "I saw a big bull at the bullring.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "プレ", "reading": "プレ", "sentence": "明日はプレテストがあります", "translation": "There is a pre-test tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヘア", "reading": "ヘア", "sentence": "美容室でヘアを整えました", "translation": "I had my hair styled at the beauty salon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヘム", "reading": "ヘム", "sentence": "スカートのヘムを縫い直す", "translation": "I will re-sew the hem of the skirt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヘリ", "reading": "ヘリ", "sentence": "空にヘリが飛んでいます", "translation": "A helicopter is flying in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヘル", "reading": "ヘル", "sentence": "まるで毎日がヘルみたいだ", "translation": "It feels like every day is hell.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ベア", "reading": "ベア", "sentence": "会社でベアが実施された", "translation": "A base salary increase was implemented at the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ベタ", "reading": "ベタ", "sentence": "水槽で赤いベタを飼う", "translation": "I keep a red betta in a fish tank.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ベロ", "reading": "ベロ", "sentence": "彼は犬にベロをなめられた", "translation": "He had his face licked by the dog's tongue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ペア", "reading": "ペア", "sentence": "二人でペアの靴を買いました", "translation": "The two of us bought a pair of shoes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ペイ", "reading": "ペイ", "sentence": "今月のペイを銀行へ預ける", "translation": "I will deposit this month's pay into the bank.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ボー", "reading": "ボー", "sentence": "矢を放つためにボーを持つ", "translation": "I hold the bow to shoot an arrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ボブ", "reading": "ボブ", "sentence": "彼女は短いボブにしました", "translation": "She got a short bob haircut.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ボン", "reading": "ボン", "sentence": "彼はとてもボンな人ですね", "translation": "He is a very good person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ポリ", "reading": "ポリ", "sentence": "これはポリ袋に入っています", "translation": "This is in a poly bag.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "マイ", "reading": "マイ", "sentence": "これは私のマイカーです", "translation": "This is my personal car.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "マス", "reading": "マス", "sentence": "マス社会で個性を探す", "translation": "Searching for individuality in a mass society.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "マゾ", "reading": "マゾ", "sentence": "彼は自分をマゾだと言う", "translation": "He says he is a masochist.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "マン", "reading": "マン", "sentence": "彼は頼りになるマンだ", "translation": "He is a man you can rely on.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ミズ", "reading": "ミズ", "sentence": "ミズ田中は親切な先生です", "translation": "Ms. Tanaka is a kind teacher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ミニ", "reading": "ミニ", "sentence": "彼女はミニのスカートをはいています", "translation": "She is wearing a mini skirt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "メカ", "reading": "メカ", "sentence": "このおもちゃのメカは面白いです", "translation": "The mechanism of this toy is interesting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "メガ", "reading": "メガ", "sentence": "データはメガバイトの単位です", "translation": "The data is in megabyte units.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "メス", "reading": "メス", "sentence": "医者がメスを慎重に使います", "translation": "The doctor uses the scalpel carefully.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "モノ", "reading": "モノ", "sentence": "これはモノクロの古い写真です", "translation": "This is an old monochrome photo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ヨガ", "reading": "ヨガ", "sentence": "毎朝ヨガをして体を動かします", "translation": "I do yoga every morning to move my body.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラグ", "reading": "ラグ", "sentence": "部屋に新しいラグを敷きました", "translation": "I laid a new rug in the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラス", "reading": "ラス", "sentence": "壁の工事にラスを使います", "translation": "We use lath for the wall construction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラフ", "reading": "ラフ", "sentence": "今日のゴルフのスコアはラフです", "translation": "My golf score today is rough.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラブ", "reading": "ラブ", "sentence": "映画でラブの物語を見ました", "translation": "I watched a love story in a movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラム", "reading": "ラム", "sentence": "夕食にラムの肉を食べました", "translation": "I ate lamb meat for dinner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラメ", "reading": "ラメ", "sentence": "ドレスにラメが入っています", "translation": "The dress has lamé in it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ラン", "reading": "ラン", "sentence": "朝早く公園へランに行きます", "translation": "I go for a run in the park early in the morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リア", "reading": "リア", "sentence": "車のリアの窓が汚れています", "translation": "The rear window of the car is dirty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リス", "reading": "リス", "sentence": "足をぶつけてリスになりました", "translation": "I hit my leg and it fractured.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リセ", "reading": "リセ", "sentence": "フランスのリセに通っています", "translation": "I attend a lycée in France.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リブ", "reading": "リブ", "sentence": "スーパーでリブを買いました", "translation": "I bought ribs at the supermarket.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リマ", "reading": "リマ", "sentence": "リマはペルーの首都です", "translation": "Lima is the capital of Peru.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リム", "reading": "リム", "sentence": "自転車のリムを掃除しました", "translation": "I cleaned the bicycle rim.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "リラ", "reading": "リラ", "sentence": "庭にきれいなリラが咲きます", "translation": "Beautiful lilacs bloom in the garden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ルポ", "reading": "ルポ", "sentence": "社会問題のルポを新聞に書いた", "translation": "I wrote a reportage on social issues for the newspaper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "レズ", "reading": "レズ", "sentence": "彼女はレズだと正直に教えてくれた", "translation": "She honestly told me that she is a lesbian.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ロー", "reading": "ロー", "sentence": "今の気温はかなりローだ", "translation": "The temperature is quite low right now.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ログ", "reading": "ログ", "sentence": "システムのログを確認する", "translation": "I will check the system logs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ロケ", "reading": "ロケ", "sentence": "来週は映画のロケに行く", "translation": "I am going on a film location shoot next week.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "ワウ", "reading": "ワウ", "sentence": "ギターの音にワウをかける", "translation": "I apply a wah effect to the guitar sound.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "哀愁", "reading": "あいしゅう", "sentence": "秋の夜長には哀愁を感じる", "translation": "I feel a sense of pathos on long autumn nights.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "愛嬌", "reading": "あいきょう", "sentence": "彼女には人を引きつける愛嬌がある", "translation": "She has a charm that draws people in.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "愛護", "reading": "あいご", "sentence": "動物愛護の活動に参加する", "translation": "I participate in animal protection activities.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "悪寒", "reading": "おかん", "sentence": "熱が高くて悪寒がする", "translation": "I have a fever and I am feeling chills.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "悪女", "reading": "あくじょ", "sentence": "小説に出てくる悪女を演じる", "translation": "I will play the wicked woman in the novel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "悪役", "reading": "あくやく", "sentence": "彼は映画で悪役を演じている", "translation": "He is playing the villain in the movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "圧巻", "reading": "あっかん", "sentence": "この試合の圧巻は最後のシュートだ", "translation": "The highlight of this match is the final shot.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "安住", "reading": "あんじゅう", "sentence": "田舎で安住の地を見つける", "translation": "I will find a peaceful place to live in the countryside.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "安打", "reading": "あんだ", "sentence": "彼は大事な場面で安打を打った", "translation": "He hit a safe hit in a crucial moment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "安値", "reading": "やすね", "sentence": "株が安値になった時に買う", "translation": "I will buy the stocks when they reach a low price.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "安保", "reading": "あんぽ", "sentence": "安保の問題について議論する", "translation": "We will discuss the security issue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "安眠", "reading": "あんみん", "sentence": "良い枕で安眠できる", "translation": "I can have a sound sleep with a good pillow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "以て", "reading": "もって", "sentence": "以て非とするには及ばない", "translation": "It is not worth considering as wrong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "伊達", "reading": "だて", "sentence": "それはただの伊達ですよ", "translation": "That is just for show.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "囲碁", "reading": "いご", "sentence": "祖父は毎日囲碁を楽しんでいる", "translation": "My grandfather enjoys playing Go every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "威嚇", "reading": "いかく", "sentence": "相手を威嚇してはいけない", "translation": "You must not intimidate your opponent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "意匠", "reading": "いしょう", "sentence": "この建物の意匠はとても美しい", "translation": "The design of this building is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "意表", "reading": "いひょう", "sentence": "意表を突かれて言葉が出ない", "translation": "I was taken by surprise and could not speak.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慰安", "reading": "いあん", "sentence": "週末は温泉で慰安旅行を楽しむ。", "translation": "I enjoy a company trip for relaxation at a hot spring on the weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慰問", "reading": "いもん", "sentence": "入院中の友人を慰問に行く。", "translation": "I am going to visit my hospitalized friend to offer comfort.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "異国", "reading": "いこく", "sentence": "異国の文化にとても興味がある。", "translation": "I am very interested in the culture of foreign countries.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "異動", "reading": "いどう", "sentence": "来月の人事異動で部署が変わる。", "translation": "I will change departments due to the personnel transfer next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "異物", "reading": "いぶつ", "sentence": "スープの中に異物が入っていた。", "translation": "There was a foreign object in the soup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "異変", "reading": "いへん", "sentence": "空の様子に異変を感じる。", "translation": "I feel something strange about the appearance of the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "移管", "reading": "いかん", "sentence": "管理業務を他社へ移管する。", "translation": "We will transfer management duties to another company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "移籍", "reading": "いせき", "sentence": "彼は別のチームへ移籍した。", "translation": "He transferred to another team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "移送", "reading": "いそう", "sentence": "犯人を警察署へ移送する。", "translation": "The police are transporting the criminal to the station.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "維新", "reading": "いしん", "sentence": "明治維新で日本は大きく変わった。", "translation": "Japan changed significantly during the Meiji Restoration.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "緯度", "reading": "いど", "sentence": "ここは北緯三十度の緯度にある。", "translation": "This place is located at 30 degrees north latitude.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "胃腸", "reading": "いちょう", "sentence": "最近胃腸の調子が悪い。", "translation": "My stomach and intestines have been feeling bad lately.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "違憲", "reading": "いけん", "sentence": "その法律は違憲と判断された。", "translation": "That law was judged to be unconstitutional.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺影", "reading": "いえい", "sentence": "祭壇に祖父の遺影を飾る。", "translation": "I will place my grandfather's portrait on the altar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺構", "reading": "いこう", "sentence": "この場所で古い寺の遺構が見つかった。", "translation": "Remains of an old temple were found at this site.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺作", "reading": "いさく", "sentence": "彼の遺作を読み返す。", "translation": "I am rereading his posthumous work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺志", "reading": "いし", "sentence": "父の遺志を継いで医者になる。", "translation": "I will become a doctor to fulfill my father's dying wish.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺児", "reading": "いじ", "sentence": "彼は戦争で親を失った遺児だ。", "translation": "He is a child orphaned by the war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺品", "reading": "いひん", "sentence": "父の遺品を整理している。", "translation": "I am sorting through my father's belongings.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遺物", "reading": "いぶつ", "sentence": "遺跡から貴重な遺物が出た。", "translation": "Valuable artifacts were unearthed from the ruins.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "医科", "reading": "いか", "sentence": "大学で医科の勉強をしている。", "translation": "I am studying medical science at university.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "医局", "reading": "いきょく", "sentence": "先生は今医局にいます。", "translation": "The doctor is in the medical office right now.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "医長", "reading": "いちょう", "sentence": "彼はこの病院の医長です。", "translation": "He is the chief physician of this hospital.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "医薬", "reading": "いやく", "sentence": "最新の医薬が開発された。", "translation": "The latest medicine has been developed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "域外", "reading": "いきがい", "sentence": "この商品は域外への発送は不可だ。", "translation": "Shipping this product outside the area is not allowed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "域内", "reading": "いきない", "sentence": "域内の店で買い物をした", "translation": "I went shopping at a store within the area.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "育英", "reading": "いくえい", "sentence": "育英資金で大学に通う", "translation": "I am attending university with an educational scholarship.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "１割", "reading": "いちわり", "sentence": "定価から１割引きで買う", "translation": "I am buying it at a ten percent discount from the list price.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一丸", "reading": "いちがん", "sentence": "チームが一丸となって戦う", "translation": "The team fights as one body.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一期", "reading": "いちご", "sentence": "これが私の人生の一期だ", "translation": "This is the lifetime of my life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一気", "reading": "いっき", "sentence": "水を一気に飲み干した", "translation": "I drank up the water in one breath.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一義", "reading": "いちぎ", "sentence": "その言葉には一義しかない", "translation": "That word has only one meaning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一級", "reading": "いっきゅう", "sentence": "彼は一級の選手である", "translation": "He is a first-class athlete.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一挙", "reading": "いっきょ", "sentence": "一挙に仕事を片付ける", "translation": "I will finish the work in one go.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一局", "reading": "いっきょく", "sentence": "将棋を一局指しましょう", "translation": "Let us play one game of shogi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一軍", "reading": "いちぐん", "sentence": "一軍が前線へ向かった", "translation": "The main army headed to the front line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "１月", "reading": "いちがつ", "sentence": "１月はとても寒い時期だ", "translation": "January is a very cold time of year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一元", "reading": "いちげん", "sentence": "管理を一元化して効率を上げる", "translation": "I will centralize management to improve efficiency.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一向", "reading": "いっこう", "sentence": "彼の話は一向に面白くない", "translation": "His story is not interesting at all.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一手", "reading": "いって", "sentence": "最後の一手で逆転する", "translation": "I will turn the tables with the last move.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一助", "reading": "いちじょ", "sentence": "解決の一助となれば幸いだ", "translation": "I hope this will be of some help to the solution.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一審", "reading": "いっしん", "sentence": "一審で無罪判決が出た", "translation": "A not guilty verdict was delivered in the first trial.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一心", "reading": "いっしん", "sentence": "一心に練習に励んでいる", "translation": "I am practicing with all my heart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一斉", "reading": "いっせい", "sentence": "生徒が一斉に立ち上がる", "translation": "The students stand up all at once.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一昔", "reading": "ひとむかし", "sentence": "一昔前はここも静かだった", "translation": "A long time ago, this place was also quiet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一石", "reading": "いっせき", "sentence": "囲碁を一石打つことにした", "translation": "I decided to play one game of go.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一戦", "reading": "いっせん", "sentence": "次の試合で一戦交える", "translation": "I will have a bout in the next match.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一男", "reading": "いちなん", "sentence": "彼は家系の一男である", "translation": "He is the only son of the family.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一丁", "reading": "いっちょう", "sentence": "豆腐を一丁買ってきた", "translation": "I bought one block of tofu.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一党", "reading": "いっとう", "sentence": "一党が政治を支配している", "translation": "One party is dominating the politics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一任", "reading": "いちにん", "sentence": "この件は部長に一任します", "translation": "I will leave this matter entirely to the manager.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一品", "reading": "いっぴん", "sentence": "店のおすすめの一品を注文する", "translation": "I will order the shop's recommended item.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一風", "reading": "いっぷう", "sentence": "彼は一風変わった人ですね", "translation": "He is an eccentric person, isn't he?", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一幕", "reading": "ひとまく", "sentence": "劇は一幕で終わりました", "translation": "The play ended in one act.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一門", "reading": "いちもん", "sentence": "彼は有名な武道の一門です", "translation": "He belongs to a famous martial arts school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一様", "reading": "いちよう", "sentence": "全員が一様な反応を示した", "translation": "Everyone showed a uniform reaction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一翼", "reading": "いちよく", "sentence": "彼は計画の一翼を担う", "translation": "He plays a part in the project.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一覧", "reading": "いちらん", "sentence": "資料の一覧を作成しました", "translation": "I have created a list of the materials.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一律", "reading": "いちりつ", "sentence": "料金を一律に値下げする", "translation": "We will lower the prices across the board.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "一両", "reading": "いちりょう", "sentence": "電車が一両だけ走っている", "translation": "Only one train car is running.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "逸脱", "reading": "いつだつ", "sentence": "それは計画からの逸脱だ", "translation": "That is a deviation from the plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "印鑑", "reading": "いんかん", "sentence": "書類に印鑑を押してください", "translation": "Please stamp the document with your seal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "印紙", "reading": "いんし", "sentence": "書類に収入印紙を貼る", "translation": "I will attach a revenue stamp to the document.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "印税", "reading": "いんぜい", "sentence": "本の印税で旅行へ行く", "translation": "I will go on a trip with the royalties from my book.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "依る", "reading": "よる", "sentence": "結果は努力に依るものだ", "translation": "The result is due to effort.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "引責", "reading": "いんせき", "sentence": "彼は責任を取り引責辞任した", "translation": "He resigned to take responsibility.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "院長", "reading": "いんちょう", "sentence": "病院の院長に挨拶に行く", "translation": "I am going to greet the hospital director.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隠居", "reading": "いんきょ", "sentence": "祖父は隠居して庭いじりをする", "translation": "My grandfather has retired and gardens.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隠語", "reading": "いんご", "sentence": "それは業界の隠語です", "translation": "That is industry jargon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隠匿", "reading": "いんとく", "sentence": "犯人の隠匿は罪になる", "translation": "Harboring a criminal is a crime.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隠滅", "reading": "いんめつ", "sentence": "証拠の隠滅を図るな", "translation": "Do not attempt to destroy evidence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "右下", "reading": "みぎした", "sentence": "写真の右下を見てください", "translation": "Please look at the lower right of the photo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "右派", "reading": "うは", "sentence": "彼は右派の政治家です", "translation": "He is a right-wing politician.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "右方", "reading": "うほう", "sentence": "右方に山が見えてきました", "translation": "I can see a mountain on the right side.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "右翼", "reading": "うよく", "sentence": "彼は右翼の団体に所属する", "translation": "He belongs to a right-wing group.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "羽衣", "reading": "はごろも", "sentence": "天女の羽衣が空に舞っている", "translation": "The angel's raiment is dancing in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "羽織", "reading": "はおり", "sentence": "祖父は立派な羽織を着ている", "translation": "My grandfather is wearing a fine haori coat.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "雨雲", "reading": "あまぐも", "sentence": "空に黒い雨雲が広がってきた", "translation": "Black rain clouds have spread across the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "雨量", "reading": "うりょう", "sentence": "今年の雨量は例年より多い", "translation": "This year's rainfall is higher than usual.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "渦中", "reading": "かちゅう", "sentence": "事件の渦中に巻き込まれた", "translation": "I was caught in the center of the incident.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "運休", "reading": "うんきゅう", "sentence": "台風の影響で電車が運休だ", "translation": "The trains are suspended due to the typhoon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "運用", "reading": "うんよう", "sentence": "新しいシステムの運用を始める", "translation": "We will begin the operation of the new system.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "営み", "reading": "いとなみ", "sentence": "これは自然の営みの一部だ", "translation": "This is a part of nature's activity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "営繕", "reading": "えいぜん", "sentence": "建物の営繕を業者に頼んだ", "translation": "I asked a contractor for the building's maintenance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "営団", "reading": "えいだん", "sentence": "営団の職員が説明に来た", "translation": "A corporation employee came to explain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "影絵", "reading": "かげえ", "sentence": "子供たちが影絵で遊んでいる", "translation": "The children are playing with shadow pictures.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "栄枯", "reading": "えいこ", "sentence": "人の世は栄枯盛衰があるものだ", "translation": "Human life is full of ups and downs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "永代", "reading": "えいたい", "sentence": "ここを永代の墓所に決めた", "translation": "I decided on this place as a permanent burial site.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "英気", "reading": "えいき", "sentence": "旅行で英気を養うつもりだ", "translation": "I intend to refresh my spirit on the trip.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "英字", "reading": "えいじ", "sentence": "この文章は英字で書かれている", "translation": "This text is written in English letters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "英和", "reading": "えいわ", "sentence": "辞書で英和の項目を調べる", "translation": "I will look up the English-Japanese entry in the dictionary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鋭角", "reading": "えいかく", "sentence": "この角は鋭角になっている", "translation": "This angle is acute.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "液化", "reading": "えきか", "sentence": "天然ガスを液化して運ぶ", "translation": "We transport natural gas by liquefying it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "駅長", "reading": "えきちょう", "sentence": "駅長がホームで合図を出した", "translation": "The station master gave the signal on the platform.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "駅伝", "reading": "えきでん", "sentence": "駅伝の選手が通り過ぎていく", "translation": "The relay race runners are passing by.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "越境", "reading": "えっきょう", "sentence": "兵士が国境を越境した", "translation": "The soldiers crossed the border.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "越権", "reading": "えっけん", "sentence": "それは部長の越権行為だ", "translation": "That is an act beyond the manager's authority.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "越冬", "reading": "えっとう", "sentence": "鳥たちが暖かい地で越冬する", "translation": "The birds pass the winter in a warm place.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "越年", "reading": "えつねん", "sentence": "今年を越年して新しい年を迎える", "translation": "We will see the old year out and welcome the new one.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "閲覧", "reading": "えつらん", "sentence": "図書館で資料を閲覧する", "translation": "I will read the materials at the library.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "円弧", "reading": "えんこ", "sentence": "コンパスで綺麗な円弧を描く", "translation": "Draw a beautiful circular arc with a compass.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "円周", "reading": "えんしゅう", "sentence": "この円の円周を計算してください", "translation": "Please calculate the circumference of this circle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "円筒", "reading": "えんとう", "sentence": "紙を丸めて円筒を作る", "translation": "Roll up the paper to make a cylinder.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "円盤", "reading": "えんばん", "sentence": "空に光る円盤のようなものが見えた", "translation": "I saw something like a disk shining in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "園児", "reading": "えんじ", "sentence": "園児たちが元気に遊んでいる", "translation": "The kindergarten children are playing energetically.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "園長", "reading": "えんちょう", "sentence": "園長先生がみんなに挨拶をする", "translation": "The principal greets everyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "宴席", "reading": "えんせき", "sentence": "宴席でのお酒はほどほどにする", "translation": "I will drink moderately at the banquet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "延命", "reading": "えんめい", "sentence": "医療技術で延命が可能になった", "translation": "Life extension has become possible through medical technology.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "援軍", "reading": "えんぐん", "sentence": "戦場に援軍が到着した", "translation": "Reinforcements arrived at the battlefield.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "沿海", "reading": "えんかい", "sentence": "船が沿海をゆっくり進む", "translation": "The ship moves slowly through coastal waters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "沿革", "reading": "えんかく", "sentence": "学校の沿革について調べる", "translation": "Investigate the history of the school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "演歌", "reading": "えんか", "sentence": "父はよく演歌を歌っている", "translation": "My father often sings enka songs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "演算", "reading": "えんざん", "sentence": "コンピュータが複雑な演算を行う", "translation": "The computer performs complex calculations.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "演習", "reading": "えんしゅう", "sentence": "今日は避難の演習がある", "translation": "There is an evacuation drill today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "演目", "reading": "えんもく", "sentence": "今回のコンサートの演目は何か", "translation": "What is the program for this concert?", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "炎天", "reading": "えんてん", "sentence": "炎天の下でサッカーをする", "translation": "Play soccer under the scorching sun.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "煙い", "reading": "けむい", "sentence": "焚き火の煙で目が煙い", "translation": "My eyes are smoky from the bonfire.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "縁側", "reading": "えんがわ", "sentence": "縁側でお茶を飲んで休む", "translation": "Rest while drinking tea on the veranda.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "縁談", "reading": "えんだん", "sentence": "親戚から縁談の話が来た", "translation": "A marriage proposal came from a relative.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遠泳", "reading": "えんえい", "sentence": "夏休みに海で遠泳をする", "translation": "Do long-distance swimming in the sea during summer vacation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "遠隔", "reading": "えんかく", "sentence": "遠隔操作でロボットを動かす", "translation": "Operate the robot by remote control.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塩化", "reading": "えんか", "sentence": "塩化反応について実験する", "translation": "Experiment with the chlorination reaction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塩基", "reading": "えんき", "sentence": "この液体は塩基性を示した", "translation": "This liquid showed basic properties.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塩酸", "reading": "えんさん", "sentence": "実験で塩酸を使用する", "translation": "Use hydrochloric acid in the experiment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塩素", "reading": "えんそ", "sentence": "プールには塩素が含まれている", "translation": "The pool contains chlorine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "塩田", "reading": "えんでん", "sentence": "古い塩田の跡地を歩いた", "translation": "I walked on the site of an old saltpan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "汚濁", "reading": "おだく", "sentence": "川の汚濁が進んでいる", "translation": "The pollution of the river is worsening.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "凹凸", "reading": "おうとつ", "sentence": "この道は凹凸が多い", "translation": "This road is very bumpy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "奥山", "reading": "おくやま", "sentence": "奥山で綺麗な花を見つけた", "translation": "I found beautiful flowers in the remote mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "往年", "reading": "おうねん", "sentence": "往年の名選手に会いたい", "translation": "I want to meet a legendary player from years gone by.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "応接", "reading": "おうせつ", "sentence": "応接室でお客様を待つ", "translation": "I am waiting for the guest in the reception room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "横綱", "reading": "よこづな", "sentence": "横綱が土俵に上がった", "translation": "The grand champion stepped onto the ring.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "横線", "reading": "おうせん", "sentence": "紙に横線を一本引く", "translation": "Draw a horizontal line on the paper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "横道", "reading": "よこみち", "sentence": "横道に入って近道をする", "translation": "Turn into a side street to take a shortcut.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "殴打", "reading": "おうだ", "sentence": "相手を殴打してはいけない", "translation": "You must not hit the other person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "王将", "reading": "おうしょう", "sentence": "王将を倒して勝利した", "translation": "I won by capturing the king.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "王族", "reading": "おうぞく", "sentence": "王族が式典に参加する", "translation": "The royal family will attend the ceremony.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "王朝", "reading": "おうちょう", "sentence": "新しい王朝が始まった", "translation": "A new dynasty began.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "王立", "reading": "おうりつ", "sentence": "ここは王立の劇場です", "translation": "This is a royal theater.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "屋台", "reading": "やたい", "sentence": "祭りで屋台の焼きそばを食べる", "translation": "I will eat yakisoba from a food stall at the festival.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "恩給", "reading": "おんきゅう", "sentence": "祖父は恩給で暮らしている", "translation": "My grandfather lives on his pension.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "恩賜", "reading": "おんし", "sentence": "それは恩賜の品だそうです", "translation": "They say that is a gift from the Emperor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "温床", "reading": "おんしょう", "sentence": "ここは犯罪の温床だ", "translation": "This place is a hotbed of crime.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "温存", "reading": "おんぞん", "sentence": "今の力を温存しておく", "translation": "I will preserve my current strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "穏便", "reading": "おんびん", "sentence": "穏便に解決したいですね", "translation": "I want to settle this amicably.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "音訓", "reading": "おんくん", "sentence": "漢字の音訓を覚える", "translation": "I will learn the readings of kanji.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "音頭", "reading": "おんど", "sentence": "彼が乾杯の音頭をとる", "translation": "He will lead the toast.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下界", "reading": "げかい", "sentence": "下界の景色がよく見える", "translation": "The view of the world below is clear.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下期", "reading": "しもき", "sentence": "下期の計画を立てよう", "translation": "Let us make a plan for the second half of the year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下級", "reading": "かきゅう", "sentence": "下級の職員と話をする", "translation": "I will talk to a junior staff member.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下限", "reading": "かげん", "sentence": "参加費の下限は千円です", "translation": "The lower limit of the participation fee is 1000 yen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下戸", "reading": "げこ", "sentence": "私は下戸なのでお酒は飲めません", "translation": "I am a non-drinker, so I cannot drink alcohol.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下降", "reading": "かこう", "sentence": "気温が急激に下降しています", "translation": "The temperature is dropping rapidly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下肢", "reading": "かし", "sentence": "今日は下肢の筋肉を鍛えました", "translation": "I trained my lower limb muscles today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下値", "reading": "したね", "sentence": "株価が下値に近づいています", "translation": "The stock price is approaching the lowest price.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下地", "reading": "したじ", "sentence": "彼は語学の下地があります", "translation": "He has a foundation in languages.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "下野", "reading": "げや", "sentence": "大臣が辞任して下野しました", "translation": "The minister resigned and stepped down from office.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "化合", "reading": "かごう", "sentence": "酸素と水素が化合します", "translation": "Oxygen and hydrogen chemically combine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "化成", "reading": "かせい", "sentence": "材料を化成して製品を作ります", "translation": "We transform the materials to make products.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "化繊", "reading": "かせん", "sentence": "このシャツは化繊でできています", "translation": "This shirt is made of synthetic fiber.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "仮称", "reading": "かしょう", "sentence": "その計画は仮称で呼ばれています", "translation": "The project is referred to by a provisional name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "何遍", "reading": "なんべん", "sentence": "何遍言っても彼は聞きません", "translation": "No matter how many times I say it, he won't listen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "佳境", "reading": "かきょう", "sentence": "ドラマがいよいよ佳境です", "translation": "The drama is finally reaching its climax.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "佳作", "reading": "かさく", "sentence": "コンクールで佳作に選ばれました", "translation": "I was selected for an excellent work award in the contest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "加圧", "reading": "かあつ", "sentence": "鍋の中を適度に加圧します", "translation": "Apply pressure to the inside of the pot moderately.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "加味", "reading": "かみ", "sentence": "料理に少し塩を加味します", "translation": "Add a little salt to the dish for seasoning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "可憐", "reading": "かれん", "sentence": "庭に可憐な花が咲いています", "translation": "A lovely flower is blooming in the garden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "夏至", "reading": "げし", "sentence": "夏至は一年で最も昼が長いです", "translation": "The summer solstice has the longest daylight of the year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "家元", "reading": "いえもと", "sentence": "彼は茶道の家元です", "translation": "He is the head of the school of tea ceremony.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "家財", "reading": "かざい", "sentence": "引っ越しで家財を運びました", "translation": "I moved my household belongings for the move.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "家人", "reading": "かじん", "sentence": "家人と相談してから決めます", "translation": "I will decide after consulting with my family.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "家宅", "reading": "かたく", "sentence": "警察が家宅を捜索しました", "translation": "The police searched the premises.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "家電", "reading": "かでん", "sentence": "新しい家電を買いに行きます", "translation": "I am going to buy new home appliances.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寡占", "reading": "かせん", "sentence": "その市場は寡占されています", "translation": "That market is controlled by an oligopoly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "果汁", "reading": "かじゅう", "sentence": "朝食に果汁を飲みました", "translation": "I drank fruit juice for breakfast.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "架設", "reading": "かせつ", "sentence": "新しい橋の架設工事が始まった", "translation": "Construction of the new bridge has begun.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歌曲", "reading": "かきょく", "sentence": "彼女は美しい歌曲を歌った", "translation": "She sang a beautiful song.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歌集", "reading": "かしゅう", "sentence": "古い歌集を図書館で借りた", "translation": "I borrowed an old anthology of poems from the library.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歌人", "reading": "かじん", "sentence": "彼は有名な歌人として知られている", "translation": "He is known as a famous tanka poet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歌姫", "reading": "うたひめ", "sentence": "彼女は国民的な歌姫になった", "translation": "She became a national diva.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歌謡", "reading": "かよう", "sentence": "昔の歌謡をラジオで聴く", "translation": "I listen to old ballads on the radio.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "火葬", "reading": "かそう", "sentence": "故人を火葬に付す準備をする", "translation": "I am preparing to cremate the deceased.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "禍根", "reading": "かこん", "sentence": "それが将来の禍根となるだろう", "translation": "That will likely become the root of future trouble.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "稼業", "reading": "かぎょう", "sentence": "父の稼業を継ぐことになった", "translation": "I decided to take over my father's business.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "花形", "reading": "はながた", "sentence": "彼女はチームの花形選手だ", "translation": "She is the star player of the team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "花鳥", "reading": "かちょう", "sentence": "美しい花鳥の絵を飾った", "translation": "I hung up a beautiful painting of flowers and birds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "花道", "reading": "はなみち", "sentence": "役者が花道を通って登場する", "translation": "The actor enters by walking along the hanamichi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "花婿", "reading": "はなむこ", "sentence": "花婿が式場で待っている", "translation": "The bridegroom is waiting at the ceremony hall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "花輪", "reading": "はなわ", "sentence": "葬儀の会場に花輪を贈る", "translation": "I am sending a wreath to the funeral venue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "華僑", "reading": "かきょう", "sentence": "世界中に華僑のネットワークがある", "translation": "There are networks of overseas Chinese all over the world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "華美", "reading": "かび", "sentence": "華美な装飾は控えましょう", "translation": "Let's refrain from flashy decorations.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "蝦夷", "reading": "えみし", "sentence": "歴史の教科書で蝦夷について学ぶ", "translation": "I am learning about the Ezo in history class.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "課員", "reading": "かいん", "sentence": "課員全員で会議に出席する", "translation": "All the section staff will attend the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "過言", "reading": "かごん", "sentence": "それが最高だと言っても過言ではない", "translation": "It is no exaggeration to say that it is the best.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "過疎", "reading": "かそ", "sentence": "この村は過疎が進んでいる", "translation": "This village is becoming increasingly depopulated.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "過多", "reading": "かた", "sentence": "情報の過多に注意が必要だ", "translation": "We need to be careful about information overload.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "過渡", "reading": "かと", "sentence": "今は時代の過渡期にある", "translation": "We are currently in a transitional period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "過当", "reading": "かとう", "sentence": "過当な競争を避けるべきだ", "translation": "We should avoid excessive competition.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "画商", "reading": "がしょう", "sentence": "有名な画商が店を開いた", "translation": "A famous art dealer opened a gallery.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "画数", "reading": "かくすう", "sentence": "この漢字は画数が多いです", "translation": "This kanji has many strokes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "画伯", "reading": "がはく", "sentence": "彼は有名な画伯です", "translation": "He is a famous master painter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "賀状", "reading": "がじょう", "sentence": "友達に賀状を送りました", "translation": "I sent a New Year's card to my friend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "賀正", "reading": "がしょう", "sentence": "年賀状に賀正と書く", "translation": "I write 'Happy New Year' on my New Year's card.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "雅楽", "reading": "ががく", "sentence": "神社で雅楽を聴きました", "translation": "I listened to gagaku at the shrine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "雅致", "reading": "がち", "sentence": "この庭には雅致がある", "translation": "This garden has elegance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "介在", "reading": "かいざい", "sentence": "二人の間に会話が介在する", "translation": "Conversation intervenes between the two of them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "会食", "reading": "かいしょく", "sentence": "今日は取引先と会食する", "translation": "I am having a business dinner today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "会心", "reading": "かいしん", "sentence": "会心の出来に満足した", "translation": "I was satisfied with the gratifying result.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "会則", "reading": "かいそく", "sentence": "この会則を守ってください", "translation": "Please follow these club regulations.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "会頭", "reading": "かいとう", "sentence": "彼は商工会議所の会頭です", "translation": "He is the president of the Chamber of Commerce.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "会報", "reading": "かいほう", "sentence": "会報を会員に配る", "translation": "I distribute the newsletter to members.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "解体", "reading": "かいたい", "sentence": "古いビルを解体する", "translation": "We are demolishing the old building.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "解熱", "reading": "げねつ", "sentence": "解熱の薬を飲みました", "translation": "I took medicine to lower my fever.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回し", "reading": "まわし", "sentence": "力士が回しを締める", "translation": "The sumo wrestler puts on his loincloth.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回忌", "reading": "かいき", "sentence": "今日は祖父の三回忌だ", "translation": "Today is my grandfather's third death anniversary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回帰", "reading": "かいき", "sentence": "故郷への回帰を願う", "translation": "I wish to return to my hometown.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回生", "reading": "かいせい", "sentence": "チームが回生を果たす", "translation": "The team achieves a comeback.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回送", "reading": "かいそう", "sentence": "荷物を回送してください", "translation": "Please forward the package.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "回廊", "reading": "かいろう", "sentence": "長い回廊を歩きました", "translation": "I walked through the long corridor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "快挙", "reading": "かいきょ", "sentence": "それは素晴らしい快挙だ", "translation": "That is a brilliant achievement.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "快速", "reading": "かいそく", "sentence": "この電車は快速です", "translation": "This train is a rapid service.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "怪奇", "reading": "かいき", "sentence": "怪奇な事件が起きた", "translation": "A bizarre incident occurred.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "懐疑", "reading": "かいぎ", "sentence": "その話を懐疑的に聞く", "translation": "I listen to that story with skepticism.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "戒告", "reading": "かいこく", "sentence": "上司から戒告を受けた", "translation": "I received an admonition from my boss.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "戒律", "reading": "かいりつ", "sentence": "僧侶は厳しい戒律を守る。", "translation": "Monks follow strict precepts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改憲", "reading": "かいけん", "sentence": "国会で改憲の議論が進む。", "translation": "Discussions on constitutional change are progressing in the Diet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改修", "reading": "かいしゅう", "sentence": "古い橋の改修工事が始まる。", "translation": "Repair work on the old bridge will begin.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改新", "reading": "かいしん", "sentence": "社会の大きな改新が必要だ。", "translation": "A major reformation of society is necessary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改組", "reading": "かいそ", "sentence": "会社は組織の改組を行った。", "translation": "The company carried out a reorganization.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改定", "reading": "かいてい", "sentence": "料金の改定を検討している。", "translation": "We are considering a revision of the prices.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改編", "reading": "かいへん", "sentence": "チームの改編が行われた。", "translation": "A reorganization of the team took place.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "改名", "reading": "かいめい", "sentence": "彼女はペンネームの改名をした。", "translation": "She changed her pen name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "海溝", "reading": "かいこう", "sentence": "深海には巨大な海溝がある。", "translation": "There is a massive oceanic trench in the deep sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "海藻", "reading": "かいそう", "sentence": "海藻をサラダに入れて食べる。", "translation": "I eat seaweed in my salad.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "海難", "reading": "かいなん", "sentence": "海難事故のニュースを見た。", "translation": "I saw the news about the sea disaster.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "海浜", "reading": "かいひん", "sentence": "海浜公園を静かに散歩する。", "translation": "I am taking a quiet walk in the seaside park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "皆無", "reading": "かいむ", "sentence": "その可能性は皆無に近い。", "translation": "The possibility of that is almost nil.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "絵巻", "reading": "えまき", "sentence": "博物館で古い絵巻を見た。", "translation": "I saw an old picture scroll at the museum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開局", "reading": "かいきょく", "sentence": "新しいラジオ局が開局する。", "translation": "A new radio station will start broadcasting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開口", "reading": "かいこう", "sentence": "カメラの開口を調整する。", "translation": "I am adjusting the aperture of the camera.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開示", "reading": "かいじ", "sentence": "政府が情報を開示する。", "translation": "The government will disclose the information.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開城", "reading": "かいじょう", "sentence": "敵軍が城の開城を要求した。", "translation": "The enemy army demanded the surrender of the castle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開場", "reading": "かいじょう", "sentence": "コンサートの開場は六時だ。", "translation": "The doors for the concert open at six.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開戦", "reading": "かいせん", "sentence": "ついに開戦の合図が鳴った。", "translation": "The signal for the outbreak of war finally sounded.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "開閉", "reading": "かいへい", "sentence": "自動ドアの開閉を確認する。", "translation": "I am checking the opening and closing of the automatic door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外圧", "reading": "がいあつ", "sentence": "政府は外圧に屈しなかった。", "translation": "The government did not yield to external pressure.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外角", "reading": "がいかく", "sentence": "三角形の外角を計算する。", "translation": "I am calculating the exterior angle of the triangle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外郭", "reading": "がいかく", "sentence": "城の外郭を守る兵士たち。", "translation": "Soldiers guarding the outer fence of the castle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外資", "reading": "がいし", "sentence": "外資の企業が参入してきた。", "translation": "A company with foreign capital has entered the market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外需", "reading": "がいじゅ", "sentence": "この会社は外需に頼っています", "translation": "This company relies on foreign demand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外信", "reading": "がいしん", "sentence": "外信で重要なニュースを知った", "translation": "I learned important news through external communication.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外電", "reading": "がいでん", "sentence": "外電でその事件の詳細を聞いた", "translation": "I heard the details of the incident via foreign telegram.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外堀", "reading": "そとぼり", "sentence": "城の外堀をゆっくり歩いた", "translation": "I walked slowly along the castle's outer moat.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外務", "reading": "がいむ", "sentence": "彼は外務の仕事を担当している", "translation": "He is in charge of foreign affairs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "外遊", "reading": "がいゆう", "sentence": "大臣が外遊から戻ってきた", "translation": "The minister has returned from his foreign travel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "概況", "reading": "がいきょう", "sentence": "市場の概況を説明してください", "translation": "Please explain the general situation of the market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "概論", "reading": "がいろん", "sentence": "この本は経済学の概論です", "translation": "This book is an introduction to economics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "街角", "reading": "まちかど", "sentence": "街角で友人に偶然会いました", "translation": "I happened to meet a friend at a street corner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "各位", "reading": "かくい", "sentence": "関係者各位に手紙を送った", "translation": "I sent letters to all concerned parties.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "確執", "reading": "かくしつ", "sentence": "二人の間には深い確執がある", "translation": "There is deep discord between the two of them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "角膜", "reading": "かくまく", "sentence": "医師が角膜の検査を行った", "translation": "The doctor performed an examination of the cornea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "閣下", "reading": "かっか", "sentence": "閣下にお目にかかりたいです", "translation": "I would like to meet with Your Excellency.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隔て", "reading": "へだて", "sentence": "二人の間に隔てはない", "translation": "There is no barrier between the two.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "隔月", "reading": "かくげつ", "sentence": "この雑誌は隔月で発行される", "translation": "This magazine is published every other month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "革靴", "reading": "かわぐつ", "sentence": "仕事用に新しい革靴を買った", "translation": "I bought new leather shoes for work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "革新", "reading": "かくしん", "sentence": "会社は技術の革新を目指す", "translation": "The company aims for innovation in technology.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学界", "reading": "がっかい", "sentence": "その論文は学界で話題だ", "translation": "That paper is a hot topic in academia.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学割", "reading": "がくわり", "sentence": "学割を使って映画を見た", "translation": "I used a student discount to watch the movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学究", "reading": "がっきゅう", "sentence": "彼は真面目な学究の徒だ", "translation": "He is a serious scholar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学区", "reading": "がっく", "sentence": "子供は地元の学区に通う", "translation": "Children attend schools in their local district.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学士", "reading": "がくし", "sentence": "彼は経済学の学士を持っている", "translation": "He holds a bachelor's degree in economics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学卒", "reading": "がくそつ", "sentence": "学卒の採用面接が始まった", "translation": "The job interviews for college graduates have begun.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学徒", "reading": "がくと", "sentence": "多くの学徒が図書館にいる", "translation": "Many students are in the library.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学内", "reading": "がくない", "sentence": "学内の施設はとてもきれいだ", "translation": "The facilities within the school are very clean.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学友", "reading": "がくゆう", "sentence": "昔の学友と久しぶりに会った", "translation": "I met with an old school friend for the first time in a while.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "学齢", "reading": "がくれい", "sentence": "子供が学齢に達した", "translation": "My child has reached school age.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "楽曲", "reading": "がっきょく", "sentence": "この楽曲はとても美しい", "translation": "This musical composition is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "楽章", "reading": "がくしょう", "sentence": "この曲は全三楽章です", "translation": "This piece consists of three movements.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "割譲", "reading": "かつじょう", "sentence": "領土の割譲を要求した", "translation": "They demanded the cession of the territory.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "喝破", "reading": "かっぱ", "sentence": "彼は相手の嘘を喝破した", "translation": "He exposed the other person's lie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "活性", "reading": "かっせい", "sentence": "細胞の活性を高める", "translation": "To increase cell activity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "活路", "reading": "かつろ", "sentence": "困難の中で活路を見いだす", "translation": "To find a way out of the difficulty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "渇水", "reading": "かっすい", "sentence": "渇水でダムの水が減った", "translation": "The water in the dam decreased due to the water shortage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "滑降", "reading": "かっこう", "sentence": "山をスキーで滑降する", "translation": "To ski down the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寒村", "reading": "かんそん", "sentence": "ここは静かな寒村である", "translation": "This is a quiet, desolate village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寒中", "reading": "かんちゅう", "sentence": "寒中お見舞い申し上げます", "translation": "I wish you well during the cold season.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寒冷", "reading": "かんれい", "sentence": "この地方は寒冷な気候だ", "translation": "This region has a cold climate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "刊行", "reading": "かんこう", "sentence": "新しい雑誌を刊行する", "translation": "To publish a new magazine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "勧業", "reading": "かんぎょう", "sentence": "政府が勧業を推進する", "translation": "The government promotes the encouragement of industry.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "勧奨", "reading": "かんしょう", "sentence": "予防接種を勧奨する", "translation": "To encourage vaccination.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "勧進", "reading": "かんじん", "sentence": "寺の勧進のために歩く", "translation": "To walk to solicit funds for the temple.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "完結", "reading": "かんけつ", "sentence": "その物語が完結した", "translation": "The story has reached its conclusion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "完遂", "reading": "かんすい", "sentence": "任務を完遂した", "translation": "I successfully completed the mission.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "完封", "reading": "かんぷう", "sentence": "投手が相手を完封した", "translation": "The pitcher shut out the opposing team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官界", "reading": "かんかい", "sentence": "官界の知人が多い", "translation": "I have many acquaintances in government circles.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官憲", "reading": "かんけん", "sentence": "官憲が現場に到着した", "translation": "The authorities arrived at the scene.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官邸", "reading": "かんてい", "sentence": "首相が官邸に入る", "translation": "The prime minister enters the official residence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官報", "reading": "かんぽう", "sentence": "官報に新しい法律が載る", "translation": "The new law is published in the official gazette.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官房", "reading": "かんぼう", "sentence": "内閣官房の会議に出る", "translation": "To attend the cabinet secretariat meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "官吏", "reading": "かんり", "sentence": "父は昔官吏として働いていました", "translation": "My father used to work as a government official.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "干る", "reading": "ひる", "sentence": "川の水が干る季節がやってきた", "translation": "The season when the river dries up has come.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "干拓", "reading": "かんたく", "sentence": "この土地は干拓によって作られた", "translation": "This land was created through reclamation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "幹線", "reading": "かんせん", "sentence": "この電車は幹線を通っています", "translation": "This train runs on the main line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "患部", "reading": "かんぶ", "sentence": "患部を清潔に保ってください", "translation": "Please keep the affected area clean.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "感化", "reading": "かんか", "sentence": "彼は友人の感化を受けて成長した", "translation": "He grew up under the influence of his friend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "感慨", "reading": "かんがい", "sentence": "卒業式で感慨にふけりました", "translation": "I was filled with deep emotion at the graduation ceremony.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "感度", "reading": "かんど", "sentence": "このラジオは感度がとても良い", "translation": "The sensitivity of this radio is very good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "感涙", "reading": "かんるい", "sentence": "彼の話を聞いて感涙にむせぶ", "translation": "I was moved to tears listening to his story.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慣れ", "reading": "なれ", "sentence": "仕事の慣れはミスのもとになる", "translation": "Getting too used to work can cause mistakes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慣例", "reading": "かんれい", "sentence": "それは我が社の長年の慣例です", "translation": "That is a long-standing custom of our company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "換気", "reading": "かんき", "sentence": "部屋の換気をしてください", "translation": "Please ventilate the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "換金", "reading": "かんきん", "sentence": "古い切手を換金しました", "translation": "I converted the old stamps into cash.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "敢闘", "reading": "かんとう", "sentence": "選手たちは敢闘して試合に勝った", "translation": "The players fought bravely and won the match.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歓喜", "reading": "かんき", "sentence": "合格の知らせに歓喜した", "translation": "I was filled with delight at the news of passing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "歓待", "reading": "かんたい", "sentence": "素晴らしい歓待をありがとう", "translation": "Thank you for the wonderful hospitality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漢語", "reading": "かんご", "sentence": "日本語には漢語が多いです", "translation": "There are many Sino-Japanese words in the Japanese language.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漢和", "reading": "かんわ", "sentence": "漢和辞典で意味を調べます", "translation": "I look up the meaning in a Chinese-Japanese dictionary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "灌漑", "reading": "かんがい", "sentence": "この地域は灌漑で農業をする", "translation": "This region practices agriculture using irrigation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "環礁", "reading": "かんしょう", "sentence": "海の上に美しい環礁がある", "translation": "There is a beautiful atoll on the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "環状", "reading": "かんじょう", "sentence": "環状の道路を車で走る", "translation": "I drive on the ring road.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "甘酢", "reading": "あまず", "sentence": "料理に甘酢をかけると美味しい", "translation": "It is delicious to pour sweet vinegar over the dish.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "監獄", "reading": "かんごく", "sentence": "その監獄は非常に古い建物だ", "translation": "That prison is a very old building.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "監察", "reading": "かんさつ", "sentence": "警察が不正を監察している", "translation": "The police are inspecting for misconduct.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "監修", "reading": "かんしゅう", "sentence": "有名な先生がこの本を監修した", "translation": "A famous teacher supervised this book.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "監理", "reading": "かんり", "sentence": "工事の監理は建築士が行う。", "translation": "An architect will supervise the construction work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "看る", "reading": "みる", "sentence": "病気の母を家で看る。", "translation": "I am looking after my sick mother at home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "看過", "reading": "かんか", "sentence": "このミスを看過してはいけない。", "translation": "We must not overlook this mistake.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "管区", "reading": "かんく", "sentence": "この地域は管区に含まれる。", "translation": "This area is included in the jurisdiction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "管制", "reading": "かんせい", "sentence": "空港の交通管制を行う。", "translation": "We manage the air traffic control at the airport.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "管内", "reading": "かんない", "sentence": "警察は管内の安全を守る。", "translation": "The police protect the safety within their jurisdiction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "簡易", "reading": "かんい", "sentence": "この機械は操作が簡易だ。", "translation": "This machine is simple to operate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "簡略", "reading": "かんりゃく", "sentence": "説明を簡略にまとめて話す。", "translation": "I will summarize the explanation briefly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "緩む", "reading": "ゆるむ", "sentence": "靴のひもが少し緩む。", "translation": "My shoelaces are getting a bit loose.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "艦船", "reading": "かんせん", "sentence": "港に多くの艦船が停泊する。", "translation": "Many vessels are anchored at the port.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "艦隊", "reading": "かんたい", "sentence": "艦隊が遠くの海へ向かう。", "translation": "The fleet is heading to the distant sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "艦艇", "reading": "かんてい", "sentence": "海軍の艦艇を見学する。", "translation": "I will visit the naval vessels.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "観覧", "reading": "かんらん", "sentence": "美術館で絵画を観覧する。", "translation": "I will view the paintings at the art museum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "還流", "reading": "かんりゅう", "sentence": "血液の還流を調べる。", "translation": "I will examine the blood reflux.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "還暦", "reading": "かんれき", "sentence": "来年は父の還暦を祝う。", "translation": "I will celebrate my father's 60th birthday next year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鑑別", "reading": "かんべつ", "sentence": "専門家が宝石の鑑別を行う。", "translation": "An expert will judge the quality of the gemstone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "間接", "reading": "かんせつ", "sentence": "それは間接的な原因だ。", "translation": "That is an indirect cause.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "関脇", "reading": "せきわけ", "sentence": "彼は期待の関脇だ。", "translation": "He is a promising sekiwake wrestler.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "陥没", "reading": "かんぼつ", "sentence": "道路が陥没して通行止めだ。", "translation": "The road has caved in and is closed to traffic.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "館長", "reading": "かんちょう", "sentence": "博物館の館長に挨拶する。", "translation": "I will greet the director of the museum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "丸み", "reading": "まるみ", "sentence": "この石には自然な丸みがある。", "translation": "This stone has a natural roundness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "含蓄", "reading": "がんちく", "sentence": "彼の言葉には深い含蓄がある。", "translation": "His words have deep significance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "含有", "reading": "がんゆう", "sentence": "この飲料は糖分を含有する。", "translation": "This drink contains sugar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "眼科", "reading": "がんか", "sentence": "目が痛いので眼科に行く。", "translation": "My eyes hurt, so I will go to the ophthalmologist.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩塩", "reading": "がんえん", "sentence": "料理に岩塩を使う。", "translation": "I use rock salt for cooking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩屋", "reading": "いわや", "sentence": "山の中に古い岩屋がある。", "translation": "There is an old cave in the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩間", "reading": "いわま", "sentence": "岩間に小さな花が咲いている。", "translation": "A small flower is blooming among the rocks.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩山", "reading": "いわやま", "sentence": "あの岩山はとても険しい。", "translation": "That rocky mountain is very steep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩礁", "reading": "がんしょう", "sentence": "船が岩礁にぶつかった。", "translation": "The ship hit a reef.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岩盤", "reading": "がんばん", "sentence": "深い地下に硬い岩盤がある。", "translation": "There is hard bedrock deep underground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "頑な", "reading": "かたくな", "sentence": "彼は頑なで意見を変えない。", "translation": "He is stubborn and won't change his opinion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "喜寿", "reading": "きじゅ", "sentence": "祖父が喜寿のお祝いを迎えた。", "translation": "My grandfather celebrated his 77th birthday.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "器楽", "reading": "きがく", "sentence": "私は器楽の演奏を聴きに行く。", "translation": "I am going to listen to instrumental music.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "器材", "reading": "きざい", "sentence": "キャンプの器材を準備する。", "translation": "I will prepare the camping equipment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "器物", "reading": "きぶつ", "sentence": "この器物は古い時代のものだ。", "translation": "This vessel is from an old era.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "基幹", "reading": "きかん", "sentence": "それが会社の基幹事業だ。", "translation": "That is the mainstay business of the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "奇襲", "reading": "きしゅう", "sentence": "敵は奇襲を仕掛けてきた。", "translation": "The enemy launched a surprise attack.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "奇術", "reading": "きじゅつ", "sentence": "子供が奇術を見て驚いている。", "translation": "The child is surprised watching magic.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "奇病", "reading": "きびょう", "sentence": "世界には奇病も存在する。", "translation": "Strange diseases also exist in the world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寄せ", "reading": "よせ", "sentence": "将棋の寄せがとても上手だ。", "translation": "His end game in shogi is very good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寄金", "reading": "ききん", "sentence": "学校に寄金を募ることにした。", "translation": "We decided to collect donations for the school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寄生", "reading": "きせい", "sentence": "その虫は植物に寄生する。", "translation": "That insect is parasitic on plants.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "寄席", "reading": "よせ", "sentence": "今夜は寄席で落語を楽しむ。", "translation": "I will enjoy rakugo at the theater tonight.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "岐路", "reading": "きろ", "sentence": "人生の岐路に立っている。", "translation": "I am standing at a crossroads in my life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "幾日", "reading": "いくにち", "sentence": "幾日か旅を続ける予定だ。", "translation": "I plan to continue the trip for a few days.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "忌避", "reading": "きひ", "sentence": "彼は責任を忌避している。", "translation": "He is shirking his responsibility.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "机上", "reading": "きじょう", "sentence": "机上の書類を整理した。", "translation": "I organized the documents on the desk.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旗手", "reading": "きしゅ", "sentence": "彼は運動会の旗手になった。", "translation": "He became the flag-bearer for the sports day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "既製", "reading": "きせい", "sentence": "既製の服を買って直す。", "translation": "I buy ready-made clothes and alter them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "既定", "reading": "きてい", "sentence": "既定の路線通りに進める。", "translation": "We will proceed according to the established line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "棄却", "reading": "ききゃく", "sentence": "裁判所はその訴えを棄却した", "translation": "The court dismissed the lawsuit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "機運", "reading": "きうん", "sentence": "改革を行う機運が高まっている", "translation": "The momentum for reform is growing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "機動", "reading": "きどう", "sentence": "警察が機動部隊を派遣した", "translation": "The police dispatched a tactical unit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "機雷", "reading": "きらい", "sentence": "海で古い機雷が発見された", "translation": "An old sea mine was discovered in the ocean.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "帰依", "reading": "きえ", "sentence": "彼は仏門に帰依することにした", "translation": "He decided to devote himself to Buddhism.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "帰京", "reading": "ききょう", "sentence": "来週の月曜日に帰京します", "translation": "I will return to Tokyo next Monday.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気概", "reading": "きがい", "sentence": "彼には困難に立ち向かう気概がある", "translation": "He has the spirit to face difficulties.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気管", "reading": "きかん", "sentence": "風邪で気管が少し痛みます", "translation": "My trachea hurts a little because of a cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気丈", "reading": "きじょう", "sentence": "彼女は気丈に振る舞った", "translation": "She behaved in a stout-hearted manner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気心", "reading": "きごころ", "sentence": "彼とは気心が知れている", "translation": "I know his temperament well.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気筒", "reading": "きとう", "sentence": "そのエンジンは四気筒だ", "translation": "That engine is a four-cylinder one.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "気泡", "reading": "きほう", "sentence": "水の中に小さな気泡ができる", "translation": "Small bubbles form in the water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "祈願", "reading": "きがん", "sentence": "合格を神社で祈願した", "translation": "I prayed for passing the exam at the shrine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "祈念", "reading": "きねん", "sentence": "平和を祈念して黙祷する", "translation": "We pray for peace and observe a silent tribute.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "季刊", "reading": "きかん", "sentence": "この雑誌は季刊で発行される", "translation": "This magazine is published quarterly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "季語", "reading": "きご", "sentence": "俳句には必ず季語を入れる", "translation": "You must include a seasonal word in haiku.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "紀行", "reading": "きこう", "sentence": "彼の新しい紀行を読んだ", "translation": "I read his new travelogue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "規格", "reading": "きかく", "sentence": "製品は国際規格に適合する", "translation": "The product complies with international standards.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "規程", "reading": "きてい", "sentence": "会社の規程に従う必要がある", "translation": "You need to follow the company regulations.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "記章", "reading": "きしょう", "sentence": "胸に金色の記章をつけている", "translation": "He is wearing a gold badge on his chest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "記帳", "reading": "きちょう", "sentence": "受付で名前を記帳する", "translation": "Please register your name at the reception.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "貴賓", "reading": "きひん", "sentence": "貴賓室で貴賓をお迎えする", "translation": "We welcome the noble guest in the VIP room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起工", "reading": "きこう", "sentence": "来月から新しい橋を起工する", "translation": "Construction of the new bridge begins next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起債", "reading": "きさい", "sentence": "会社が社債の起債を決めた", "translation": "The company decided to issue bonds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起草", "reading": "きそう", "sentence": "法律の草案を起草する", "translation": "I am drafting a bill.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起点", "reading": "きてん", "sentence": "ここが新しい計画の起点です", "translation": "This is the starting point of the new plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起爆", "reading": "きばく", "sentence": "爆弾の起爆装置を解除した", "translation": "I deactivated the bomb's detonator.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "起伏", "reading": "きふく", "sentence": "この道は起伏が激しい", "translation": "This road has many ups and downs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軌跡", "reading": "きせき", "sentence": "雪の上に車の軌跡が残る", "translation": "Tire tracks remain on the snow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "輝度", "reading": "きど", "sentence": "画面の輝度を調整してください", "translation": "Please adjust the screen brightness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "騎馬", "reading": "きば", "sentence": "公園で騎馬体験をしました", "translation": "I experienced horseback riding at the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "騎兵", "reading": "きへい", "sentence": "昔は騎兵が戦場で活躍した", "translation": "In the past, cavalry played an active role on the battlefield.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鬼才", "reading": "きさい", "sentence": "彼は音楽界の鬼才と呼ばれている", "translation": "He is called a genius in the music world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "偽証", "reading": "ぎしょう", "sentence": "裁判で偽証をしてはいけない", "translation": "You must not commit perjury in court.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "儀礼", "reading": "ぎれい", "sentence": "これは礼儀正しい儀礼です", "translation": "This is a polite formality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "戯れ", "reading": "たわむれ", "sentence": "それは単なる戯れだった", "translation": "That was just for fun.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "戯画", "reading": "ぎが", "sentence": "新聞に面白い戯画が載っている", "translation": "There is a funny caricature in the newspaper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "犠打", "reading": "ぎだ", "sentence": "彼は見事に犠打を決めた", "translation": "He successfully executed a sacrifice bunt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "疑義", "reading": "ぎぎ", "sentence": "その契約には疑義がある", "translation": "There is a doubt regarding that contract.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "疑獄", "reading": "ぎごく", "sentence": "政治家が疑獄事件に巻き込まれた", "translation": "A politician was involved in a bribery scandal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "疑心", "reading": "ぎしん", "sentence": "疑心から友人を信じられなくなった", "translation": "Due to suspicion, I couldn't trust my friend anymore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "義歯", "reading": "ぎし", "sentence": "祖父は義歯を洗っている", "translation": "My grandfather is washing his dentures.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "義父", "reading": "ぎふ", "sentence": "週末に義父と食事に行く", "translation": "I am going to have a meal with my father-in-law this weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "義妹", "reading": "ぎまい", "sentence": "昨日義妹が家に遊びに来た", "translation": "My sister-in-law came to visit my house yesterday.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "議院", "reading": "ぎいん", "sentence": "今日は議院で会議がある", "translation": "There is a meeting at the parliament today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "議場", "reading": "ぎじょう", "sentence": "議員が議場へ入っていった", "translation": "The lawmaker entered the assembly hall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "掬う", "reading": "すくう", "sentence": "スプーンでスープを掬う", "translation": "I scoop the soup with a spoon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "吉兆", "reading": "きっちょう", "sentence": "虹が見えるのは吉兆だ", "translation": "Seeing a rainbow is a good omen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "喫茶", "reading": "きっさ", "sentence": "近くの喫茶で休憩しよう", "translation": "Let's take a break at a nearby cafe.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "客員", "reading": "きゃくいん", "sentence": "父は大学で客員教授をしている。", "translation": "My father is a visiting professor at the university.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "客観", "reading": "きゃっかん", "sentence": "客観的な意見を教えてください。", "translation": "Please give me an objective opinion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "逆風", "reading": "ぎゃくふう", "sentence": "強い逆風の中を歩くのは大変だ。", "translation": "It is hard to walk against a strong headwind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "休学", "reading": "きゅうがく", "sentence": "病気のため半年間休学する。", "translation": "I will take a leave of absence from school for half a year due to illness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "休刊", "reading": "きゅうかん", "sentence": "その雑誌は来月から休刊する。", "translation": "That magazine will suspend publication starting next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "休場", "reading": "きゅうじょう", "sentence": "けがのため横綱が休場した。", "translation": "The yokozuna is absent from the tournament due to an injury.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "休職", "reading": "きゅうしょく", "sentence": "彼は体調不良で休職している。", "translation": "He is on a leave of absence due to poor health.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "吸引", "reading": "きゅういん", "sentence": "掃除機でほこりを吸引する。", "translation": "I will vacuum up the dust with a cleaner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "吸入", "reading": "きゅうにゅう", "sentence": "風邪薬を吸入器で使う。", "translation": "I use cold medicine with an inhaler.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "宮中", "reading": "きゅうちゅう", "sentence": "彼は宮中の行事に参加した。", "translation": "He participated in the imperial court event.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "弓矢", "reading": "ゆみや", "sentence": "昔の兵士は弓矢で戦った。", "translation": "Ancient soldiers fought with bows and arrows.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "急進", "reading": "きゅうしん", "sentence": "急進的な改革が必要だと思う。", "translation": "I think radical reform is necessary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "急遽", "reading": "きゅうきょ", "sentence": "彼は急遽帰国することになった。", "translation": "He had to return to his country in a hurry.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "求刑", "reading": "きゅうけい", "sentence": "検察は懲役を求刑した。", "translation": "The prosecution demanded a prison sentence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "球菌", "reading": "きゅうきん", "sentence": "顕微鏡で球菌を観察する。", "translation": "I observe cocci under a microscope.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "球団", "reading": "きゅうだん", "sentence": "彼は人気の球団に入団した。", "translation": "He joined a popular baseball team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "窮状", "reading": "きゅうじょう", "sentence": "被災地の窮状をニュースで見た。", "translation": "I saw the distress of the disaster area on the news.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "糾合", "reading": "きゅうごう", "sentence": "リーダーが仲間を糾合する。", "translation": "The leader rallies his companions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "糾弾", "reading": "きゅうだん", "sentence": "不祥事を厳しく糾弾する。", "translation": "I strictly denounce the scandal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旧制", "reading": "きゅうせい", "sentence": "それは旧制中学校の建物だ。", "translation": "That is a building from the old school system.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旧姓", "reading": "きゅうせい", "sentence": "結婚して旧姓に戻す人は少ない。", "translation": "Few people revert to their maiden name after marriage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旧態", "reading": "きゅうたい", "sentence": "いつまでも旧態を維持する。", "translation": "We maintain the old state of affairs forever.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旧約", "reading": "きゅうやく", "sentence": "聖書の旧約聖書を読んでいる。", "translation": "I am reading the Old Testament of the Bible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "旧来", "reading": "きゅうらい", "sentence": "旧来の方法を改善すべきだ。", "translation": "We should improve the traditional method.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "牛舎", "reading": "ぎゅうしゃ", "sentence": "農家が牛舎を掃除している。", "translation": "The farmer is cleaning the cattle barn.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "去就", "reading": "きょしゅう", "sentence": "彼の去就が注目されている。", "translation": "His decision to stay or leave is attracting attention.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "去来", "reading": "きょらい", "sentence": "昔の思い出が胸に去来する。", "translation": "Memories of the past come and go in my heart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "巨漢", "reading": "きょかん", "sentence": "彼は有名な巨漢の力士だ。", "translation": "He is a famous giant sumo wrestler.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "巨星", "reading": "きょせい", "sentence": "夜空に巨星が輝いている。", "translation": "A giant star is shining in the night sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "巨体", "reading": "きょたい", "sentence": "彼は巨体で部屋が狭く見える。", "translation": "With his huge body, the room looks small.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "挙党", "reading": "きょとう", "sentence": "挙党一致で政策を進める。", "translation": "The whole party will advance the policy as one.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "虚栄", "reading": "きょえい", "sentence": "虚栄心は捨てたほうがいい。", "translation": "It is better to throw away your vanity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "虚空", "reading": "こくう", "sentence": "鳥が虚空へ消えていった。", "translation": "The bird disappeared into the empty sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "虚心", "reading": "きょしん", "sentence": "虚心に人の意見を聞く。", "translation": "I listen to other people's opinions with an open mind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "虚無", "reading": "きょむ", "sentence": "人生の虚無を感じる夜だ。", "translation": "It is a night where I feel the nothingness of life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漁港", "reading": "ぎょこう", "sentence": "朝の漁港はとても活気がある。", "translation": "The fishing harbor is very lively in the morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漁場", "reading": "ぎょじょう", "sentence": "ここは豊かな漁場として有名だ。", "translation": "This place is famous as a rich fishing ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "漁村", "reading": "ぎょそん", "sentence": "海沿いの静かな漁村に住む。", "translation": "I live in a quiet fishing village by the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "魚介", "reading": "ぎょかい", "sentence": "新鮮な魚介を市場で買った。", "translation": "I bought fresh seafood at the market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "魚群", "reading": "ぎょぐん", "sentence": "海に大きな魚群が見える。", "translation": "I can see a large school of fish in the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "魚肉", "reading": "ぎょにく", "sentence": "魚肉ソーセージが好きだ。", "translation": "I like fish meat sausage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "魚類", "reading": "ぎょるい", "sentence": "水族館で多くの魚類を見る。", "translation": "I see many kinds of fish at the aquarium.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "京阪", "reading": "けいはん", "sentence": "京阪のあいだを電車で移動する。", "translation": "I travel between Kyoto and Osaka by train.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "供出", "reading": "きょうしゅつ", "sentence": "米の供出を求められた。", "translation": "I was asked to deliver rice to the government.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "供養", "reading": "くよう", "sentence": "先祖の供養のために寺へ行く。", "translation": "I am going to the temple for a memorial service for my ancestors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "競る", "reading": "せる", "sentence": "市場で新鮮な魚を競る。", "translation": "They compete for fresh fish at the market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "競演", "reading": "きょうえん", "sentence": "有名な歌手の競演を見る。", "translation": "I watch a competitive performance by famous singers.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "競艇", "reading": "きょうてい", "sentence": "週末に競艇場へ遊びに行く。", "translation": "I am going to the boat race track this weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "競歩", "reading": "きょうほ", "sentence": "オリンピックで競歩を見る。", "translation": "I watch racewalking at the Olympics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "競輪", "reading": "けいりん", "sentence": "初めて競輪場に行ってみた。", "translation": "I went to the cycle racing track for the first time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共栄", "reading": "きょうえい", "sentence": "二国は平和と共栄を目指す", "translation": "The two countries aim for peace and mutual prosperity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共演", "reading": "きょうえん", "sentence": "二人がドラマで共演した", "translation": "The two of them performed together in a drama.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共学", "reading": "きょうがく", "sentence": "この学校は男女共学です", "translation": "This school is coeducational.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共催", "reading": "きょうさい", "sentence": "そのイベントを共催する", "translation": "We will co-sponsor that event.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共産", "reading": "きょうさん", "sentence": "大学で共産主義を学んだ", "translation": "I studied communism at university.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共生", "reading": "きょうせい", "sentence": "自然との共生が大切だ", "translation": "Coexistence with nature is important.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共著", "reading": "きょうちょ", "sentence": "先生と共著の本を出した", "translation": "I published a co-authored book with my professor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共闘", "reading": "きょうとう", "sentence": "彼らと共闘することにした", "translation": "I decided to form a united front with them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共犯", "reading": "きょうはん", "sentence": "彼は事件の共犯だった", "translation": "He was an accomplice in the crime.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "共謀", "reading": "きょうぼう", "sentence": "二人は共謀して盗んだ", "translation": "The two of them conspired to steal it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "協賛", "reading": "きょうさん", "sentence": "多くの企業が協賛する", "translation": "Many companies are sponsoring it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "協和", "reading": "きょうわ", "sentence": "地域社会の協和を図る", "translation": "We seek harmony in the local community.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "境地", "reading": "きょうち", "sentence": "彼は悟りの境地に達した", "translation": "He reached a state of enlightenment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "境内", "reading": "けいだい", "sentence": "神社の境内を歩いた", "translation": "I walked through the shrine grounds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "境目", "reading": "さかいめ", "sentence": "二つの国の境目を見る", "translation": "I see the border between the two countries.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "峡谷", "reading": "きょうこく", "sentence": "深い峡谷を旅しました", "translation": "I traveled through a deep gorge.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強さ", "reading": "つよさ", "sentence": "彼女の強さに驚いた", "translation": "I was surprised by her strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強行", "reading": "きょうこう", "sentence": "反対を押し切り強行した", "translation": "I ignored the opposition and forced it through.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強弱", "reading": "きょうじゃく", "sentence": "声の強弱を意識する", "translation": "Be conscious of the strength and weakness of your voice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強壮", "reading": "きょうそう", "sentence": "彼は非常に強壮な体だ", "translation": "He has a very robust body.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強打", "reading": "きょうだ", "sentence": "ボールを強打した", "translation": "I hit the ball with a heavy blow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "強敵", "reading": "きょうてき", "sentence": "今度の相手は強敵だ", "translation": "Our next opponent is a formidable enemy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教唆", "reading": "きょうさ", "sentence": "犯罪を教唆してはいけない", "translation": "You must not instigate a crime.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教習", "reading": "きょうしゅう", "sentence": "自動車教習に通っている", "translation": "I am attending driving school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教書", "reading": "きょうしょ", "sentence": "大統領が教書を送った", "translation": "The president sent a message.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教祖", "reading": "きょうそ", "sentence": "その宗教の教祖は非常に有名です", "translation": "The founder of that religion is very famous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教壇", "reading": "きょうだん", "sentence": "先生が教壇の上に立っています", "translation": "The teacher is standing on the platform.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教務", "reading": "きょうむ", "sentence": "教務の担当者に相談に行きます", "translation": "I will go to consult with the academic affairs person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "教諭", "reading": "きょうゆ", "sentence": "彼は高校の数学の教諭です", "translation": "He is a high school math teacher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "橋脚", "reading": "きょうきゃく", "sentence": "橋脚が川の水に浸かっています", "translation": "The bridge pier is submerged in the river water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "狂言", "reading": "きょうげん", "sentence": "今度初めて狂言を見に行きます", "translation": "I am going to see a kyogen performance for the first time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "狂奔", "reading": "きょうほん", "sentence": "彼は成功のために狂奔している", "translation": "He is rushing around for success.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "狂乱", "reading": "きょうらん", "sentence": "観客は狂乱の渦に包まれた", "translation": "The audience was wrapped in a whirlwind of frenzy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "胸襟", "reading": "きょうきん", "sentence": "彼と胸襟を開いて語り合った", "translation": "I opened my heart and talked with him.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "胸像", "reading": "きょうぞう", "sentence": "公園に有名な詩人の胸像がある", "translation": "There is a bust of a famous poet in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "興す", "reading": "おこす", "sentence": "地元の産業を興す必要があります", "translation": "We need to vitalize the local industry.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "興業", "reading": "こうぎょう", "sentence": "新しい興業を始める予定です", "translation": "I plan to start a new business enterprise.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "興隆", "reading": "こうりゅう", "sentence": "我が国がさらに興隆することを願う", "translation": "I wish for the further prosperity of our country.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "郷土", "reading": "きょうど", "sentence": "久しぶりに郷土へ帰りました", "translation": "I returned to my native place for the first time in a while.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鏡台", "reading": "きょうだい", "sentence": "鏡台の前で髪を整えました", "translation": "I fixed my hair in front of the vanity table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "饗宴", "reading": "きょうえん", "sentence": "夜には豪華な饗宴が開かれた", "translation": "A luxurious banquet was held at night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "凝固", "reading": "ぎょうこ", "sentence": "液体が冷えて凝固しました", "translation": "The liquid cooled and solidified.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "凝縮", "reading": "ぎょうしゅく", "sentence": "この本は知識が凝縮されている", "translation": "This book is condensed with knowledge.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "暁星", "reading": "ぎょうせい", "sentence": "空に暁星が輝いています", "translation": "The morning star is shining in the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "業種", "reading": "ぎょうしゅ", "sentence": "彼は様々な業種を経験した", "translation": "He has experienced various types of industries.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "局地", "reading": "きょくち", "sentence": "今日は局地的な雨が降ります", "translation": "There will be localized rain today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "曲折", "reading": "きょくせつ", "sentence": "人生には多くの曲折がある", "translation": "There are many twists and turns in life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "曲線", "reading": "きょくせん", "sentence": "グラフに美しい曲線を描く", "translation": "Draw a beautiful curve on the graph.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "極み", "reading": "きわみ", "sentence": "それは美しさの極みです", "translation": "It is the height of beauty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "極右", "reading": "きょくう", "sentence": "彼は極右の思想を持っている", "translation": "He holds far-right views.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "極楽", "reading": "ごくらく", "sentence": "ここはまるで極楽のような場所だ", "translation": "This place is like paradise.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "極寒", "reading": "ごっかん", "sentence": "極寒の地で冬を越すのは大変だ", "translation": "It is difficult to survive the winter in the extreme cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "極限", "reading": "きょくげん", "sentence": "彼は体力の極限まで練習をした", "translation": "He practiced to the very limit of his physical strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "玉砕", "reading": "ぎょくさい", "sentence": "古い映画で玉砕の場面を見た", "translation": "I saw a scene of honorable defeat in an old movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "均一", "reading": "きんいつ", "sentence": "この店の商品は全て価格が均一だ", "translation": "The prices of all items in this store are uniform.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "均質", "reading": "きんしつ", "sentence": "この液体は中身が均質ではない", "translation": "The contents of this liquid are not homogeneous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "均整", "reading": "きんせい", "sentence": "この建物は均整がとれている", "translation": "This building is well-balanced.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "禁句", "reading": "きんく", "sentence": "会議でその話題は禁句とされた", "translation": "That topic was considered a taboo at the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "禁錮", "reading": "きんこ", "sentence": "彼は禁錮刑を言い渡された", "translation": "He was sentenced to imprisonment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "禁制", "reading": "きんせい", "sentence": "その行為は古くから禁制である", "translation": "That act has been prohibited for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "禁輸", "reading": "きんゆ", "sentence": "政府は武器の禁輸を決定した", "translation": "The government decided to impose an arms embargo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "筋力", "reading": "きんりょく", "sentence": "運動をして筋力を鍛える", "translation": "I exercise to build up my muscle strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "緊縮", "reading": "きんしゅく", "sentence": "会社は厳しい緊縮財政を行う", "translation": "The company is implementing a strict austerity policy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "謹慎", "reading": "きんしん", "sentence": "彼は不祥事により謹慎中だ", "translation": "He is currently suspended due to a scandal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "近海", "reading": "きんかい", "sentence": "近海でとれた魚は新鮮である", "translation": "Fish caught in coastal waters are fresh.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "近況", "reading": "きんきょう", "sentence": "久しぶりに友人の近況を聞いた", "translation": "I heard about my friend's recent situation for the first time in a while.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "近親", "reading": "きんしん", "sentence": "近親者だけで式を執り行った", "translation": "The ceremony was held only with close relatives.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "近世", "reading": "きんせい", "sentence": "近世の歴史について勉強する", "translation": "I am studying early modern history.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "金具", "reading": "かなぐ", "sentence": "この箱の金具は錆びている", "translation": "The metal fittings on this box are rusty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "金脈", "reading": "きんみゃく", "sentence": "山の中に新しい金脈が見つかる", "translation": "A new gold vein is found in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "銀紙", "reading": "ぎんがみ", "sentence": "残り物を銀紙で包んで保存する", "translation": "I wrap the leftovers in aluminum foil to store them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "銀杯", "reading": "ぎんぱい", "sentence": "優勝者が銀杯を受け取った", "translation": "The winner received a silver cup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "九九", "reading": "くく", "sentence": "子供は九九を覚えるのが大変だ", "translation": "It is hard for children to learn the multiplication table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "９月", "reading": "くがつ", "sentence": "９月は涼しくて過ごしやすい", "translation": "September is cool and comfortable.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "九重", "reading": "ここのえ", "sentence": "九重の塔が遠くに見えている", "translation": "A nine-storied pagoda can be seen in the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "９日", "reading": "ここのか", "sentence": "今月の９日に旅行に行きます", "translation": "I am going on a trip on the 9th of this month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "句集", "reading": "くしゅう", "sentence": "祖父は新しい句集を出した", "translation": "My grandfather published a new collection of haiku.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "区議", "reading": "くぎ", "sentence": "父は地元の区議に選ばれた", "translation": "My father was elected as the local ward assemblyman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "区長", "reading": "くちょう", "sentence": "新しい区長が挨拶に来た", "translation": "The new ward mayor came to greet us.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "区内", "reading": "くない", "sentence": "区内には公園がたくさんある", "translation": "There are many parks within this ward.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "苦笑", "reading": "くしょう", "sentence": "彼は失敗して苦笑した", "translation": "He made a wry smile after failing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "駆動", "reading": "くどう", "sentence": "その車は後輪駆動です", "translation": "That car is rear-wheel drive.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "具象", "reading": "ぐしょう", "sentence": "もっと具象的な絵を描いて", "translation": "Please paint a more concrete picture.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "具体", "reading": "ぐたい", "sentence": "具体的に説明してください", "translation": "Please explain it in concrete terms.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空車", "reading": "くうしゃ", "sentence": "空車のタクシーを拾った", "translation": "I caught an empty taxi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空疎", "reading": "くうそ", "sentence": "彼の話は空疎に聞こえる", "translation": "His story sounds hollow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空調", "reading": "くうちょう", "sentence": "部屋の空調を調整する", "translation": "I will adjust the room's air conditioning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空転", "reading": "くうてん", "sentence": "タイヤが雪の上で空転する", "translation": "The tires are spinning on the snow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空洞", "reading": "くうどう", "sentence": "木の幹に大きな空洞がある", "translation": "There is a large hollow in the tree trunk.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "空母", "reading": "くうぼ", "sentence": "海の上に空母が見える", "translation": "I can see an aircraft carrier on the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "偶像", "reading": "ぐうぞう", "sentence": "神殿に古い偶像がある", "translation": "There is an old idol in the temple.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "偶発", "reading": "ぐうはつ", "sentence": "それは偶発的な事故だった", "translation": "It was an accidental occurrence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "屈折", "reading": "くっせつ", "sentence": "水中で光が屈折する", "translation": "Light refracts underwater.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "屈託", "reading": "くったく", "sentence": "彼は屈託のない笑顔を見せた", "translation": "He showed a carefree smile.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "桑田", "reading": "そうでん", "sentence": "村の近くに桑田が広がる", "translation": "A mulberry plantation stretches near the village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "桑畑", "reading": "くわばたけ", "sentence": "祖母は桑畑で働いている", "translation": "My grandmother is working in the mulberry field.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "訓戒", "reading": "くんかい", "sentence": "先生から厳しい訓戒を受けた", "translation": "I received a stern admonition from the teacher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "訓令", "reading": "くんれい", "sentence": "会社から新しい訓令が出る", "translation": "New instructions are coming from the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "群像", "reading": "ぐんぞう", "sentence": "若者の群像を描いた作品だ", "translation": "It is a work that depicts a group of young people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "群島", "reading": "ぐんとう", "sentence": "その国は美しい群島にある", "translation": "That country is in a beautiful archipelago.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍医", "reading": "ぐんい", "sentence": "祖父は戦時中に軍医として働きました", "translation": "My grandfather worked as a military doctor during the war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍拡", "reading": "ぐんかく", "sentence": "近隣諸国は軍拡を続けています", "translation": "Neighboring countries are continuing their military expansion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍機", "reading": "ぐんき", "sentence": "それは極めて重要な軍機です", "translation": "That is an extremely important military secret.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍港", "reading": "ぐんこう", "sentence": "その町には大きな軍港があります", "translation": "There is a large naval port in that town.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍需", "reading": "ぐんじゅ", "sentence": "工場は軍需品の生産を始めました", "translation": "The factory started production of military supplies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍政", "reading": "ぐんせい", "sentence": "この国は長い間軍政下にありました", "translation": "This country was under a military government for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍属", "reading": "ぐんぞく", "sentence": "彼は軍属として基地で働いています", "translation": "He is working at the base as a civilian in military employ.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍配", "reading": "ぐんばい", "sentence": "行司が軍配を高く上げました", "translation": "The referee raised his war fan high.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍服", "reading": "ぐんぷく", "sentence": "彼は新しい軍服に袖を通しました", "translation": "He put on his new military uniform.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軍用", "reading": "ぐんよう", "sentence": "その車は軍用として使われています", "translation": "That vehicle is used for military purposes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "郡部", "reading": "ぐんぶ", "sentence": "その県には広い郡部があります", "translation": "That prefecture has vast rural districts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "係争", "reading": "けいそう", "sentence": "二つの会社の間で土地の係争が起きた", "translation": "A land dispute broke out between the two companies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "傾倒", "reading": "けいとう", "sentence": "彼はその思想に深く傾倒しています", "translation": "He is deeply devoted to that philosophy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "啓示", "reading": "けいじ", "sentence": "彼は神の啓示を受けたと語った", "translation": "He said he received a divine revelation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "啓蒙", "reading": "けいもう", "sentence": "本を読むことは国民の啓蒙に役立つ", "translation": "Reading books helps in the enlightenment of the people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "形状", "reading": "けいじょう", "sentence": "その石は珍しい形状をしています", "translation": "That stone has an unusual shape.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慶事", "reading": "けいじ", "sentence": "家族にとって大きな慶事がありました", "translation": "There was a big auspicious event for our family.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慶祝", "reading": "けいしゅく", "sentence": "国全体で平和を慶祝しました", "translation": "The whole country celebrated the peace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "慶弔", "reading": "けいちょう", "sentence": "受付で慶弔の相談をしました", "translation": "I consulted the reception desk about congratulations and condolences.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "憩い", "reading": "いこい", "sentence": "公園は住民の憩いの場です", "translation": "The park is a place of relaxation for the residents.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "憩う", "reading": "いこう", "sentence": "木陰で少し憩うことにしました", "translation": "I decided to rest for a while in the shade of a tree.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "掲揚", "reading": "けいよう", "sentence": "朝一番に国旗を掲揚します", "translation": "We hoist the national flag first thing in the morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "敬具", "reading": "けいぐ", "sentence": "手紙の最後に敬具と書きました", "translation": "I wrote 'yours sincerely' at the end of the letter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "敬老", "reading": "けいろう", "sentence": "地域の敬老のイベントに参加した", "translation": "I participated in the local event for respect for the aged.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "渓谷", "reading": "けいこく", "sentence": "深い渓谷に橋が架かっています", "translation": "There is a bridge spanning the deep valley.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "渓流", "reading": "けいりゅう", "sentence": "山で美しい渓流を見ました", "translation": "I saw a beautiful mountain stream in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "系譜", "reading": "けいふ", "sentence": "家族の系譜を調べています", "translation": "I am looking into my family genealogy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "系列", "reading": "けいれつ", "sentence": "新しい系列の店が開店した", "translation": "A new store in the chain opened.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "経る", "reading": "へる", "sentence": "長い年月を経る間に変わった", "translation": "It changed over the passing of many years.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "経理", "reading": "けいり", "sentence": "彼は会社の経理を担当する", "translation": "He is in charge of the company's accounting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "継投", "reading": "けいとう", "sentence": "監督は早い継投を決断した", "translation": "The manager decided on an early pitching change.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "計測", "reading": "けいそく", "sentence": "機械で正確に計測をします", "translation": "I will measure it accurately with a machine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "警護", "reading": "けいご", "sentence": "大臣には警護がついている", "translation": "The minister has bodyguards with him.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "警視", "reading": "けいし", "sentence": "警視が事件の現場に到着した", "translation": "The police superintendent arrived at the crime scene.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "警鐘", "reading": "けいしょう", "sentence": "専門家が地球温暖化に警鐘を鳴らす", "translation": "Experts are sounding the alarm on global warming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "警笛", "reading": "けいてき", "sentence": "車の警笛が遠くで鳴りました", "translation": "A car horn sounded in the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽減", "reading": "けいげん", "sentence": "税金の負担を軽減してほしい", "translation": "I want the tax burden reduced.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽震", "reading": "けいしん", "sentence": "夜中に小さな軽震があった", "translation": "There was a weak earthquake in the middle of the night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽妙", "reading": "けいみょう", "sentence": "彼の軽妙なトークが面白い", "translation": "His clever and lighthearted talk is funny.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽油", "reading": "けいゆ", "sentence": "トラックは軽油で動きます", "translation": "The truck runs on diesel fuel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "軽量", "reading": "けいりょう", "sentence": "このパソコンは軽量で便利だ", "translation": "This laptop is lightweight and convenient.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "芸者", "reading": "げいしゃ", "sentence": "京都で芸者を見かけました", "translation": "I saw a geisha in Kyoto.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "芸能", "reading": "げいのう", "sentence": "彼女は芸能の世界に憧れる", "translation": "She longs for the world of performing arts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "芸名", "reading": "げいめい", "sentence": "その俳優は芸名を使っている", "translation": "That actor uses a stage name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "鯨肉", "reading": "げいにく", "sentence": "昔はよく鯨肉を食べました", "translation": "I used to eat whale meat often in the past.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "劇作", "reading": "げきさく", "sentence": "彼は劇作の勉強をしています", "translation": "He is studying playwriting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "劇薬", "reading": "げきやく", "sentence": "それは劇薬なので注意が必要だ", "translation": "That is a powerful medicine, so you need to be careful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "撃沈", "reading": "げきちん", "sentence": "敵の艦隊を撃沈しました", "translation": "We sank the enemy fleet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "激動", "reading": "げきどう", "sentence": "激動の時代を乗り越えた", "translation": "I overcame a turbulent era.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "激流", "reading": "げきりゅう", "sentence": "川は激流となって流れる", "translation": "The river flows as a raging stream.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "欠員", "reading": "けついん", "sentence": "今の部署には欠員が一人います。", "translation": "There is one vacancy in my current department.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "決済", "reading": "けっさい", "sentence": "スマホで簡単に決済ができます。", "translation": "You can easily make payments with your smartphone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "決裁", "reading": "けっさい", "sentence": "部長の決裁を待つ必要があります。", "translation": "I need to wait for the department manager's approval.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "決戦", "reading": "けっせん", "sentence": "来週がいよいよ決勝の決戦です。", "translation": "Next week is finally the decisive match of the finals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "潔癖", "reading": "けっぺき", "sentence": "彼はとても潔癖な性格です。", "translation": "He has a very fastidious personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "結び", "reading": "むすび", "sentence": "物語の結びがとても感動的です。", "translation": "The ending of the story is very moving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "結社", "reading": "けっしゃ", "sentence": "新しい研究のための結社を作ります。", "translation": "We will form an association for new research.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "結束", "reading": "けっそく", "sentence": "チームの結束が勝利につながりました。", "translation": "The team's unity led to the victory.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "結託", "reading": "けったく", "sentence": "悪者たちが結託して計画を立てた。", "translation": "The villains colluded to make a plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "結党", "reading": "けっとう", "sentence": "彼らは新しい政党の結党を目指す。", "translation": "They aim to form a new political party.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "血糖", "reading": "けっとう", "sentence": "健康診断で血糖を調べました。", "translation": "I checked my blood sugar during the health exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "月刊", "reading": "げっかん", "sentence": "この雑誌は月刊で発行されています。", "translation": "This magazine is published monthly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "月経", "reading": "げっけい", "sentence": "月経の時期には体がだるくなります。", "translation": "My body feels sluggish during my menstrual period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "検診", "reading": "けんしん", "sentence": "毎年必ずがんの検診を受けます。", "translation": "I make sure to have a cancer screening every year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "健闘", "reading": "けんとう", "sentence": "選手の健闘を心から称えます。", "translation": "I sincerely praise the athletes' strenuous efforts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "兼任", "reading": "けんにん", "sentence": "彼は二つの役職を兼任しています。", "translation": "He is concurrently holding two positions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "兼務", "reading": "けんむ", "sentence": "広報と営業を兼務することになった。", "translation": "I ended up holding both PR and sales positions concurrently.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "剣劇", "reading": "けんげき", "sentence": "映画館で古い剣劇を見ました。", "translation": "I watched an old samurai drama at the movie theater.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "剣士", "reading": "けんし", "sentence": "彼は有名な剣士として知られる。", "translation": "He is known as a famous swordsman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "圏外", "reading": "けんがい", "sentence": "山の中は携帯電話が圏外です。", "translation": "Mobile phones are out of range in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "圏内", "reading": "けんない", "sentence": "Wi-Fiの圏内に入りました。", "translation": "I have entered the Wi-Fi range.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "堅持", "reading": "けんじ", "sentence": "私たちは独自の意見を堅持する。", "translation": "We stick to our own opinions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "堅調", "reading": "けんちょう", "sentence": "現在の株価は非常に堅調です。", "translation": "Current stock prices are very firm.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "建議", "reading": "けんぎ", "sentence": "会議で新しい案を建議しました。", "translation": "I proposed a new plan at the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "建国", "reading": "けんこく", "sentence": "来年は建国記念日を祝います。", "translation": "We will celebrate the national foundation day next year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
