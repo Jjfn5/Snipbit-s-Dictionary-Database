@@ -14,8 +14,23 @@ permissions:
   contents: write
 
 jobs:
-  jmdict:
+  entries:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false          # one broken upstream must not block the others
+      matrix:
+        include:
+          - source: jmdict
+            cmd: python scripts/build_jmdict.py
+          - source: ccedict
+            cmd: python scripts/build_ccedict.py
+          - source: kor
+            cmd: python scripts/build_krdict.py
+          - source: spa
+            cmd: python scripts/build_kaikki.py --lang spa
+          - source: fra
+            cmd: python scripts/build_kaikki.py --lang fra
     steps:
       - uses: actions/checkout@v4
 
@@ -24,34 +39,36 @@ jobs:
           python-version: "3.12"
 
       - name: Tests
-        run: python tests/test_translit.py
+        run: |
+          python tests/test_translit.py
+          python tests/test_builders.py
 
       - name: Fetch previous manifest (for change detection)
         if: ${{ !inputs.force }}
         run: |
           mkdir -p out
           curl -fsSL -o out/prev-manifest.json \
-            "https://github.com/${{ github.repository }}/releases/download/jmdict/manifest.json" || true
+            "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}/manifest.json" || true
 
-      - name: Build jmdict.db
+      - name: Build ${{ matrix.source }}.db
         id: build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/build_jmdict.py \
+          ${{ matrix.cmd }} \
             --out-dir out \
             --prev-manifest out/prev-manifest.json \
-            --base-url "https://github.com/${{ github.repository }}/releases/download/jmdict"
+            --base-url "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}"
 
-      # One rolling release tag ("jmdict"): the app always reads the same
+      # One rolling release tag per source: the app always reads the same
       # stable URL, and re-publishing just replaces the assets.
       - name: Publish release assets
         if: steps.build.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: jmdict
-          name: JMdict (rolling)
+          tag_name: ${{ matrix.source }}
+          name: ${{ matrix.source }} dictionary (rolling)
           make_latest: false
           files: |
-            out/jmdict.db.gz
+            out/${{ matrix.source }}.db.gz
             out/manifest.json
