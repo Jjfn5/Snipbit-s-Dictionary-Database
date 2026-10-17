@@ -1,12 +1,15 @@
-name: build-examples-ja
+name: build-examples
 
+# Example sentences for every language: Tatoeba, with Gemini-written sentences
+# as the fallback for words Tatoeba doesn't cover. One job per language, one
+# at a time (they share one Gemini quota and push to the same branch).
 on:
   schedule:
     - cron: "30 3 * * *"   # daily, 03:30 UTC (after the weekly dictionary build on Mondays)
   workflow_dispatch:
     inputs:
       max_requests:
-        description: "Max Gemini requests this run (25 words each)"
+        description: "Max Gemini requests per language this run (25 words each)"
         default: "40"
       skip_gemini:
         description: "Skip the Gemini step (Tatoeba only)"
@@ -16,22 +19,40 @@ on:
 permissions:
   contents: write
 
-# Never two runs at once: both would append to examples/ja/gemini.jsonl.
-# Same group as the dictionary build: both publish into the one jmdict release.
+# Never two whole runs at once: both would append to examples/<lang>/gemini.jsonl.
 concurrency:
-  group: release-jmdict
+  group: examples
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    # Same group as the dictionary build of that language: both publish into
+    # that language's one release.
+    concurrency:
+      group: release-${{ matrix.source }}
+      cancel-in-progress: false
+    strategy:
+      fail-fast: false      # a broken language must not block the others
+      max-parallel: 1
+      matrix:
+        include:
+          - { lang: ja, source: jmdict,  name: Japanese }
+          - { lang: zh, source: ccedict, name: Chinese }
+          - { lang: ko, source: kor,     name: Korean }
+          - { lang: es, source: spa,     name: Spanish }
+          - { lang: fr, source: fra,     name: French }
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Install jieba (Chinese word index)
+        if: matrix.lang == 'zh'
+        run: pip install jieba
 
       - name: Tests
         run: |
@@ -46,29 +67,37 @@ jobs:
         id: cache
         uses: actions/cache@v4
         with:
-          path: out/tatoeba_ja.db
-          key: tatoeba-ja-${{ steps.month.outputs.key }}-v1
+          path: out/tatoeba_${{ matrix.lang }}.db
+          key: tatoeba-${{ matrix.lang }}-${{ steps.month.outputs.key }}-v2
 
       - name: Build Tatoeba db
         if: steps.cache.outputs.cache-hit != 'true'
-        run: python scripts/build_tatoeba_ja.py --out out/tatoeba_ja.db
+        run: python scripts/build_examples.py tatoeba --lang ${{ matrix.lang }} --out out/tatoeba_${{ matrix.lang }}.db
 
-      - name: Get jmdict.db (word list for the Gemini step)
+      # The dictionary supplies the word list for the Gemini step. If the
+      # language's dictionary isn't published yet, the Gemini step is skipped.
+      - name: Get ${{ matrix.source }}.db (word list for the Gemini step)
+        id: dict
         run: |
           mkdir -p out
-          curl -fsSL -o out/jmdict.db.gz \
-            "https://github.com/${{ github.repository }}/releases/download/jmdict/jmdict.db.gz"
-          gunzip -f out/jmdict.db.gz
+          if curl -fsSL -o out/${{ matrix.source }}.db.gz \
+              "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}/${{ matrix.source }}.db.gz"; then
+            gunzip -f out/${{ matrix.source }}.db.gz
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No published ${{ matrix.source }} dictionary yet -- skipping Gemini"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Previous examples manifest
         run: |
           curl -fsSL -o out/prev-manifest.json \
-            "https://github.com/${{ github.repository }}/releases/download/jmdict/examples-manifest.json" || true
+            "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}/examples-manifest.json" || true
 
       # A Gemini outage must never block publishing the Tatoeba examples.
       - name: Gemini fill
         continue-on-error: true
-        if: ${{ !inputs.skip_gemini }}
+        if: ${{ !inputs.skip_gemini && steps.dict.outputs.ok == 'true' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # Optional repo variables: comma-separated model priority list; models
@@ -76,41 +105,45 @@ jobs:
           GEMINI_MODELS: ${{ vars.GEMINI_MODELS }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
-          python scripts/gemini_fill_ja.py \
-            --jmdict out/jmdict.db \
-            --tatoeba out/tatoeba_ja.db \
+          python scripts/gemini_fill.py \
+            --lang ${{ matrix.lang }} \
+            --dictionary out/${{ matrix.source }}.db \
+            --tatoeba out/tatoeba_${{ matrix.lang }}.db \
             --max-requests "${{ inputs.max_requests || '40' }}"
 
       - name: Commit new Gemini sentences
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add examples/ja
+          git add examples/${{ matrix.lang }}
           if git diff --cached --quiet; then
             echo "No new Gemini sentences"
           else
-            git commit -m "Add Gemini example sentences ($(date -u +%F))"
+            git commit -m "Add ${{ matrix.name }} Gemini example sentences ($(date -u +%F))"
             git pull --rebase
             git push
           fi
 
-      - name: Assemble jmdict_examples.db
+      - name: Assemble ${{ matrix.source }}_examples.db
         id: assemble
         run: |
-          python scripts/assemble_examples_ja.py \
-            --tatoeba out/tatoeba_ja.db \
-            --gemini examples/ja/gemini.jsonl \
+          python scripts/build_examples.py assemble \
+            --lang ${{ matrix.lang }} \
+            --tatoeba out/tatoeba_${{ matrix.lang }}.db \
+            --gemini examples/${{ matrix.lang }}/gemini.jsonl \
             --out-dir out \
             --prev-manifest out/prev-manifest.json \
-            --base-url "https://github.com/${{ github.repository }}/releases/download/jmdict"
+            --base-url "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}"
 
+      # Asset names are per kind, so this replaces only the examples files and
+      # leaves the dictionary files from dictionary.yml untouched.
       - name: Publish release assets
         if: steps.assemble.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: jmdict
-          name: Japanese (rolling)
+          tag_name: ${{ matrix.source }}
+          name: ${{ matrix.name }} (rolling)
           make_latest: false
           files: |
-            out/jmdict_examples.db.gz
+            out/${{ matrix.source }}_examples.db.gz
             out/examples-manifest.json

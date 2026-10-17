@@ -51,6 +51,7 @@ jobs:
         run: |
           python tests/test_translit.py
           python tests/test_builders.py
+          python tests/test_examples.py
 
       - name: Fetch previous manifest (for change detection)
         if: ${{ !inputs.force }}
