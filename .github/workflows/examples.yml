@@ -44,9 +44,9 @@ jobs:
           - { lang: es, source: spa,     name: Spanish }
           - { lang: fr, source: fra,     name: French }
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -65,7 +65,7 @@ jobs:
 
       - name: Restore Tatoeba build
         id: cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: out/tatoeba_${{ matrix.lang }}.db
           key: tatoeba-${{ matrix.lang }}-${{ steps.month.outputs.key }}-v2
@@ -139,7 +139,7 @@ jobs:
       # leaves the dictionary files from dictionary.yml untouched.
       - name: Publish release assets
         if: steps.assemble.outputs.changed == 'true'
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: ${{ matrix.source }}
           name: ${{ matrix.name }} (rolling)
