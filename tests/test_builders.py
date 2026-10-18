@@ -1,4 +1,4 @@
-"""Offline tests for the ccedict / krdict / kaikki entry builders (no network, tiny fixtures)."""
+"""Offline tests for the ccedict / krdict / kaikki entry builders (dictionaries/<lang>/) (no network, tiny fixtures)."""
 import gzip
 import json
 import sqlite3
@@ -8,9 +8,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-import build_ccedict as cc  # noqa: E402
-import build_kaikki as kk  # noqa: E402
-import build_krdict as kr  # noqa: E402
+sys.path.insert(0, str(ROOT / "dictionaries" / "zh"))
+sys.path.insert(0, str(ROOT / "dictionaries" / "ko"))
+import ccedict as cc  # noqa: E402
+import kaikki as kk  # noqa: E402  (shared parser in scripts/)
+import krdict as kr  # noqa: E402
 import dictlib  # noqa: E402
 
 COLS = ["source", "headword", "alt_headword", "reading", "part_of_speech",
