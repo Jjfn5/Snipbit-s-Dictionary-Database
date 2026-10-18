@@ -6,6 +6,7 @@ children are searched (never descendants).
 """
 from __future__ import annotations
 
+import re
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -83,10 +84,58 @@ def entry_row(entry):
             common, build_latin_key("kor", headword))
 
 
+# --------------------------------------------------------------- robust XML
+# The upstream mirror is machine-generated and occasionally contains things a
+# strict XML parser rejects ("not well-formed (invalid token)"): control
+# characters, bare `&`, or a stray `<` / `"` inside a feat value. We repair
+# those textually before parsing instead of failing the whole weekly build.
+_ILLEGAL = re.compile("[\x00-\x08\x0b\x0c\x0e-\x1f\ud800-\udfff\ufffe\uffff]")
+_BARE_AMP = re.compile(r"&(?!(?:amp|lt|gt|quot|apos|#[0-9]+|#x[0-9a-fA-F]+);)")
+_FEAT = re.compile(r'(<feat att=")([^"]*)(" val=")(.*?)("\s*/>)')
+
+
+def _fix_feat(m):
+    val = _BARE_AMP.sub("&amp;", m.group(4)).replace("<", "&lt;").replace('"', "&quot;")
+    return m.group(1) + m.group(2) + m.group(3) + val + m.group(5)
+
+
+def sanitize_xml(text: str) -> str:
+    text = text.lstrip("\ufeff")
+    text = _ILLEGAL.sub("", text)
+    text = _FEAT.sub(_fix_feat, text)
+    return _BARE_AMP.sub("&amp;", text)
+
+
+_ENTRY = re.compile(r"<LexicalEntry\b.*?</LexicalEntry>", re.S)
+
+
+def parse_entries(path):
+    """Yields every <LexicalEntry> element in the file, tolerating bad markup."""
+    text = sanitize_xml(Path(path).read_bytes().decode("utf-8", errors="replace"))
+    try:
+        parser = ET.XMLParser(encoding="utf-8")
+        parser.feed(text.encode("utf-8"))
+        root = parser.close()
+    except ET.ParseError as e:
+        line = e.position[0] if getattr(e, "position", None) else 0
+        lines = text.splitlines()
+        print(f"WARNING: {path}: {e}; falling back to per-entry parsing", file=sys.stderr)
+        for i in range(max(0, line - 3), min(len(lines), line + 2)):
+            print(f"  {i + 1}: {lines[i][:200]}", file=sys.stderr)
+        skipped = 0
+        for m in _ENTRY.finditer(text):
+            try:
+                yield ET.fromstring(m.group(0))
+            except ET.ParseError:
+                skipped += 1
+        print(f"  skipped {skipped} unparseable entries", file=sys.stderr)
+        return
+    yield from root.iter("LexicalEntry")
+
+
 def build_rows(files):
     for path in files:
-        root = ET.parse(path).getroot()
-        for entry in root.iter("LexicalEntry"):
+        for entry in parse_entries(path):
             row = entry_row(entry)
             if row:
                 yield row
