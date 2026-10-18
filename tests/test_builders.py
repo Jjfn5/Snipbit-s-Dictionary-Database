@@ -90,6 +90,34 @@ def test_krdict():
         assert json.loads(rows[1][5]) == [{"g": ["a clear liquid"]}]  # definition-only sense
 
 
+def test_krdict_malformed_xml():
+    """Bare &, stray < and ", and control chars must not abort the build."""
+    bad = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n<LexicalResource><Lexicon>\n'
+        '<LexicalEntry>\n'
+        ' <Lemma><feat att="writtenForm" val="굴"/></Lemma>\n'
+        ' <Sense><Equivalent><feat att="language" val="영어"/>\n'
+        '   <feat att="lemma" val="oyster"/>\n'
+        '   <feat att="definition" val="salt & pepper < 5" or "x"/></Equivalent></Sense>\n'
+        '</LexicalEntry>\n'
+        '<LexicalEntry>\n'
+        ' <Lemma><feat att="writtenForm" val="물"/></Lemma>\n'
+        ' <Sense><Equivalent><feat att="language" val="영어"/>\n'
+        '   <feat att="lemma" val="water\x0b"/></Equivalent></Sense>\n'
+        '</LexicalEntry>\n'
+        '</Lexicon></LexicalResource>'
+    )
+    with tempfile.TemporaryDirectory() as t:
+        d = Path(t)
+        src = d / "k.xml"
+        src.write_text(bad, encoding="utf-8")
+        out = d / "out"
+        assert kr.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0"]) == 0
+        rows = rows_of(out / "kor.db")
+        assert [r[1] for r in rows] == ["굴", "물"]
+        assert json.loads(rows[0][5])[0]["i"] == 'salt & pepper < 5" or "x'
+
+
 def test_kaikki():
     lines = [
         json.dumps({"word": "Café", "pos": "noun",
