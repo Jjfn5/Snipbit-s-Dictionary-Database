@@ -980,3 +980,947 @@
 {"word": "壶", "reading": "hu2", "sentence": "他拿起茶壶给自己倒了杯水", "translation": "He picked up the pot and poured himself a cup of water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
 {"word": "壸", "reading": "kun3", "sentence": "古代宫廷深处有幽静的壸", "translation": "There are quiet palace corridors deep in the ancient palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
 {"word": "夂", "reading": "zhi3", "sentence": "夂在汉字里表示行走缓慢", "translation": "In Chinese characters, zhi represents walking slowly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-17"}
+{"word": "仑", "reading": "lun2", "sentence": "我们要把书仑列好", "translation": "We need to arrange the books.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "俣", "reading": "yu3", "sentence": "那里的树木非常俣", "translation": "The trees there are very big.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𠇹", "reading": "jing4", "sentence": "他悄悄𠇹过那条小路", "translation": "He quietly passed through that path.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "伣", "reading": "qian4", "sentence": "他长得伣他父亲", "translation": "He looks just like his father.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "俚", "reading": "Li3", "sentence": "俚人居住在南方山区", "translation": "The Li people live in the southern mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "俛", "reading": "mian3", "sentence": "老师总是俛勉学生学习", "translation": "The teacher always exhorts students to study.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "偓", "reading": "wo4", "sentence": "他在狭小的房间里很偓", "translation": "He feels constrained in the small room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "券", "reading": "quan4", "sentence": "他手里拿着一张债券", "translation": "He holds a bond in his hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "劦", "reading": "lie4", "sentence": "他每天都在坚持劦", "translation": "He persists in unending exertion every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "唡", "reading": "liang3", "sentence": "这块肉有两唡重", "translation": "This piece of meat weighs two ounces.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "啲", "reading": "di1", "sentence": "我只想喝啲水", "translation": "I just want to drink some water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𠮶", "reading": "ge4", "sentence": "𠮶个人是我的老师", "translation": "That person is my teacher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嚟", "reading": "li4", "sentence": "他从远方嚟到这里", "translation": "He came here from afar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "埶", "reading": "yi4", "sentence": "他学习了很多手工埶", "translation": "He learned many manual skills.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "塬", "reading": "yuan2", "sentence": "我家住在黄土塬上", "translation": "My home is on the loess plateau.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "塽", "reading": "shuang3", "sentence": "我们在塽地建造房屋", "translation": "We are building houses on the elevated sunlit ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夆", "reading": "feng2", "sentence": "两只公羊正在互相夆", "translation": "Two rams are butting each other.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夌", "reading": "ling2", "sentence": "你不要在这里夌", "translation": "Don't dawdle here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夒", "reading": "nao2", "sentence": "山林里住着一只夒", "translation": "A gibbon lives in the forest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夔", "reading": "Kui2", "sentence": "神话中有一只夔", "translation": "There is a Kui in the myths.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夕", "reading": "xi1", "sentence": "夕阳照在湖面上", "translation": "The sunset shines on the lake surface.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夗", "reading": "yuan4", "sentence": "他睡着的时候总是夗", "translation": "He always turns over when he is asleep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夙", "reading": "su4", "sentence": "他每日夙兴夜寐工作", "translation": "He works from early morning until late at night every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夤", "reading": "yin2", "sentence": "他夤夜还在办公室忙碌", "translation": "He was still busy in the office late at night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夥", "reading": "huo3", "sentence": "山中野果夥且味美", "translation": "The wild fruits in the mountains are numerous and delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夫", "reading": "fu1", "sentence": "她的丈夫是一位医生", "translation": "Her husband is a doctor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夬", "reading": "guai4", "sentence": "他做事向来果敢夬断", "translation": "He has always been decisive in his actions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夭", "reading": "yao1", "sentence": "那孩子不幸夭折了", "translation": "That child unfortunately died prematurely.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "央", "reading": "yang1", "sentence": "公园位于城市的中央", "translation": "The park is located in the center of the city.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夷", "reading": "yi2", "sentence": "古籍中常提及夷族", "translation": "Ancient books often mention the Yi people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夼", "reading": "kuang3", "sentence": "村庄建在低洼的夼地", "translation": "The village is built on the low-lying ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "契", "reading": "qi4", "sentence": "工匠在木头上契刻花纹", "translation": "The artisan carves patterns on the wood.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奕", "reading": "yi4", "sentence": "他学识渊博奕奕有神", "translation": "He is knowledgeable and looks full of spirit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奘", "reading": "zang4", "sentence": "这位僧人长得十分奘实", "translation": "This monk looks very robust.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奜", "reading": "fei3", "sentence": "那座山峰显得十分奜大", "translation": "That mountain peak looks very big.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奠", "reading": "dian4", "sentence": "我们要为新公司奠定基础", "translation": "We need to lay the foundation for the new company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奡", "reading": "ao4", "sentence": "他性格傲慢显得十分奡", "translation": "He has an arrogant personality and appears very haughty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奢", "reading": "she1", "sentence": "他不应该过这种奢华生活", "translation": "He should not live such an extravagant life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奣", "reading": "weng3", "sentence": "今日天空奣朗万里无云", "translation": "The sky is clear and cloudless today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奥", "reading": "Ao4", "sentence": "奥地利是欧洲的美丽国家", "translation": "Austria is a beautiful country in Europe.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "夺", "reading": "duo2", "sentence": "他拼尽全力夺回了冠军", "translation": "He tried his best to seize the championship back.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奫", "reading": "yun1", "sentence": "那片湖水看起来深广奫然", "translation": "That lake looks deep and broad.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奋", "reading": "fen4", "sentence": "我们要奋发图强努力学习", "translation": "We must exert ourselves and study hard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "奰", "reading": "bi4", "sentence": "他一脸奰容显得很生气", "translation": "He has a look of anger on his face.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姹", "reading": "cha4", "sentence": "花园里的鲜花姹紫嫣红", "translation": "The flowers in the garden are beautiful and colorful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妃", "reading": "fei1", "sentence": "古代的妃子住在深宫里", "translation": "The imperial concubines of ancient times lived in the deep palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妄", "reading": "wang4", "sentence": "这种妄想是不切实际的", "translation": "This kind of delusion is unrealistic.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妊", "reading": "ren4", "sentence": "她现在处于妊娠期", "translation": "She is currently in the pregnancy period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妍", "reading": "yan2", "sentence": "她的容貌长得十分妍丽", "translation": "Her appearance is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妏", "reading": "wen4", "sentence": "小芳的名字里有个妏字", "translation": "Xiao Fang's name contains the character Wen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妒", "reading": "du4", "sentence": "做人千万不要心生妒意", "translation": "One should never feel envy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妖", "reading": "yao1", "sentence": "传说深山里住着妖精", "translation": "Legend says that goblins live in the deep mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妗", "reading": "jin4", "sentence": "我准备去拜访舅妗", "translation": "I am planning to visit my aunt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妙", "reading": "miao4", "sentence": "这个主意真是太妙了", "translation": "This idea is truly wonderful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妣", "reading": "bi3", "sentence": "我常去祭拜先妣", "translation": "I often go to pay respects to my deceased mother.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妤", "reading": "yu2", "sentence": "婕妤是古代的妃嫔称号", "translation": "Jieyu is an ancient title for a concubine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妥", "reading": "tuo3", "sentence": "这个安排非常妥当", "translation": "This arrangement is very suitable.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妨", "reading": "fang2", "sentence": "请不要妨碍他人工作", "translation": "Please do not hinder others' work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妭", "reading": "ba2", "sentence": "古书中常以妭形容美女", "translation": "Ancient books often use Ba to describe a beautiful woman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妯", "reading": "zhou2", "sentence": "她们两人的关系是妯娌", "translation": "The two of them are sisters-in-law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妲", "reading": "Da2", "sentence": "苏妲己是历史上的名人", "translation": "Su Daji is a famous historical figure.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妵", "reading": "tou3", "sentence": "那个女孩子的名字叫妵妵", "translation": "That girl's name is Toutou.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妸", "reading": "e1", "sentence": "妸在现代姓名中很少见", "translation": "E is rarely seen in modern names.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妽", "reading": "shen1", "sentence": "她父母给女儿取名妽", "translation": "Her parents named their daughter Shen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姁", "reading": "xu3", "sentence": "老人家聚在一起总是姁姁而谈", "translation": "Old people always chatter when they get together.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姄", "reading": "min2", "sentence": "姄这个字在古文中出现过", "translation": "The character Min has appeared in ancient texts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姅", "reading": "ban4", "sentence": "她因姅痛无法出门", "translation": "She cannot go out due to menstrual pain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姈", "reading": "ling2", "sentence": "古人常赞美女子姈俐", "translation": "The ancients often praised women for being intelligent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姗", "reading": "shan1", "sentence": "她姗姗来迟参加聚会", "translation": "She arrived late for the party.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姑", "reading": "gu1", "sentence": "周末我要去看望我的姑妈", "translation": "I will go visit my paternal aunt this weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姘", "reading": "pin1", "sentence": "他因为姘居被邻居举报了", "translation": "He was reported by his neighbors for cohabiting as lovers.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姝", "reading": "shu1", "sentence": "这位姝丽的女子是谁", "translation": "Who is this beautiful woman?", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姤", "reading": "gou4", "sentence": "万物皆有阴阳交姤", "translation": "All things in the universe have the copulation of yin and yang.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姥", "reading": "lao3", "sentence": "我小时候常去姥姥家住", "translation": "I often stayed at my maternal grandma's house when I was a child.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姨", "reading": "yi2", "sentence": "我妈妈的妹妹是我的姨妈", "translation": "My mother's younger sister is my aunt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姮", "reading": "heng2", "sentence": "古人常给女孩起名姮", "translation": "In ancient times, people often named girls Heng.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姱", "reading": "kua1", "sentence": "她长得十分姱丽动人", "translation": "She is very fascinating and beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姵", "reading": "pei4", "sentence": "她的名字里有一个姵字", "translation": "There is the character Pei in her name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姶", "reading": "e4", "sentence": "这姑娘长得真是姶好", "translation": "This girl is truly wonderful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姺", "reading": "xian3", "sentence": "姺国是历史上的古国", "translation": "The State of Xian was an ancient state in history.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姻", "reading": "yin1", "sentence": "他们两家有姻亲关系", "translation": "The two families are related by marriage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姽", "reading": "gui3", "sentence": "这个孩子性格姽婳", "translation": "This child has a quiet and nice personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "姿", "reading": "zi1", "sentence": "她跳舞时的姿态很美", "translation": "Her posture while dancing is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娀", "reading": "song1", "sentence": "娀国在古代很有名", "translation": "The State of Song was very famous in ancient times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "威", "reading": "wei1", "sentence": "他看起来非常有威严", "translation": "He looks very powerful and dignified.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娂", "reading": "hong2", "sentence": "她的名字里带有娂字", "translation": "Her name contains the character Hong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娉", "reading": "ping1", "sentence": "她走起路来显得娉婷", "translation": "She looks graceful and slender when she walks.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娌", "reading": "li3", "sentence": "她和妯娌相处得很好", "translation": "She gets along very well with her sisters-in-law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娑", "reading": "suo1", "sentence": "婆娑的树影印在墙上", "translation": "The dancing shadows of the trees are cast on the wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娒", "reading": "mei2", "sentence": "很多父母喜欢用娒字取名", "translation": "Many parents like to use the character Mei in names.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娓", "reading": "wei3", "sentence": "她讲起故事来娓娓动听", "translation": "She tells stories in a very engaging way.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娱", "reading": "yu2", "sentence": "我们去公园娱乐一下", "translation": "Let's go to the park to amuse ourselves.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娟", "reading": "juan1", "sentence": "她长得十分清秀娟丽", "translation": "She is very delicate and beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娠", "reading": "shen1", "sentence": "她已经怀孕有身娠了", "translation": "She is already pregnant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娥", "reading": "e2", "sentence": "她长得十分娥娜多姿。", "translation": "She is very graceful and charming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娩", "reading": "mian3", "sentence": "她很快就要分娩了。", "translation": "She is going to give birth very soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娵", "reading": "ju1", "sentence": "那个女孩子的名字叫娵儿。", "translation": "That girl's name is Juer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娸", "reading": "qi2", "sentence": "我们不应该去娸笑别人。", "translation": "We should not ridicule others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娼", "reading": "chang1", "sentence": "旧社会有很多可怜的娼妓。", "translation": "There were many pitiful prostitutes in the old society.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婉", "reading": "wan3", "sentence": "她说话的态度十分婉转。", "translation": "Her way of speaking is very tactful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婊", "reading": "biao3", "sentence": "这简直是婊子无情。", "translation": "This is simply a case of a prostitute being heartless.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婐", "reading": "wo3", "sentence": "古时候的婐婢生活很苦。", "translation": "The life of maidservants in ancient times was very hard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婕", "reading": "jie2", "sentence": "她被选为了皇后的婕妤。", "translation": "She was chosen as the empress's court lady.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婞", "reading": "xing4", "sentence": "她是一个性格婞直的人。", "translation": "She is a person with an upright character.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婢", "reading": "bi4", "sentence": "那个婢女正在打扫房间。", "translation": "That slave girl is cleaning the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婤", "reading": "zhou1", "sentence": "她的名字叫做王婤。", "translation": "Her name is Wang Zhou.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婥", "reading": "chuo4", "sentence": "她的姿态看起来非常婥约。", "translation": "Her posture looks very graceful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妇", "reading": "fu4", "sentence": "这位妇女正在公园散步。", "translation": "This woman is taking a walk in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婧", "reading": "jing4", "sentence": "她长得十分苗条婧美。", "translation": "She is very slender and beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婨", "reading": "lun2", "sentence": "这位女子的名字叫婨儿。", "translation": "This woman's name is Luner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婪", "reading": "lan2", "sentence": "他是一个贪婪的商人。", "translation": "He is an avaricious businessman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婬", "reading": "yin2", "sentence": "这种行为真是婬乱不堪。", "translation": "This behavior is really lewd and unbearable.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娅", "reading": "ya4", "sentence": "她们两人互为连娅。", "translation": "The two of them are sisters-in-law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婮", "reading": "ju1", "sentence": "那位女士的名字叫婮丽。", "translation": "That lady's name is Juli.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婷", "reading": "ting2", "sentence": "她跳舞的样子很婷婷。", "translation": "She looks very graceful when she dances.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婹", "reading": "yao3", "sentence": "她长得非常细腰婹娜。", "translation": "She is very slim and svelte.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婺", "reading": "wu4", "sentence": "她是一位美丽的婺女。", "translation": "She is a beautiful woman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婼", "reading": "chuo4", "sentence": "那个孩子表现得十分婼弱。", "translation": "That child is acting very recalcitrant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媁", "reading": "wei2", "sentence": "她脸上露出媁的神情", "translation": "She had a displeased look on her face.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媄", "reading": "mei3", "sentence": "这幅画真是太媄了", "translation": "This painting is truly beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媅", "reading": "dan1", "sentence": "她生活得很媅", "translation": "She is very content with her life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媊", "reading": "qian2", "sentence": "清晨天空可见媊", "translation": "Venus is visible in the morning sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媏", "reading": "duan1", "sentence": "这个姑娘名叫媏", "translation": "This girl is named Duan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媒", "reading": "mei2", "sentence": "空气是声音传播的媒", "translation": "Air is a medium for sound transmission.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媕", "reading": "an1", "sentence": "做人不可媕婀随人", "translation": "One should not be indecisive and follow others blindly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媖", "reading": "ying1", "sentence": "她是一个媖才", "translation": "She is a woman of great talent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媚", "reading": "mei4", "sentence": "他总是喜欢讨好媚上", "translation": "He always likes to flatter his superiors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媞", "reading": "ti2", "sentence": "这个名字叫媞雅", "translation": "This name is Tiya.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媟", "reading": "xie4", "sentence": "君子不应有媟欲", "translation": "A gentleman should not have lustful desires.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媢", "reading": "mao4", "sentence": "她对朋友从不媢嫉", "translation": "She is never envious of her friends.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媩", "reading": "hu2", "sentence": "她的名字里有个媩字", "translation": "Her name contains the character Hu.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媬", "reading": "bao3", "sentence": "王宫里聘请了媬", "translation": "A governess was hired in the palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媮", "reading": "tou1", "sentence": "这种行为非常媮", "translation": "This kind of behavior is improper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "㛀", "reading": "chu2", "sentence": "古书中记载了㛀", "translation": "Ancient books contain records of pregnant women.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媲", "reading": "pi4", "sentence": "她才华足以媲美专家", "translation": "Her talent is a match for experts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媳", "reading": "xi2", "sentence": "我媳妇很孝顺", "translation": "My daughter-in-law is very filial.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媵", "reading": "ying4", "sentence": "古代贵族出嫁有媵", "translation": "Ancient nobles had maids escorting them when marrying.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媸", "reading": "chi1", "sentence": "她不想被人当作媸", "translation": "She does not want to be treated as an ugly woman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媺", "reading": "mei3", "sentence": "她的名字叫媺儿", "translation": "Her name is Mei'er.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媻", "reading": "pan2", "sentence": "他们决定搬家到此媻", "translation": "They decided to move here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媪", "reading": "ao3", "sentence": "路边坐着一位媪", "translation": "An old woman is sitting by the road.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媾", "reading": "gou4", "sentence": "两家决定联姻媾和", "translation": "The two families decided to intermarry to make peace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫄", "reading": "yuan2", "sentence": "历史记载姜嫄是周朝的祖先。", "translation": "History records that Jiang Yuan is the ancestor of the Zhou Dynasty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫈", "reading": "ying1", "sentence": "她嫈嫈地听着老师讲课。", "translation": "She listened attentively to the teacher's lecture.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫉", "reading": "ji2", "sentence": "他不应该对朋友心生嫉妒。", "translation": "He should not feel jealousy toward his friends.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "袅", "reading": "niao3", "sentence": "垂柳在微风中显得很袅娜。", "translation": "The weeping willow looks delicate in the breeze.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫏", "reading": "lang2", "sentence": "这里被人们称为现代的嫏嬛。", "translation": "This place is called a modern library of rare books.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫐", "reading": "nao3", "sentence": "他性格轻浮总是喜欢嫐弄他人。", "translation": "He has a frivolous personality and always likes to tease others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫑", "reading": "biao2", "sentence": "天色已晚你嫑出门了。", "translation": "It is late, you must not go out.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫕", "reading": "yi4", "sentence": "这位姑娘性格温顺且嫕雅。", "translation": "This girl has a compliant and elegant personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫖", "reading": "piao2", "sentence": "他因为嫖赌输光了家产。", "translation": "He lost his family fortune because of whoring and gambling.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妪", "reading": "yu4", "sentence": "那位老妪坐在树下晒太阳。", "translation": "The old woman is sitting under the tree sunning herself.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫙", "reading": "xuan2", "sentence": "她的舞姿看起来非常嫙美。", "translation": "Her dance movements look very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫚", "reading": "man1", "sentence": "那个嫚儿长得非常可爱。", "translation": "That girl looks very cute.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫜", "reading": "zhang1", "sentence": "她非常尊敬自己的嫜大人。", "translation": "She respects her father-in-law very much.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫠", "reading": "li2", "sentence": "那位嫠妇独自一人抚养孩子。", "translation": "The widow raised her child all by herself.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫡", "reading": "di2", "sentence": "他作为嫡子继承了家业。", "translation": "He inherited the family business as the legitimate son.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫣", "reading": "yan1", "sentence": "她的笑容看起来十分嫣然。", "translation": "Her smile looks very lovely.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫦", "reading": "chang2", "sentence": "中秋节我们都会想起嫦娥。", "translation": "We all think of Chang'e during the Mid-Autumn Festival.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫫", "reading": "mo2", "sentence": "传说中嫫母长得并不好看。", "translation": "Legend has it that Mo Mu was not good-looking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫬", "reading": "zhe1", "sentence": "这个名字里含有嫬字。", "translation": "This name contains the character Zhe.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫭", "reading": "hu4", "sentence": "古文中常用嫭来形容美人。", "translation": "In ancient texts, Hu is often used to describe a beautiful woman.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "妩", "reading": "wu3", "sentence": "她的一颦一笑都十分妩媚。", "translation": "Every smile and frown of hers is very charming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫽", "reading": "liao2", "sentence": "这姑娘长得真是嫽人。", "translation": "This girl is truly beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婳", "reading": "hua4", "sentence": "她性格娴静显得非常婳静。", "translation": "She has a quiet personality and appears very tranquil.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "媭", "reading": "xu1", "sentence": "快去问问你的媭姐姐。", "translation": "Go and ask your elder sister.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬅", "reading": "hua2", "sentence": "那个女孩子长得清秀嬅丽。", "translation": "That girl looks beautiful and elegant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娆", "reading": "rao2", "sentence": "她的舞姿十分妖娆动人", "translation": "Her dance moves are very graceful and touching.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬉", "reading": "xi1", "sentence": "孩子们在公园里嬉戏玩耍", "translation": "The children are playing and having fun in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婵", "reading": "chan2", "sentence": "古诗常以婵娟形容月亮", "translation": "Ancient poems often use the word chanjuan to describe the moon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娇", "reading": "jiao1", "sentence": "这个小女孩长得非常娇小", "translation": "This little girl is very lovable and petite.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬎", "reading": "fan4", "sentence": "那只老母鸡正在窝里嬎蛋", "translation": "That hen is laying eggs in the nest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬔", "reading": "fu4", "sentence": "古书中记载嬔为幼兔", "translation": "Ancient books record that fu refers to a baby rabbit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬖", "reading": "bi4", "sentence": "他只宠爱那个受宠的嬖人", "translation": "He only favors that favorite concubine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬗", "reading": "shan4", "sentence": "时代总是在不断嬗变", "translation": "The times are always evolving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫱", "reading": "qiang2", "sentence": "宫中有很多侍奉的女嫱", "translation": "There are many female court officials serving in the palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫒", "reading": "ai4", "sentence": "请问令嫒今年多大年纪了", "translation": "May I ask how old your daughter is this year?", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬷", "reading": "mo2", "sentence": "那是隔壁家的李嬷嬷", "translation": "That is Mama Li from next door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬦", "reading": "chou2", "sentence": "这个字常见于古代女子名嬦", "translation": "This character is commonly seen in ancient female names.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嫔", "reading": "pin2", "sentence": "皇宫里住着许多嫔妃", "translation": "Many imperial concubines live in the palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬫", "reading": "rong2", "sentence": "她的名字里有一个嬫字", "translation": "Her name contains the character rong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬬", "reading": "xu1", "sentence": "古代贵族常纳嬬为妾", "translation": "Ancient nobles often took mistresses as concubines.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婴", "reading": "ying1", "sentence": "这个小婴儿长得真可爱", "translation": "This little infant is so cute.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬲", "reading": "niao3", "sentence": "你不应该总是去嬲别人", "translation": "You should not always tease others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "婶", "reading": "shen3", "sentence": "明天我要去探望李婶", "translation": "I am going to visit my aunt tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嬿", "reading": "yan4", "sentence": "新娘子看起来非常嬿婉", "translation": "The bride looks very lovely and gentle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孀", "reading": "shuang1", "sentence": "村头住着一位老孀妇", "translation": "An old widow lives at the end of the village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孅", "reading": "xian1", "sentence": "那个人心思十分孅巧", "translation": "That person is very cunning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "娈", "reading": "luan2", "sentence": "她长得清秀且容貌娈美", "translation": "She is delicate and beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孑", "reading": "jie2", "sentence": "他孑然一身住在山里", "translation": "He lives all alone in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孓", "reading": "jue2", "sentence": "积水里常有蚊子的孑孓", "translation": "There are often mosquito larvae in stagnant water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孕", "reading": "yun4", "sentence": "她现在已经怀孕三个月了", "translation": "She is now three months pregnant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孜", "reading": "zi1", "sentence": "他学习一直孜孜不倦", "translation": "He has always been diligent in his studies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孝", "reading": "xiao4", "sentence": "孝顺父母是中华美德", "translation": "Filial piety towards parents is a Chinese virtue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孢", "reading": "bao1", "sentence": "霉菌靠散布孢子繁殖", "translation": "Mold reproduces by spreading spores.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孤", "reading": "gu1", "sentence": "他一个人孤零零地坐着", "translation": "He is sitting there all alone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孨", "reading": "zhuan3", "sentence": "他终于凑齐了三孨", "translation": "He finally achieved the three life goals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孩", "reading": "hai2", "sentence": "这孩子非常聪明伶俐", "translation": "This child is very smart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孬", "reading": "nao1", "sentence": "这人真是孬种", "translation": "This person is really a coward.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孭", "reading": "mie1", "sentence": "妈妈用背带孭着宝宝", "translation": "Mom is carrying the baby with a carrier.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孰", "reading": "shu2", "sentence": "孰是孰非很难判断", "translation": "It is hard to judge who is right and who is wrong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孱", "reading": "can4", "sentence": "别做个没用的孱头", "translation": "Don't be a useless coward.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孳", "reading": "zi1", "sentence": "他工作一直很孳孳", "translation": "He is always industrious at work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孵", "reading": "fu1", "sentence": "母鸡正在窝里孵蛋", "translation": "The hen is hatching eggs in the nest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "孪", "reading": "luan2", "sentence": "她们是同卵孪生姐妹", "translation": "They are identical twin sisters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "㝉", "reading": "zhu4", "sentence": "仓库用来㝉放货物", "translation": "The warehouse is used to store goods.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宄", "reading": "gui3", "sentence": "我们要严惩那些内宄", "translation": "We must severely punish those traitors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宏", "reading": "hong2", "sentence": "这是一个宏伟的计划", "translation": "This is a great plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宕", "reading": "dang4", "sentence": "他整日游手好闲宕荡", "translation": "He is dissipated and idle all day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宥", "reading": "you4", "sentence": "请你宽宥我的过错", "translation": "Please forgive my mistakes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宧", "reading": "yi2", "sentence": "他坐在房子的宧处", "translation": "He is sitting in the corner of the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宬", "reading": "cheng2", "sentence": "古籍都放在皇室宬中", "translation": "Ancient books are kept in the imperial archive.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宴", "reading": "yan4", "sentence": "今晚有盛大的宴会", "translation": "There is a grand banquet tonight.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "宸", "reading": "chen2", "sentence": "古时皇帝住在深邃的宸里", "translation": "In ancient times, the emperor lived in the deep imperial apartments.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寀", "reading": "cai4", "sentence": "他分到了这片偏远的寀", "translation": "He was assigned this remote feudal estate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寁", "reading": "zan3", "sentence": "他的动作非常寁捷", "translation": "His movements are very swift.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寂", "reading": "ji4", "sentence": "深夜里到处都是寂静的", "translation": "Everything is silent in the middle of the night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寅", "reading": "yin2", "sentence": "他出生在寅年", "translation": "He was born in the year of the Tiger.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寎", "reading": "bing4", "sentence": "他昨晚做了一个可怕的寎", "translation": "He had a terrible nightmare last night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寐", "reading": "mei4", "sentence": "孩子在床上安静地寐着", "translation": "The child is sleeping soundly on the bed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寒", "reading": "han2", "sentence": "冬天的天气非常寒冷", "translation": "The weather in winter is very cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寓", "reading": "yu4", "sentence": "他长期寓居在上海", "translation": "He has been residing in Shanghai for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寔", "reading": "shi2", "sentence": "这件事情寔属罕见", "translation": "This matter is really rare.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寘", "reading": "zhi4", "sentence": "请把这些旧书寘于桌上", "translation": "Please put these old books aside on the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寙", "reading": "yu3", "sentence": "这种寙劣的工具不好用", "translation": "This kind of bad tool is not easy to use.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寞", "reading": "mo4", "sentence": "他感到生活十分寂寞", "translation": "He feels very lonesome in his life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "察", "reading": "Cha2", "sentence": "他曾经在察工作过", "translation": "He once worked in Chahar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𪧘", "reading": "ju4", "sentence": "那里的生活条件十分𪧘", "translation": "The living conditions there are very poor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寡", "reading": "gua3", "sentence": "这里的游客非常寡少", "translation": "There are very few tourists here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寤", "reading": "wu4", "sentence": "他从梦中突然寤了", "translation": "He suddenly awoke from his dream.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寥", "reading": "liao2", "sentence": "屋子里显得十分寥落", "translation": "The room appeared very empty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "实", "reading": "shi2", "sentence": "这是真实发生的事情", "translation": "This is a real thing that happened.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寨", "reading": "zhai4", "sentence": "他们在山上建了一座寨", "translation": "They built a stronghold on the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寮", "reading": "Liao2", "sentence": "他去过东南亚的寮旅行", "translation": "He traveled to Laos in Southeast Asia.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寸", "reading": "cun4", "sentence": "这张纸只有几寸长", "translation": "This piece of paper is only a few inches long.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尃", "reading": "fu1", "sentence": "他向大家尃陈了意图", "translation": "He stated his intentions to everyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "专", "reading": "zhuan1", "sentence": "这是专门为你准备的", "translation": "This is prepared specially for you.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "寻", "reading": "xun2", "sentence": "他在森林里寻路", "translation": "He is searching for the path in the forest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "导", "reading": "dao3", "sentence": "老师引导我们学习新知识。", "translation": "The teacher guides us to learn new knowledge.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尐", "reading": "jie2", "sentence": "此地人迹尐，十分安静。", "translation": "There are very few people here, it is very quiet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尕", "reading": "ga3", "sentence": "家里有个尕娃娃很可爱。", "translation": "There is a cute little baby in the family.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尜", "reading": "ga2", "sentence": "小孩在院子里玩尜。", "translation": "The child is playing with a spindle toy in the courtyard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尢", "reading": "wang1", "sentence": "他走路有些尢，行动不便。", "translation": "He is a bit lame when walking, making movement difficult.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尥", "reading": "liao4", "sentence": "那匹马突然尥蹶子了。", "translation": "That horse suddenly kicked backwards.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尪", "reading": "wang1", "sentence": "他身体尪弱，需要多休息。", "translation": "His body is feeble, he needs more rest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尬", "reading": "ga4", "sentence": "这气氛让他觉得很尬。", "translation": "This atmosphere makes him feel very awkward.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尰", "reading": "zhong3", "sentence": "他的脚因为受伤而尰了。", "translation": "His foot is swollen because of the injury.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尴", "reading": "gan1", "sentence": "这场景真的让人感到尴尬。", "translation": "This scene really makes people feel embarrassed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尸", "reading": "shi1", "sentence": "古礼中设有尸以祭祖。", "translation": "In ancient rites, there was a person representing the deceased to worship ancestors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尺", "reading": "che3", "sentence": "他在练习吹奏工尺谱。", "translation": "He is practicing playing the gongche notation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "尻", "reading": "kao1", "sentence": "他坐在椅子上，尻部很酸。", "translation": "He sat on the chair, and his buttocks felt sore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "届", "reading": "jie4", "sentence": "明天就是毕业届了。", "translation": "Tomorrow is the graduation period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屇", "reading": "tian2", "sentence": "山中深处藏着一个屇。", "translation": "Deep in the mountains hides a cave.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屐", "reading": "ji1", "sentence": "他穿着木屐走在街上。", "translation": "He is wearing wooden clogs walking on the street.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屑", "reading": "xie4", "sentence": "桌子上到处都是纸屑。", "translation": "There are paper bits everywhere on the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屘", "reading": "man3", "sentence": "他是家里最小的屘子。", "translation": "He is the youngest child in the family.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屙", "reading": "e1", "sentence": "他去厕所屙了一次。", "translation": "He went to the toilet to excrete once.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屉", "reading": "ti4", "sentence": "请把书放在抽屉里。", "translation": "Please put the book in the drawer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屝", "reading": "fei4", "sentence": "他穿着粗糙的屝鞋。", "translation": "He is wearing coarse shoes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屡", "reading": "lu:3", "sentence": "他屡次犯同样的错误。", "translation": "He has made the same mistake time and again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屣", "reading": "xi3", "sentence": "他在家里喜欢穿屣。", "translation": "He likes to wear slippers at home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "履", "reading": "lu:3", "sentence": "这双履非常合脚舒适。", "translation": "This pair of shoes fits very comfortably.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屧", "reading": "xie4", "sentence": "古人雨天常穿木屧出门", "translation": "In the old days, people often wore wooden shoes to go out on rainy days.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屦", "reading": "ju4", "sentence": "他穿着一双草屦走在路上", "translation": "He is walking on the road wearing a pair of straw sandals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屩", "reading": "jue1", "sentence": "那双旧屩已经不能再穿了", "translation": "That pair of old hemp sandals cannot be worn anymore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屪", "reading": "liao2", "sentence": "这是关于屪的医学解释", "translation": "This is a medical explanation regarding the penis.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屮", "reading": "che4", "sentence": "春天到了万物屮", "translation": "Spring has arrived and all plants are sprouting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屯", "reading": "tun2", "sentence": "将军派兵在边境屯守", "translation": "The general sent soldiers to station at the border.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屴", "reading": "li4", "sentence": "远处群山屴不可攀", "translation": "The distant mountain range is high and hard to climb.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屹", "reading": "yi4", "sentence": "这座高塔屹立在广场中央", "translation": "This tall tower stands high and steep in the center of the square.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屺", "reading": "qi3", "sentence": "那是荒凉的屺山", "translation": "That is a barren hill.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屼", "reading": "wu4", "sentence": "这里只有一座孤零零的屼", "translation": "There is only one lonely bare hill here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屾", "reading": "shen1", "sentence": "远处有两座山如同屾一般", "translation": "In the distance, there are two mountains standing next to each other.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岊", "reading": "jie2", "sentence": "他站在险峻的岊上", "translation": "He is standing on the steep mountain peak.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岌", "reading": "ji2", "sentence": "那座山峰岌岌可危", "translation": "That lofty peak is in a precarious position.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岍", "reading": "qian1", "sentence": "我们计划去爬岍山", "translation": "We plan to climb Mount Qian.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岒", "reading": "qian2", "sentence": "这个地名里有个岒字", "translation": "This place name contains the character Qian.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岔", "reading": "cha4", "sentence": "在路口我们走错了岔", "translation": "We took the wrong fork at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岜", "reading": "ba1", "sentence": "这是一座充满碎石的岜", "translation": "This is a stony hill full of gravel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岝", "reading": "Zuo4", "sentence": "山东有一座著名的岝山", "translation": "There is a famous mountain called Zuo in Shandong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岞", "reading": "Zuo4", "sentence": "这个地方的名字叫岞", "translation": "The name of this place is Zuo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "冈", "reading": "gang1", "sentence": "我们沿着山冈慢慢散步", "translation": "We are taking a slow walk along the ridge.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岢", "reading": "ke3", "sentence": "岢岚是一个很有名的地方", "translation": "Kelan is a very famous place.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岣", "reading": "gou3", "sentence": "湖南有一座叫岣的 hill", "translation": "There is a hill called Gou in Hunan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岧", "reading": "tiao2", "sentence": "远看那山峰岧非常壮观", "translation": "Looking from afar, that lofty peak is very spectacular.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岨", "reading": "qu1", "sentence": "车子开过了崎岖的岨", "translation": "The car drove over the rocky hill.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岩", "reading": "yan2", "sentence": "海边有一座巨大的岩", "translation": "There is a huge cliff by the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岫", "reading": "xiu4", "sentence": "云从深岫中飘出来", "translation": "Clouds float out from the deep cave.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岬", "reading": "jia3", "sentence": "灯塔建在那座岬上", "translation": "The lighthouse is built on that cape.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岭", "reading": "ling2", "sentence": "远处群岭起伏不断", "translation": "The mountain ranges in the distance are undulating.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岱", "reading": "Dai4", "sentence": "我们计划去岱宗游玩", "translation": "We plan to visit Mt. Tai.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岵", "reading": "hu4", "sentence": "那座岵山长满了树", "translation": "That mountain is covered with trees.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岷", "reading": "min2", "sentence": "岷江的水非常清澈", "translation": "The water of the Min River is very clear.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峁", "reading": "mao3", "sentence": "远处有几个土峁", "translation": "There are several round hills in the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峂", "reading": "tong2", "sentence": "那条路通向峂山", "translation": "That road leads to Tong Mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峋", "reading": "xun2", "sentence": "怪石嶙峋非常奇特", "translation": "The jagged rocks are very strange.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峒", "reading": "dong4", "sentence": "山里有一个大峒", "translation": "There is a large cave in the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峓", "reading": "yi2", "sentence": "我们路过了峓地", "translation": "We passed through the Yi area.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峚", "reading": "mi4", "sentence": "古人常提到峚山", "translation": "The ancients often mentioned Mi Mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峞", "reading": "wei2", "sentence": "那座山峰高峻峞", "translation": "That mountain peak is high and uneven.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峧", "reading": "jiao1", "sentence": "那是峧村的入口", "translation": "That is the entrance to Jiao Village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峨", "reading": "e2", "sentence": "峨眉山非常有名", "translation": "Mount Emei is very famous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峪", "reading": "yu4", "sentence": "山峪里有很多野花", "translation": "There are many wildflowers in the valley.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峭", "reading": "qiao4", "sentence": "这座山崖十分陡峭", "translation": "This cliff is very steep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峱", "reading": "nao2", "sentence": "我听说过峱山", "translation": "I have heard of Nao Mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峹", "reading": "tu2", "sentence": "我们要去爬峹山", "translation": "We are going to climb Tu Mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峻", "reading": "jun4", "sentence": "大山看起来很峻拔", "translation": "The mountain looks very tall and steep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峡", "reading": "xia2", "sentence": "三峡的风光很美", "translation": "The scenery of the Three Gorges is beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峿", "reading": "wu2", "sentence": "他住在峿山脚下", "translation": "He lives at the foot of Wu Mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崀", "reading": "lang4", "sentence": "崀山是著名的景区", "translation": "Lang Mountain is a famous scenic spot.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崆", "reading": "kong1", "sentence": "崆峒山风景很好", "translation": "The scenery of Kongtong Mountain is good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崋", "reading": "hua2", "sentence": "这块石头看起来崋", "translation": "This stone looks flowery.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崌", "reading": "ju1", "sentence": "我们一起去游览崌山。", "translation": "We will go to visit Mount Ju together.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崃", "reading": "lai2", "sentence": "邛崃山有很多高大的树木。", "translation": "There are many tall trees in the Qionglai Mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崒", "reading": "cui4", "sentence": "云雾在山顶崒然聚拢。", "translation": "Clouds and mist gather at the mountain top.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崖", "reading": "ya2", "sentence": "那座山崖看起来很危险。", "translation": "That cliff looks very dangerous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崚", "reading": "leng2", "sentence": "崚嶒的山峰耸立在云端。", "translation": "The lofty mountain peak stands in the clouds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崛", "reading": "jue2", "sentence": "这座山峰崛立在平原上。", "translation": "This mountain peak towers over the plain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崞", "reading": "guo1", "sentence": "他家住在崞山脚下。", "translation": "His home is located at the foot of Mount Guo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崟", "reading": "yin2", "sentence": "崟山高耸入云十分壮观。", "translation": "Mount Yin is high and spectacular, reaching into the clouds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崠", "reading": "Dong1", "sentence": "我们明天要去爬崠山。", "translation": "We are going to climb Mount Dong tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峥", "reading": "zheng1", "sentence": "这里的山势显得非常峥嵘。", "translation": "The mountain landscape here appears very rugged and towering.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崤", "reading": "Xiao2", "sentence": "崤山是历史上有名的山。", "translation": "Mount Xiao is a historically famous mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崦", "reading": "yan1", "sentence": "太阳落入崦嵫山后了。", "translation": "The sun has set behind Mount Yanzi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崩", "reading": "beng1", "sentence": "大雨导致山坡发生崩塌。", "translation": "The heavy rain caused a landslide on the hillside.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岽", "reading": "Dong1", "sentence": "他出生在广西的岽平。", "translation": "He was born in Dongping, Guangxi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崮", "reading": "gu4", "sentence": "山东有很多独特的崮地貌。", "translation": "There are many unique flat-topped mountain landforms in Shandong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崱", "reading": "ze2", "sentence": "那座山峰显得十分崱然。", "translation": "That mountain peak appears very lofty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崳", "reading": "yu2", "sentence": "崳山岛是一个美丽的岛屿。", "translation": "Yushan Island is a beautiful island.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崶", "reading": "feng1", "sentence": "传说中有一座崶山。", "translation": "There is a legendary Mount Feng.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崾", "reading": "yao3", "sentence": "这里地处崾岘村附近。", "translation": "This place is located near Yaoxian Village.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崿", "reading": "e4", "sentence": "山路旁边就是险峻的崿壁。", "translation": "Beside the mountain path is a steep cliff.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵂", "reading": "lu:4", "sentence": "群山嵂崒直插云霄。", "translation": "The mountain range rises sharply into the sky.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵄", "reading": "mei3", "sentence": "这是一座不知名的嵄山。", "translation": "This is a nameless mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵊", "reading": "sheng4", "sentence": "我们计划去嵊泗旅游。", "translation": "We plan to travel to Shengsi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵋", "reading": "mei2", "sentence": "峨嵋山的风景非常优美。", "translation": "The scenery of Mount Emei is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵎", "reading": "yu2", "sentence": "这里处于深山嵎谷之中。", "translation": "This place is located in the deep mountain valleys.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岚", "reading": "lan2", "sentence": "山间岚气很重看不清路", "translation": "The mountain mist is very thick and the road is unclear.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵙", "reading": "ke1", "sentence": "这里是著名的嵙山景区", "translation": "This is the famous Keshan scenic area.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵛", "reading": "yu2", "sentence": "我们计划去嵛山岛旅游", "translation": "We plan to travel to Yushan Island.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵞", "reading": "Tu2", "sentence": "当地人常去嵞山采茶", "translation": "Locals often go to Mt Tu to pick tea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵡", "reading": "weng3", "sentence": "那座山峰显得十分嵡", "translation": "That mountain peak looks very majestic.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵩", "reading": "Song1", "sentence": "嵩山是我国著名的名山", "translation": "Mt Song is a famous mountain in our country.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵬", "reading": "wei2", "sentence": "那座山石显得非常嵬", "translation": "That mountain rock looks very craggy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵯", "reading": "cuo2", "sentence": "远处的山峰显得很嵯", "translation": "The distant peaks look very lofty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵺", "reading": "liao2", "sentence": "深山之中显得十分嵺", "translation": "The deep mountains appear vast and empty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𡶴", "reading": "chan3", "sentence": "这是一条狭窄的𡶴路", "translation": "This is a narrow winding mountain path.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "㟥", "reading": "cen1", "sentence": "群山排列显得很㟥", "translation": "The mountains are arranged in an uneven way.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵝", "reading": "lou3", "sentence": "这座山嵝高耸入云端", "translation": "This mountain peak towers into the clouds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶂", "reading": "zhang4", "sentence": "远处是连绵的千重嶂", "translation": "In the distance are continuous layers of cliffs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶅", "reading": "ao2", "sentence": "那个小山丘上满是嶅", "translation": "That small hill is covered with stones.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岖", "reading": "qu1", "sentence": "山路非常崎岖不好走", "translation": "The mountain road is very rugged and hard to walk on.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶒", "reading": "ceng2", "sentence": "这里山势显得格外嶒", "translation": "The terrain here looks especially lofty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶓", "reading": "bo1", "sentence": "传说中嶓山风景很好", "translation": "Legend says the scenery of Mt Bo is very beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵚", "reading": "qin1", "sentence": "那座山峰看起来很嵚", "translation": "That mountain peak looks very lofty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崂", "reading": "lao2", "sentence": "崂山有很多美丽的传说", "translation": "Mt Lao has many beautiful legends.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶙", "reading": "lin2", "sentence": "山间到处是嶙峋怪石", "translation": "The mountains are full of jagged rocks.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶝", "reading": "deng4", "sentence": "我沿着小嶝爬上山顶", "translation": "I followed the small mountain path to the top.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶞", "reading": "duo4", "sentence": "远眺那座高大的嶞", "translation": "Looking at that tall mountain peak from afar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶟", "reading": "zun1", "sentence": "这片山坡显得很嶟", "translation": "This mountainside looks very steep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峤", "reading": "jiao4", "sentence": "他是登上峤顶的第一人", "translation": "He was the first person to climb to the highest peak.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶡", "reading": "gui4", "sentence": "这座山峰看起来十分嶡", "translation": "This mountain peak looks very precipitous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峣", "reading": "yao2", "sentence": "那座高山显得格外峣", "translation": "That high mountain appears exceptionally tall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峄", "reading": "yi4", "sentence": "他去山东游览了峄山", "translation": "He went to Shandong to visit Mount Yi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峃", "reading": "xue2", "sentence": "前方是一座巨大的峃", "translation": "Ahead is a giant rocky mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶭", "reading": "e4", "sentence": "远处的高地显得很嶭", "translation": "The high ground in the distance looks elevated.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "崄", "reading": "xian3", "sentence": "这条山路非常险崄", "translation": "This mountain road is very precipitous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶰", "reading": "xie4", "sentence": "我们穿过了那片嶰", "translation": "We passed through that mountain valley.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岙", "reading": "ao4", "sentence": "村庄坐落在一个小岙里", "translation": "The village is situated in a small mountain plain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嶷", "reading": "yi2", "sentence": "嶷山位于湖南省境内", "translation": "Mount Yi is located within Hunan province.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "嵘", "reading": "rong2", "sentence": "山势看起来非常峥嵘", "translation": "The mountain landscape looks very steep and imposing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "屿", "reading": "yu3", "sentence": "海面上有一座小屿", "translation": "There is a small islet on the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巂", "reading": "gui1", "sentence": "林中传来巂的叫声", "translation": "The call of a cuckoo came from the forest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巃", "reading": "long2", "sentence": "这座山峰显得非常巃", "translation": "This mountain peak appears very steep.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巇", "reading": "xi1", "sentence": "这里有一条深深的巇", "translation": "There is a deep mountain gorge here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巉", "reading": "chan2", "sentence": "山路陡峭且岩石巉", "translation": "The mountain road is steep and the rocks are jagged.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "岿", "reading": "kui1", "sentence": "大山看起来岿然不动", "translation": "The mountain looks high and mighty, standing still.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巍", "reading": "wei1", "sentence": "那座高山看起来很巍", "translation": "That high mountain looks very lofty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "峦", "reading": "luan2", "sentence": "远处连绵着许多山峦", "translation": "There are many mountain ranges in the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巅", "reading": "dian1", "sentence": "我们终于爬上了巅", "translation": "We finally climbed to the summit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𪩘", "reading": "yan3", "sentence": "那是整座山的最高𪩘", "translation": "That is the highest peak of the whole mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "川", "reading": "Chuan1", "sentence": "大家都喜欢去川旅游", "translation": "Everyone likes to travel to Sichuan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巟", "reading": "huang1", "sentence": "眼前是一片茫茫巟", "translation": "Before my eyes is a vast, watery waste.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巠", "reading": "jing1", "sentence": "地下隐藏着一条巠", "translation": "An underground watercourse is hidden beneath the ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巡", "reading": "xun2", "sentence": "警察在街道上巡逻", "translation": "The police are patrolling the streets.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巯", "reading": "qiu2", "sentence": "这种物质含有巯基。", "translation": "This substance contains a hydrosulfuryl group.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巷", "reading": "xiang4", "sentence": "我家住在一条小巷里。", "translation": "I live in a small lane.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "卺", "reading": "jin3", "sentence": "古代婚礼上会使用合卺杯。", "translation": "In ancient weddings, a nuptial wine cup was used.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巽", "reading": "xun4", "sentence": "他为人谦逊懂得巽顺。", "translation": "He is humble and knows how to obey.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "巿", "reading": "fu2", "sentence": "这件古物上刻着巿字。", "translation": "This ancient object has the character 巿 carved on it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帄", "reading": "ding1", "sentence": "衣服破了需要补上一块帄。", "translation": "The clothes are torn and need a patch.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "希", "reading": "xi1", "sentence": "我希冀未来会更好。", "translation": "I hope the future will be better.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帑", "reading": "tang3", "sentence": "国库金银统称为帑藏。", "translation": "The gold and silver in the state treasury are collectively called the treasury store.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帔", "reading": "pei4", "sentence": "她披上一件红色的帔。", "translation": "She put on a red cape.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帖", "reading": "tie1", "sentence": "这件衣服穿起来很帖身。", "translation": "This dress fits snugly when worn.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帗", "reading": "fu2", "sentence": "舞者手里拿着彩色的帗。", "translation": "The dancer holds a colorful object in their hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帘", "reading": "lian2", "sentence": "酒馆门口挂着一个酒帘。", "translation": "A wine shop sign hangs at the tavern entrance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帚", "reading": "zhou3", "sentence": "请用扫帚把地扫干净。", "translation": "Please use the broom to sweep the floor clean.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帝", "reading": "di4", "sentence": "古代皇帝拥有至高权力。", "translation": "The ancient emperor held supreme power.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帟", "reading": "yi4", "sentence": "大厅里架设了华丽的帟。", "translation": "A gorgeous canopy was set up in the hall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帡", "reading": "ping2", "sentence": "我们要感谢上天的帡幪。", "translation": "We should be grateful for the protection of heaven.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帣", "reading": "juan4", "sentence": "粮仓里堆满了装谷物的帣。", "translation": "The granary is filled with bags of grain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帨", "reading": "shui4", "sentence": "她手里拿着绣花的帨。", "translation": "She is holding an embroidered handkerchief.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帷", "reading": "wei2", "sentence": "房间里挂着厚重的帷。", "translation": "A heavy curtain hangs in the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帹", "reading": "qie4", "sentence": "古代男子常戴着帹。", "translation": "Ancient men often wore headbands.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帏", "reading": "wei2", "sentence": "窗前挂着一层薄薄的帏。", "translation": "A thin curtain hangs in front of the window.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幄", "reading": "wo4", "sentence": "将军在军营的幄中休息。", "translation": "The general is resting in the tent of the camp.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幋", "reading": "pan2", "sentence": "她围着一条丝绸做的幋。", "translation": "She is wrapped in a silk scarf.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幌", "reading": "huang3", "sentence": "店铺门前挂着一块幌。", "translation": "A shop sign hangs in front of the store.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幏", "reading": "jia4", "sentence": "这块布料被称为幏。", "translation": "This piece of cloth is called a 幏.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幔", "reading": "man4", "sentence": "窗边的幔被风吹动了", "translation": "The curtain by the window was moved by the wind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幕", "reading": "mu4", "sentence": "电影的幕布已经拉开了", "translation": "The movie screen has already been pulled open.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帼", "reading": "guo2", "sentence": "她戴着一顶精美的帼", "translation": "She is wearing an exquisite woman's cap.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帻", "reading": "ze2", "sentence": "古人常在头上裹着帻", "translation": "Ancient people often wrapped a turban on their heads.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幛", "reading": "zhang4", "sentence": "墙上挂着一幅寿幛", "translation": "A longevity scroll is hanging on the wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幞", "reading": "fu2", "sentence": "他穿着古装并戴着幞头", "translation": "He is wearing ancient clothes and a turban.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帜", "reading": "zhi4", "sentence": "山顶插着一面红帜", "translation": "A red flag is planted on the mountaintop.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幠", "reading": "hu1", "sentence": "做人不能太骄傲幠", "translation": "One should not be too arrogant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幡", "reading": "fan1", "sentence": "寺庙前立着高高的幡", "translation": "Tall banners are standing in front of the temple.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "币", "reading": "bi4", "sentence": "我们需要准备一些货币", "translation": "We need to prepare some money.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幦", "reading": "mi4", "sentence": "那辆马车盖着厚重的幦", "translation": "That carriage is covered by a heavy canopy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幨", "reading": "chan1", "sentence": "马车里垂下了遮阳的幨", "translation": "The sun-shading curtain hung down inside the carriage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幩", "reading": "fen2", "sentence": "马头的幩随风摆动", "translation": "The ornamental tassel on the horse's head swayed with the wind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幪", "reading": "meng2", "sentence": "感谢您的照顾与帡幪", "translation": "Thank you for your care and protection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "帱", "reading": "chou2", "sentence": "床头挂着一顶丝绸帱", "translation": "A silk canopy hangs at the head of the bed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幭", "reading": "mie4", "sentence": "车上铺着一层干净的幭", "translation": "A clean carriage cover is spread on the vehicle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幮", "reading": "chu2", "sentence": "晚上睡觉要挂好幮", "translation": "You should hang the mosquito net well when sleeping at night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幯", "reading": "jie2", "sentence": "他用手帕仔细幯桌子", "translation": "He carefully wiped the table with a handkerchief.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幰", "reading": "xian3", "sentence": "马车前方挂着轻薄的幰", "translation": "A thin curtain hangs at the front of the carriage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幵", "reading": "qian1", "sentence": "这片土地看起来很平幵", "translation": "This piece of land looks very flat.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幻", "reading": "huan4", "sentence": "这只是一个小小的幻觉", "translation": "This is just a small illusion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "幽", "reading": "you1", "sentence": "他们住在深山幽谷里", "translation": "They live in a remote valley deep in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庀", "reading": "pi3", "sentence": "我们需要尽快庀理家务", "translation": "We need to handle the housework as soon as possible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庈", "reading": "qin2", "sentence": "那位叫庈的老师很亲切", "translation": "That teacher named Qin is very kind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庉", "reading": "dun4", "sentence": "这是山脚下的一个小庉", "translation": "This is a small village at the foot of the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庋", "reading": "gui3", "sentence": "书庋放在书房的墙边", "translation": "The bookshelf is placed against the wall of the study.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "序", "reading": "xu4", "sentence": "请按年龄的顺序排队", "translation": "Please line up in order of age.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庖", "reading": "pao2", "sentence": "妈妈在庖里做午饭", "translation": "Mom is cooking lunch in the kitchen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庚", "reading": "geng1", "sentence": "请问您今年高庚几何", "translation": "May I ask how old you are this year?", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庠", "reading": "xiang2", "sentence": "这是古代的一种庠", "translation": "This is a type of school from ancient times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庤", "reading": "zhi4", "sentence": "我们应当尽早庤备物资", "translation": "We should prepare the supplies as early as possible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庥", "reading": "xiu1", "sentence": "感谢您的照顾与庥佑", "translation": "Thank you for your care and protection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庬", "reading": "pang2", "sentence": "那是一座庬大的建筑", "translation": "That is a huge building.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庳", "reading": "bi4", "sentence": "这是一间非常庳的屋子", "translation": "This is a very low-built house.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庴", "reading": "ji2", "sentence": "庴是一个古老的地名", "translation": "Ji is an ancient place name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庵", "reading": "an1", "sentence": "他在深山里住着小庵", "translation": "He lives in a small hut in the deep mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庹", "reading": "tuo3", "sentence": "这根木头长约一庹", "translation": "This piece of wood is about one arm span long.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "厢", "reading": "xiang1", "sentence": "我们坐在剧院的厢里", "translation": "We are sitting in the theater box.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "厩", "reading": "jiu4", "sentence": "马儿都回到了厩里", "translation": "The horses have all returned to the stable.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廆", "reading": "Gui1", "sentence": "廆山位于洛阳的西边", "translation": "Gui Mountain is located west of Luoyang.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廋", "reading": "sou1", "sentence": "警察正在廋寻证据", "translation": "The police are searching for evidence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廌", "reading": "zhi4", "sentence": "传说中廌能辨别是非", "translation": "Legend has it that the unicorn can distinguish right from wrong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庼", "reading": "qing3", "sentence": "这间庼非常宽敞明亮", "translation": "This room is very spacious and bright.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廑", "reading": "jin3", "sentence": "做事一定要非常廑慎", "translation": "One must be very careful when doing things.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廒", "reading": "ao2", "sentence": "农民把粮食放进廒里", "translation": "The farmers put the grain into the granary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廓", "reading": "kuo4", "sentence": "这片草原非常廓大", "translation": "This grassland is very vast.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廙", "reading": "yi4", "sentence": "游牧民族住在廙里", "translation": "Nomadic people live in yurts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廛", "reading": "chan2", "sentence": "集市上有很多个廛", "translation": "There are many market stalls in the marketplace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𫷷", "reading": "xin1", "sentence": "请把书籍𫷷好放置", "translation": "Please arrange the books in order.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "庙", "reading": "miao4", "sentence": "山脚下有一座老庙", "translation": "There is an old temple at the foot of the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "废", "reading": "fei4", "sentence": "政府决定废除这项旧的法律", "translation": "The government decided to abolish this old law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廥", "reading": "kuai4", "sentence": "农民把麦子放进廥里", "translation": "The farmers put the wheat into the barn.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廧", "reading": "qiang2", "sentence": "大家都在粉刷这面廧", "translation": "Everyone is painting this wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廨", "reading": "xie4", "sentence": "他每天都在官廨工作", "translation": "He works in the government office every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廪", "reading": "lin3", "sentence": "古时候百姓从廪中取粮", "translation": "In ancient times, common people took grain from the government granary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廱", "reading": "yong1", "sentence": "邻里之间相处十分廱", "translation": "The neighbors get along very harmoniously.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廾", "reading": "gong3", "sentence": "他双手廾起一捧清水", "translation": "He cupped his hands to hold a handful of clear water.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "廿", "reading": "nian4", "sentence": "今年我已经廿岁了", "translation": "I am twenty years old this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弁", "reading": "bian4", "sentence": "古人头戴皮弁出席仪式", "translation": "Ancient people wore leather caps to attend ceremonies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弆", "reading": "ju3", "sentence": "他喜欢弆藏珍贵的古籍", "translation": "He likes to collect precious ancient books.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弇", "reading": "yan3", "sentence": "云彩弇住了明亮的月亮", "translation": "The clouds covered the bright moon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弈", "reading": "yi4", "sentence": "爷爷很喜欢在公园弈棋", "translation": "Grandpa really likes playing chess in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弊", "reading": "bi4", "sentence": "这种做法对身体有弊", "translation": "This practice is detrimental to the body.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弋", "reading": "yi4", "sentence": "猎人正在练习弋射", "translation": "The hunter is practicing shooting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弑", "reading": "shi4", "sentence": "古代发生了弑君的事件", "translation": "An incident of murdering the monarch occurred in ancient times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弘", "reading": "hong2", "sentence": "他有弘大的理想和目标", "translation": "He has great ideals and goals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弛", "reading": "chi2", "sentence": "休息时请把弓弛开", "translation": "Please unstring the bow when resting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弝", "reading": "ba4", "sentence": "射箭时要握紧弓的弝", "translation": "You must grip the handle part of the bow when shooting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弢", "reading": "tao1", "sentence": "他把弓放进丝绸弢里", "translation": "He put the bow into the silk bow case.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弣", "reading": "fu3", "sentence": "这张弓的弣制作很精细", "translation": "The handle of this bow is finely crafted.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弤", "reading": "di3", "sentence": "博物馆里展览着弤", "translation": "The museum is exhibiting a carved bow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弧", "reading": "hu2", "sentence": "彩虹呈现出一个美丽的弧", "translation": "The rainbow forms a beautiful arc.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弨", "reading": "chao1", "sentence": "他手里拿着一把弨", "translation": "He is holding an unbent bow in his hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弩", "reading": "nu3", "sentence": "士兵正在使用弩防守", "translation": "The soldiers are using crossbows to defend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弫", "reading": "zhen3", "sentence": "这张弓看起来非常弫", "translation": "This bow looks very impactful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弭", "reading": "mi3", "sentence": "我们要努力弭平这些社会矛盾", "translation": "We must strive to resolve these social conflicts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弰", "reading": "shao1", "sentence": "这张弓的弰雕刻得非常精致", "translation": "The ends of this bow are carved very exquisitely.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弪", "reading": "jing4", "sentence": "这个角的角度是两弪", "translation": "The angle of this corner is two radians.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弶", "reading": "jiang4", "sentence": "他在森林里设置了一个弶", "translation": "He set a snare in the forest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弸", "reading": "peng2", "sentence": "他拉开了一张弸满的弓", "translation": "He drew a strong, fully tensioned bow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "弼", "reading": "bi4", "sentence": "他辅弼君王治理国家", "translation": "He assisted the king in governing the country.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彀", "reading": "gou4", "sentence": "他用力将弓彀满准备射击", "translation": "He pulled the bow to the full, ready to shoot.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𫸩", "reading": "kou1", "sentence": "工匠正在修理弓上的𫸩", "translation": "The craftsman is repairing the nock on the bow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "𭚦", "reading": "guo1", "sentence": "战士用力将弓𭚦向远方", "translation": "The soldier drew his bow to the full towards the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "录", "reading": "lu4", "sentence": "老木匠正在录木成器", "translation": "The old carpenter is carving wood into utensils.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彖", "reading": "tuan4", "sentence": "大师正在根据卦象进行彖辞解释", "translation": "The master is interpreting the future based on the trigrams.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彗", "reading": "hui4", "sentence": "她拿起彗把屋子打扫干净", "translation": "She picked up the broom and cleaned the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彘", "reading": "zhi4", "sentence": "古代人们常在祭祀中使用彘", "translation": "In ancient times, people often used swine in sacrifices.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彝", "reading": "Yi2", "sentence": "彝族人民有丰富多彩的文化", "translation": "The Yi ethnic group has a rich and colorful culture.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彦", "reading": "yan4", "sentence": "他是一位才华横溢的彦士", "translation": "He is an accomplished scholar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彧", "reading": "yu4", "sentence": "这位年轻人文采彧然", "translation": "This young man is very accomplished in literature.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彪", "reading": "biao1", "sentence": "这名战士身形彪悍", "translation": "This soldier is very stalwart and strong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彬", "reading": "bin1", "sentence": "他待人彬彬有礼", "translation": "He is very urbane and polite to others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彴", "reading": "zhuo2", "sentence": "他们走过那座古老的彴", "translation": "They walked across that old bridge.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彸", "reading": "zhong1", "sentence": "由于担心考试他感到十分彸忡", "translation": "He felt very restless because of the exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "役", "reading": "yi4", "sentence": "古代百姓常被征调去服役", "translation": "In ancient times, commoners were often drafted for forced labor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彼", "reading": "bi3", "sentence": "彼时的天空非常蓝", "translation": "The sky at that time was very blue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彽", "reading": "chi2", "sentence": "他在走廊里彽徊不去", "translation": "He paced back and forth in the corridor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "征", "reading": "zheng1", "sentence": "他准备开始一段长途远征", "translation": "He is preparing to start a long journey.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徂", "reading": "cu2", "sentence": "我们要尽快向目的地徂行", "translation": "We must go to our destination as soon as possible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徇", "reading": "xun4", "sentence": "绝不能徇私情而违背原则", "translation": "We must not give in to personal feelings and violate principles.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徉", "reading": "yang2", "sentence": "他在院子里徘徉了好久", "translation": "He walked back and forth in the courtyard for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徊", "reading": "huai2", "sentence": "他在门口犹豫徘徊不前", "translation": "He was hesitating and pacing back and forth at the door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "径", "reading": "jing4", "sentence": "这小径通往山顶的公园", "translation": "This footpath leads to the park at the top of the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徘", "reading": "pai2", "sentence": "他独自在公园里徘徊", "translation": "He was pacing back and forth alone in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徙", "reading": "xi3", "sentence": "他们决定搬迁徙往新城市", "translation": "They decided to move to a new city.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徜", "reading": "chang2", "sentence": "游客在公园里徜徉漫步", "translation": "The tourists are strolling through the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徕", "reading": "lai2", "sentence": "商店正在通过打折招徕顾客", "translation": "The shop is attracting customers through discounts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "御", "reading": "yu4", "sentence": "这是古代皇帝的御用物品", "translation": "These are the imperial items of the ancient emperor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徨", "reading": "huang2", "sentence": "他站在十字路口感到彷徨", "translation": "He felt irresolute standing at the crossroads.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "复", "reading": "fu4", "sentence": "这件事需要反复确认一下", "translation": "This matter needs to be checked and returned to repeatedly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "循", "reading": "xun2", "sentence": "我们要循序渐进地学习知识", "translation": "We should learn knowledge in a step-by-step manner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徬", "reading": "pang2", "sentence": "他对于未来的选择感到徬徨", "translation": "He feels irresolute about his future choices.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徭", "reading": "yao2", "sentence": "古代百姓需要承担繁重徭役", "translation": "In ancient times, commoners had to perform heavy compulsory service.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徯", "reading": "xi1", "sentence": "这荒野中有一条隐秘徯径", "translation": "There is a hidden footpath in this wilderness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "彻", "reading": "che4", "sentence": "我们要对问题进行彻底调查", "translation": "We must conduct a thorough investigation into the problem.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徻", "reading": "wei4", "sentence": "这座建筑内有一间宽敞徻堂", "translation": "There is a wide hall inside this building.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "徼", "reading": "jiao3", "sentence": "成功不能完全依赖徼幸", "translation": "Success cannot rely entirely on mere luck.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忀", "reading": "xiang1", "sentence": "他在花园里自由自在地忀徉", "translation": "He is strolling freely in the garden.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忉", "reading": "dao1", "sentence": "他心中感到十分悲伤忉怛", "translation": "He feels deeply grieved in his heart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忌", "reading": "ji4", "sentence": "做人不能因为嫉妒而忌恨别人", "translation": "One should not be jealous and hate others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忐", "reading": "tan3", "sentence": "我考试前感到心里忐忑不安", "translation": "I felt anxious and uneasy before the exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忑", "reading": "te4", "sentence": "他忐忑地等待着面试结果", "translation": "He waited for the interview results with anxiety.", "model": "gemini-3.1-flash-lite", "added": "2026-10-18"}
+{"word": "忕", "reading": "shi4", "sentence": "他自幼习惯骄纵，性情有些忕气。", "translation": "He was spoiled since childhood and has a somewhat self-willed temper.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忖", "reading": "cun3", "sentence": "我坐在窗前默默忖度着明天的计划。", "translation": "I sat by the window quietly pondering tomorrow's plan.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忝", "reading": "tian3", "sentence": "我才疏学浅，实在深感忝列其中。", "translation": "I have shallow knowledge and truly feel ashamed to be listed among them.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忞", "reading": "min2", "sentence": "他面对困难时常常自我忞勉。", "translation": "When facing difficulties, he often encourages himself.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忡", "reading": "chong1", "sentence": "国事家事令他终日忧忡不安。", "translation": "State and family affairs left him grieved and uneasy all day.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忤", "reading": "wu3", "sentence": "这个孩子脾气倔强，对长辈十分忤逆。", "translation": "This child has a stubborn temper and is very disobedient to elders.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忪", "reading": "song1", "sentence": "他刚睡醒时眼睛还带着惺忪的睡意。", "translation": "His eyes still had a sleepy look when he just woke up.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忭", "reading": "bian4", "sentence": "佳节来临，家家户户皆是一派忭乐。", "translation": "When the holiday arrives, every household is filled with joy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忮", "reading": "zhi4", "sentence": "他为人刻薄，对同僚多有忮求。", "translation": "He is harsh in nature and has many jealous demands toward colleagues.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忱", "reading": "chen2", "sentence": "我们应当以一片赤忱对待朋友。", "translation": "We should treat friends with pure sincerity.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忸", "reading": "niu3", "sentence": "听到表扬后，她有些忸怩地低下了头。", "translation": "After hearing the praise, she lowered her head a bit bashfully.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忺", "reading": "xian1", "sentence": "春日融融，游人心中甚是忺快。", "translation": "The spring day is warm and pleasant, and travelers feel quite cheerful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忻", "reading": "xin1", "sentence": "听到这个好消息，大家心里十分忻悦。", "translation": "Hearing this good news, everyone was very happy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忿", "reading": "fen4", "sentence": "他心中的忿恨久久不能平息。", "translation": "The anger in his heart could not be calmed for a long time.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怊", "reading": "chao1", "sentence": "面对突如其来的变故，他感到十分怊怅。", "translation": "Faced with the sudden change, he felt very disappointed and sorrowful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怍", "reading": "zuo4", "sentence": "做错了事就要敢于承认，不要内心有愧而怍。", "translation": "If you do something wrong, have the courage to admit it and do not feel ashamed.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怏", "reading": "yang4", "sentence": "他对目前的待遇感到非常怏怏不平。", "translation": "He felt very discontented and resentful about his current treatment.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怐", "reading": "kou4", "sentence": "这个年轻人平日里显得有些怐愗。", "translation": "This young man usually appears a bit slow and dull.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怔", "reading": "zheng1", "sentence": "突如其来的巨响让他当场怔住。", "translation": "The sudden loud noise left him startled on the spot.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怖", "reading": "bu4", "sentence": "灾难带来的巨大恐怖笼罩着小镇。", "translation": "The immense terror brought by the disaster enveloped the small town.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怗", "reading": "tie1", "sentence": "夜深人静，四周显得格外安怗。", "translation": "Late at night when all is quiet, the surroundings appear exceptionally peaceful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怙", "reading": "hu4", "sentence": "我们不能凡事都怙恃他人来解决。", "translation": "We cannot rely on others to solve everything for us.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怚", "reading": "ju4", "sentence": "他平日里反应迟钝，神情有些怚俗。", "translation": "He is usually slow to react and his expression is a bit dull.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怛", "reading": "da2", "sentence": "听到亲人病重的消息，他内心十分悲怛。", "translation": "Hearing the news of his relative's serious illness, he felt deeply distressed inside.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怞", "reading": "zhou4", "sentence": "孤单的日子里，他常常独自怞怅。", "translation": "In lonely days, he often grieved and felt sad by himself.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怠", "reading": "dai4", "sentence": "工作不能太懈怠", "translation": "You cannot be too idle at work.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怡", "reading": "yi2", "sentence": "这里环境清幽心旷神怡", "translation": "The environment here is quiet and refreshing.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怦", "reading": "peng1", "sentence": "听到消息我心头怦怦跳", "translation": "Hearing the news, my heart went thump-thump.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怩", "reading": "ni2", "sentence": "她说话有些忸怩不安", "translation": "She seemed a bit bashful and uneasy when speaking.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怫", "reading": "fei4", "sentence": "他内心怫郁很不高兴", "translation": "He was depressed inside and very unhappy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怭", "reading": "bi4", "sentence": "为人不可轻狂怭慢", "translation": "One should not be frivolous and arrogant in behavior.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怯", "reading": "qie4", "sentence": "他上台发言时有点怯场", "translation": "He had stage fright when speaking on stage.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怲", "reading": "bing3", "sentence": "灾民流离失所内心悲怲", "translation": "The displaced victims felt sorrowful in their hearts.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怵", "reading": "chu4", "sentence": "面对强敌他毫不怵惕", "translation": "Facing a formidable enemy, he was not fearful at all.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怹", "reading": "tan1", "sentence": "怹老人家身体一直很好", "translation": "He has always been in good health.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恂", "reading": "xun2", "sentence": "他待人接物十分恂栗", "translation": "He is very sincere and respectful in dealing with people.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恃", "reading": "shi4", "sentence": "我们不能凡事只恃靠别人", "translation": "We cannot rely solely on others for everything.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恇", "reading": "kuang1", "sentence": "遇到困难大家不要惊恇", "translation": "Everyone should not panic when encountering difficulties.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恌", "reading": "tiao1", "sentence": "年轻人做事不要太恌轻", "translation": "Young people should not be too frivolous in doing things.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恓", "reading": "xi1", "sentence": "他最近遇到麻烦心情很恓", "translation": "He recently encountered trouble and feels very troubled.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恙", "reading": "yang4", "sentence": "最近流感盛行注意别生恙", "translation": "Flu is prevalent recently, be careful not to fall sick.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恚", "reading": "hui4", "sentence": "他因受到不公对待而心生怒恚", "translation": "He felt a rage in his heart due to unfair treatment.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恛", "reading": "hui2", "sentence": "房间里乱七八糟一片恛惶", "translation": "The room was a mess and in a disordered state.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恝", "reading": "jia2", "sentence": "他对大家的劝告感到恝然。", "translation": "He felt indifferent to everyone's advice.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恞", "reading": "yi2", "sentence": "他听了很高兴且面容恞然。", "translation": "He looked happy upon hearing it.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恟", "reading": "xiong1", "sentence": "面对突发情况他有些恟惧。", "translation": "He was a bit scared and nervous facing the sudden situation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恣", "reading": "zi4", "sentence": "他度假时行为十分恣意。", "translation": "He behaved without restraint while on vacation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "耻", "reading": "chi3", "sentence": "这件事情让他感到奇耻大辱。", "translation": "This matter made him feel a great disgrace.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恧", "reading": "nu:4", "sentence": "做错事后他感到满心恧然。", "translation": "He felt deeply ashamed after doing something wrong.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恫", "reading": "dong4", "sentence": "巨大的雷声把小孩恫吓哭了。", "translation": "The loud thunder frightened the child to tears.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恬", "reading": "tian2", "sentence": "乡村的生活过得很恬静。", "translation": "Life in the countryside is quiet and peaceful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恿", "reading": "yong3", "sentence": "朋友怂恿他去参加比赛。", "translation": "His friend instigated him to join the competition.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悀", "reading": "yong3", "sentence": "他听到这个消息十分悀怒。", "translation": "He became very angry upon hearing this news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悁", "reading": "juan1", "sentence": "他因这件小事而感到悁恼。", "translation": "He felt annoyed and angry about this small matter.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悃", "reading": "kun3", "sentence": "他向老师表达了真悃的谢意。", "translation": "He expressed sincere thanks to his teacher.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悄", "reading": "qiao1", "sentence": "猫悄悄地走进了房间。", "translation": "The cat walked quietly into the room.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悦", "reading": "yue4", "sentence": "这本小说读起来令人喜悦。", "translation": "This novel is a pleasure to read.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悆", "reading": "yu4", "sentence": "节日里家家户户都十分悆乐。", "translation": "Every family was very happy during the festival.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悉", "reading": "xi1", "sentence": "老师对班里的情况悉知。", "translation": "The teacher knows the situation of the class in all cases.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悊", "reading": "zhe2", "sentence": "古人对天地自然十分悊敬。", "translation": "Ancient people greatly revered nature and the heavens.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悌", "reading": "ti4", "sentence": "他对待兄长非常恭敬和悌。", "translation": "He is very respectful and fulfills his duty as a younger brother.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悍", "reading": "han4", "sentence": "这位民族英雄表现得十分悍勇。", "translation": "This national hero acted with great heroism.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悐", "reading": "ti4", "sentence": "学生们对老教授十分悐重。", "translation": "The students hold the old professor in high respect.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悒", "reading": "yi4", "sentence": "他最近工作压力大而感到悒郁。", "translation": "He felt anxious and depressed recently due to heavy work pressure.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悕", "reading": "xi1", "sentence": "他常悕能够回到童年的家乡。", "translation": "He often wishes he could return to his childhood hometown.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悖", "reading": "bei4", "sentence": "这种做法完全悖离了初衷。", "translation": "This approach completely goes against the original intention.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悚", "reading": "song3", "sentence": "恐怖电影的画面让他感到悚然。", "translation": "The scenes of the horror movie made him feel frightened.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悛", "reading": "quan1", "sentence": "他犯错后真心悔过并决心悛改。", "translation": "After making a mistake, he truly repented and resolved to reform.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悠", "reading": "you1", "sentence": "钟声悠扬传得很远", "translation": "The bell rings long and melodiously, carrying far.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悲", "reading": "bei1", "sentence": "听到这个消息他很悲伤", "translation": "He was very sad upon hearing this news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悴", "reading": "cui4", "sentence": "他看起来十分憔悴", "translation": "He looks very haggard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怅", "reading": "chang4", "sentence": "他感到十分惆怅", "translation": "He felt quite depressed.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悼", "reading": "dao4", "sentence": "大家一起悼念逝者", "translation": "Everyone mourns the deceased together.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惆", "reading": "chou2", "sentence": "他独自在街头很惆怅", "translation": "He was forlorn alone on the street.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惋", "reading": "wan3", "sentence": "大家为这个结果感到惋惜", "translation": "Everyone sighed in regret over this result.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惑", "reading": "huo4", "sentence": "复杂的假消息迷惑了大家", "translation": "The complex fake news confused everyone.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惓", "reading": "quan2", "sentence": "他神情惓惓地看着远方。", "translation": "He looked into the distance with an earnest expression.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惔", "reading": "tan2", "sentence": "熊熊烈火把木头惔尽了。", "translation": "The raging fire burned the wood completely.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惕", "reading": "ti4", "sentence": "他做错事后感到十分警惕。", "translation": "He felt very fearful after doing something wrong.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惘", "reading": "wang3", "sentence": "听到这个消息他感到很惘然。", "translation": "He felt very disappointed upon hearing this news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惙", "reading": "chuo4", "sentence": "她心中惙然有着一丝忧伤。", "translation": "She felt a mournful sorrow in her heart.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惚", "reading": "hu1", "sentence": "他最近总是显得精神恍惚。", "translation": "He has been looking absent-minded recently.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惛", "reading": "hun1", "sentence": "年老的人有时思维会有些惛钝。", "translation": "Elderly people sometimes become a bit confused in their thinking.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惝", "reading": "chang3", "sentence": "他看着落空的计划感到惝恍。", "translation": "He felt disappointed looking at the failed plan.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惦", "reading": "dian4", "sentence": "母亲一直在家里惦记着出门的孩子。", "translation": "The mother is always thinking of her child who went out.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恼", "reading": "nao3", "sentence": "听到这个坏消息他有点恼火。", "translation": "He got a bit angry upon hearing the bad news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惴", "reading": "zhui4", "sentence": "考试前夕他的心情感到惴惴不安。", "translation": "He felt anxious on the eve of the exam.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惶", "reading": "huang2", "sentence": "面对突发状况大家难免有些惶恐。", "translation": "Faced with a sudden situation, everyone inevitably feels some dread.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惺", "reading": "xing1", "sentence": "喝了醒酒汤后他终于惺忪过来。", "translation": "After drinking the sobering soup, he finally came to his senses.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恻", "reading": "ce4", "sentence": "看到灾区的情况让人心生恻隐。", "translation": "Seeing the situation in the disaster area makes one feel sorrowful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愀", "reading": "qiao3", "sentence": "听完坏消息他的脸色顿时愀然。", "translation": "Upon hearing the bad news, his expression changed instantly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愃", "reading": "xuan1", "sentence": "乡亲们过着安居乐业的愃适生活。", "translation": "The villagers live a life of well-being and contentment.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愆", "reading": "qian1", "sentence": "知错能改就不算严重的愆尤。", "translation": "Recognizing and correcting a mistake is not a serious fault.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愉", "reading": "yu2", "sentence": "节日里大家脸上都带着愉快的笑容。", "translation": "During the holiday, everyone wore a pleased smile on their face.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愊", "reading": "bi4", "sentence": "他心中充满了无法排解的愊塞。", "translation": "His heart was filled with unresolvable melancholy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愎", "reading": "bi4", "sentence": "他性格固执己见显得有些刚愎。", "translation": "His stubborn personality makes him appear somewhat perverse.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愐", "reading": "mian3", "sentence": "初次上台演讲她显得有些愐腆。", "translation": "Giving a speech on stage for the first time, she appeared somewhat shy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愓", "reading": "dang4", "sentence": "他整天游手好闲行为十分放愓。", "translation": "He idled around all day and his behavior was very profligate.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愔", "reading": "yin1", "sentence": "森林深处是一个愔愔的世外桃源。", "translation": "Deep in the forest is a peaceful earthly paradise.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愕", "reading": "e4", "sentence": "听到这个消息他感到愕然", "translation": "He was startled upon hearing the news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愗", "reading": "mao4", "sentence": "他看起来十分怐愗", "translation": "He looks very foolish and simple.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悫", "reading": "que4", "sentence": "他是一个为人诚悫的孩子", "translation": "He is an honest child.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愫", "reading": "su4", "sentence": "她向老朋友倾吐真愫", "translation": "She poured out her true feelings to her old friend.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愭", "reading": "qi2", "sentence": "面对长辈他态度十分愭敬", "translation": "He is very deferential and respectful toward his elders.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愮", "reading": "yao2", "sentence": "连日奔波让她内心感到愮动", "translation": "Days of running around made her feel agitated inside.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怆", "reading": "chuang4", "sentence": "这首悲伤的诗透着凄怆", "translation": "This sad poem exudes a mournful vibe.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恺", "reading": "kai3", "sentence": "节日的广场上一片康恺", "translation": "The festival square was filled with joy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忾", "reading": "kai4", "sentence": "看到不公之事他满腔义忾", "translation": "He was filled with righteous indignation seeing injustices.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慁", "reading": "hun4", "sentence": "复杂的情况让他感到慁乱", "translation": "The complicated situation made him feel confused.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "栗", "reading": "li4", "sentence": "寒风吹过让人心惊肉栗", "translation": "The cold wind blowing made people shiver with chill.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慅", "reading": "sao1", "sentence": "局势动荡使大家内心慅动", "translation": "The turbulent situation made everyone agitated inside.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慆", "reading": "tao1", "sentence": "面对丰收村民心中慆喜", "translation": "Faced with a good harvest, the villagers rejoiced in their hearts.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慇", "reading": "yin1", "sentence": "老师对生病的同学十分慇勤", "translation": "The teacher was very solicitous toward the sick student.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慈", "reading": "ci2", "sentence": "慈祥的老奶奶总是乐于助人", "translation": "The compassionate old grandma is always ready to help others.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慉", "reading": "xu4", "sentence": "学校致力于慉养优秀人才", "translation": "The school is dedicated to fostering outstanding talents.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慊", "reading": "qian4", "sentence": "他对目前的成绩感到不慊", "translation": "He is dissatisfied with his current results.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "态", "reading": "tai4", "sentence": "他的表态让大家很安心", "translation": "His attitude made everyone feel at ease.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愠", "reading": "yun4", "sentence": "听到不合理的指责他面带愠色", "translation": "He looked indignant upon hearing unreasonable accusations.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惨", "reading": "can3", "sentence": "连续的阴雨天让出行变得很惨淡", "translation": "Continuous rainy days made traveling rather miserable.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慜", "reading": "min3", "sentence": "这个聪慜的孩子很快解开了谜题", "translation": "This clever child quickly solved the puzzle.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慝", "reading": "te4", "sentence": "我们必须彻底清除心中的恶慝", "translation": "We must completely eradicate evil thoughts in our hearts.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恸", "reading": "tong4", "sentence": "失去亲人的痛苦让他悲恸万分", "translation": "The pain of losing a loved one filled him with deep grief.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惯", "reading": "guan4", "sentence": "他已经习惯了早睡早起", "translation": "He is already accustomed to going to bed early and getting up early.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慥", "reading": "zao4", "sentence": "他待人真诚慥慥", "translation": "He treats people with great sincerity.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怄", "reading": "ou4", "sentence": "这件小事别去怄气", "translation": "Do not get annoyed over this trivial matter.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慬", "reading": "qin2", "sentence": "士兵十分勇敢慬敏", "translation": "The soldiers were very brave and agile.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "虑", "reading": "lu:4", "sentence": "我们必须仔细考虑", "translation": "We must think it over carefully.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慰", "reading": "wei4", "sentence": "老师的话安慰了他", "translation": "The teacher's words comforted him.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慱", "reading": "tuan2", "sentence": "他离家后心情慱然", "translation": "He felt sad after leaving home.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悭", "reading": "qian1", "sentence": "他平时花钱很悭吝", "translation": "He is usually very stingy with money.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慵", "reading": "yong1", "sentence": "周末在家觉得很慵懒", "translation": "I feel very lethargic staying at home on the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "庆", "reading": "qing4", "sentence": "大家一起庆祝节日", "translation": "Everyone celebrates the festival together.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "慷", "reading": "kang1", "sentence": "他是一个慷慨的人", "translation": "He is a generous person.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忧", "reading": "you1", "sentence": "父母总是为我忧心", "translation": "Parents always worry about me.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憃", "reading": "chong1", "sentence": "这样做显得很憃笨", "translation": "Doing it this way looks quite foolish and clumsy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惫", "reading": "bei4", "sentence": "连续加班感到疲惫", "translation": "Working overtime continuously makes me feel exhausted.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憋", "reading": "bie1", "sentence": "心里有话别憋着", "translation": "Do not keep your words bottled up inside.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憎", "reading": "zeng1", "sentence": "大家都很憎恨小偷", "translation": "Everyone detests thieves.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怜", "reading": "lian2", "sentence": "我们要怜悯弱小", "translation": "We should pity the weak.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愦", "reading": "kui4", "sentence": "头脑昏愦想不清", "translation": "My mind is confused and I cannot think clearly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憔", "reading": "qiao2", "sentence": "他最近显得很憔悴", "translation": "He has been looking rather haggard recently.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惮", "reading": "dan4", "sentence": "遇到困难不要畏惮", "translation": "Do not dread when encountering difficulties.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憝", "reading": "dui4", "sentence": "众人对恶行皆憝恶", "translation": "Everyone dislikes and detests evil deeds.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "愤", "reading": "fen4", "sentence": "听到不公感到气愤", "translation": "I feel indignant upon hearing about unfairness.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憧", "reading": "chong1", "sentence": "我对未来充满憧憬", "translation": "I am full of yearning and hope for the future.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憨", "reading": "han1", "sentence": "他看起来挺憨的。", "translation": "He looks quite silly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憪", "reading": "xian2", "sentence": "他神色憪然自若。", "translation": "His expression is composed and at ease.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悯", "reading": "min3", "sentence": "我们应当怜悯弱者。", "translation": "We should have compassion for the weak.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憬", "reading": "jing3", "sentence": "他终于从梦中憬悟。", "translation": "He finally awakened from his dream.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憭", "reading": "liao3", "sentence": "此事实在明憭于心。", "translation": "This matter is truly clear in mind.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "宪", "reading": "xian4", "sentence": "我们必须遵守宪法。", "translation": "We must abide by the constitution.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忆", "reading": "yi4", "sentence": "我常常回忆起童年。", "translation": "I often recollect my childhood.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憷", "reading": "chu4", "sentence": "他走夜路有点憷。", "translation": "He is a bit afraid of walking at night.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憸", "reading": "xian1", "sentence": "这个人行为有些憸巧。", "translation": "This person's behavior is somewhat artful and cunning.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "𢙐", "reading": "nao2", "sentence": "他为此感到十分懊𢙐。", "translation": "He feels extremely regretful and vexed about this.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憺", "reading": "dan4", "sentence": "山村生活宁静而憺荡。", "translation": "Mountain village life is peaceful and tranquil.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "憾", "reading": "han4", "sentence": "没去成旅行真遗憾。", "translation": "It is such a regret not being able to go on the trip.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懅", "reading": "qu2", "sentence": "她见到生人时很懅。", "translation": "She is very bashful when seeing strangers.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懆", "reading": "cao3", "sentence": "考试临近使他很懆急。", "translation": "The approaching exams make him very anxious.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恳", "reading": "ken3", "sentence": "老师恳切地叮嘱大家。", "translation": "The teacher earnestly urged everyone.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懊", "reading": "ao4", "sentence": "做错事后他十分懊悔。", "translation": "He regretted deeply after doing the wrong thing.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懋", "reading": "mao4", "sentence": "我们要勤勉懋功。", "translation": "We must be hardworking and strive for achievements.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怿", "reading": "yi4", "sentence": "听到好消息大家很怿。", "translation": "Everyone was pleased upon hearing the good news.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懔", "reading": "lin3", "sentence": "面对狂风暴雨真懔然。", "translation": "Facing the violent storm is truly fearful.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "怼", "reading": "dui3", "sentence": "网友纷纷在网上怼他。", "translation": "Netizens successively called him out online.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懠", "reading": "qi2", "sentence": "他听到无理指责很懠。", "translation": "He was angry upon hearing the unreasonable accusation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懑", "reading": "men4", "sentence": "连日阴雨让人很郁懑。", "translation": "Days of gloomy rain make people very melancholic.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懥", "reading": "zhi4", "sentence": "他听到这个消息后气得懥然作色", "translation": "He was so enraged upon hearing the news that his expression changed.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懦", "reading": "nuo4", "sentence": "面对困难我们不能表现得懦弱", "translation": "We must not show cowardice in the face of difficulties.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恹", "reading": "yan1", "sentence": "他生病期间整天显得恹恹的", "translation": "He looked languid all day during his illness.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懫", "reading": "zhi2", "sentence": "面对不公他心中满是懫恨", "translation": "Facing injustice, his heart was full of rage.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懮", "reading": "you3", "sentence": "这是一段让人感到懮伤的往事", "translation": "This is a grievous past event that makes people feel sad.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懰", "reading": "liu2", "sentence": "春风吹拂着大地景色十分懰亮", "translation": "The spring breeze blows across the earth and the scenery is lovely.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惩", "reading": "cheng2", "sentence": "老师决定惩罚调皮的学生", "translation": "The teacher decided to punish the naughty student.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "悬", "reading": "xuan2", "sentence": "天花板上悬挂着一盏明亮的灯", "translation": "A bright lamp is suspended from the ceiling.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "忏", "reading": "chan4", "sentence": "他诚心在佛前忏悔自己的过错", "translation": "He sincerely repented his mistakes before the Buddha.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "惧", "reading": "ju4", "sentence": "小孩子独自走夜路会感到惧怕", "translation": "A child walking alone at night will feel fear.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "懿", "reading": "yi4", "sentence": "她是一位品德懿范的优秀老师", "translation": "She is an excellent teacher with exemplary moral conduct.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "恋", "reading": "lian4", "sentence": "游子总是十分留恋自己的家乡", "translation": "Wanderers always feel deeply attached to their hometown.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戁", "reading": "nan3", "sentence": "百姓们对严厉的法纪感到戁惧", "translation": "The common people stood in awe and fear of the strict laws.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戄", "reading": "jue2", "sentence": "突然的巨响让他们感到惊戄", "translation": "The sudden loud noise made them feel frightened.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戆", "reading": "gang4", "sentence": "这个小伙子有时候显得很戆直", "translation": "This young man sometimes looks rather foolish and stubborn.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戊", "reading": "wu4", "sentence": "今年是农历戊戌年", "translation": "This year is the Wuxu year of the lunar calendar.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戌", "reading": "qu5", "sentence": "木门上装有一个精致的屈戌儿", "translation": "The wooden door is fitted with a delicate door hinge.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戋", "reading": "jian1", "sentence": "这里的巷子非常狭戋难行", "translation": "The alley here is very narrow and difficult to walk through.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戕", "reading": "qiang1", "sentence": "战争会无情地戕害无辜的生命", "translation": "War will ruthlessly kill and harm innocent lives.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戛", "reading": "ga1", "sentence": "电影节每年在法国戛纳举行", "translation": "The film festival is held in Cannes, France every year.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戟", "reading": "ji3", "sentence": "古代士兵手里拿着长长的戟", "translation": "Ancient soldiers held long halberds in their hands.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戠", "reading": "zhi2", "sentence": "勤劳的人们开始戠聚收获的果实", "translation": "Hardworking people begin to gather the fruits of harvest.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戡", "reading": "kan1", "sentence": "军队出征是为了戡定叛乱", "translation": "The army set out on an expedition to quell the rebellion.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戣", "reading": "kui2", "sentence": "博物馆里展出了古代的铜戣", "translation": "Ancient bronze lances are exhibited in the museum.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戤", "reading": "gai4", "sentence": "这家小店居然敢戤名牌商品", "translation": "This small shop actually dares to counterfeit brand-name goods.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戥", "reading": "deng3", "sentence": "老药铺里还留着一把旧戥子", "translation": "The old apothecary still has an old small steelyard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戗", "reading": "qiang1", "sentence": "今天的天气与往常戗着来", "translation": "Today's weather goes contrary to usual.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戬", "reading": "jian3", "sentence": "祝愿福禄双全鸿运齐戬", "translation": "Wishing you complete fortune and utmost great luck.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戭", "reading": "yan3", "sentence": "古代武士手中紧握长戭", "translation": "The ancient warrior tightly grasped a long spear in his hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戺", "reading": "shi4", "sentence": "老房子的木戺已经生锈了", "translation": "The wooden door pivot of the old house has rusted.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戽", "reading": "hu4", "sentence": "老农用木戽在田里浇水", "translation": "The old farmer uses a water bucket to water the fields.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "戾", "reading": "li4", "sentence": "他性格暴戾难以相处", "translation": "His personality is fierce and unruly, making him hard to get along with.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扂", "reading": "dian4", "sentence": "夜深人静时记得插上扂", "translation": "Remember to put the door latch in place when it is late and quiet.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扃", "reading": "jiong1", "sentence": "天黑以后记得把大门扃好", "translation": "Remember to bolt the main door after dark.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扉", "reading": "fei1", "sentence": "木质的柴扉显得格外朴素", "translation": "The wooden single-leaf door looks exceptionally plain.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扊", "reading": "yan3", "sentence": "古人睡觉前会放下门上的扊", "translation": "Ancient people would put down the door bar before sleeping.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扐", "reading": "le4", "sentence": "巫师通过扐草来占卜未来", "translation": "The wizard divines the future through straw divination.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "払", "reading": "fan3", "sentence": "他伸手払过桌上的文件", "translation": "He reached out and took the documents on the table.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扠", "reading": "cha1", "sentence": "农夫用木叉去扠地上的干草", "translation": "The farmer uses a wooden fork to fork the hay on the ground.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扡", "reading": "chi3", "sentence": "他把沉重的行李艰难地扡着走", "translation": "He dragged the heavy luggage along with difficulty.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扤", "reading": "wu4", "sentence": "这把老椅子坐上去有点扤", "translation": "This old chair shakes a bit when you sit on it.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扦", "reading": "qian1", "sentence": "花盆里插着一根竹扦防鸟", "translation": "A slender bamboo piece is stuck in the flowerpot to prevent birds.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扱", "reading": "xi1", "sentence": "老师在课后认真扱取同学的意见", "translation": "The teacher seriously collected students' opinions after class.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扳", "reading": "ban1", "sentence": "他用力一扳就把开关打开了", "translation": "With a strong pull, he turned on the switch.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扻", "reading": "zi4", "sentence": "愤怒的他举起拳头向前扻去", "translation": "In anger, he raised his fist and struck forward.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扼", "reading": "e4", "sentence": "警察迅速上前扼住他的手腕", "translation": "The police officer quickly stepped forward to grip his wrist.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扽", "reading": "den4", "sentence": "他用力扽了一下钓鱼竿", "translation": "He gave the fishing rod a forceful yank.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "技", "reading": "ji4", "sentence": "他学了一门新技艺。", "translation": "He learned a new skill.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抃", "reading": "bian4", "sentence": "观众为他热烈抃手。", "translation": "The audience applauded him warmly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抆", "reading": "wen4", "sentence": "她轻轻抆去眼泪。", "translation": "She gently wiped away her tears.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抈", "reading": "yue4", "sentence": "他慢慢把竹条抈弯。", "translation": "He slowly bent the bamboo strip.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抉", "reading": "jue2", "sentence": "我们应该抉择正确的道路。", "translation": "We should choose the correct path.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抌", "reading": "dan3", "sentence": "他用棍子猛力抌击。", "translation": "He struck forcefully with a stick.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抑", "reading": "yi4", "sentence": "我们要学会抑制脾气。", "translation": "We must learn to restrain our temper.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抒", "reading": "shu1", "sentence": "这首歌抒发了真挚的情感。", "translation": "This song expresses sincere emotions.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抔", "reading": "pou2", "sentence": "他用双手抔起泉水。", "translation": "He scooped up spring water with both hands.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抨", "reading": "peng1", "sentence": "报纸公开抨击了这个政策。", "translation": "The newspaper openly attacked this policy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抴", "reading": "ye4", "sentence": "他用力把门抴开。", "translation": "He pulled the door open with force.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抶", "reading": "chi4", "sentence": "古代曾用刑杖抶犯人。", "translation": "In ancient times, criminals were beaten with canes.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抻", "reading": "chen1", "sentence": "这块面团需要抻一下。", "translation": "This piece of dough needs to be pulled a bit.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抿", "reading": "min3", "sentence": "她对着镜子抿了抿头发。", "translation": "She smoothed her hair in front of the mirror.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拃", "reading": "zha3", "sentence": "桌子的宽度大约有三拃。", "translation": "The width of the table is about three hand spans.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拇", "reading": "mu3", "sentence": "他的左手拇指受伤了。", "translation": "The thumb of his left hand is injured.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拈", "reading": "nian1", "sentence": "他用手指拈起一朵花。", "translation": "He picked up a flower with his fingers.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拊", "reading": "fu3", "sentence": "老师轻轻拊着他的肩膀。", "translation": "The teacher gently patted his shoulder.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拑", "reading": "qian2", "sentence": "工具箱里有一把铁拑。", "translation": "There is a pair of iron pliers in the toolbox.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拒", "reading": "ju4", "sentence": "我们不能拒绝好的建议。", "translation": "We cannot resist good advice.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拘", "reading": "ju1", "sentence": "警察迅速拘捕了小偷。", "translation": "The police quickly captured the thief.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拙", "reading": "zhuo1", "sentence": "他有些拙于言辞。", "translation": "He is somewhat awkward with words.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拚", "reading": "pan4", "sentence": "大家都在拚命工作。", "translation": "Everyone is striving hard at work.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拤", "reading": "qia2", "sentence": "他双手拤住树干往上爬。", "translation": "He gripped the tree trunk with both hands and climbed up.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拫", "reading": "hen2", "sentence": "他用力拫住那根绳子", "translation": "He pulled hard on that rope.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "括", "reading": "kuo4", "sentence": "我们必须把袋口括紧", "translation": "We must tie up the mouth of the bag tightly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拮", "reading": "jie2", "sentence": "双方态度十分拮抗", "translation": "Both sides had a very antagonistic attitude.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拯", "reading": "zheng3", "sentence": "英雄挺身而出拯救灾民", "translation": "The hero stepped forward to save the disaster victims.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拱", "reading": "gong3", "sentence": "他向前辈拱手致意", "translation": "He cupped his hands to greet the senior.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拳", "reading": "quan2", "sentence": "他握紧双拳准备比赛", "translation": "He clenched his fists in preparation for the match.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拶", "reading": "za1", "sentence": "切勿使用暴力去拶逼他人", "translation": "Do not use violence to coerce others.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拾", "reading": "she4", "sentence": "她轻移莲步拾级而上", "translation": "She lightly ascended the steps.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挈", "reading": "qie4", "sentence": "母亲挈着篮子去赶集", "translation": "Mother carried the basket and went to the market.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挌", "reading": "ge2", "sentence": "两人在街头发生挌斗", "translation": "The two got into a fight on the street.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挍", "reading": "jiao4", "sentence": "老师让他们认真挍阅试卷", "translation": "The teacher asked them to carefully compare and review the test papers.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挎", "reading": "kua4", "sentence": "她喜欢挎着这个新包", "translation": "She likes carrying this new bag on her shoulder.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挐", "reading": "na2", "sentence": "官府派人挐捕江洋大盗", "translation": "The officials sent people to apprehend the notorious thief.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挓", "reading": "zha1", "sentence": "小鸟挓挲着翅膀学飞", "translation": "The little bird opened out its wings to learn how to fly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挫", "reading": "cuo4", "sentence": "这项计划在实施中遇挫", "translation": "This project encountered obstructions during implementation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挶", "reading": "ju2", "sentence": "工人们用挶运送泥土", "translation": "The workers used structures to transport earth.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挹", "reading": "yi4", "sentence": "他用瓢从小溪里挹水", "translation": "He used a ladle to scoop up water from the stream.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挼", "reading": "rua2", "sentence": "纸张被他揉得有点挼了", "translation": "The paper was wrinkled a bit by him.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捃", "reading": "jun4", "sentence": "学者潜心在古籍中捃摭", "translation": "The scholar wholeheartedly gathered materials from ancient texts.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捋", "reading": "lu:3", "sentence": "妈妈用手轻轻捋顺头发", "translation": "Mother used her hands to smoothly arrange the hair.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捌", "reading": "ba1", "sentence": "这张支票的金额是捌佰元", "translation": "The amount on this check is eight hundred yuan.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捎", "reading": "shao1", "sentence": "请顺便帮我捎个信给他", "translation": "Please help me bring a message to him by the way.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捗", "reading": "bu4", "sentence": "新项目近期取得了长足捗步", "translation": "The new project has made great progress recently.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捘", "reading": "zun4", "sentence": "他用手指轻轻捘了一下", "translation": "He gave a gentle push with his finger.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捥", "reading": "wan4", "sentence": "运动前要先活动并捥腕", "translation": "You should warm up and bend your wrists before exercising.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "舍", "reading": "she3", "sentence": "我们不能轻易舍弃梦想", "translation": "We cannot easily give up our dreams.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捩", "reading": "lie4", "sentence": "妈妈小心地撕捩纸张", "translation": "Mother carefully tears the paper.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "扪", "reading": "men2", "sentence": "他忍不住扪心自问", "translation": "He could not help searching his own conscience.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捭", "reading": "bai3", "sentence": "老板把货品捭开展示", "translation": "The boss spread out the goods for display.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捯", "reading": "dao2", "sentence": "奶奶坐在院子里捯线", "translation": "Grandma is sitting in the courtyard reeling in yarn.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捶", "reading": "chui2", "sentence": "他气得用力捶着桌子", "translation": "He was so angry he thumped the table hard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捺", "reading": "na4", "sentence": "请在表单底部捺印", "translation": "Please press your stamp at the bottom of the form.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捻", "reading": "nian3", "sentence": "她无聊地捻着花瓣", "translation": "She boredly twirled the flower petals in her fingers.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捼", "reading": "ruo2", "sentence": "她用肥皂捼洗衣服", "translation": "She rubbed and washed the clothes with soap.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捽", "reading": "zuo2", "sentence": "警察一把捽住小偷", "translation": "The policeman seized the thief by the collar.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掀", "reading": "xian1", "sentence": "他伸手掀开锅盖", "translation": "He reached out and lifted the pot lid.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掂", "reading": "dian1", "sentence": "她掂了掂苹果的重量", "translation": "She weighed the apple in her hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抡", "reading": "lun1", "sentence": "运动员用力抡起铁锤", "translation": "The athlete swung the sledgehammer hard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掇", "reading": "duo1", "sentence": "服务员帮客人掇凳子", "translation": "The waiter helped the guest move a stool.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "授", "reading": "shou4", "sentence": "校长给毕业生授学位", "translation": "The principal confers degrees on the graduates.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掊", "reading": "pou2", "sentence": "他弯腰掊起一把沙子", "translation": "He bent down and scooped up a handful of sand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掌", "reading": "zhang3", "sentence": "老师手里拿着一巴掌大的书", "translation": "The teacher is holding a palm-sized book.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掍", "reading": "hun4", "sentence": "这件衣服的掍边很精致", "translation": "The edging of this garment is very exquisite.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掎", "reading": "ji3", "sentence": "他们互相掎角之势进攻", "translation": "They attacked in a pincer formation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掏", "reading": "tao1", "sentence": "他从口袋里掏出钥匙", "translation": "He fished out the keys from his pocket.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掔", "reading": "qian1", "sentence": "他紧紧掔着马缰绳", "translation": "He held tightly onto the horse reins leading it along.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挜", "reading": "ya4", "sentence": "工人把零件牢牢挜在机器上", "translation": "The worker firmly attached the part to the machine.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掞", "reading": "shan4", "sentence": "他觉得这次考试十分掞手", "translation": "He felt this exam was quite easy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掟", "reading": "zheng3", "sentence": "他顺手把垃圾掟进桶里", "translation": "He casually threw the trash into the bin.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掠", "reading": "lu:e4", "sentence": "海盗试图掠夺这座港口", "translation": "The pirates tried to take over the port by force.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "探", "reading": "tan4", "sentence": "我们一起去森林里探险。", "translation": "We went together to explore the forest.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掣", "reading": "che4", "sentence": "他突然掣出了一把宝剑。", "translation": "He suddenly pulled out a precious sword.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掤", "reading": "bing1", "sentence": "这个古老的掤做得很精致。", "translation": "This ancient arrow-quiver cover is made very exquisitely.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掩", "reading": "yan3", "sentence": "你不要试图掩盖这个错误。", "translation": "Do not try to cover up this mistake.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "措", "reading": "cuo4", "sentence": "面对突发情况他不知所措。", "translation": "He did not know how to handle the sudden situation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掬", "reading": "ju1", "sentence": "她用双手掬起了一捧清泉。", "translation": "She held a handful of clear spring water in her hands.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掭", "reading": "tian4", "sentence": "他认真地在砚台上掭笔。", "translation": "He carefully smoothed the brush against the inkstone.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掮", "reading": "qian2", "sentence": "工人把沉重的货物掮在肩上。", "translation": "The worker carried the heavy cargo on his shoulder.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掯", "reading": "ken4", "sentence": "他用力把箱子掯在桌上。", "translation": "He pushed the box down hard on the table.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掾", "reading": "yuan4", "sentence": "县衙里的掾吏正在处理公文。", "translation": "The officials in the county yamen are handling official documents.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拣", "reading": "jian3", "sentence": "请帮我从这些苹果里拣几个好的。", "translation": "Please help me choose a few good ones from these apples.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揃", "reading": "jian1", "sentence": "裁缝用剪刀揃开布料。", "translation": "The tailor shears the fabric with scissors.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揄", "reading": "yu2", "sentence": "老师巧妙地揄扬了学生的优点。", "translation": "The teacher skillfully drew out and praised the student's merits.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揅", "reading": "yan2", "sentence": "学者伏案揅墨准备写字。", "translation": "The scholar bent over the desk to grind ink preparing to write.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揆", "reading": "kui2", "sentence": "大家需要认真揆度当前的局势。", "translation": "Everyone needs to carefully consider the current situation.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揌", "reading": "sai1", "sentence": "他生气地把头揌了一下。", "translation": "He shook his head angrily.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揎", "reading": "xuan1", "sentence": "工人师傅揎起袖子准备干活。", "translation": "The worker rolled up his sleeves to start working.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "描", "reading": "miao2", "sentence": "艺术家在纸上细心地描绘山水。", "translation": "The artist carefully depicts the landscape on paper.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揓", "reading": "shi4", "sentence": "他手里紧紧地揓着那封信。", "translation": "He is holding that letter tightly in his hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揕", "reading": "zhen4", "sentence": "古代武士挥剑向前揕去。", "translation": "The ancient warrior waved his sword and hit forward.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揖", "reading": "yi1", "sentence": "见到长辈时他拱手作揖。", "translation": "When seeing his elders, he greeted them by raising clasped hands.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揗", "reading": "shun3", "sentence": "他突然伸出手去揗了对方一下。", "translation": "He suddenly reached out and struck the other person.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揘", "reading": "heng2", "sentence": "这个词汇常用于古代的揘畢组合中。", "translation": "This vocabulary is often used in the ancient combination hengbi.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揜", "reading": "yan3", "sentence": "她用手轻轻揜住自己的嘴巴。", "translation": "She gently covered her mouth with her hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揝", "reading": "zuan4", "sentence": "她紧紧地揝着那封信。", "translation": "She tightly grasped that letter in her hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揞", "reading": "an3", "sentence": "医生在伤口上仔细地揞药粉。", "translation": "The doctor carefully applied medicinal powder to the wound.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揠", "reading": "ya4", "sentence": "我们要彻底揠除杂草。", "translation": "We must completely eradicate the weeds.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揣", "reading": "chuai1", "sentence": "他把钥匙揣在口袋里。", "translation": "He put the keys into his pocket.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揥", "reading": "ti4", "sentence": "我们应该揥去心中的杂念。", "translation": "We should get rid of distractions in our minds.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揩", "reading": "kai1", "sentence": "妈妈用毛巾帮我揩汗。", "translation": "Mom used a towel to wipe my sweat.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揪", "reading": "jiu1", "sentence": "他一把揪住小偷的衣领。", "translation": "He seized the thief by the collar.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揫", "reading": "jiu1", "sentence": "大家把散落的树枝揫在一起。", "translation": "Everyone gathered the scattered branches together.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揰", "reading": "chong4", "sentence": "他用棍子把洞里的东西揰出来。", "translation": "He used a stick to poke out the thing in the hole.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揲", "reading": "she2", "sentence": "古人占卜时需要认真揲草。", "translation": "Ancient people needed to carefully sort out divining stalks when divining.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揳", "reading": "xie1", "sentence": "师傅熟练地把铁钉揳入木头。", "translation": "The master craftsman skillfully hammered the iron nail into the wood.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揵", "reading": "qian2", "sentence": "工人合力把沉重的货物揵走。", "translation": "The workers joined forces to carry the heavy goods away.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揶", "reading": "ye2", "sentence": "他站在台上手舞足蹈地揶着。", "translation": "He stood on the stage gesticulating with dance and movement.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揸", "reading": "zha1", "sentence": "他用力把五指揸开。", "translation": "He stretched his five fingers out hard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揻", "reading": "wei1", "sentence": "他轻松地把竹条揻弯了。", "translation": "He easily bent the thin bamboo strip.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搉", "reading": "que4", "sentence": "大家坐在一起商量和搉事。", "translation": "Everyone sat together to discuss and consult on matters.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搊", "reading": "chou1", "sentence": "乐师轻轻地搊着琴弦。", "translation": "The musician gently plucked the strings.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搋", "reading": "chuai1", "sentence": "面包师傅正在用力搋面团。", "translation": "The baker is energetically kneading the dough.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搌", "reading": "zhan3", "sentence": "她用纸巾把桌上的茶水搌干。", "translation": "She used a tissue to sop up the tea on the table.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "损", "reading": "sun3", "sentence": "过度加班会损耗健康。", "translation": "Excessive overtime will diminish one's health.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搎", "reading": "sun1", "sentence": "他用手掌在酸痛的肌肉上搎了几下。", "translation": "He rubbed the sore muscles with his palm a few times.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搐", "reading": "chu4", "sentence": "病人突然感到小腿抽搐。", "translation": "The patient suddenly felt a spasm in the calf.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搒", "reading": "bang4", "sentence": "古代诗人常在江上搒舟游玩。", "translation": "Ancient poets often rowed boats on the river for leisure.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搕", "reading": "ke4", "sentence": "他一不小心把茶杯搕在桌上。", "translation": "He accidentally struck the teacup against the table.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "捣", "reading": "dao3", "sentence": "妈妈在厨房里用石臼捣蒜。", "translation": "Mom is pounding garlic with a stone mortar in the kitchen.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搘", "reading": "zhi1", "sentence": "他用棍子搘住窗户。", "translation": "He used a stick to prop up the window.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搛", "reading": "jian1", "sentence": "奶奶用筷子搛了一块肉。", "translation": "Grandma picked up a piece of meat with chopsticks.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搠", "reading": "shuo4", "sentence": "他在墙上搠了一层泥。", "translation": "He daubed a layer of mud on the wall.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搡", "reading": "sang3", "sentence": "那个人突然伸手把我搡开。", "translation": "That person suddenly reached out and pushed me away forcefully.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搢", "reading": "jin4", "sentence": "他气得双手直搢。", "translation": "He was so angry that his hands kept shaking.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搣", "reading": "mie4", "sentence": "她轻轻搣去花瓣上的灰尘。", "translation": "She gently removed the dust from the petals.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搦", "reading": "nuo4", "sentence": "将军手中搦着一封信。", "translation": "The general held a letter in his hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搨", "reading": "ta4", "sentence": "大师正在碑文上搨墨。", "translation": "The master is making a rubbing of the inscription.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搪", "reading": "tang2", "sentence": "这块厚木板能搪住冷风。", "translation": "This thick wooden board can keep out the cold wind.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搰", "reading": "hu2", "sentence": "他在泥土里用力搰出一个洞。", "translation": "He dug a hole in the mud with effort.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搲", "reading": "wa1", "sentence": "小孩紧紧搲住母亲的手。", "translation": "The child clutched his mother's hand tightly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搳", "reading": "hua2", "sentence": "几位长辈在院子里高兴地搳拳。", "translation": "Several elders were happily playing the finger-guessing game in the yard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搴", "reading": "qian1", "sentence": "勇士上阵搴旗拔寨。", "translation": "The brave soldiers went into battle to seize flags and capture enemy camps.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "揾", "reading": "wen3", "sentence": "你去帮我揾一下那本书。", "translation": "Go help me look for that book.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搷", "reading": "chen1", "sentence": "他们用力搷着大鼓。", "translation": "They beat the big drum with all their might.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搽", "reading": "cha2", "sentence": "妈妈给弟弟的脸上搽了点药膏。", "translation": "Mom applied some ointment on my younger brother's face.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "搿", "reading": "ge2", "sentence": "两个老朋友一见面就紧紧搿在一起。", "translation": "The two old friends hugged each other tightly the moment they met.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摎", "reading": "jiu1", "sentence": "土匪试图用绳子摎住路人。", "translation": "The bandit tried to strangle the passerby with a rope.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掴", "reading": "guai1", "sentence": "调皮的孩子被父亲掴了一巴掌。", "translation": "The naughty child was slapped by his father.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摒", "reading": "bing4", "sentence": "我们应该摒弃那些旧观念。", "translation": "We should discard those old notions.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摓", "reading": "feng2", "sentence": "这条裤子看起来十分宽摓。", "translation": "These pants look very wide.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摙", "reading": "lian3", "sentence": "工人正忙着把货物摙往远方。", "translation": "The workers are busy transporting the goods to afar.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摛", "reading": "chi1", "sentence": "诗人们四处摛文颂扬盛世。", "translation": "The poets spread writings everywhere to praise the prosperous age.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掼", "reading": "guan4", "sentence": "他生气地把手机掼在地上。", "translation": "He angrily flung his phone onto the ground.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摞", "reading": "luo4", "sentence": "请把这些书本整齐地摞起来。", "translation": "Please pile up these books neatly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摠", "reading": "zong3", "sentence": "这只是个摠的概念。", "translation": "This is only a general concept.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摦", "reading": "hua4", "sentence": "这条道路很摦。", "translation": "This road is very wide.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摧", "reading": "cui1", "sentence": "风把树枝摧断了。", "translation": "The wind broke the tree branches.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摩", "reading": "ma1", "sentence": "妈妈轻轻摩挲着孩子的头。", "translation": "The mother gently stroked the child's head.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摭", "reading": "zhi2", "sentence": "他在地上摭拾碎纸。", "translation": "He picked up scraps of paper from the ground.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摮", "reading": "ao2", "sentence": "古代士兵挥起长戈摮敌。", "translation": "Ancient soldiers brandished their long halberds to strike the enemy.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摰", "reading": "nie4", "sentence": "猎人迅速摰住猎物。", "translation": "The hunter quickly seized the prey.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摲", "reading": "shan4", "sentence": "村民挥刀摲去杂草。", "translation": "The villagers swung their knives to cut down the weeds.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抠", "reading": "kou1", "sentence": "他用手指抠着墙上的泥土。", "translation": "He used his fingers to dig at the mud on the wall.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摴", "reading": "shu1", "sentence": "古人喜欢在庭院里投壶摴采。", "translation": "The ancients liked to play pitch-pot and roll dice in the courtyard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抟", "reading": "tuan2", "sentence": "她把面团抟成一个个小球。", "translation": "She rolled the dough into small balls.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摷", "reading": "jiao3", "sentence": "他用木棍轻轻摷着门框。", "translation": "He tapped the door frame gently with a wooden stick.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摹", "reading": "mo2", "sentence": "初学者通常先摹写字帖。", "translation": "Beginners usually copy calligraphic models first.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "摽", "reading": "biao1", "sentence": "他随手把旧信件摽弃一旁。", "translation": "He casually discarded the old letters aside.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撂", "reading": "liao4", "sentence": "他把行李撂在地上休息。", "translation": "He put his luggage down on the ground to rest.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撅", "reading": "jue1", "sentence": "小猫生气时把尾巴高高撅起。", "translation": "The kitten stuck its tail high up when angry.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撊", "reading": "xian4", "sentence": "沙场上的战士十分撊勇。", "translation": "The soldiers on the battlefield are very valiant.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撋", "reading": "ruan2", "sentence": "她用双手把药材撋匀。", "translation": "그녀 rubbed the medicinal herbs evenly with both hands.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挦", "reading": "xian2", "sentence": "她气得伸手挦下几根头发。", "translation": "She was so angry that she pulled out a few hairs with her hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撙", "reading": "zun3", "sentence": "公司决定撙节开支以度过难关。", "translation": "The company decided to cut down on expenses to tide over the difficulties.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撚", "reading": "nian3", "sentence": "他无聊地撚着手中的茶杯。", "translation": "He boredly toyed with the teacup in his hand.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "㧑", "reading": "hui1", "sentence": "樵夫挥起斧头㧑开木柴。", "translation": "The woodcutter swung his axe to split the firewood.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撢", "reading": "dan3", "sentence": "主妇用鸡毛帚把书架撢干净。", "translation": "The housewife dusted the bookshelf clean with a feather duster.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掸", "reading": "dan3", "sentence": "他顺手掸掉衣服上的灰尘。", "translation": "He casually brushed the dust off his clothes.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撤", "reading": "che4", "sentence": "请把桌上的盘子撤走。", "translation": "Please remove the plates from the table.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撧", "reading": "jue1", "sentence": "他用力把树枝撧断了。", "translation": "He broke off the tree branch with force.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "抚", "reading": "fu3", "sentence": "老师轻轻地抚慰着他。", "translation": "The teacher gently comforted him.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撬", "reading": "qiao4", "sentence": "小偷用铁棍撬开了门。", "translation": "The thief pried open the door with an iron rod.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撮", "reading": "cuo1", "sentence": "她用手指撮了一点盐。", "translation": "She picked up a pinch of salt with her fingertips.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撱", "reading": "tuo3", "sentence": "他把文件用夹子撱好。", "translation": "He clipped the documents together.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撼", "reading": "han4", "sentence": "巨大的风暴撼动了大树。", "translation": "The huge storm shook the big tree.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "撽", "reading": "qiao4", "sentence": "士兵用木棍撽打地面。", "translation": "The soldier beat the ground with a wooden stick.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "挝", "reading": "wo1", "sentence": "老挝是一个美丽的国家。", "translation": "Laos is a beautiful country.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "拥", "reading": "yong1", "sentence": "妈妈紧紧地拥抱着孩子。", "translation": "The mother hugged her child tightly.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擂", "reading": "lei2", "sentence": "战士们用力擂响了战鼓。", "translation": "The soldiers beat the battle drum hard.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "掳", "reading": "lu3", "sentence": "敌人试图掳走村里的百姓。", "translation": "The enemy tried to capture the villagers.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "择", "reading": "ze2", "sentence": "我们在商店里仔细择衣。", "translation": "We carefully select clothes in the shop.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擉", "reading": "chuo4", "sentence": "他用长矛向前狠狠擉去。", "translation": "He thrust the spear forward fiercely.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "击", "reading": "ji1", "sentence": "守门员成功击退了对手。", "translation": "The goalkeeper successfully repelled the opponent.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擎", "reading": "qing2", "sentence": "大树擎起一片绿色的阴凉。", "translation": "The big tree holds up a patch of green shade.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擐", "reading": "huan4", "sentence": "他把手臂擐进袖子里去。", "translation": "He slid his arm through the sleeve.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "㧟", "reading": "kuai3", "sentence": "他觉得背上有点痒就㧟了一下。", "translation": "He felt an itch on his back and scratched it.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "担", "reading": "dan1", "sentence": "他愿意担负起这个重任。", "translation": "He is willing to undertake this heavy responsibility.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擖", "reading": "ge3", "sentence": "厨师用刀把瓜皮表面擖净。", "translation": "The chef scraped the skin of the melon clean with a knife.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擗", "reading": "pi3", "sentence": "他悲痛得捶胸擗足大哭。", "translation": "He beat his breast and stamped his feet in deep grief.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擘", "reading": "bo4", "sentence": "每个人都有两只手和擘。", "translation": "Everyone has two hands and thumbs.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擢", "reading": "zhuo2", "sentence": "皇帝破格擢升了那个年轻官员。", "translation": "The emperor exceptionally promoted that young official.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擣", "reading": "dao3", "sentence": "妈妈在厨房里用石臼擣蒜。", "translation": "Mother is pounding garlic with a stone mortar in the kitchen.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
+{"word": "擩", "reading": "ru3", "sentence": "毛笔不小心擩上了墨汁。", "translation": "The brush accidentally got stained with ink.", "model": "gemini-flash-lite-latest", "added": "2026-10-18"}
