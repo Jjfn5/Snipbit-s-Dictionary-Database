@@ -1,6 +1,6 @@
 # Snipbit's Dictionary Database
 
-GitHub Actions builds the dictionaries so phones don't have to parse them.
+Dictionary Database for Snipbit, pre-parsed with entry and examples
 
 ## Japanese Dictionary
 - Jmdict
