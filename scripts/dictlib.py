@@ -1,6 +1,6 @@
 """Shared plumbing for the per-source entry builders (ccedict, kor, spa, fra).
 
-build_jmdict.py predates this module and keeps its own copy of the same
+dictionaries/ja/jmdict.py predates this module and keeps its own copy of the same
 logic; the output format (table, manifest keys, gzip) is identical, so the
 app treats every source the same way.
 
