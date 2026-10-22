@@ -73,6 +73,7 @@ def main(argv=None) -> int:
         urls=[URL],
         build_rows=build_rows,
         default_min_rows=100_000,
+        default_min_ranked=5_000,
         argv=argv,
     )
 
