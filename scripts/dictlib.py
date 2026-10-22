@@ -22,7 +22,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable, Iterable, Optional
 
-SCHEMA_VERSION = 1  # bump when the entries columns change (the app checks it)
+import freqlib
+
+SCHEMA_VERSION = 2  # bump when the entries columns change (the app checks it); 2 = + freq_rank
 UA = "snipbit-dictionary-builder"
 REPO_RELEASES = "https://github.com/Jjfn5/Snipbit-s-Dictionary-Database/releases/download"
 
@@ -35,10 +37,12 @@ CREATE TABLE entries (
     part_of_speech TEXT,
     meaning TEXT NOT NULL,
     is_common INTEGER NOT NULL DEFAULT 0,
-    reading_latin TEXT
+    reading_latin TEXT,
+    freq_rank INTEGER
 )
 """
 
+# Builders yield 8-column rows; write_entries_db appends freq_rank (see freqlib).
 Row = tuple  # (source, headword, alt, reading, pos, meaning_json, is_common, reading_latin)
 
 
@@ -103,16 +107,17 @@ def set_output(key: str, value: str) -> None:
             f.write(f"{key}={value}\n")
 
 
-def write_entries_db(rows: Iterable[Row], db_path: Path) -> int:
+def write_entries_db(rows: Iterable[Row], db_path: Path,
+                     ranker: Optional[Callable[[Row], tuple]] = None) -> int:
     if db_path.exists():
         db_path.unlink()
     con = sqlite3.connect(db_path)
     con.execute(SCHEMA)
-    insert = "INSERT INTO entries VALUES (?,?,?,?,?,?,?,?)"
-    batch: list[Row] = []
+    insert = "INSERT INTO entries VALUES (?,?,?,?,?,?,?,?,?)"
+    batch: list[tuple] = []
     n = 0
     for row in rows:
-        batch.append(row)
+        batch.append(ranker(row) if ranker else tuple(row[:8]) + (None,))
         n += 1
         if len(batch) >= 5000:
             con.executemany(insert, batch)
@@ -134,6 +139,7 @@ def run(
     urls: list[str],
     build_rows: Callable[[list[Path]], Iterable[Row]],
     default_min_rows: int,
+    default_min_ranked: int = 0,
     extra_args: Optional[Callable[[argparse.ArgumentParser], None]] = None,
     argv: Optional[list[str]] = None,
     out_name: Optional[str] = None,
@@ -149,6 +155,14 @@ def run(
     ap.add_argument("--base-url", default=f"{REPO_RELEASES}/{source}")
     ap.add_argument("--min-rows", type=int, default=default_min_rows,
                     help="sanity floor; refuse to publish a suspiciously small db")
+    ap.add_argument("--freq-file", type=Path,
+                    help="frequency list (one word per line, most frequent first) "
+                         "instead of the wordfreq package")
+    ap.add_argument("--no-freq", action="store_true",
+                    help="leave freq_rank empty (no frequency data at all)")
+    ap.add_argument("--min-ranked", type=int, default=default_min_ranked,
+                    help="sanity floor: refuse to publish if fewer entries got a freq_rank "
+                         "(catches a frequency list that silently matched nothing)")
     if extra_args:
         extra_args(ap)
     args = ap.parse_args(argv)
@@ -162,8 +176,10 @@ def run(
             prev = json.loads(args.prev_manifest.read_text())
         except (ValueError, OSError):
             prev = {}
+    freq_label = "none" if args.no_freq else freqlib.source_label(args.freq_file)
     same_builder = (prev.get("builderVersion") == builder_version
-                    and prev.get("schemaVersion") == SCHEMA_VERSION)
+                    and prev.get("schemaVersion") == SCHEMA_VERSION
+                    and prev.get("frequencySource") == freq_label)
 
     if args.input:
         files = list(args.input)
@@ -187,12 +203,19 @@ def run(
             set_output("changed", "false")
             return 0
 
+    ranker = None if args.no_freq else freqlib.make_ranker(source, args.freq_file)
     print("Parsing...")
     db_path = out / f"{out_name}.db"
-    n = write_entries_db(build_rows(files), db_path)
-    print(f"{source}: {n} rows")
+    n = write_entries_db(build_rows(files), db_path, ranker)
+    ranked = ranker.ranked if ranker else 0
+    print(f"{source}: {n} rows, {ranked} with a frequency rank ({freq_label})")
     if n < args.min_rows:
         print(f"ERROR: only {n} rows (< {args.min_rows}); refusing to publish", file=sys.stderr)
+        return 1
+
+    if not args.no_freq and ranked < args.min_ranked:
+        print(f"ERROR: only {ranked} ranked entries (< {args.min_ranked}); "
+              "refusing to publish", file=sys.stderr)
         return 1
 
     gz_path = out / f"{out_name}.db.gz"
@@ -207,6 +230,8 @@ def run(
         "upstreamStamp": upstream_stamp,
         "builtAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "rowCount": n,
+        "frequencySource": freq_label,
+        "rankedRows": ranked,
         "dbUrl": f"{args.base_url}/{out_name}.db.gz",
         "dbSha256": sha256_file(gz_path),
         "dbGzBytes": gz_path.stat().st_size,

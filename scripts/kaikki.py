@@ -76,6 +76,7 @@ def main(argv=None) -> int:
         urls=[LANGS[known.lang]],
         build_rows=make_rows(known.lang),
         default_min_rows=100_000,
+        default_min_ranked=5_000,
         argv=rest,
     )
 
