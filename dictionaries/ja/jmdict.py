@@ -26,10 +26,11 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts"))
 from translit import build_latin_key  # noqa: E402
+import freqlib  # noqa: E402
 
 RELEASE_API = "https://api.github.com/repos/scriptin/jmdict-simplified/releases/latest"
 ASSET_RE = re.compile(r"^jmdict-eng-\d.*\.json\.zip$")
-SCHEMA_VERSION = 1   # bump when the entries columns change (app must check)
+SCHEMA_VERSION = 2   # bump when the entries columns change (app must check); 2 = + freq_rank
 BUILDER_VERSION = 1  # bump when parsing logic changes, to force a rebuild
 DEFAULT_BASE_URL = (
     "https://github.com/Jjfn5/Snipbit-s-Dictionary-Database/releases/download/jmdict"
@@ -45,7 +46,8 @@ CREATE TABLE entries (
     part_of_speech TEXT,
     meaning TEXT NOT NULL,
     is_common INTEGER NOT NULL DEFAULT 0,
-    reading_latin TEXT
+    reading_latin TEXT,
+    freq_rank INTEGER
 )
 """
 
@@ -150,18 +152,18 @@ def word_to_row(word: dict):
     )
 
 
-def build_db(words: list[dict], db_path: Path) -> int:
+def build_db(words: list[dict], db_path: Path, ranker=None) -> int:
     if db_path.exists():
         db_path.unlink()
     con = sqlite3.connect(db_path)
     con.execute(SCHEMA)
     rows, n = [], 0
-    insert = "INSERT INTO entries VALUES (?,?,?,?,?,?,?,?)"
+    insert = "INSERT INTO entries VALUES (?,?,?,?,?,?,?,?,?)"
     for w in words:
         row = word_to_row(w)
         if row is None:
             continue
-        rows.append(row)
+        rows.append(ranker(row) if ranker else tuple(row) + (None,))
         n += 1
         if len(rows) >= 5000:
             con.executemany(insert, rows)
@@ -182,7 +184,7 @@ def set_output(key: str, value: str) -> None:
             f.write(f"{key}={value}\n")
 
 
-def main() -> int:
+def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--input", type=Path, help="local .json/.json.zip instead of fetching")
     ap.add_argument("--out-dir", type=Path, default=Path("out"))
@@ -190,10 +192,18 @@ def main() -> int:
     ap.add_argument("--base-url", default=DEFAULT_BASE_URL)
     ap.add_argument("--min-rows", type=int, default=150_000,
                     help="sanity floor; refuse to publish a suspiciously small db")
-    args = ap.parse_args()
+    ap.add_argument("--freq-file", type=Path,
+                    help="frequency list (one word per line, most frequent first) "
+                         "instead of the wordfreq package")
+    ap.add_argument("--no-freq", action="store_true",
+                    help="leave freq_rank empty (no frequency data at all)")
+    ap.add_argument("--min-ranked", type=int, default=5_000,
+                    help="sanity floor: refuse to publish if fewer entries got a freq_rank")
+    args = ap.parse_args(argv)
 
     out = args.out_dir
     out.mkdir(parents=True, exist_ok=True)
+    freq_label = "none" if args.no_freq else freqlib.source_label(args.freq_file)
 
     if args.input:
         src, tag = args.input, f"local-{args.input.name}"
@@ -204,7 +214,8 @@ def main() -> int:
                 prev = json.loads(args.prev_manifest.read_text())
                 if (prev.get("upstreamTag") == tag
                         and prev.get("builderVersion") == BUILDER_VERSION
-                        and prev.get("schemaVersion") == SCHEMA_VERSION):
+                        and prev.get("schemaVersion") == SCHEMA_VERSION
+                        and prev.get("frequencySource") == freq_label):
                     print(f"Upstream {tag} unchanged -- nothing to do")
                     set_output("changed", "false")
                     return 0
@@ -214,13 +225,19 @@ def main() -> int:
         print(f"Downloading {url}")
         download(url, src)
 
+    ranker = None if args.no_freq else freqlib.make_ranker("jmdict", args.freq_file)
     print("Parsing...")
     words = load_words(src)
     db_path = out / "jmdict.db"
-    n = build_db(words, db_path)
-    print(f"{len(words)} upstream words -> {n} rows")
+    n = build_db(words, db_path, ranker)
+    ranked = ranker.ranked if ranker else 0
+    print(f"{len(words)} upstream words -> {n} rows, {ranked} with a frequency rank ({freq_label})")
     if n < args.min_rows:
         print(f"ERROR: only {n} rows (< {args.min_rows}); refusing to publish", file=sys.stderr)
+        return 1
+    if not args.no_freq and ranked < args.min_ranked:
+        print(f"ERROR: only {ranked} ranked entries (< {args.min_ranked}); refusing to publish",
+              file=sys.stderr)
         return 1
 
     gz_path = out / "jmdict.db.gz"
@@ -238,6 +255,8 @@ def main() -> int:
         "upstreamTag": tag,
         "builtAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "rowCount": n,
+        "frequencySource": freq_label,
+        "rankedRows": ranked,
         "dbUrl": f"{args.base_url}/jmdict.db.gz",
         "dbSha256": sha,
         "dbGzBytes": gz_path.stat().st_size,
