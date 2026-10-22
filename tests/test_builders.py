@@ -10,13 +10,23 @@ ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 sys.path.insert(0, str(ROOT / "dictionaries" / "zh"))
 sys.path.insert(0, str(ROOT / "dictionaries" / "ko"))
+sys.path.insert(0, str(ROOT / "dictionaries" / "ja"))
 import ccedict as cc  # noqa: E402
 import kaikki as kk  # noqa: E402  (shared parser in scripts/)
 import krdict as kr  # noqa: E402
 import dictlib  # noqa: E402
+import freqlib  # noqa: E402
+import jmdict as jm  # noqa: E402
 
 COLS = ["source", "headword", "alt_headword", "reading", "part_of_speech",
-        "meaning", "is_common", "reading_latin"]
+        "meaning", "is_common", "reading_latin", "freq_rank"]
+
+
+def freq_file(d: Path, *words: str) -> str:
+    """Tiny frequency list (most frequent first); returns its path as a CLI arg."""
+    p = d / "freq.txt"
+    p.write_text("\n".join(words) + "\n", encoding="utf-8")
+    return str(p)
 
 
 def rows_of(db: Path):
@@ -41,9 +51,12 @@ def test_ccedict():
         src = d / "c.txt.gz"
         src.write_bytes(gzip.compress(text.encode()))
         out = d / "out"
-        assert cc.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0"]) == 0
+        ff = freq_file(d, "你好", "的", "传统")
+        assert cc.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0",
+                        "--freq-file", ff, "--min-ranked", "0"]) == 0
         rows = rows_of(out / "ccedict.db")
         assert len(rows) == 3
+        assert [r[8] for r in rows] == [3, 1, None]     # 传统, 你好 ranked; 二次方程 not in list
         trad = rows[0]
         assert trad[1:5] == ("传统", "傳統", "chuan2 tong3", None)
         assert json.loads(trad[5]) == [{"g": ["tradition"]}, {"g": ["traditional"]}]
@@ -52,6 +65,8 @@ def test_ccedict():
         assert rows[2][3] == "er4 ci4 fang1 cheng2"     # v2 spacing normalised
         m = json.loads((out / "manifest.json").read_text())
         assert m["source"] == "ccedict" and m["rowCount"] == 3
+        assert m["rankedRows"] == 2 and m["frequencySource"].startswith("file-")
+        assert m["schemaVersion"] == dictlib.SCHEMA_VERSION == 2
         assert m["dbSha256"] == dictlib.sha256_file(out / "ccedict.db.gz")
 
 
@@ -82,9 +97,12 @@ def test_krdict():
         src = d / "k.xml"
         src.write_text(KR_XML, encoding="utf-8")
         out = d / "out"
-        assert kr.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0"]) == 0
+        ff = freq_file(d, "물", "학교")
+        assert kr.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0",
+                        "--freq-file", ff, "--min-ranked", "0"]) == 0
         rows = rows_of(out / "kor.db")
         assert len(rows) == 2   # the French-only entry is dropped
+        assert [r[8] for r in rows] == [2, 1]
         r = rows[0]
         assert r[1:5] == ("학교", "學校", "학꾜", "명사") and r[6] == 1
         assert json.loads(r[5]) == [{"g": ["school"], "i": "a place for education"}]
@@ -114,9 +132,11 @@ def test_krdict_malformed_xml():
         src = d / "k.xml"
         src.write_text(bad, encoding="utf-8")
         out = d / "out"
-        assert kr.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0"]) == 0
+        assert kr.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0",
+                        "--no-freq"]) == 0
         rows = rows_of(out / "kor.db")
         assert [r[1] for r in rows] == ["굴", "물"]
+        assert all(r[8] is None for r in rows)
         assert json.loads(rows[0][5])[0]["i"] == 'salt & pepper < 5" or "x'
 
 
@@ -134,10 +154,12 @@ def test_kaikki():
         src = d / "k.jsonl"
         src.write_text("\n".join(lines), encoding="utf-8")
         out = d / "out"
+        ff = freq_file(d, "de", "Café", "nada")   # list casing differs from the headword's
         assert kk.main(["--lang", "spa", "--input", str(src), "--out-dir", str(out),
-                        "--min-rows", "0"]) == 0
+                        "--min-rows", "0", "--freq-file", ff, "--min-ranked", "0"]) == 0
         rows = rows_of(out / "spa.db")
         assert [r[1] for r in rows] == ["Café", "vacío"]
+        assert [r[8] for r in rows] == [2, None]        # "Café" matches "café" case-insensitively
         assert json.loads(rows[0][5]) == [{"g": ["coffee"]}]   # leaf of the breadcrumb only
         assert rows[0][7] == "cafe" and rows[1][7] == "vacio"
         assert (out / "spa.db.gz").exists()
@@ -149,14 +171,59 @@ def test_unchanged_upstream_skips():
         src = d / "c.txt"
         src.write_text("你好 你好 [ni3 hao3] /hello/\n", encoding="utf-8")
         out = d / "out"
-        assert cc.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0"]) == 0
+        assert cc.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0", "--no-freq"]) == 0
         before = (out / "manifest.json").read_text()
         # --input has no cheap stamp but the content hash still matches -> no rebuild
         prev = d / "prev.json"
         prev.write_text(before)
         assert cc.main(["--input", str(src), "--out-dir", str(out), "--min-rows", "0",
-                        "--prev-manifest", str(prev)]) == 0
+                        "--no-freq", "--prev-manifest", str(prev)]) == 0
         assert (out / "manifest.json").read_text() == before
+
+
+def test_jmdict_frequency():
+    """食べる ranked by its headword; コーヒー by itself; 喰べる is only the 2nd kanji."""
+    sample = ROOT / "tests" / "sample_jmdict.json"
+    with tempfile.TemporaryDirectory() as t:
+        d = Path(t)
+        out = d / "out"
+        ff = freq_file(d, "の", "学校", "コーヒー", "食べる")
+        assert jm.main(["--input", str(sample), "--out-dir", str(out), "--min-rows", "0",
+                        "--freq-file", ff, "--min-ranked", "0"]) == 0
+        by_head = {r[1]: r for r in rows_of(out / "jmdict.db")}
+        assert by_head["学校"][8] == 2
+        assert by_head["コーヒー"][8] == 3
+        assert by_head["食べる"][8] == 4
+        assert by_head["ファイル"][8] is None   # in the dictionary, not in the list
+
+
+def test_floor_refuses_unmatched_list():
+    """A list that matches nothing must not publish a silently rank-less db."""
+    with tempfile.TemporaryDirectory() as t:
+        d = Path(t)
+        src = d / "c.txt"
+        src.write_text("你好 你好 [ni3 hao3] /hello/\n", encoding="utf-8")
+        ff = freq_file(d, "zzz")
+        assert cc.main(["--input", str(src), "--out-dir", str(d / "out"), "--min-rows", "0",
+                        "--freq-file", ff, "--min-ranked", "1"]) == 1
+        assert not (d / "out" / "manifest.json").exists()
+
+
+def test_freqlib_matching():
+    ranks = {"こと": 5, "橋": 50, "はし": 7}
+    r = freqlib.Ranker("jmdict", ranks)
+    plain = '[{"g":["bridge"]}]'
+    uk = '[{"g":["thing"],"m":"uk, col"}]'
+    # kana reading is only consulted for usually-kana words
+    assert r.rank_of(("jmdict", "橋", None, "はし", None, plain)) == 50
+    assert r.rank_of(("jmdict", "箸", None, "はし", None, plain)) is None
+    assert r.rank_of(("jmdict", "事", None, "こと", None, uk)) == 5
+    assert r.rank_of(("jmdict", "事", None, "こと", None, plain)) is None
+    # lists with punctuation / numbers don't shift the ranks
+    with tempfile.TemporaryDirectory() as t:
+        p = Path(t) / "f.txt"
+        p.write_text("1\n,\nel\t9000\nLa\n# c\n", encoding="utf-8")
+        assert freqlib.load_ranks("spa", p) == {"el": 1, "la": 2}
 
 
 if __name__ == "__main__":
