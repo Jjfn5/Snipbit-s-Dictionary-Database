@@ -10781,3 +10781,995 @@
 {"word": "兵士", "reading": "bing1 shi4", "sentence": "他曾是一名普通的兵士。", "translation": "He was once an ordinary soldier.", "model": "gemini-3.1-flash-lite", "added": "2026-10-26"}
 {"word": "兵家", "reading": "Bing1 jia1", "sentence": "孙子是兵家的代表人物之一。", "translation": "Sun Tzu is one of the representative figures of the School of the Military.", "model": "gemini-3.1-flash-lite", "added": "2026-10-26"}
 {"word": "兵差", "reading": "bing1 chai1", "sentence": "古代农民常被征调去做兵差。", "translation": "Ancient farmers were often conscripted for military labor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-26"}
+{"word": "做绝", "reading": "zuo4 jue2", "sentence": "做人做事都不能太做绝，要留点退路。", "translation": "One shouldn't go to extremes in everything; leave some room for retreat.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "偶合", "reading": "ou3 he2", "sentence": "这件事情的发生完全是个偶合。", "translation": "The occurrence of this matter was purely a coincidence.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "传产", "reading": "chuan2 chan3", "sentence": "他大学毕业后选择进入传产工作。", "translation": "After graduating from university, he chose to work in traditional industry.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "债券", "reading": "zhai4 quan4", "sentence": "购买债券是一种相对稳健的投资方式。", "translation": "Buying bonds is a relatively stable way to invest.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "倾陷", "reading": "qing1 xian4", "sentence": "他遭到小人倾陷，幸好最终澄清了真相。", "translation": "He was framed by a villain, but fortunately the truth was cleared up in the end.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "入院", "reading": "ru4 yuan4", "sentence": "爷爷昨晚急病发作已经入院治疗。", "translation": "Grandpa fell ill last night and has been admitted to the hospital for treatment.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "公地", "reading": "gong1 di4", "sentence": "这片公地将被建设成为市民公园。", "translation": "This piece of public land will be built into a city park.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "公堂", "reading": "gong1 tang2", "sentence": "事情既然谈不拢，我们就只能对簿公堂了。", "translation": "Since we cannot reach an agreement, we can only take this to court.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "公审", "reading": "gong1 shen3", "sentence": "法院将于明天对这起案件进行公审。", "translation": "The court will hold a public trial for this case tomorrow.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "公燕", "reading": "gong1 yan4", "sentence": "古代官员会在节庆时参加公燕。", "translation": "Ancient officials would attend official banquets during festivals.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵役", "reading": "bing1 yi4", "sentence": "根据法律规定，适龄青年应当依法服兵役。", "translation": "According to the law, young people of age must serve in the military.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵戈", "reading": "bing1 ge1", "sentence": "愿世界上不再有兵戈和战争。", "translation": "May there be no more weapons and wars in the world.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵戎", "reading": "bing1 rong2", "sentence": "两家公司因为纠纷差点兵戎相见。", "translation": "The two companies almost came to arms over a dispute.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵推", "reading": "bing1 tui1", "sentence": "专家们正在进行一场模拟军事兵推。", "translation": "Experts are conducting a war-gaming simulation.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵书", "reading": "bing1 shu1", "sentence": "这本古代兵书包含了很多有用的策略。", "translation": "This ancient book on the art of war contains many useful strategies.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵权", "reading": "bing1 quan2", "sentence": "那位将军在军队中掌握着核心兵权。", "translation": "That general held core military power in the army.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵源", "reading": "bing1 yuan2", "sentence": "人口减少导致这个国家的兵源逐渐不足。", "translation": "Population decline led to a gradual shortage of military manpower in this country.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵营", "reading": "bing1 ying2", "sentence": "新兵们每天早晨都要在兵营集合训练。", "translation": "The recruits gather in the military camp every morning for training.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵燹", "reading": "bing1 xian3", "sentence": "这座古老的要塞经历过无数兵燹而依然屹立。", "translation": "This ancient fortress has withstood the ravages of countless wars and still stands.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵痞", "reading": "bing1 pi3", "sentence": "这个无恶不作的兵痞欺负了许多平民。", "translation": "This wicked army riffraff bullied many civilians.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵种", "reading": "bing1 zhong3", "sentence": "陆军和空军是军队中两个不同的兵种。", "translation": "The army and air force are two different branches of the armed forces.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵站", "reading": "bing1 zhan4", "sentence": "补给物资已经准时送达了前线兵站。", "translation": "Supplies have arrived at the frontline service station on time.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵船", "reading": "bing1 chuan2", "sentence": "几艘兵船停泊在港口准备执行任务。", "translation": "Several warships are anchored at the harbor, ready to execute a mission.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵舰", "reading": "bing1 jian4", "sentence": "巨大的兵舰在广阔的大海上巡逻。", "translation": "The huge warship patrols the vast ocean.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵蚁", "reading": "bing1 yi3", "sentence": "兵蚁负责保护蚁穴不受天敌的入侵。", "translation": "Soldier ants are responsible for protecting the anthill from predators.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵变", "reading": "bing1 bian4", "sentence": "军队在夜里发起了兵变。", "translation": "The army launched a mutiny during the night.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵部", "reading": "Bing1 bu4", "sentence": "他在明朝的兵部任职。", "translation": "He served in the Ministry of War during the Ming Dynasty.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵队", "reading": "bing1 dui4", "sentence": "一支兵队正向城堡进发。", "translation": "A troop of soldiers is advancing towards the castle.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵饷", "reading": "bing1 xiang3", "sentence": "朝廷延迟发放了这月的兵饷。", "translation": "The imperial court delayed paying this month's soldier salaries.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兵马", "reading": "bing1 ma3", "sentence": "将军率领兵马出发了。", "translation": "The general set out with his troops and horses.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其三", "reading": "qi2 san1", "sentence": "其三，我们要重视教育。", "translation": "Thirdly, we must attach importance to education.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其二", "reading": "qi2 er4", "sentence": "其二，我们需要更多资金。", "translation": "Secondly, we need more funds.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其先", "reading": "qi2 xian1", "sentence": "其先他并不知晓这件事情。", "translation": "Previously, he was not aware of this matter.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其内", "reading": "qi2 nei4", "sentence": "许多费用都已经包含在其内。", "translation": "Many expenses are already included therein.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其外", "reading": "qi2 wai4", "sentence": "除了这本，其外都是新书。", "translation": "Apart from this one, the rest are all new books.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "其所", "reading": "qi2 suo3", "sentence": "每个人都应该各得其所。", "translation": "Everyone should be in their proper place.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具保", "reading": "ju4 bao3", "sentence": "律师帮他申请了具保候审。", "translation": "The lawyer helped him apply for bail pending trial.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具名", "reading": "ju4 ming2", "sentence": "这是一封没有具名的举报信。", "translation": "This is an unsigned report letter.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具格", "reading": "ju4 ge2", "sentence": "这种语言使用具格表示工具。", "translation": "This language uses the instrumental case to indicate tools.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具尔", "reading": "ju4 er3", "sentence": "古人常以具尔表达兄弟情谊。", "translation": "Ancients often used 'juer' to express brotherly friendship.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具结", "reading": "ju4 jie2", "sentence": "原告在法庭上具结保证。", "translation": "The plaintiff signed a written guarantee in court.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "具象", "reading": "ju4 xiang4", "sentence": "这幅画将抽象的思想变得具象。", "translation": "This painting makes abstract ideas tangible.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典座", "reading": "dian3 zuo4", "sentence": "他在寺庙里担任典座一职。", "translation": "He serves as the kitchen manager in the monastery.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典当", "reading": "dian3 dang4", "sentence": "他把祖传的手表典当了。", "translation": "He pawned his ancestral watch.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典章", "reading": "dian3 zhang1", "sentence": "这本书记载了古代的典章制度。", "translation": "This book records ancient institutions and systems.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典籍", "reading": "dian3 ji2", "sentence": "图书馆收藏了许多珍贵典籍。", "translation": "The library holds many precious ancient records.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典藏", "reading": "dian3 cang2", "sentence": "这所博物馆典藏了许多名画。", "translation": "This museum houses many famous paintings.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "典质", "reading": "dian3 zhi4", "sentence": "他把家产典质给了地主。", "translation": "He mortgaged his family property to the landlord.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兼任", "reading": "jian1 ren4", "sentence": "张教授兼任了系主任。", "translation": "Professor Zhang concurrently serves as the department chair.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兼并", "reading": "jian1 bing4", "sentence": "这家大公司兼并了小型企业。", "translation": "This big company annexed small enterprises.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "兼备", "reading": "jian1 bei4", "sentence": "这本书内容与趣味兼备。", "translation": "This book has both content and interest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼优", "reading": "jian1 you1", "sentence": "他是一位品学兼优的学生。", "translation": "He is a student who excels in both character and learning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼具", "reading": "jian1 ju4", "sentence": "这栋房子兼具美观与实用。", "translation": "This house combines both aesthetics and utility.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼容", "reading": "jian1 rong2", "sentence": "这种软件与系统完全兼容。", "translation": "This software is fully compatible with the system.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼差", "reading": "jian1 chai1", "sentence": "他晚上在咖啡店兼差。", "translation": "He works a second job at a coffee shop at night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼爱", "reading": "jian1 ai4", "sentence": "墨子主张兼爱天下。", "translation": "Mozi advocated universal love for the world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼施", "reading": "jian1 shi1", "sentence": "我们需要恩威兼施。", "translation": "We need to use both kindness and severity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼有", "reading": "jian1 you3", "sentence": "这里兼有自然和人文景观。", "translation": "This place combines both natural and cultural landscapes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼营", "reading": "jian1 ying2", "sentence": "这家商店还兼营快递业务。", "translation": "This shop also runs a courier business as a sideline.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼程", "reading": "jian1 cheng2", "sentence": "他们日夜兼程赶往目的地。", "translation": "They traveled day and night to reach the destination.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼蓄", "reading": "jian1 xu4", "sentence": "这个博物馆兼蓄各家之长。", "translation": "This museum contains the strengths of all schools.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼课", "reading": "jian1 ke4", "sentence": "老师在其他学校兼课。", "translation": "The teacher teaches classes at another school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "兼顾", "reading": "jian1 gu4", "sentence": "我们要兼顾学习与休息。", "translation": "We must balance study and rest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冀县", "reading": "Ji4 xian4", "sentence": "他出生在河北的冀县。", "translation": "He was born in Ji County, Hebei.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冉冉", "reading": "ran3 ran3", "sentence": "太阳从山后冉冉升起。", "translation": "The sun slowly rose from behind the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "册封", "reading": "ce4 feng1", "sentence": "皇帝册封他为大将军。", "translation": "The emperor conferred the title of general upon him.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "册历", "reading": "ce4 li4", "sentence": "她一直坚持记录册历。", "translation": "She has always kept a diary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "册立", "reading": "ce4 li4", "sentence": "国王册立王子为储君。", "translation": "The king conferred the title of crown prince on his son.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再不", "reading": "zai4 bu4", "sentence": "快走，再不走要迟到了。", "translation": "Hurry up, or else you will be late.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再世", "reading": "zai4 shi4", "sentence": "他就像是华佗再世一样。", "translation": "He is like the reincarnation of Hua Tuo.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再入", "reading": "zai4 ru4", "sentence": "飞船准备再次再入大气层。", "translation": "The spacecraft is preparing to re-enter the atmosphere.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再则", "reading": "zai4 ze2", "sentence": "这事很急，再则费用也不高。", "translation": "This is urgent, and moreover, the cost is not high.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再四", "reading": "zai4 si4", "sentence": "我再四叮嘱他要小心。", "translation": "I repeatedly told him to be careful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再嫁", "reading": "zai4 jia4", "sentence": "她决定与爱人再嫁。", "translation": "She decided to remarry her lover.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再审", "reading": "zai4 shen3", "sentence": "法院决定对案件进行再审。", "translation": "The court decided to hear the case again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再建", "reading": "zai4 jian4", "sentence": "我们要把这座桥再建一次", "translation": "We need to reconstruct this bridge once more.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再拜", "reading": "zai4 bai4", "sentence": "他恭敬地再拜了三次", "translation": "He respectfully bowed again three times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再改", "reading": "zai4 gai3", "sentence": "这份报告需要再改一下", "translation": "This report needs to be changed again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再会", "reading": "zai4 hui4", "sentence": "希望我们很快就能再会", "translation": "I hope we can meet again soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再现", "reading": "zai4 xian4", "sentence": "这部电影再现了历史场景", "translation": "This movie recreates historical scenes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再发", "reading": "zai4 fa1", "sentence": "由于证件丢失需要再发", "translation": "Because the document was lost, it needs to be reissued.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再者", "reading": "zai4 zhe3", "sentence": "这里很安静，再者风景也好", "translation": "It is very quiet here, and besides, the scenery is good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再育", "reading": "zai4 yu4", "sentence": "我们要想办法再育林木", "translation": "We need to find ways to increase the forest trees.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再临", "reading": "zai4 lin2", "sentence": "春天即将会再次再临", "translation": "Spring will soon come again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再制", "reading": "zai4 zhi4", "sentence": "工厂决定把这批产品再制", "translation": "The factory decided to make more of this product batch.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再赛", "reading": "zai4 sai4", "sentence": "双方平局决定下周再赛", "translation": "The two sides tied, so they decided to compete again next week.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再起", "reading": "zai4 qi3", "sentence": "困难面前我们不能再起", "translation": "We cannot arise again in the face of difficulties.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再造", "reading": "zai4 zao4", "sentence": "我们要努力再造家园", "translation": "We must work hard to rebuild our home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再迁", "reading": "zai4 qian1", "sentence": "他表现出色被公司再迁", "translation": "He performed well and was promoted again by the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "再醮", "reading": "zai4 jiao4", "sentence": "她决定在这个年纪再醮", "translation": "She decided to remarry at this age.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冏卿", "reading": "jiong3 qing1", "sentence": "古时候冏卿负责养马", "translation": "In ancient times, the Minister of the Imperial Stud was responsible for horse breeding.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冏彻", "reading": "jiong3 che4", "sentence": "这篇文言文写得冏彻", "translation": "This classical Chinese text is written clearly and is easy to understand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冏牧", "reading": "jiong3 mu4", "sentence": "冏牧负责管理皇家马匹", "translation": "The Minister of the Imperial Stud was responsible for managing imperial horses.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒名", "reading": "mao4 ming2", "sentence": "他因为冒名被警察抓了", "translation": "He was arrested by the police for being an impostor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒失", "reading": "mao4 shi5", "sentence": "你说话做事不能太冒失", "translation": "You should not be too rash in your speech and actions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒昧", "reading": "mao4 mei4", "sentence": "冒昧问一句您今年贵庚", "translation": "May I boldly ask your age?", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒暑", "reading": "mao4 shu3", "sentence": "夏天出门小心不要冒暑", "translation": "Be careful not to get heat stroke when going out in summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒死", "reading": "mao4 si3", "sentence": "战士们冒死冲向了前线", "translation": "The soldiers braved death and rushed to the front line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒汗", "reading": "mao4 han4", "sentence": "他一紧张就会开始冒汗", "translation": "He starts to sweat whenever he gets nervous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒渎", "reading": "mao4 du2", "sentence": "我们决不能冒渎长辈", "translation": "We must never disrespect our elders.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒火", "reading": "mao4 huo3", "sentence": "看到他迟到我就非常冒火", "translation": "I get very angry when I see him being late.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒用", "reading": "mao4 yong4", "sentence": "有人冒用我的名字发邮件", "translation": "Someone is using my name to send emails.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒着", "reading": "mao4 zhe5", "sentence": "他冒着大雪走回家里", "translation": "He braved the heavy snow to walk home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒号", "reading": "mao4 hao4", "sentence": "这句话后面要加一个冒号", "translation": "You need to add a colon after this sentence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒进", "reading": "mao4 jin4", "sentence": "我们不能在工作中冒进", "translation": "We must not advance prematurely in our work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒雨", "reading": "mao4 yu3", "sentence": "他今天冒雨去上班了", "translation": "He braved the rain to go to work today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒顶", "reading": "mao4 ding3", "sentence": "矿井发生了严重的冒顶事故", "translation": "A serious roof fall accident occurred in the mine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒领", "reading": "mao4 ling3", "sentence": "他试图冒领别人的奖金", "translation": "He attempted to obtain someone else's bonus by impersonation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒头", "reading": "mao4 tou2", "sentence": "草地上冒头了几朵小花", "translation": "A few small flowers have emerged on the grass.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冒题", "reading": "mao4 ti2", "sentence": "这篇文章的写法有些冒题", "translation": "The writing style of this article is a bit off-topic initially.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冕雀", "reading": "mian3 que4", "sentence": "我在山林里看见了一只冕雀", "translation": "I saw a sultan tit in the mountains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗位", "reading": "rong3 wei4", "sentence": "公司清理了几个冗位", "translation": "The company cleared out a few redundant positions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗兵", "reading": "rong3 bing1", "sentence": "朝廷决定裁减冗兵", "translation": "The imperial court decided to reduce superfluous troops.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗冗", "reading": "rong3 rong3", "sentence": "会场内人影冗冗", "translation": "There were numerous people in the venue.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗务", "reading": "rong3 wu4", "sentence": "他每天处理各种冗务", "translation": "He handles various miscellaneous affairs every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗员", "reading": "rong3 yuan2", "sentence": "经理决定辞退一些冗员", "translation": "The manager decided to lay off some excess personnel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗官", "reading": "rong3 guan1", "sentence": "政府正在精简冗官", "translation": "The government is streamlining redundant officials.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗散", "reading": "rong3 san3", "sentence": "他过着冗散的乡间生活", "translation": "He lives an idle rural life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗数", "reading": "rong3 shu4", "sentence": "这个计算结果包含冗数", "translation": "This calculation result contains a redundant number.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗笔", "reading": "rong3 bi3", "sentence": "这篇文章里有很多冗笔", "translation": "There are many superfluous words in this article.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗繁", "reading": "rong3 fan2", "sentence": "我们要简化这些冗繁的流程", "translation": "We need to simplify these miscellaneous and complex processes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗职", "reading": "rong3 zhi2", "sentence": "他担任了一个冗职", "translation": "He holds a redundant position.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗言", "reading": "rong3 yan2", "sentence": "这段话里有明显的冗言", "translation": "There is an obvious pleonasm in this paragraph.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗词", "reading": "rong3 ci2", "sentence": "写作时应尽量避免冗词", "translation": "One should try to avoid tautology when writing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗语", "reading": "rong3 yu3", "sentence": "这篇报告全是冗语", "translation": "This report is full of verbosity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗费", "reading": "rong3 fei4", "sentence": "我们应该尽量减少这些冗费。", "translation": "We should try our best to reduce these unnecessary expenses.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗赘", "reading": "rong3 zhui4", "sentence": "这篇文章写得太冗赘了。", "translation": "This article is written too verbosely.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗杂", "reading": "rong3 za2", "sentence": "那里的事情既琐碎又冗杂。", "translation": "The matters there are both trivial and many and varied.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗食", "reading": "rong3 shi2", "sentence": "他整天在家不做事只知道冗食。", "translation": "He stays at home all day doing nothing but eating without working.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冗余", "reading": "rong3 yu2", "sentence": "这个系统存在很多数据冗余。", "translation": "This system has a lot of data redundancy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠以", "reading": "guan4 yi3", "sentence": "他在文章开头冠以自己的名字。", "translation": "He labeled the beginning of the article with his own name.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠名", "reading": "guan4 ming2", "sentence": "这家公司赞助并冠名了比赛。", "translation": "This company sponsored and named the competition.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠子", "reading": "guan1 zi5", "sentence": "那只公鸡长着红色的冠子。", "translation": "That rooster has a red crest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠状", "reading": "guan1 zhuang4", "sentence": "医生检查了他的冠状动脉。", "translation": "The doctor examined his coronary arteries.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠礼", "reading": "guan4 li3", "sentence": "古代男子二十岁要举行冠礼。", "translation": "In ancient times, men held a capping ceremony at the age of twenty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠县", "reading": "Guan1 Xian4", "sentence": "他出生在山东省的冠县。", "translation": "He was born in Guan County, Shandong Province.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠脉", "reading": "guan1 mai4", "sentence": "他因为冠脉堵塞住院了。", "translation": "He was hospitalized due to coronary artery blockage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冠词", "reading": "guan4 ci2", "sentence": "英语中经常会用到冠词。", "translation": "Articles are often used in English.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤仇", "reading": "yuan1 chou2", "sentence": "他们之间有着深重的冤仇。", "translation": "There is deep rancor between them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤孽", "reading": "yuan1 nie4", "sentence": "这也许是他前世的冤孽。", "translation": "Perhaps this is the sin from his past life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤屈", "reading": "yuan1 qu1", "sentence": "他觉得自己受到了冤屈。", "translation": "He feels that he has been treated unjustly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤情", "reading": "yuan1 qing2", "sentence": "他向法官诉说了自己的冤情。", "translation": "He told the judge the facts of his injustice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤抑", "reading": "yuan1 yi4", "sentence": "他多年来一直深感冤抑。", "translation": "He has felt deeply aggrieved for many years.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤案", "reading": "yuan1 an4", "sentence": "这是一起令人震惊的冤案。", "translation": "This is a shocking miscarriage of justice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤业", "reading": "yuan1 ye4", "sentence": "他认为这是他应受的冤业。", "translation": "He believes this is the sin he deserves.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤死", "reading": "yuan1 si3", "sentence": "他这一辈子真是冤死啊。", "translation": "He really suffered an unjust death in this life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤气", "reading": "yuan1 qi4", "sentence": "他心里憋着一股冤气。", "translation": "He is harboring resentment over unfair treatment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤狱", "reading": "yuan1 yu4", "sentence": "他终于摆脱了这场冤狱。", "translation": "He finally escaped from this miscarriage of justice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤种", "reading": "yuan1 zhong3", "sentence": "我又当了一次大冤种。", "translation": "I played the sucker again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤苦", "reading": "yuan1 ku3", "sentence": "他被人冤苦却无法辩解。", "translation": "He was treated unjustly but could not defend himself.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤诬", "reading": "yuan1 wu1", "sentence": "他遭受了冤诬，心里很难过。", "translation": "He suffered an unjust charge and felt very sad.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤钱", "reading": "yuan1 qian2", "sentence": "买了这个坏东西，真是冤钱。", "translation": "Buying this broken thing was a complete waste of money.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤头", "reading": "yuan1 tou2", "sentence": "他们两人见面就像冤头一样。", "translation": "The two of them act like enemies whenever they meet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冤魂", "reading": "yuan1 hun2", "sentence": "传说那里住着一个冤魂。", "translation": "Legend says a ghost of someone who died unjustly lives there.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥合", "reading": "ming2 he2", "sentence": "他们的想法竟然如此冥合。", "translation": "Their ideas happened to agree implicitly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥寿", "reading": "ming2 shou4", "sentence": "今天是爷爷的冥寿。", "translation": "Today is my grandfather's birthday after his passing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥婚", "reading": "ming2 hun1", "sentence": "当地还有冥婚的旧习俗。", "translation": "The local area still has the old custom of ghost marriage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥币", "reading": "ming2 bi4", "sentence": "人们在路口烧了一些冥币。", "translation": "People burned some paper money at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥府", "reading": "ming2 fu3", "sentence": "传说人死后会去冥府。", "translation": "Legend says that people go to the underworld after they die.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥王", "reading": "ming2 wang2", "sentence": "神话中冥王掌管着生死。", "translation": "In myths, the king of hell controls life and death.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥界", "reading": "ming2 jie4", "sentence": "他梦见自己进入了冥界。", "translation": "He dreamed that he entered the ghost world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥福", "reading": "ming2 fu2", "sentence": "家人为他祈求冥福。", "translation": "The family prayed for his afterlife happiness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥纸", "reading": "ming2 zhi3", "sentence": "他在祭祀时烧了冥纸。", "translation": "He burned joss paper during the memorial ceremony.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥诞", "reading": "ming2 dan4", "sentence": "今天是这位大师的冥诞。", "translation": "Today is the posthumous birthday of this master.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥道", "reading": "ming2 dao4", "sentence": "传说灵魂会走过冥道。", "translation": "Legend says the soul will travel the path to the underworld.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥钞", "reading": "ming2 chao1", "sentence": "他买了一叠冥钞去祭祖。", "translation": "He bought a stack of paper money to honor his ancestors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥钱", "reading": "ming2 qian2", "sentence": "祭奠时常会用到冥钱。", "translation": "Joss paper is often used during memorial services.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冥顽", "reading": "ming2 wan2", "sentence": "他性格冥顽，谁劝都不听。", "translation": "He is stupidly obstinate and won't listen to anyone's advice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "幂等", "reading": "mi4 deng3", "sentence": "这个函数具有幂等性质。", "translation": "This function has an idempotent property.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬令", "reading": "dong1 ling4", "sentence": "冬令时节要注意保暖。", "translation": "You should keep warm during the winter season.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬夏", "reading": "dong1 xia4", "sentence": "这件衣服适合冬夏穿着。", "translation": "This garment is suitable for wearing in both winter and summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬宫", "reading": "Dong1 gong1", "sentence": "我们去参观了冬宫。", "translation": "We visited the Winter Palace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬月", "reading": "Dong1 yue4", "sentence": "冬月里天气非常寒冷。", "translation": "The weather is very cold in the eleventh lunar month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬烘", "reading": "dong1 hong1", "sentence": "他是个冬烘先生，只会读书。", "translation": "He is a shallow pedant who only knows how to read books.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬瓜", "reading": "dong1 gua1", "sentence": "妈妈做了好吃的冬瓜汤。", "translation": "Mom made delicious wax gourd soup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬笋", "reading": "dong1 sun3", "sentence": "冬笋的味道非常鲜美", "translation": "Winter bamboo shoots taste very delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬粉", "reading": "dong1 fen3", "sentence": "我喜欢吃冬粉汤", "translation": "I like eating glass noodle soup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬耕", "reading": "dong1 geng1", "sentence": "农民正在田里忙着冬耕", "translation": "Farmers are busy plowing the fields in winter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬菇", "reading": "dong1 gu1", "sentence": "这道菜用了新鲜的冬菇", "translation": "This dish uses fresh winter shiitake mushrooms.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬菜", "reading": "dong1 cai4", "sentence": "汤里加一点冬菜很香", "translation": "Adding a little preserved cabbage to the soup makes it fragrant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬荫", "reading": "dong1 yin1", "sentence": "我特别爱喝酸辣的冬荫汤", "translation": "I especially love drinking sour and spicy tom yum soup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬蛰", "reading": "dong1 zhe2", "sentence": "很多动物都有冬蛰的习性", "translation": "Many animals have the habit of hibernation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬衣", "reading": "dong1 yi1", "sentence": "天气冷了要多穿冬衣", "translation": "It is getting cold, you should wear more winter clothes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬装", "reading": "dong1 zhuang1", "sentence": "商场开始打折卖冬装", "translation": "The shopping mall started selling winter clothing at a discount.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬闲", "reading": "dong1 xian2", "sentence": "农民利用冬闲时间修理农具", "translation": "Farmers use the slack winter season to repair farm tools.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冬青", "reading": "dong1 qing1", "sentence": "院子里种了一棵冬青树", "translation": "There is a holly tree planted in the yard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰人", "reading": "bing1 ren2", "sentence": "他请冰人为自己牵线搭桥", "translation": "He asked a matchmaker to help him find a partner.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰凌", "reading": "bing1 ling2", "sentence": "房檐下挂着长长的冰凌", "translation": "Long icicles are hanging from the eaves.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰刀", "reading": "bing1 dao1", "sentence": "这双冰刀非常适合新手", "translation": "These ice skates are very suitable for beginners.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰原", "reading": "bing1 yuan2", "sentence": "这里是一望无际的冰原", "translation": "This is an endless ice field.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰品", "reading": "bing1 pin3", "sentence": "夏天我最爱吃各种冰品", "translation": "In summer I love eating all kinds of frozen desserts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰场", "reading": "bing1 chang3", "sentence": "周末我们一起去冰场滑冰", "translation": "Let's go ice skating at the rink this weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰块", "reading": "bing1 kuai4", "sentence": "饮料里放两块冰块更好喝", "translation": "The drink tastes better with two ice cubes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰塔", "reading": "bing1 ta3", "sentence": "登山队员攀越了危险的冰塔", "translation": "The climbers scaled the dangerous seracs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰塞", "reading": "bing1 sai1", "sentence": "河道发生了严重的冰塞", "translation": "A serious ice blockage occurred in the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰壑", "reading": "bing1 he4", "sentence": "探险家穿越了深邃的冰壑", "translation": "The explorer crossed the deep ice gully.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰坝", "reading": "bing1 ba4", "sentence": "河水因冰坝而停止流动", "translation": "The river stopped flowing due to the freezing blockage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰壶", "reading": "bing1 hu2", "sentence": "桌上放着一个精致的冰壶", "translation": "There is an exquisite jade pot on the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰屋", "reading": "bing1 wu1", "sentence": "爱斯基摩人住在圆形的冰屋里", "translation": "Eskimos live in round igloos.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰帽", "reading": "bing1 mao4", "sentence": "全球变暖导致冰帽融化", "translation": "Global warming is causing the icecaps to melt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰店", "reading": "bing1 dian4", "sentence": "夏天我们常去那家冰店吃芒果冰。", "translation": "We often go to that dessert parlor to eat mango shaved ice in the summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰心", "reading": "Bing1 Xin1", "sentence": "我小时候读过很多冰心的作品。", "translation": "I read many of Bing Xin's works when I was a child.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰排", "reading": "bing1 pai2", "sentence": "河面上漂浮着几块巨大的冰排。", "translation": "Several huge ice floes are floating on the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰斗", "reading": "bing1 dou3", "sentence": "这座山峰顶上有一个美丽的冰斗。", "translation": "There is a beautiful cirque at the top of this mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰晶", "reading": "bing1 jing1", "sentence": "雪花是由许多细小的冰晶组成的。", "translation": "Snowflakes are composed of many tiny ice crystals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰期", "reading": "bing1 qi1", "sentence": "地球历史上曾经历过多次冰期。", "translation": "The Earth has experienced many glacial epochs in its history.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰杯", "reading": "bing1 bei1", "sentence": "我从超市买了一个冰杯喝可乐。", "translation": "I bought a cup of edible ice from the supermarket to drink cola.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰柱", "reading": "bing1 zhu4", "sentence": "屋檐下挂着一根长长的冰柱。", "translation": "A long icicle is hanging under the eaves.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰桶", "reading": "bing1 tong3", "sentence": "请把香槟酒放进冰桶里降温。", "translation": "Please put the champagne in the ice bucket to cool it down.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰棍", "reading": "bing1 gun4", "sentence": "天气太热了我想吃一根冰棍。", "translation": "It is too hot, I want to eat a popsicle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰棒", "reading": "bing1 bang4", "sentence": "孩子们在公园里吃着冰棒。", "translation": "The children are eating popsicles in the park.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰棺", "reading": "bing1 guan1", "sentence": "殡仪馆里整齐地摆放着冰棺。", "translation": "The coffins for storage are neatly arranged in the funeral home.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰橇", "reading": "bing1 qiao1", "sentence": "他滑着冰橇在雪地上快速移动。", "translation": "He is moving quickly on the snow using a sled.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰桥", "reading": "bing1 qiao2", "sentence": "极地的冰桥因为气候变暖而断裂。", "translation": "The polar ice arch broke due to climate warming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰柜", "reading": "bing1 gui4", "sentence": "妈妈把肉放进了厨房的冰柜里。", "translation": "Mom put the meat in the freezer in the kitchen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰毒", "reading": "bing1 du2", "sentence": "我们必须坚决抵制冰毒的侵害。", "translation": "We must resolutely resist the harm of methamphetamine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰洞", "reading": "bing1 dong4", "sentence": "他在厚厚的冰面上凿开了一个冰洞。", "translation": "He chiseled a hole in the thick ice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰凉", "reading": "bing1 liang2", "sentence": "刚从冰箱拿出来的饮料冰冰凉的。", "translation": "The drink just taken out of the refrigerator is ice-cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰湖", "reading": "bing1 hu2", "sentence": "冬天的时候这个冰湖非常漂亮。", "translation": "This frozen lake is very beautiful in winter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰溜", "reading": "bing1 liu4", "sentence": "屋顶上的冰溜在阳光下融化了。", "translation": "The icicle on the roof melted under the sun.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰沟", "reading": "bing1 gou1", "sentence": "登山时要小心雪地里的冰沟。", "translation": "Be careful of crevasses in the snow when mountain climbing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰火", "reading": "bing1 huo3", "sentence": "这道菜给人一种冰火交融的感觉。", "translation": "This dish gives one a feeling of fire and ice.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰灯", "reading": "bing1 deng1", "sentence": "哈尔滨的冰灯展吸引了很多游客。", "translation": "The ice lantern festival in Harbin attracted many tourists.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰爪", "reading": "bing1 zhua3", "sentence": "在雪山上行走需要穿上冰爪。", "translation": "You need to wear crampons to walk on a snowy mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰片", "reading": "bing1 pian4", "sentence": "冰片常被用来制作一些药膏。", "translation": "Borneol is often used to make some ointments.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰硬", "reading": "bing1 ying4", "sentence": "冰箱里的肉已经冻得冰硬了", "translation": "The meat in the fridge is frozen solid.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰碴", "reading": "bing1 cha2", "sentence": "饮料里还有一些没化的冰碴", "translation": "There are still some unmelted ice shards in the drink.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰砖", "reading": "bing1 zhuan1", "sentence": "小时候我最喜欢吃奶油冰砖", "translation": "When I was a child, I loved eating ice-cream bricks best.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰碛", "reading": "bing1 qi4", "sentence": "山谷里可以看到很多冰碛", "translation": "You can see many moraines in the valley.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰窖", "reading": "bing1 jiao4", "sentence": "古代人们夏天会去冰窖取冰", "translation": "In ancient times, people went to icehouses to get ice in summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰糕", "reading": "bing1 gao1", "sentence": "夏天吃一根冰糕真凉快", "translation": "It is so refreshing to eat an ice-cream in summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰糖", "reading": "bing1 tang2", "sentence": "炖汤的时候加一点冰糖", "translation": "Add some crystal sugar when stewing the soup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰花", "reading": "bing1 hua1", "sentence": "窗户玻璃上结满了漂亮的冰花", "translation": "The window glass is covered with beautiful ice crystals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰菜", "reading": "bing1 cai4", "sentence": "这种冰菜吃起来口感很脆", "translation": "This ice plant tastes very crunchy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰蛋", "reading": "bing1 dan4", "sentence": "放在冰箱里的冰蛋裂开了", "translation": "The frozen eggs in the fridge have cracked.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰蚀", "reading": "bing1 shi2", "sentence": "这里地貌显示出明显的冰蚀特征", "translation": "The landscape here shows clear glaciated features.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰轮", "reading": "bing1 lun2", "sentence": "今晚的冰轮挂在树梢上", "translation": "Tonight the moon is hanging on the treetops.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰释", "reading": "bing1 shi4", "sentence": "他们谈话后误会终于冰释了", "translation": "After their conversation, the misunderstanding was finally dispelled.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰钓", "reading": "bing1 diao4", "sentence": "周末我们一起去湖上冰钓", "translation": "We are going ice fishing on the lake this weekend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰锥", "reading": "bing1 zhui1", "sentence": "房檐下挂着长长的冰锥", "translation": "Long icicles are hanging under the eaves.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰镐", "reading": "bing1 gao3", "sentence": "登山队员手里拿着冰镐", "translation": "The climber is holding an ice pick in his hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰镇", "reading": "bing1 zhen4", "sentence": "请给我来一杯冰镇啤酒", "translation": "Please give me a glass of iced beer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰镩", "reading": "bing1 cuan1", "sentence": "他用冰镩在湖面上凿出一个洞", "translation": "He used the ice spud to chisel a hole in the lake surface.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰钻", "reading": "bing1 zuan4", "sentence": "我刚买了一个新的手动冰钻", "translation": "I just bought a new manual ice auger.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰隙", "reading": "bing1 xi4", "sentence": "在冰川行走要小心深处的冰隙", "translation": "Be careful of crevasses when walking on the glacier.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰霜", "reading": "bing1 shuang1", "sentence": "他为人高洁如同冰霜一般", "translation": "His character is as noble and stern as ice and frost.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰鞋", "reading": "bing1 xie2", "sentence": "我今天去滑冰场穿上了冰鞋", "translation": "I put on my skating boots to go to the skating rink today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰饮", "reading": "bing1 yin3", "sentence": "天热了大家都喜欢喝冰饮", "translation": "It is hot, so everyone likes to drink iced drinks.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冰点", "reading": "bing1 dian3", "sentence": "水的冰点是摄氏零度", "translation": "The freezing point of water is zero degrees Celsius.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶天", "reading": "Ye3 tian1", "sentence": "我的显卡是冶天系列的", "translation": "My graphics card is from the ATI series.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶容", "reading": "ye3 rong2", "sentence": "她精心打扮一番显得十分冶容", "translation": "She dressed up carefully and looked very seductive.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶炼", "reading": "ye3 lian4", "sentence": "工厂正在进行矿石冶炼", "translation": "The factory is currently smelting ore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶艳", "reading": "ye3 yan4", "sentence": "那名女子长得十分冶艳", "translation": "That woman is very bewitching.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶荡", "reading": "ye3 dang4", "sentence": "这种行为被认为十分冶荡", "translation": "This kind of behavior is considered very lewd.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶游", "reading": "ye3 you2", "sentence": "他年轻时经常出门冶游", "translation": "He often went courting when he was young.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶金", "reading": "ye3 jin1", "sentence": "他大学学习的是冶金专业", "translation": "He majored in metallurgy in college.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冶铸", "reading": "ye3 zhu4", "sentence": "工匠正在对金属进行冶铸", "translation": "The craftsman is smelting and casting the metal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷傲", "reading": "leng3 ao4", "sentence": "她总是表现得十分冷傲", "translation": "She always acts very icily arrogant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷僻", "reading": "leng3 pi4", "sentence": "这个地方位置非常冷僻", "translation": "This place is in a very out-of-the-way location.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷冬", "reading": "leng3 dong1", "sentence": "今年是一个非常难熬的冷冬", "translation": "This year is a very difficult cold winter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷冷", "reading": "leng3 leng3", "sentence": "他冷冷地看着对方不说话", "translation": "He looked at the other person coldly without speaking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷冽", "reading": "leng3 lie4", "sentence": "山间的空气显得格外冷冽", "translation": "The air in the mountains feels exceptionally chilly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷切", "reading": "leng3 qie4", "sentence": "午餐我们吃了些冷切", "translation": "We ate some cold cuts for lunch.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷厉", "reading": "leng3 li4", "sentence": "经理用冷厉的眼神盯着他", "translation": "The manager stared at him with a stern gaze.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷场", "reading": "leng3 chang3", "sentence": "主持人讲完笑话后出现了冷场", "translation": "There was a stage wait after the host told a joke.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷奴", "reading": "leng3 nu2", "sentence": "夏天吃一份冷奴非常清爽", "translation": "Eating a silken tofu dish in summer is very refreshing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷媒", "reading": "leng3 mei2", "sentence": "空调需要及时补充冷媒", "translation": "The air conditioner needs to be refilled with refrigerant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷字", "reading": "leng3 zi4", "sentence": "这篇文章里有很多冷字", "translation": "There are many obscure words in this article.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷宫", "reading": "leng3 gong1", "sentence": "她被皇帝打入了冷宫", "translation": "She was banished to the cold palace by the emperor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷库", "reading": "leng3 ku4", "sentence": "这些肉类要放入冷库保存", "translation": "These meats need to be stored in the refrigerated warehouse.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷房", "reading": "leng3 fang2", "sentence": "这间屋子需要安装冷房设备", "translation": "This room needs to have cooling equipment installed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷敷", "reading": "leng3 fu1", "sentence": "扭伤的地方需要及时冷敷", "translation": "The sprained area needs a cold compress immediately.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷暖", "reading": "leng3 nuan3", "sentence": "他很关心朋友的冷暖", "translation": "He cares very much about his friends' well-being.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷枪", "reading": "leng3 qiang1", "sentence": "战士们小心防备敌人的冷枪", "translation": "The soldiers carefully guarded against the enemy's sniper shots.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷涩", "reading": "leng3 se4", "sentence": "他的动作看起来有些冷涩", "translation": "His movements looked somewhat cold and sluggish.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷盆", "reading": "leng3 pen2", "sentence": "这道冷盆的味道非常清爽", "translation": "This cold dish tastes very refreshing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷盘", "reading": "leng3 pan2", "sentence": "我们先点一个凉拌黄瓜冷盘", "translation": "Let's order a cold plate of cucumber salad first.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷眼", "reading": "leng3 yan3", "sentence": "他冷眼看着这一切发生", "translation": "He watched everything happen with a cold eye.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷笑", "reading": "leng3 xiao4", "sentence": "他听完后发出了一声冷笑", "translation": "He let out a sneer after listening.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷色", "reading": "leng3 se4", "sentence": "房间用了蓝色这种冷色", "translation": "The room uses blue, which is a cool color.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷艳", "reading": "leng3 yan4", "sentence": "她长得非常冷艳动人", "translation": "She is beautiful but aloof.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷菜", "reading": "leng3 cai4", "sentence": "请帮我把冷菜端上桌", "translation": "Please help me put the cold dish on the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷萃", "reading": "leng3 cui4", "sentence": "我每天都喝一杯冷萃咖啡", "translation": "I drink a cup of cold brew coffee every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷话", "reading": "leng3 hua4", "sentence": "别说这种伤人的冷话了", "translation": "Stop saying such harsh words.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷语", "reading": "leng3 yu3", "sentence": "他总是喜欢对人冷语相向", "translation": "He always likes to use sarcasm toward others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷轧", "reading": "leng3 zha2", "sentence": "这家工厂主要生产冷轧钢", "translation": "This factory mainly produces cold-rolled steel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷遇", "reading": "leng3 yu4", "sentence": "他没想到会受到这种冷遇", "translation": "He did not expect to receive such a cold reception.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷锋", "reading": "leng3 feng1", "sentence": "一股冷锋正在向南移动", "translation": "A cold front is moving south.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷链", "reading": "leng3 lian4", "sentence": "物流公司建立完善的冷链", "translation": "The logistics company established a perfect cold chain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷门", "reading": "leng3 men2", "sentence": "这是体育界的一个冷门", "translation": "This is a neglected branch in the sports world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷面", "reading": "leng3 mian4", "sentence": "他总是摆出一副冷面孔", "translation": "He always puts on a grim face.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冷餐", "reading": "leng3 can1", "sentence": "公司举办了一场简单的冷餐", "translation": "The company held a simple cold meal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凄梗", "reading": "qi1 geng3", "sentence": "他在寒风中凄梗地哭泣", "translation": "He was wailing in the cold wind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "准予", "reading": "zhun3 yu3", "sentence": "学校准予他休学一年", "translation": "The school granted him one year of leave.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "准入", "reading": "zhun3 ru4", "sentence": "市场准入条件越来越高", "translation": "The conditions for market access are getting higher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "准将", "reading": "zhun3 jiang4", "sentence": "他被晋升为海军准将", "translation": "He was promoted to commodore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "净身", "reading": "jing4 shen1", "sentence": "古代宫廷中有人被迫净身", "translation": "In the ancient palace, some people were forced to be castrated.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凋敝", "reading": "diao1 bi4", "sentence": "战后的城市看起来非常凋敝", "translation": "The city looked very impoverished after the war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凋零", "reading": "diao1 ling2", "sentence": "院子里的花朵已经凋零", "translation": "The flowers in the yard have withered.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌兢", "reading": "ling2 jing1", "sentence": "他在冰雪中感到凌兢异常", "translation": "He felt icy cold in the snow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌夷", "reading": "ling2 yi2", "sentence": "这家公司的服务质量正在凌夷", "translation": "The service quality of this company is deteriorating.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌志", "reading": "Ling2 zhi4", "sentence": "他刚买了一辆银色的凌志", "translation": "He just bought a silver Lexus.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌汛", "reading": "ling2 xun4", "sentence": "春天到了要注意防范凌汛", "translation": "Spring has arrived, we must be careful of ice-jam floods.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌空", "reading": "ling2 kong1", "sentence": "老鹰在山顶凌空盘旋", "translation": "The eagle is circling high in the sky above the mountain peak.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌虐", "reading": "ling2 nu:e4", "sentence": "我们绝对不能凌虐小动物", "translation": "We must absolutely not maltreat small animals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌辱", "reading": "ling2 ru3", "sentence": "你不应该当众凌辱他人", "translation": "You should not insult others in public.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌迟", "reading": "ling2 chi2", "sentence": "凌迟是古代一种残酷的刑罚", "translation": "Lingchi was a cruel form of punishment in ancient times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌杂", "reading": "ling2 za2", "sentence": "书桌上的东西摆放得十分凌杂", "translation": "The items on the desk are in great disorder.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凌驾", "reading": "ling2 jia4", "sentence": "法律的权威不容任何人凌驾", "translation": "The authority of the law cannot be above anyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻干", "reading": "dong4 gan1", "sentence": "这种水果采用先进技术冻干", "translation": "This fruit is freeze-dried using advanced technology.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻伤", "reading": "dong4 shang1", "sentence": "如果不穿手套很容易冻伤", "translation": "If you don't wear gloves, you will easily get frostbite.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻卵", "reading": "dong4 luan3", "sentence": "越来越多女性选择去冻卵", "translation": "More and more women are choosing to freeze their eggs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻原", "reading": "dong4 yuan2", "sentence": "北极地区到处都是广阔的冻原", "translation": "The Arctic region is full of vast tundra.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻品", "reading": "dong4 pin3", "sentence": "超市里有很多冷冻品", "translation": "There are many frozen products in the supermarket.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻害", "reading": "dong4 hai4", "sentence": "寒潮导致果园遭受了严重的冻害", "translation": "The cold wave caused severe freezing injury to the orchard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻容", "reading": "dong4 rong2", "sentence": "很多年轻女性开始尝试冻容", "translation": "Many young women have started to try youth-freezing treatments.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻柜", "reading": "dong4 gui4", "sentence": "这些货物都装在冻柜里运输", "translation": "These goods are all transported in refrigerated containers.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻涨", "reading": "dong4 zhang3", "sentence": "政府决定暂时冻涨电费", "translation": "The government decided to freeze electricity prices temporarily.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻疮", "reading": "dong4 chuang1", "sentence": "冬天如果不保暖容易长冻疮", "translation": "If you don't keep warm in winter, you can easily get chilblains.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻硬", "reading": "dong4 ying4", "sentence": "水桶里的水已经冻硬了", "translation": "The water in the bucket has frozen solid.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻穿", "reading": "dong4 chuan1", "sentence": "他的手指被严寒冻穿了", "translation": "His fingers suffered from severe frostbite due to the cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻结", "reading": "dong4 jie2", "sentence": "湖面在冬天会完全冻结", "translation": "The surface of the lake will freeze completely in winter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻肉", "reading": "dong4 rou4", "sentence": "我们晚上打算吃火锅冻肉", "translation": "We plan to eat hot pot with frozen meat tonight.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻胶", "reading": "dong4 jiao1", "sentence": "医生给他涂抹了一些清凉冻胶", "translation": "The doctor applied some cooling gel on him.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻雨", "reading": "dong4 yu3", "sentence": "外面正在下着冰冷的冻雨", "translation": "It is freezing rain outside right now.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "冻龄", "reading": "dong4 ling2", "sentence": "她看起来非常年轻，真是冻龄女神。", "translation": "She looks very young, she is truly an ageless goddess.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凛冽", "reading": "lin3 lie4", "sentence": "北方的冬天寒风凛冽。", "translation": "The winter wind in the north is biting cold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凛遵", "reading": "lin3 zun1", "sentence": "大家务必凛遵公司的各项规定。", "translation": "Everyone must strictly abide by the company's various regulations.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝冰", "reading": "ning2 bing1", "sentence": "湖面已经开始凝冰了。", "translation": "The surface of the lake has started to freeze.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝块", "reading": "ning2 kuai4", "sentence": "伤口处出现了一个小凝块。", "translation": "A small clot appeared at the wound.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝液", "reading": "ning2 ye4", "sentence": "管道里有少量的凝液。", "translation": "There is a small amount of condensate in the pipe.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝滞", "reading": "ning2 zhi4", "sentence": "经济发展在近期出现了凝滞。", "translation": "Economic development has stagnated recently.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝睇", "reading": "ning2 di4", "sentence": "他凝睇着远方的灯火。", "translation": "He gazed intently at the lights in the distance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝神", "reading": "ning2 shen2", "sentence": "他正凝神听着老师讲课。", "translation": "He is listening to the teacher with rapt attention.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝结", "reading": "ning2 jie2", "sentence": "玻璃上凝结了许多水珠。", "translation": "Many water droplets condensed on the glass.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝练", "reading": "ning2 lian4", "sentence": "他的诗句简短而凝练。", "translation": "His poetry is short and concise.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝缩", "reading": "ning2 suo1", "sentence": "这篇文章被凝缩成一段话。", "translation": "This article was condensed into a single paragraph.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝聚", "reading": "ning2 ju4", "sentence": "大家团结一致凝聚力量。", "translation": "Everyone is united to concentrate their strength.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝肩", "reading": "ning2 jian1", "sentence": "长期伏案工作容易导致凝肩。", "translation": "Working at a desk for a long time easily leads to frozen shoulder.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝胶", "reading": "ning2 jiao1", "sentence": "这种凝胶可以用来护肤。", "translation": "This gel can be used for skincare.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝血", "reading": "ning2 xue4", "sentence": "医生正在检查伤口是否凝血。", "translation": "The doctor is checking if the wound is clotting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝重", "reading": "ning2 zhong4", "sentence": "葬礼上的气氛十分凝重。", "translation": "The atmosphere at the funeral was very dignified and solemn.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凝集", "reading": "ning2 ji2", "sentence": "我们要将资金凝集在重点项目上。", "translation": "We must concentrate funds on key projects.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "几案", "reading": "ji1 an4", "sentence": "书房的几案上放着文房四宝。", "translation": "The four treasures of the study are placed on the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡例", "reading": "fan2 li4", "sentence": "阅读本书前请先看凡例。", "translation": "Please read the notes on the use of this book before reading it.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡俗", "reading": "fan2 su2", "sentence": "他是一位普通的凡俗之辈。", "translation": "He is an ordinary lay person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡尘", "reading": "fan2 chen2", "sentence": "他决定远离凡尘去隐居。", "translation": "He decided to leave the mundane world and live in seclusion.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡夫", "reading": "fan2 fu1", "sentence": "我也只是一个普通的凡夫。", "translation": "I am also just a common person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡庸", "reading": "fan2 yong1", "sentence": "他的表现显得非常凡庸。", "translation": "His performance appeared very ordinary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡心", "reading": "fan2 xin1", "sentence": "他已断绝了红尘凡心。", "translation": "He has cut off all earthly desires.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡百", "reading": "fan2 bai3", "sentence": "对于凡百事务都要认真处理", "translation": "Treat all matters with seriousness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡近", "reading": "fan2 jin4", "sentence": "他确实是一个凡近的庸人", "translation": "He is truly an unlearned and mediocre person.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡间", "reading": "fan2 jian1", "sentence": "神仙也向往美好的凡间生活", "translation": "Even immortals yearn for the beautiful secular world.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡响", "reading": "fan2 xiang3", "sentence": "这首曲子听起来确实非同凡响", "translation": "This piece of music sounds truly extraordinary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凡高", "reading": "Fan2 gao1", "sentence": "凡高是一位伟大的画家", "translation": "Van Gogh was a great painter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯利", "reading": "Kai3 li4", "sentence": "凯利今天去图书馆看书了", "translation": "Kelly went to the library to read today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯子", "reading": "kai3 zi5", "sentence": "他不应该总是当那个凯子", "translation": "He shouldn't always be that sucker.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯悦", "reading": "Kai3 yue4", "sentence": "我们预订了市中心的凯悦酒店", "translation": "We booked the Hyatt hotel in the city center.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯撒", "reading": "Kai3 sa1", "sentence": "那是关于凯撒的历史故事", "translation": "That is a historical story about Caesar.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯文", "reading": "Kai3 wen2", "sentence": "凯文是我的好朋友", "translation": "Kevin is my good friend.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯旋", "reading": "kai3 xuan2", "sentence": "军队在战斗后凯旋归来", "translation": "The army returned in triumph after the battle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凯歌", "reading": "kai3 ge1", "sentence": "战士们高唱凯歌走在路上", "translation": "The soldiers walked on the road singing a victory song.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶事", "reading": "xiong1 shi4", "sentence": "家里最近发生了一件凶事", "translation": "A fateful accident happened at home recently.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶信", "reading": "xiong1 xin4", "sentence": "他不想听到任何凶信", "translation": "He does not want to hear any fateful news.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶兆", "reading": "xiong1 zhao4", "sentence": "乌鸦叫声常被视为凶兆", "translation": "The crow's cry is often seen as an ill omen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶光", "reading": "xiong1 guang1", "sentence": "他眼中闪过一道凶光", "translation": "An ominous glint flashed in his eyes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶丧", "reading": "xiong1 sang1", "sentence": "大家都在忙着办理凶丧", "translation": "Everyone is busy arranging the funeral.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶年", "reading": "xiong1 nian2", "sentence": "那是个颗粒无收的凶年", "translation": "That was a year of famine with no harvest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶暴", "reading": "xiong1 bao4", "sentence": "这个坏人性格十分凶暴", "translation": "This bad person has a very brutal character.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶服", "reading": "xiong1 fu2", "sentence": "古人见到丧事会穿上凶服", "translation": "In ancient times, people wore mourning clothes for funerals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶焰", "reading": "xiong1 yan4", "sentence": "我们要设法压制他的凶焰", "translation": "We must try to suppress his ferocity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶荒", "reading": "xiong1 huang1", "sentence": "连年的战争导致了凶荒", "translation": "Years of war led to famine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凶党", "reading": "xiong1 dang3", "sentence": "警察抓住了这群凶党", "translation": "The police caught this band of accomplices.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸凸", "reading": "tu1 tu1", "sentence": "这个镜片是两面凸凸的", "translation": "This lens is convex on both sides.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸出", "reading": "tu1 chu1", "sentence": "墙上有一块凸出的石头", "translation": "There is a protruding stone on the wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸度", "reading": "tu1 du4", "sentence": "这个透镜的凸度非常明显", "translation": "The convexity of this lens is very obvious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸性", "reading": "tu1 xing4", "sentence": "我们需要研究这个函数的凸性", "translation": "We need to study the convexity of this function.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸槌", "reading": "tu1 chui2", "sentence": "他这次表演又凸槌了", "translation": "He messed up his performance again this time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸版", "reading": "tu1 ban3", "sentence": "工匠正在制作一块凸版", "translation": "The craftsman is making a relief printing plate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸现", "reading": "tu1 xian4", "sentence": "他的能力在会议中凸现出来", "translation": "His ability came to prominence during the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸线", "reading": "tu1 xian4", "sentence": "图中画出了一条漂亮的凸线", "translation": "A beautiful convex curve is drawn in the picture.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸缘", "reading": "tu1 yuan2", "sentence": "这个零件的凸缘坏了", "translation": "The flange of this part is broken.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸耳", "reading": "tu1 er3", "sentence": "请检查一下这个机器的凸耳", "translation": "Please check the flange of this machine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸起", "reading": "tu1 qi3", "sentence": "地板上有一处明显的凸起", "translation": "There is a noticeable convex spot on the floor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸轮", "reading": "tu1 lun2", "sentence": "这个凸轮控制着机器的转动", "translation": "This cam controls the rotation of the machine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸边", "reading": "tu1 bian1", "sentence": "这个盘子的凸边很精致", "translation": "The rim of this plate is very delicate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸镜", "reading": "tu1 jing4", "sentence": "路口安装了一面大凸镜", "translation": "A large convex mirror is installed at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸面", "reading": "tu1 mian4", "sentence": "这个物体的凸面光滑明亮", "translation": "The convex surface of this object is smooth and bright.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凸显", "reading": "tu1 xian3", "sentence": "这些问题在会议中开始凸显", "translation": "These problems are starting to stand out clearly in the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹入", "reading": "ao1 ru4", "sentence": "这面墙壁有一个凹入的设计", "translation": "This wall has a recessed design.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹凸", "reading": "ao1 tu1", "sentence": "路面看起来非常凹凸不平", "translation": "The road surface looks very uneven.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹坑", "reading": "ao1 keng1", "sentence": "地面上有一个深深的凹坑", "translation": "There is a deep concave depression on the ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹岸", "reading": "ao1 an4", "sentence": "河水的力量侵蚀了凹岸", "translation": "The force of the river water eroded the concave bank.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹度", "reading": "ao1 du4", "sentence": "测量一下这个碗的凹度", "translation": "Measure the concavity of this bowl.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹槽", "reading": "ao1 cao2", "sentence": "螺丝正好卡在凹槽里", "translation": "The screw is stuck right in the recess.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹洞", "reading": "ao1 dong4", "sentence": "石墙上有一个小凹洞", "translation": "There is a small cavity in the stone wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹版", "reading": "ao1 ban3", "sentence": "这种画是用凹版印出来的", "translation": "This kind of picture is printed using an intaglio plate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹痕", "reading": "ao1 hen2", "sentence": "车门上留下了一个凹痕", "translation": "A dent was left on the car door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹纹", "reading": "ao1 wen2", "sentence": "硬币表面有精美的凹纹", "translation": "There are exquisite grooves on the surface of the coin.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹线", "reading": "ao1 xian4", "sentence": "木板中间刻着一条凹线", "translation": "A groove is carved in the middle of the wooden board.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹进", "reading": "ao1 jin4", "sentence": "这块木板中间微微凹进去了", "translation": "The middle of this wooden board is slightly concave.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹镜", "reading": "ao1 jing4", "sentence": "物理老师在课上演示了凹镜成像", "translation": "The physics teacher demonstrated concave mirror imaging in class.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹陷", "reading": "ao1 xian4", "sentence": "他的脸颊因为生病而有些凹陷", "translation": "His cheeks are slightly sunken because of illness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凹雕", "reading": "ao1 diao1", "sentence": "工匠正在石碑上进行精细的凹雕", "translation": "The craftsman is performing delicate engraving on the stone tablet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出世", "reading": "chu1 shi4", "sentence": "这个孩子在他出世时非常健康", "translation": "This child was very healthy when he was born.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出亡", "reading": "chu1 wang2", "sentence": "他因政治原因被迫选择出亡", "translation": "He was forced to choose exile for political reasons.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出仕", "reading": "chu1 shi4", "sentence": "他考取功名后决定出仕为官", "translation": "After passing the imperial examination, he decided to take up an official post.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出任", "reading": "chu1 ren4", "sentence": "他下个月将出任公司总经理", "translation": "He will take up the post of general manager next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出伏", "reading": "chu1 fu2", "sentence": "三伏天结束了我们终于出伏了", "translation": "The dog days are over and we have finally reached the end of the hottest period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出使", "reading": "chu1 shi3", "sentence": "他被派往邻国出使以维持和平", "translation": "He was sent to the neighboring country as an ambassador to maintain peace.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出借", "reading": "chu1 jie4", "sentence": "图书馆不对外人出借珍贵书籍", "translation": "The library does not lend precious books to outsiders.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出价", "reading": "chu1 jia4", "sentence": "拍卖会上有人为这幅画高价出价", "translation": "Someone at the auction made a high bid for this painting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出兵", "reading": "chu1 bing1", "sentence": "边境冲突爆发后国家决定出兵", "translation": "The country decided to send troops after the border conflict broke out.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出具", "reading": "chu1 ju4", "sentence": "你需要向银行出具身份证明文件", "translation": "You need to issue proof of identity documents to the bank.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出列", "reading": "chu1 lie4", "sentence": "士兵听到命令后迅速出列报告", "translation": "The soldier left the ranks quickly to report after hearing the order.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出动", "reading": "chu1 dong4", "sentence": "救援队接到消息立刻整装出动", "translation": "The rescue team set out immediately after receiving the message.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出包", "reading": "chu1 bao1", "sentence": "公司把后勤服务全部出包给了别人", "translation": "The company contracted out all its logistics services to others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出品", "reading": "chu1 pin3", "sentence": "这家工厂主要出品高质量的陶瓷", "translation": "This factory mainly produces high-quality ceramics.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出丧", "reading": "chu1 sang1", "sentence": "村子里今天正在为老人出丧", "translation": "The village is holding a funeral procession for the old person today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出圈", "reading": "chu1 juan4", "sentence": "他每天清晨都要去牛棚里出圈", "translation": "He goes to the cowshed to muck out every morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出土", "reading": "chu1 tu3", "sentence": "这座墓地中有很多精美的文物出土", "translation": "Many exquisite artifacts were dug up from this tomb.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出场", "reading": "chu1 chang3", "sentence": "演员准备好后就要登台出场了", "translation": "The actor will come onto the stage to perform after getting ready.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出奔", "reading": "chu1 ben1", "sentence": "战乱时期许多百姓只能选择出奔", "translation": "During the war, many common people had no choice but to flee.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出嫁", "reading": "chu1 jia4", "sentence": "她下个月就要从家里出嫁了", "translation": "She is getting married and leaving home next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出官", "reading": "chu1 guan1", "sentence": "他被皇帝任命为地方官准备出官", "translation": "He was appointed as a local official by the emperor and prepared to leave the capital.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出尖", "reading": "chu1 jian1", "sentence": "他的想法总是非常出尖", "translation": "His ideas are always very out of the ordinary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出山", "reading": "chu1 shan1", "sentence": "这位大师终于决定出山了", "translation": "This master finally decided to come out of retirement.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出巡", "reading": "chu1 xun2", "sentence": "皇帝带着随从去各地出巡", "translation": "The emperor took his attendants on an inspection tour.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出厂", "reading": "chu1 chang3", "sentence": "这批新车明天就会出厂", "translation": "This batch of new cars will leave the factory tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出彩", "reading": "chu1 cai3", "sentence": "他在这次表演中非常出彩", "translation": "He performed outstandingly in this show.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出恭", "reading": "chu1 gong1", "sentence": "他借口要出恭离开了座位", "translation": "He left his seat under the pretext of needing to go to the bathroom.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出息", "reading": "chu1 xi1", "sentence": "这笔投资会有不少出息", "translation": "This investment will yield a good profit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出战", "reading": "chu1 zhan4", "sentence": "将军率领军队准备出战", "translation": "The general led the army to go off to war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出戏", "reading": "chu1 xi4", "sentence": "演员演得太好让人不出戏", "translation": "The actor performed so well that the audience did not disengage from the story.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出招", "reading": "chu1 zhao1", "sentence": "对手终于忍不住要出招了", "translation": "The opponent finally couldn't help but make a move.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出挑", "reading": "chu1 tiao1", "sentence": "她长得越来越出挑了", "translation": "She is growing up to be very pretty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出击", "reading": "chu1 ji1", "sentence": "我们的球队决定主动出击", "translation": "Our team decided to take the initiative and attack.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出操", "reading": "chu1 cao1", "sentence": "学生们每天早上都要出操", "translation": "The students have to go for morning drills every day.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出书", "reading": "chu1 shu1", "sentence": "他最近打算写书出书", "translation": "He plans to write and publish a book recently.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出月", "reading": "chu1 yue4", "sentence": "我们计划在出月去旅行", "translation": "We plan to go on a trip next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出格", "reading": "chu1 ge2", "sentence": "这种行为太出格了", "translation": "This kind of behavior is too improper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出榜", "reading": "chu1 bang3", "sentence": "学校今天正式出榜了", "translation": "The school published the exam results today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出栏", "reading": "chu1 lan2", "sentence": "这些小猪很快就能出栏", "translation": "These piglets will be ready for slaughter soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出殡", "reading": "chu1 bin4", "sentence": "明天上午社区要举行出殡仪式", "translation": "The community will hold a funeral ceremony tomorrow morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出气", "reading": "chu1 qi4", "sentence": "他找了个机会发泄出气", "translation": "He found a chance to vent his anger.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出汁", "reading": "chu1 zhi1", "sentence": "做这道菜需要准备出汁", "translation": "You need to prepare dashi to make this dish.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出洋", "reading": "chu1 yang2", "sentence": "他年轻时曾独自出洋", "translation": "He went abroad alone when he was young.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出活", "reading": "chu1 huo2", "sentence": "他们总是能按时出活", "translation": "They are always able to finish their work on time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出清", "reading": "chu1 qing1", "sentence": "超市正在进行商品出清", "translation": "The supermarket is clearing out its inventory.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出港", "reading": "chu1 gang3", "sentence": "大船准备起锚出港了", "translation": "The big ship is ready to weigh anchor and leave the harbor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出溜", "reading": "chu1 liu5", "sentence": "小心地上的冰别出溜了", "translation": "Be careful not to slip on the ice on the ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出演", "reading": "chu1 yan3", "sentence": "她在这部电影里出演主角", "translation": "She plays the lead role in this movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出炉", "reading": "chu1 lu2", "sentence": "刚出炉的面包很香", "translation": "The freshly baked bread smells great.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出片", "reading": "chu1 pian4", "sentence": "今天天气好特别出片", "translation": "The weather is great today and the photos look good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出猎", "reading": "chu1 lie4", "sentence": "国王明天要带人出猎", "translation": "The king is going hunting with his men tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出界", "reading": "chu1 jie4", "sentence": "那个球已经出界了", "translation": "That ball has already gone out of bounds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出盘", "reading": "chu1 pan2", "sentence": "他决定把这家公司出盘", "translation": "He decided to sell the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出众", "reading": "chu1 zhong4", "sentence": "她在人群中显得很出众", "translation": "She stands out in the crowd.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出站", "reading": "chu1 zhan4", "sentence": "请从这个出口出站", "translation": "Please exit the station through this gate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出笼", "reading": "chu1 long2", "sentence": "刚出笼的包子热腾腾的", "translation": "The steamed buns are hot right out of the steamer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出糗", "reading": "chu1 qiu3", "sentence": "他在会上又出糗了", "translation": "He made a fool of himself at the meeting again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出粮", "reading": "chu1 liang2", "sentence": "这个月公司准备出粮了", "translation": "The company is going to pay salaries this month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出纳", "reading": "chu1 na4", "sentence": "财务室的张姐是出纳", "translation": "Sister Zhang in the finance office is the cashier.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出线", "reading": "chu1 xian4", "sentence": "那个球员不小心出线了", "translation": "The player accidentally stepped out of bounds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出继", "reading": "chu1 ji4", "sentence": "那个孩子被出继给亲戚", "translation": "The child was adopted as an heir by a relative.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出缺", "reading": "chu1 que1", "sentence": "这个职位最近刚好出缺", "translation": "This position just happened to become vacant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出罪", "reading": "chu1 zui4", "sentence": "法律规定不能随意出罪", "translation": "The law stipulates that one cannot be exempted from punishment arbitrarily.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出声", "reading": "chu1 sheng1", "sentence": "他害怕得不敢出声", "translation": "He was so scared that he dared not make a sound.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出脱", "reading": "chu1 tuo1", "sentence": "这些旧货很难出脱", "translation": "It is difficult to sell off these old goods.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出苗", "reading": "chu1 miao2", "sentence": "田里的种子开始出苗了", "translation": "The seeds in the field have started to sprout.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出草", "reading": "chu1 cao3", "sentence": "部落的勇士准备出草", "translation": "The tribe's warriors are preparing for a headhunting expedition.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出菇", "reading": "chu1 gu1", "sentence": "这个菌包终于出菇了", "translation": "This mushroom bag has finally started to fruit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出菜", "reading": "chu1 cai4", "sentence": "后厨开始快速出菜了", "translation": "The kitchen has started serving dishes quickly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出落", "reading": "chu1 luo4", "sentence": "她长得越来越出落了", "translation": "She is growing more and more beautiful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出处", "reading": "chu1 chu4", "sentence": "这句话的出处是哪里", "translation": "What is the source of this quote?", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出号", "reading": "chu1 hao4", "sentence": "这件衣服是出号的，你穿可能太大了。", "translation": "This piece of clothing is a large size, it might be too big for you.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出言", "reading": "chu1 yan2", "sentence": "他平时很少出言，总是默默做事。", "translation": "He rarely speaks and always does things silently.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出诊", "reading": "chu1 zhen3", "sentence": "医生今天要去乡下出诊。", "translation": "The doctor is going to the countryside to visit a patient today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出警", "reading": "chu1 jing3", "sentence": "接到报警后，警察立刻出警了。", "translation": "After receiving the police report, the police were immediately dispatched.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出让", "reading": "chu1 rang4", "sentence": "他打算把这块地皮出让给公司。", "translation": "He plans to transfer the land to the company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出货", "reading": "chu1 huo4", "sentence": "仓库今天安排了出货，非常忙碌。", "translation": "The warehouse is scheduled to ship goods today and is very busy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出资", "reading": "chu1 zi1", "sentence": "这家大公司决定出资支持学校。", "translation": "This large company decided to fund the school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出赛", "reading": "chu1 sai4", "sentence": "他因为受伤没能参加这次出赛。", "translation": "Because of an injury, he could not compete in this race.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出超", "reading": "chu1 chao1", "sentence": "今年国家的贸易出现了出超。", "translation": "The country had a trade surplus this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出车", "reading": "chu1 che1", "sentence": "公司今天需要出车去机场接人。", "translation": "The company needs to dispatch a car to pick people up at the airport today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出辑", "reading": "chu1 ji2", "sentence": "这位歌手下个月就要出辑了。", "translation": "This singer is going to release an album next month.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出迎", "reading": "chu1 ying2", "sentence": "全家人都到门口出迎客人。", "translation": "The whole family went to the door to greet the guests.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出逃", "reading": "chu1 tao2", "sentence": "小偷趁乱从后门出逃了。", "translation": "The thief took advantage of the chaos and ran away through the back door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出道", "reading": "chu1 dao4", "sentence": "他是在两年前正式出道当歌手的。", "translation": "He officially started his career as a singer two years ago.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出丑", "reading": "chu1 chou3", "sentence": "他在台上讲错话，真是出丑了。", "translation": "He made a fool of himself by saying the wrong thing on stage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出镜", "reading": "chu1 jing4", "sentence": "她第一次出镜，显得有些紧张。", "translation": "She appeared on camera for the first time and looked a bit nervous.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出钟", "reading": "chu1 zhong1", "sentence": "她今晚要出去出钟。", "translation": "She is going out for an outcall tonight.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出阁", "reading": "chu1 ge2", "sentence": "听说邻居家的女儿马上要出阁了。", "translation": "I heard that the neighbor's daughter is getting married soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出险", "reading": "chu1 xian3", "sentence": "救援队终于帮他们从车里出险了。", "translation": "The rescue team finally helped them get out of danger from the car.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出露", "reading": "chu1 lu4", "sentence": "山石经过雨水冲刷后出露了。", "translation": "The rocks emerged after being washed by the rain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出鞘", "reading": "chu1 qiao4", "sentence": "战士拔出长剑，利刃出鞘。", "translation": "The soldier pulled out his sword, and the blade was unsheathed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出头", "reading": "chu1 tou2", "sentence": "他努力工作，终于熬到了出头之日。", "translation": "He worked hard and finally had his day of getting out of the predicament.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出题", "reading": "chu1 ti2", "sentence": "老师负责为这次考试出题。", "translation": "The teacher is responsible for drawing up the questions for this exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出餐", "reading": "chu1 can1", "sentence": "后厨正在准备出餐，请稍等。", "translation": "The kitchen is preparing to serve the meal, please wait a moment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "出马", "reading": "chu1 ma3", "sentence": "这次项目太难，得经理亲自出马。", "translation": "This project is too difficult, the manager has to set out to handle it personally.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凼子", "reading": "dang4 zi5", "sentence": "雨后路边出现了一个小凼子", "translation": "A small pool appeared on the roadside after the rain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "凼肥", "reading": "dang4 fei2", "sentence": "农民正在田里堆放凼肥", "translation": "The farmers are piling up manure in the fields.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函人", "reading": "han2 ren2", "sentence": "古代的函人制作了精美的盔甲", "translation": "The armor makers of ancient times crafted exquisite armor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函件", "reading": "han2 jian4", "sentence": "秘书正在整理所有的重要函件", "translation": "The secretary is organizing all the important letters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函大", "reading": "han2 da4", "sentence": "他在函大完成了大学学业", "translation": "He completed his university studies at a correspondence university.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函授", "reading": "han2 shou4", "sentence": "这家机构主要提供函授课程", "translation": "This institution mainly provides correspondence courses.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函购", "reading": "han2 gou4", "sentence": "你可以通过邮寄方式进行函购", "translation": "You can make a mail order by post.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函办", "reading": "han2 ban4", "sentence": "警方决定将嫌疑人函办", "translation": "The police decided to hand the suspect over to the law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函送", "reading": "han2 song4", "sentence": "公司正式函送了调查结果", "translation": "The company formally informed the results of the investigation by letter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "函馆", "reading": "Han2 guan3", "sentence": "函馆是日本非常美丽的港口", "translation": "Hakodate is a very beautiful port in Japan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀俎", "reading": "dao1 zu3", "sentence": "我们不能任人像刀俎一样对待", "translation": "We cannot let others treat us like meat on a chopping block.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀具", "reading": "dao1 ju4", "sentence": "这些刀具必须放在安全的地方", "translation": "These cutting tools must be kept in a safe place.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀刃", "reading": "dao1 ren4", "sentence": "这把剪刀的刀刃非常锋利", "translation": "The blade of these scissors is very sharp.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀剑", "reading": "dao1 jian4", "sentence": "博物馆里展览着各种刀剑", "translation": "Various swords are on display in the museum.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀口", "reading": "dao1 kou3", "sentence": "切菜时要小心不要碰到刀口", "translation": "Be careful not to touch the edge of the knife when cutting vegetables.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀塔", "reading": "Dao1 ta3", "sentence": "很多年轻人喜欢玩刀塔", "translation": "Many young people like to play DotA.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀客", "reading": "dao1 ke4", "sentence": "电影里的刀客武功非常高强", "translation": "The swordsman in the movie has very high martial arts skills.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀工", "reading": "dao1 gong1", "sentence": "这位厨师的刀工十分精湛", "translation": "This chef has excellent knife skills.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀库", "reading": "dao1 ku4", "sentence": "机器的刀库需要定期清洁", "translation": "The tool magazine of the machine needs regular cleaning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀枪", "reading": "dao1 qiang1", "sentence": "古代士兵随身携带刀枪", "translation": "Ancient soldiers carried swords and spears with them.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀乐", "reading": "dao1 le4", "sentence": "这件衣服要花五十刀乐", "translation": "This piece of clothing costs fifty dollars.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀片", "reading": "dao1 pian4", "sentence": "换上新的刀片会更好用", "translation": "Replacing it with a new blade will work better.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀疤", "reading": "dao1 ba1", "sentence": "他的脸上有一道明显的刀疤", "translation": "There is a visible scar on his face from a knife.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀笔", "reading": "dao1 bi3", "sentence": "他以前是专门从事刀笔的人", "translation": "He used to be someone who specialized in writing legal documents.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀背", "reading": "dao1 bei4", "sentence": "用刀背轻轻敲打可以让肉变嫩", "translation": "Tapping gently with the back of the knife can tenderize the meat.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀叶", "reading": "dao1 ye4", "sentence": "这把剑的刀叶非常锋利。", "translation": "The blade of this sword is very sharp.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀螂", "reading": "dao1 lang5", "sentence": "草丛里有一只绿色的刀螂。", "translation": "There is a green mantis in the grass.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀身", "reading": "dao1 shen1", "sentence": "这把刀的刀身是用钢做的。", "translation": "The blade of this knife is made of steel.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀郎", "reading": "Dao1 lang2", "sentence": "刀郎是居住在新疆的民族。", "translation": "The Dolan are an ethnic group living in Xinjiang.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀鞘", "reading": "dao1 qiao4", "sentence": "他把宝剑插回了刀鞘里。", "translation": "He inserted the sword back into the scabbard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀类", "reading": "dao1 lei4", "sentence": "厨房里有很多种类的刀类工具。", "translation": "There are many types of cutting tools in the kitchen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刀鱼", "reading": "dao1 yu2", "sentence": "春天的刀鱼味道特别鲜美。", "translation": "The tapertail anchovy in spring tastes especially delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁妇", "reading": "diao1 fu4", "sentence": "那个刁妇在街上大声吵闹。", "translation": "That shrew is making a loud scene on the street.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁悍", "reading": "diao1 han4", "sentence": "这群强盗看起来十分刁悍。", "translation": "This group of robbers looks very cunning and fierce.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁斗", "reading": "diao1 dou3", "sentence": "古时候士兵用刁斗做饭。", "translation": "In ancient times, soldiers used copper saucepans to cook food.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁民", "reading": "diao1 min2", "sentence": "官员抱怨这里有很多刁民。", "translation": "The official complained that there were many unruly people here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁滑", "reading": "diao1 hua2", "sentence": "他这个人做事非常刁滑。", "translation": "He is a very artful person in doing things.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁蛮", "reading": "diao1 man2", "sentence": "那个女孩子性格很刁蛮。", "translation": "That girl has a very crafty and unruly personality.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁钻", "reading": "diao1 zuan1", "sentence": "他提出了一个很刁钻的问题。", "translation": "He asked a very tricky question.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刁难", "reading": "diao1 nan4", "sentence": "上司总是故意刁难员工。", "translation": "The boss always deliberately makes things difficult for employees.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刃具", "reading": "ren4 ju4", "sentence": "工厂需要购买一批刃具。", "translation": "The factory needs to buy a batch of cutting tools.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分之", "reading": "fen1 zhi1", "sentence": "五分之二的同学去参加比赛。", "translation": "Two-fifths of the students went to participate in the competition.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分付", "reading": "Fen1 fu4", "sentence": "我今天在超市使用了分付支付。", "translation": "I used the Fenfu service at the supermarket today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分光", "reading": "fen1 guang1", "sentence": "我们需要安装一台分光仪。", "translation": "We need to install a spectrometer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分克", "reading": "fen1 ke4", "sentence": "这个药的重量只有一分克。", "translation": "The weight of this medicine is only one decigram.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分内", "reading": "fen4 nei4", "sentence": "帮助同事是我的分内之事。", "translation": "Helping colleagues is part of my responsibility.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分册", "reading": "fen1 ce4", "sentence": "这本书被分册出版了。", "translation": "This book was published in separate volumes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分列", "reading": "fen1 lie4", "sentence": "学生们按身高分列站好。", "translation": "The students stood in rows according to their height.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分则", "reading": "fen1 ze2", "sentence": "我们要遵守法律的分则。", "translation": "We must follow the specific provisions of the law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分力", "reading": "fen1 li4", "sentence": "我们需要计算这个力的分力。", "translation": "We need to calculate the component force of this force.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分包", "reading": "fen1 bao1", "sentence": "公司把这个项目分包给了小企业。", "translation": "The company subcontracted this project to a small business.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分化", "reading": "fen1 hua4", "sentence": "他们的意见逐渐开始分化。", "translation": "Their opinions gradually began to split apart.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分区", "reading": "fen1 qu1", "sentence": "政府在这个地区进行了住宅分区。", "translation": "The government carried out residential zoning in this area.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分升", "reading": "fen1 sheng1", "sentence": "这杯牛奶大约有三点五分升。", "translation": "This cup of milk is about 3.5 deciliters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分句", "reading": "fen1 ju4", "sentence": "请在这句话里找出所有分句。", "translation": "Please identify all the clauses in this sentence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分地", "reading": "fen1 di4", "sentence": "农民们正在商量如何分地。", "translation": "The farmers are discussing how to distribute the land.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分娩", "reading": "fen1 mian3", "sentence": "她在医院顺利完成了分娩。", "translation": "She gave birth to a baby smoothly at the hospital.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分家", "reading": "fen1 jia1", "sentence": "兄弟两人结婚后决定分家。", "translation": "The two brothers decided to live apart after getting married.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分封", "reading": "fen1 feng1", "sentence": "古代皇帝喜欢给儿子分封土地。", "translation": "Ancient emperors liked to divide and confer land to their sons.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分局", "reading": "fen1 ju2", "sentence": "我去了附近的公安分局办事。", "translation": "I went to the local police sub-bureau to handle some business.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分尸", "reading": "fen1 shi1", "sentence": "电影里罪犯试图分尸逃避检查。", "translation": "In the movie, the criminal tried to dismember the corpse to avoid detection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分屏", "reading": "fen1 ping2", "sentence": "老师在课堂上演示了如何分屏。", "translation": "The teacher demonstrated how to use split-screen during class.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分层", "reading": "fen1 ceng2", "sentence": "这个材料结构非常明显的分层。", "translation": "This material has a very obvious laminated structure.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分属", "reading": "fen1 shu3", "sentence": "这两个部门分属于不同的经理。", "translation": "These two departments belong to different managers.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分岔", "reading": "fen1 cha4", "sentence": "前面那条路在十字路口分岔了。", "translation": "The road ahead branches off at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分工", "reading": "fen1 gong1", "sentence": "我们小组需要明确一下分工。", "translation": "Our group needs to clarify the division of labor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分度", "reading": "fen1 du4", "sentence": "这个仪器的分度非常精确。", "translation": "The graduation of this instrument is very precise.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分式", "reading": "fen1 shi4", "sentence": "老师正在黑板上讲解分式。", "translation": "The teacher is explaining fractional expressions on the blackboard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分形", "reading": "fen1 xing2", "sentence": "这种图案展示了分形几何的美。", "translation": "This pattern shows the beauty of fractal geometry.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分忧", "reading": "fen1 you1", "sentence": "朋友不仅分享快乐还能帮我分忧。", "translation": "Friends not only share happiness but also help me share my troubles.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分所", "reading": "fen1 suo3", "sentence": "这是我们公司在本地的分所。", "translation": "This is the local branch of our company.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分批", "reading": "fen1 pi1", "sentence": "工厂决定分批生产这批货物。", "translation": "The factory decided to produce these goods in batches.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分拆", "reading": "fen4 chai1", "sentence": "大公司有时会分拆业务部门。", "translation": "Large companies sometimes separate off their business units.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分掉", "reading": "fen1 diao4", "sentence": "快把这些苹果分掉给大家吃。", "translation": "Quickly share these apples with everyone to eat.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分拣", "reading": "fen1 jian3", "sentence": "快递员正在忙着分拣快递。", "translation": "The courier is busy sorting the packages.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分担", "reading": "fen1 dan1", "sentence": "我们应该一起分担家务活", "translation": "We should share the housework together.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分时", "reading": "fen1 shi2", "sentence": "这个系统支持多人分时使用", "translation": "This system supports time-sharing by multiple users.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分晓", "reading": "fen1 xiao3", "sentence": "比赛结果很快就会分晓", "translation": "The result of the match will soon be apparent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分会", "reading": "fen1 hui4", "sentence": "他在当地建立了一个分会", "translation": "He established a branch locally.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分期", "reading": "fen1 qi1", "sentence": "你可以选择分期付款买手机", "translation": "You can choose to pay for the phone in installments.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分枝", "reading": "fen1 zhi1", "sentence": "树木长出了许多新的分枝", "translation": "The tree has grown many new branches.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分校", "reading": "fen1 xiao4", "sentence": "这所大学在郊区设有分校", "translation": "This university has a branch school in the suburbs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分桃", "reading": "fen1 tao2", "sentence": "分桃之爱在古代就有记载", "translation": "Homosexual love has been recorded since ancient times.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分权", "reading": "fen1 quan2", "sentence": "政府通过法律实现了分权", "translation": "The government achieved the separation of powers through law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分段", "reading": "fen1 duan4", "sentence": "老师把文章分段讲解", "translation": "The teacher explains the article by segments.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分母", "reading": "fen1 mu3", "sentence": "这个分数的分母是五", "translation": "The denominator of this fraction is five.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分毫", "reading": "fen1 hao2", "sentence": "这件事他一点分毫未差", "translation": "He did this without the slightest bit of error.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分汊", "reading": "fen1 cha4", "sentence": "河流在这里开始分汊", "translation": "The river begins to branch here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分治", "reading": "fen1 zhi4", "sentence": "两地长期处于分治状态", "translation": "The two places have been in a state of separate government for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分泌", "reading": "fen1 mi4", "sentence": "这种腺体会分泌液体", "translation": "This type of gland secretes fluid.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分洪", "reading": "fen1 hong2", "sentence": "大坝开启了分洪闸门", "translation": "The dam opened the flood diversion gates.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分流", "reading": "fen1 liu2", "sentence": "交警在路口指挥车辆分流", "translation": "Traffic police are directing vehicles to divert at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分清", "reading": "fen1 qing1", "sentence": "我们要分清是非对错", "translation": "We must distinguish between right and wrong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分争", "reading": "fen1 zheng1", "sentence": "邻居之间不应该有分争", "translation": "There should be no disputes between neighbors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分班", "reading": "fen1 ban1", "sentence": "学校下周就要进行分班", "translation": "The school will group the students next week.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分瓦", "reading": "fen1 wa3", "sentence": "这个设备的功率仅为一分瓦", "translation": "The power of this device is only one deciwatt.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分异", "reading": "fen1 yi4", "sentence": "这两者之间存在明显的分异", "translation": "There is an obvious distinction between the two.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分当", "reading": "fen4 dang1", "sentence": "这本是他分当做的事", "translation": "This is what he should do as his duty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分相", "reading": "fen1 xiang4", "sentence": "电路系统采用了分相设计", "translation": "The circuit system adopts a split-phase design.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分社", "reading": "fen1 she4", "sentence": "公司在上海设立了分社", "translation": "The company set up a branch in Shanghai.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分神", "reading": "fen1 shen2", "sentence": "开车时千万不要分神", "translation": "Do not get distracted while driving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分租", "reading": "fen1 zu1", "sentence": "房东把大房子分租给学生", "translation": "The landlord rents out parts of the big house to students.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分立", "reading": "fen1 li4", "sentence": "两家公司决定分立经营", "translation": "The two companies decided to operate as separate entities.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分站", "reading": "fen1 zhan4", "sentence": "我们需要去附近的供电分站", "translation": "We need to go to the nearby power substation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分管", "reading": "fen1 guan3", "sentence": "他主要分管公司的财务工作", "translation": "He is mainly in charge of the company's financial work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分节", "reading": "fen1 jie2", "sentence": "这种虫子的身体是分节的", "translation": "This insect's body is segmented.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分米", "reading": "fen1 mi3", "sentence": "这根绳子大约有五分米长", "translation": "This rope is about five decimeters long.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分红", "reading": "fen1 hong2", "sentence": "今年公司决定给员工分红", "translation": "The company decided to pay dividends to employees this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分级", "reading": "fen1 ji2", "sentence": "老师把学生的能力进行分级", "translation": "The teacher ranks the students' abilities.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分缝", "reading": "fen1 feng4", "sentence": "她换了一个新的发型分缝", "translation": "She changed to a new hair part style.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分肥", "reading": "fen1 fei2", "sentence": "他们私下分肥引起了不满", "translation": "Their unfair division of benefits caused dissatisfaction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分色", "reading": "fen1 se4", "sentence": "印刷前需要进行图片分色", "translation": "Color separation is required before printing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分蘖", "reading": "fen1 nie4", "sentence": "小麦进入了快速分蘖期", "translation": "The wheat has entered the rapid tillering stage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分行", "reading": "fen1 hang2", "sentence": "我去银行分行办理业务", "translation": "I went to the bank branch to do business.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分袂", "reading": "fen1 mei4", "sentence": "朋友们在车站依依分袂", "translation": "The friends parted ways reluctantly at the station.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分装", "reading": "fen1 zhuang1", "sentence": "工人把大米进行分装处理", "translation": "The workers divide the rice into portions.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分设", "reading": "fen1 she4", "sentence": "学校决定把两个部门分设", "translation": "The school decided to set up the two departments separately.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分诉", "reading": "fen1 su4", "sentence": "他向大家分诉自己的经历", "translation": "He narrated his experiences to everyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分词", "reading": "fen1 ci2", "sentence": "这个句子中包含一个分词", "translation": "This sentence contains a participle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分说", "reading": "fen1 shuo1", "sentence": "这件事不需要再多做分说", "translation": "There is no need to explain this matter further.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分贝", "reading": "fen1 bei4", "sentence": "这里的噪音超过八十分贝", "translation": "The noise here exceeds eighty decibels.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分账", "reading": "fen1 zhang4", "sentence": "大家决定按比例进行分账", "translation": "Everyone decided to share the profits proportionally.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分赃", "reading": "fen1 zang1", "sentence": "这群盗贼正在秘密分赃", "translation": "The gang of thieves is secretly dividing the loot.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分赴", "reading": "fen1 fu4", "sentence": "代表们分赴各地开展工作", "translation": "The delegates went to different places to carry out their work.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分身", "reading": "fen1 shen1", "sentence": "他真希望自己能有分身术去处理这些事。", "translation": "He really wishes he could replicate himself to handle these matters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分辩", "reading": "fen1 bian4", "sentence": "他向大家详细分辩了事情的经过。", "translation": "He explained the facts of the matter in detail to everyone.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分述", "reading": "fen1 shu4", "sentence": "请你把这个计划分述一下。", "translation": "Please elaborate on this plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分送", "reading": "fen1 song4", "sentence": "老师把作业本分送给班里的学生。", "translation": "The teacher sent the notebooks to the students in the class.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分野", "reading": "fen1 ye3", "sentence": "这两派观点之间存在明显的分野。", "translation": "There is a clear dividing line between these two viewpoints.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分针", "reading": "fen1 zhen1", "sentence": "挂钟的分针已经指向了十二。", "translation": "The minute hand of the wall clock is pointing at twelve.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分销", "reading": "fen1 xiao1", "sentence": "这家公司正在扩大产品的分销渠道。", "translation": "This company is expanding its product distribution channels.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分录", "reading": "fen1 lu4", "sentence": "会计正在记录每一笔财务分录。", "translation": "The accountant is recording each financial entry.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分钱", "reading": "fen1 qian2", "sentence": "这件东西只需要几十分钱。", "translation": "This item only costs a few cents.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分锅", "reading": "fen1 guo1", "sentence": "他们兄弟俩结婚后决定分锅过日子。", "translation": "The two brothers decided to set up separate households after getting married.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分镜", "reading": "fen1 jing4", "sentence": "导演在拍摄前画好了详细的分镜。", "translation": "The director drew a detailed storyboard before filming.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分际", "reading": "fen4 ji4", "sentence": "我们必须分清公私之间的分际。", "translation": "We must clearly distinguish the boundary between public and private matters.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分页", "reading": "fen1 ye4", "sentence": "请在文档的第二页插入一个分页。", "translation": "Please insert a page break on the second page of the document.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分项", "reading": "fen1 xiang4", "sentence": "这份报告包含了很多细小的分项。", "translation": "This report contains many small sub-items.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分头", "reading": "fen1 tou2", "sentence": "我们分头去寻找丢失的钥匙。", "translation": "We went separately to look for the lost keys.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分频", "reading": "fen1 pin2", "sentence": "这种技术可以实现高效的分频传输。", "translation": "This technology can achieve efficient frequency sharing transmission.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分餐", "reading": "fen1 can1", "sentence": "为了健康大家开始实行分餐制。", "translation": "For the sake of health, everyone started practicing individual meal service.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分馏", "reading": "fen1 liu2", "sentence": "工厂利用分馏技术提炼石油。", "translation": "The factory uses fractional distillation technology to refine oil.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "分点", "reading": "fen1 dian3", "sentence": "这个分点对于理解全图很重要。", "translation": "This point of division is important for understanding the whole map.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切中", "reading": "qie4 zhong4", "sentence": "他的话直接切中了问题的核心。", "translation": "His words hit the core of the problem directly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切刀", "reading": "qie1 dao1", "sentence": "工人使用切刀裁剪多余的布料。", "translation": "The worker uses a cutter to trim the excess fabric.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切切", "reading": "qie4 qie4", "sentence": "他切切叮嘱我一定要注意安全。", "translation": "He urged me earnestly to be careful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切削", "reading": "qie1 xiao1", "sentence": "机床正在对金属零件进行切削。", "translation": "The machine tool is cutting the metal parts.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切口", "reading": "qie1 kou3", "sentence": "手术后病人的切口恢复得很好。", "translation": "The patient's incision healed very well after the surgery.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切合", "reading": "qie4 he2", "sentence": "这个方案非常切合市场的需求。", "translation": "This plan fits the market demand very well.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切向", "reading": "qie1 xiang4", "sentence": "我们需要计算这个点的切向速度。", "translation": "We need to calculate the tangential velocity at this point.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切嘱", "reading": "qie4 zhu3", "sentence": "老师临走前对我再三切嘱。", "translation": "The teacher gave me urgent advice repeatedly before leaving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切块", "reading": "qie1 kuai4", "sentence": "请把这个西瓜切块后装盘。", "translation": "Please cut this watermelon into pieces and put it on a plate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切实", "reading": "qie4 shi2", "sentence": "这个计划需要切实可行的方法。", "translation": "This plan requires a feasible approach.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切尼", "reading": "Qie1 ni2", "sentence": "切尼曾担任过美国副总统。", "translation": "Cheney once served as the Vice President of the United States.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切忌", "reading": "qie4 ji4", "sentence": "开车时切忌疲劳驾驶。", "translation": "You must avoid driving while fatigued.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切断", "reading": "qie1 duan4", "sentence": "工人不小心切断了电源线。", "translation": "The worker accidentally cut off the power cord.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切望", "reading": "qie4 wang4", "sentence": "大家切望早日见到和平。", "translation": "Everyone eagerly anticipates peace soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切末", "reading": "qie4 mo5", "sentence": "舞台上有很多种不同的切末。", "translation": "There are many different types of stage props on the stage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切杆", "reading": "qie1 gan1", "sentence": "他在果岭边缘打了一记切杆。", "translation": "He made a chip shot at the edge of the green.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切牙", "reading": "qie1 ya2", "sentence": "小孩子的切牙正在慢慢长出。", "translation": "The child's incisors are slowly growing out.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切痛", "reading": "qie1 tong4", "sentence": "他的腹部突然感到一阵切痛。", "translation": "He suddenly felt a sharp pain in his abdomen.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切盼", "reading": "qie4 pan4", "sentence": "我们切盼您的早日归来。", "translation": "We earnestly hope for your early return.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切糕", "reading": "qie1 gao1", "sentence": "这里的切糕味道非常香甜。", "translation": "The qiegao here tastes very sweet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切线", "reading": "qie1 xian4", "sentence": "这条直线是圆的切线。", "translation": "This straight line is a tangent to the circle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切脉", "reading": "qie4 mai4", "sentence": "中医看病时通常需要切脉。", "translation": "TCM doctors usually need to feel the pulse when seeing patients.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切莫", "reading": "qie4 mo4", "sentence": "过马路时切莫玩手机。", "translation": "You must not play on your phone while crossing the street.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切要", "reading": "qie4 yao4", "sentence": "这件事情非常切要，请尽快处理。", "translation": "This matter is essential, please handle it as soon as possible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切触", "reading": "qie4 chu4", "sentence": "这两个曲线在原点处发生切触。", "translation": "These two curves have an osculation at the origin.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切记", "reading": "qie4 ji4", "sentence": "明天考试，切记带好准考证。", "translation": "There is an exam tomorrow, remember at all costs to bring your admission ticket.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切诊", "reading": "qie4 zhen3", "sentence": "望闻问切是中医的切诊方法。", "translation": "Looking, listening, questioning, and palpation are the TCM diagnostic methods.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切变", "reading": "qie1 bian4", "sentence": "材料受力后会产生切变。", "translation": "The material will undergo shear after being subjected to force.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切责", "reading": "qie4 ze2", "sentence": "他因为工作失误受到了切责。", "translation": "He was blamed for his work errors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切近", "reading": "qie4 jin4", "sentence": "这个话题与我们的生活切近。", "translation": "This topic is very close to our lives.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切迫", "reading": "qie4 po4", "sentence": "这个问题现在变得非常切迫。", "translation": "This issue has now become very urgent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切达", "reading": "Qie4 da2", "sentence": "我想买一块切达奶酪。", "translation": "I want to buy a piece of cheddar cheese.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切音", "reading": "qie4 yin1", "sentence": "古人常用反切法来切音。", "translation": "Ancient people often used the fanqie method to indicate pronunciation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切韵", "reading": "Qie4 yun4", "sentence": "切韵是中国古代重要的韵书。", "translation": "Qieyun is an important ancient Chinese rime dictionary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切题", "reading": "qie4 ti2", "sentence": "你的发言一定要切题。", "translation": "Your speech must keep to the subject.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切点", "reading": "qie1 dian3", "sentence": "这条直线经过圆的切点。", "translation": "This straight line passes through the contact point of the circle.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "切齿", "reading": "qie4 chi3", "sentence": "他想起坏人就恨得切齿。", "translation": "He gnashes his teeth in hatred whenever he thinks of the bad guys.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刈包", "reading": "gua4 bao1", "sentence": "这家店的刈包非常好吃。", "translation": "This shop's gua bao is very delicious.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊印", "reading": "kan1 yin4", "sentence": "这本书由当地书店刊印。", "translation": "This book was set in print by the local bookstore.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊正", "reading": "kan1 zheng4", "sentence": "编辑正在仔细刊正稿件。", "translation": "The editor is carefully proofreading and correcting the manuscript.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊发", "reading": "kan1 fa1", "sentence": "报纸刊发了这篇重要新闻。", "translation": "The newspaper published this important news story.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊号", "reading": "kan1 hao4", "sentence": "请检查杂志上的刊号。", "translation": "Please check the issue number on the magazine.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊行", "reading": "kan1 xing2", "sentence": "这本书很快就要刊行了。", "translation": "This book will be printed and circulated soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊误", "reading": "kan1 wu4", "sentence": "出版社安排了专人刊误。", "translation": "The publishing house arranged for someone to correct the printing errors.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刊头", "reading": "kan1 tou2", "sentence": "这份报纸的刊头很醒目。", "translation": "The masthead of this newspaper is very striking.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑人", "reading": "xing2 ren2", "sentence": "刑人被带到了城门外。", "translation": "The criminal to be executed was taken outside the city gate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑侦", "reading": "xing2 zhen1", "sentence": "警方正在进行深入的刑侦。", "translation": "The police are conducting an in-depth criminal investigation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑具", "reading": "xing2 ju4", "sentence": "博物馆里展出古代刑具。", "translation": "The museum exhibits ancient punishment equipment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑名", "reading": "xing2 ming2", "sentence": "他深入研究了先秦刑名。", "translation": "He studied the xing-ming school of thought of the pre-Qin period deeply.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑堂", "reading": "xing2 tang2", "sentence": "电影里出现了阴森的刑堂。", "translation": "A gloomy torture chamber appeared in the movie.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑场", "reading": "xing2 chang3", "sentence": "这里曾经是残酷的刑场。", "translation": "This place used to be a cruel execution ground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑天", "reading": "Xing2 tian1", "sentence": "刑天是中国神话中的英雄。", "translation": "Xingtian is a hero in Chinese mythology.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑庭", "reading": "xing2 ting2", "sentence": "律师今天要去刑庭开会。", "translation": "The lawyer is going to the criminal court today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑律", "reading": "xing2 lu:4", "sentence": "我们要严格遵守国家刑律。", "translation": "We must strictly abide by the national criminal law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑戮", "reading": "xing2 lu4", "sentence": "他因犯大罪而受刑戮。", "translation": "He suffered corporal punishment because he committed a serious crime.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑房", "reading": "xing2 fang2", "sentence": "他被带进了衙门的刑房。", "translation": "He was taken into the yamen's office of punishment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑杖", "reading": "xing2 zhang4", "sentence": "古代官府常用刑杖惩罚犯人", "translation": "In ancient times, government offices often used rods to punish criminals.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑案", "reading": "xing2 an4", "sentence": "警方正在调查这起严重刑案", "translation": "The police are investigating this serious criminal case.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑求", "reading": "xing2 qiu2", "sentence": "警察绝对不能对犯人进行刑求", "translation": "Police must absolutely not use torture to extort confessions from prisoners.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑法", "reading": "xing2 fa3", "sentence": "我们要学习基本的刑法知识", "translation": "We need to learn basic knowledge of criminal law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑满", "reading": "xing2 man3", "sentence": "他刑满后就回家找工作了", "translation": "He went home to look for a job after completing his prison sentence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑网", "reading": "xing2 wang3", "sentence": "罪犯最终还是难逃刑网", "translation": "The criminal was ultimately unable to escape the net of the law.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑罚", "reading": "xing2 fa2", "sentence": "法律规定了各种不同的刑罚", "translation": "The law specifies various different types of sentences.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑舂", "reading": "xing2 chong1", "sentence": "古代妇女有时会被判处刑舂", "translation": "In ancient times, women were sometimes punished with forced grain grinding.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑讯", "reading": "xing2 xun4", "sentence": "严禁在审讯过程中使用刑讯", "translation": "Interrogation under torture is strictly prohibited during the trial process.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑辱", "reading": "xing2 ru3", "sentence": "这种行为简直就是一种刑辱", "translation": "This kind of behavior is simply a humiliating torture.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刑部", "reading": "Xing2 bu4", "sentence": "古代刑部负责管理全国司法", "translation": "In ancient times, the Ministry of Justice was responsible for managing the national judiciary.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "划子", "reading": "hua2 zi5", "sentence": "湖面上有一只小划子", "translation": "There is a small rowboat on the lake.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "划拉", "reading": "hua2 la5", "sentence": "请把桌子上的灰尘划拉干净", "translation": "Please sweep the dust off the table.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "划拳", "reading": "hua2 quan2", "sentence": "他们在饭店里高兴地划拳", "translation": "They are happily playing the finger-guessing game in the restaurant.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "划桨", "reading": "hua2 jiang3", "sentence": "我们要用力划桨才能过河", "translation": "We need to paddle hard to get across the river.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列位", "reading": "lie4 wei4", "sentence": "列位请听我说几句话", "translation": "Ladies and gentlemen, please listen to what I have to say.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列侯", "reading": "lie4 hou2", "sentence": "古代的列侯拥有很高的地位", "translation": "Dukes in ancient times held a very high status.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列传", "reading": "lie4 zhuan4", "sentence": "史记里记载了许多人物列传", "translation": "The Records of the Grand Historian contains many historical biographies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列克", "reading": "lie4 ke4", "sentence": "他换了一些阿尔巴尼亚的列克", "translation": "He exchanged some Albanian lek.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列兵", "reading": "lie4 bing1", "sentence": "他刚入伍时只是一名列兵", "translation": "He was only a private when he first joined the army.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列国", "reading": "lie4 guo2", "sentence": "古代战国时期列国纷争不断", "translation": "During the Warring States period, various countries were in constant conflict.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列子", "reading": "Lie4 zi3", "sentence": "我很喜欢读列子的寓言故事", "translation": "I really enjoy reading the allegorical stories of Lie Zi.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列宁", "reading": "Lie4 ning2", "sentence": "列宁是苏联的革命领导人", "translation": "Lenin was a revolutionary leader of the Soviet Union.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列岛", "reading": "lie4 dao3", "sentence": "日本是一个美丽的列岛国家", "translation": "Japan is a beautiful archipelago country.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列席", "reading": "lie4 xi2", "sentence": "他获准列席这次重要会议", "translation": "He was allowed to attend this important meeting as a nonvoting delegate.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列弗", "reading": "lie4 fu2", "sentence": "这件商品价格是十个列弗", "translation": "The price of this item is ten lev.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列强", "reading": "lie4 qiang2", "sentence": "历史上的列强瓜分了领土", "translation": "The Great Powers in history carved up the territory.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列明", "reading": "lie4 ming2", "sentence": "请把所有费用列明在单子上", "translation": "Please list all expenses on the form.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列星", "reading": "lie4 xing1", "sentence": "古人常根据列星来预测未来", "translation": "Ancient people often predicted the future based on the alignment of stars.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列为", "reading": "lie4 wei2", "sentence": "这个项目被列为重点工程", "translation": "This project is classified as a key project.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列缺", "reading": "lie4 que1", "sentence": "云层中忽然闪过一道列缺", "translation": "A flash of lightning suddenly appeared in the clouds.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列举", "reading": "lie4 ju3", "sentence": "老师列举了许多成功的例子", "translation": "The teacher listed many successful examples.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列装", "reading": "lie4 zhuang1", "sentence": "新战机已经正式列装部队", "translation": "The new fighter jets have officially entered service with the troops.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "列队", "reading": "lie4 dui4", "sentence": "士兵们在操场上整齐列队", "translation": "The soldiers stood in formation on the playground.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初一", "reading": "chu1 yi1", "sentence": "他今年刚上初一", "translation": "He just started his first year of junior high school this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初三", "reading": "chu1 san1", "sentence": "初三学生的学习压力很大", "translation": "Third-year junior high school students have a lot of academic pressure.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初二", "reading": "chu1 er4", "sentence": "我的妹妹正在读初二", "translation": "My younger sister is in her second year of junior high school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初伏", "reading": "chu1 fu2", "sentence": "初伏到了天气变得很热", "translation": "The weather becomes very hot as the first ten-day period of the dog days begins.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初估", "reading": "chu1 gu1", "sentence": "公司对损失做了初估", "translation": "The company made a preliminary estimate of the losses.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初冬", "reading": "chu1 dong1", "sentence": "初冬的早晨空气很凉爽", "translation": "The air is cool on early winter mornings.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初创", "reading": "chu1 chuang4", "sentence": "这是一家很有潜力的初创公司", "translation": "This is a startup company with great potential.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初夏", "reading": "chu1 xia4", "sentence": "初夏的公园里开满了鲜花", "translation": "The park is full of flowers in early summer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初夜", "reading": "chu1 ye4", "sentence": "初夜的星空显得格外宁静", "translation": "The starry sky in the early evening looks exceptionally peaceful.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初始", "reading": "chu1 shi3", "sentence": "我们需要恢复系统的初始设置", "translation": "We need to restore the system to its initial settings.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初婚", "reading": "chu1 hun1", "sentence": "现在的年轻人初婚年龄推迟了", "translation": "The age of first marriage for young people today has been delayed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初审", "reading": "chu1 shen3", "sentence": "这个案件已经进入初审阶段", "translation": "This case has entered the preliminary trial stage.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初小", "reading": "chu1 xiao3", "sentence": "他在当地的一所初小读书", "translation": "He is studying at a local lower elementary school.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初年", "reading": "chu1 nian2", "sentence": "他在建国初年去了北京。", "translation": "He went to Beijing in the early years of the founding of the country.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初战", "reading": "chu1 zhan4", "sentence": "这是他们战争中的初战。", "translation": "This was the first battle of their war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初探", "reading": "chu1 tan4", "sentence": "我们对这个市场进行了初探。", "translation": "We conducted an exploratory foray into this market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初文", "reading": "chu1 wen2", "sentence": "这个字在古代有初文。", "translation": "This character has an archaic form.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初更", "reading": "chu1 geng1", "sentence": "现在已经是初更时分了。", "translation": "It is already the first night watch period now.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初潮", "reading": "chu1 chao2", "sentence": "少女在初潮后会感到不安。", "translation": "A young girl may feel anxious after her menarche.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初犯", "reading": "chu1 fan4", "sentence": "法官对初犯给予了宽大处理。", "translation": "The judge gave a lenient sentence to the first offender.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初秋", "reading": "chu1 qiu1", "sentence": "初秋的早晨天气很凉爽。", "translation": "The mornings in early autumn are very cool.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初稿", "reading": "chu1 gao3", "sentence": "我已经写完了论文的初稿。", "translation": "I have finished the first draft of the thesis.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初等", "reading": "chu1 deng3", "sentence": "这是一本初等数学教材。", "translation": "This is an elementary mathematics textbook.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初级", "reading": "chu1 ji2", "sentence": "我正在学习初级汉语课程。", "translation": "I am studying a junior Chinese course.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初经", "reading": "chu1 jing1", "sentence": "很多女孩在青春期迎来初经。", "translation": "Many girls experience their first menstrual period during puberty.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初声", "reading": "chu1 sheng1", "sentence": "韩语发音需注意初声。", "translation": "You need to pay attention to the initial consonant in Korean pronunciation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初叶", "reading": "chu1 ye4", "sentence": "世纪初叶发生了许多大事。", "translation": "Many important events happened in the early part of the century.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初设", "reading": "chu1 she4", "sentence": "这所学校是初设于战后。", "translation": "This school was first founded after the war.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初试", "reading": "chu1 shi4", "sentence": "他顺利通过了面试的初试。", "translation": "He successfully passed the preliminary round of the interview.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初识", "reading": "chu1 shi2", "sentence": "我们在这里初识于春天。", "translation": "We first met here in the spring.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初赛", "reading": "chu1 sai4", "sentence": "他参加了这次比赛的初赛。", "translation": "He participated in the preliminary contest of this competition.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初选", "reading": "chu1 xuan3", "sentence": "初选的结果很快就会公布。", "translation": "The results of the primary election will be announced soon.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "初露", "reading": "chu1 lu4", "sentence": "这位画家已初露艺术才华。", "translation": "This painter has already shown the first signs of artistic talent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判令", "reading": "pan4 ling4", "sentence": "法院下达了停止施工的判令。", "translation": "The court issued a decree to stop construction.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判例", "reading": "pan4 li4", "sentence": "这个案子没有类似的判例。", "translation": "There is no similar judicial precedent for this case.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判刑", "reading": "pan4 xing2", "sentence": "法官对他做出了严厉判刑。", "translation": "The judge gave him a severe prison sentence.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判别", "reading": "pan4 bie2", "sentence": "我们要学会判别是非对错。", "translation": "We must learn to differentiate between right and wrong.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判官", "reading": "pan4 guan1", "sentence": "故事里的判官非常公正。", "translation": "The magistrate in the story is very fair.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判据", "reading": "pan4 ju4", "sentence": "这是衡量成功的唯一判据", "translation": "This is the only criterion for measuring success.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判明", "reading": "pan4 ming2", "sentence": "我们需要尽快判明事情真相", "translation": "We need to distinguish the truth of the matter as soon as possible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判然", "reading": "pan4 ran2", "sentence": "两者的差别判然可见", "translation": "The difference between the two is markedly visible.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判罚", "reading": "pan4 fa2", "sentence": "裁判因犯规对他进行判罚", "translation": "The referee penalized him for a foul.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判袂", "reading": "pan4 mei4", "sentence": "他们相约在此判袂而去", "translation": "They agreed to part ways here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判读", "reading": "pan4 du2", "sentence": "医生正在认真判读报告", "translation": "The doctor is carefully interpreting the report.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "判赔", "reading": "pan4 pei2", "sentence": "法院判赔受害者十万元", "translation": "The court sentenced them to pay one hundred thousand yuan in compensation.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别传", "reading": "bie2 zhuan4", "sentence": "这是关于他的历史别传", "translation": "This is a supplementary biography about him.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别克", "reading": "Bie2 ke4", "sentence": "他刚刚买了一辆别克", "translation": "He just bought a Buick.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别名", "reading": "bie2 ming2", "sentence": "他有很多不同的别名", "translation": "He has many different aliases.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别墅", "reading": "bie2 shu4", "sentence": "他们在海边买了一栋别墅", "translation": "They bought a villa by the sea.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别子", "reading": "bie2 zi5", "sentence": "请把箱子上的别子扣好", "translation": "Please fasten the hasp on the box.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别有", "reading": "bie2 you3", "sentence": "这个设计别有深意", "translation": "This design has a deeper meaning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别无", "reading": "bie2 wu2", "sentence": "此事别无选择", "translation": "There is no other choice in this matter.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别称", "reading": "bie2 cheng1", "sentence": "这是该城市的别称", "translation": "This is another name for the city.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别筵", "reading": "bie2 yan2", "sentence": "大家在别筵上依依不舍", "translation": "Everyone was reluctant to leave at the farewell banquet.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别绪", "reading": "bie2 xu4", "sentence": "离别时他心中充满别绪", "translation": "He was full of emotions at the time of parting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别致", "reading": "bie2 zhi4", "sentence": "这件衣服的设计很别致", "translation": "The design of this piece of clothing is unique.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别脸", "reading": "bie2 lian3", "sentence": "他生气地别脸不理我", "translation": "He turned his face away in anger and ignored me.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别庄", "reading": "bie2 zhuang1", "sentence": "他在郊区有一座别庄", "translation": "He has a villa in the suburbs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别号", "reading": "bie2 hao4", "sentence": "那位诗人有很多别号", "translation": "That poet has many aliases.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别论", "reading": "bie2 lun4", "sentence": "那是另一回事，另当别论", "translation": "That is a different matter and should be discussed separately.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别针", "reading": "bie2 zhen1", "sentence": "我用别针固定了衣角", "translation": "I used a pin to fasten the corner of my clothes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "别离", "reading": "bie2 li2", "sentence": "他们终于到了别离时刻", "translation": "They finally reached the moment of parting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨冰", "reading": "bao4 bing1", "sentence": "夏天吃一碗刨冰很凉快", "translation": "Eating a bowl of shaved ice in summer is very refreshing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨刀", "reading": "bao4 dao1", "sentence": "这把刨刀用起来很顺手", "translation": "This planing tool is very handy to use.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨子", "reading": "bao4 zi5", "sentence": "木工师傅正在使用刨子", "translation": "The carpenter is using a plane.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨工", "reading": "bao4 gong1", "sentence": "他从事刨工已经十年了", "translation": "He has been doing planing work for ten years.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨床", "reading": "bao4 chuang2", "sentence": "工厂里新买了一台刨床", "translation": "The factory bought a new planer.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨根", "reading": "pao2 gen1", "sentence": "做人做事不要总喜欢刨根", "translation": "Do not always like to get to the bottom of things in life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨程", "reading": "bao4 cheng2", "sentence": "机器的刨程可以自动调节", "translation": "The planing length of the machine can be adjusted automatically.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨花", "reading": "bao4 hua1", "sentence": "地上到处都是木头刨花", "translation": "There are wood shavings everywhere on the floor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刨齿", "reading": "bao4 chi3", "sentence": "这项工艺需要进行刨齿", "translation": "This process requires gear-shaping.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利事", "reading": "li4 shi4", "sentence": "过年时长辈会给小孩子利事", "translation": "During the Chinese New Year, elders give red envelopes to children.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利他", "reading": "li4 ta1", "sentence": "我们要学习利他的精神", "translation": "We should learn the spirit of benefiting others.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利刀", "reading": "li4 dao1", "sentence": "切菜一定要用一把利刀", "translation": "You must use a sharp knife to cut vegetables.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利刃", "reading": "li4 ren4", "sentence": "他手里拿着一把利刃", "translation": "He is holding a sharp blade in his hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利好", "reading": "li4 hao3", "sentence": "这是一个股市的利好消息", "translation": "This is good news for the stock market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利害", "reading": "li4 hai4", "sentence": "我们要认真分析其中的利害", "translation": "We must carefully analyze the pros and cons.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利尿", "reading": "li4 niao4", "sentence": "这种草药具有利尿的效果", "translation": "This herb has a diuretic effect.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利己", "reading": "li4 ji3", "sentence": "做人不能只考虑个人利己", "translation": "One should not only consider personal profit.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利市", "reading": "li4 shi4", "sentence": "今年商店的利市很不错", "translation": "The business profit of the store this year is quite good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利弊", "reading": "li4 bi4", "sentence": "我们讨论了这项决策的利弊", "translation": "We discussed the pros and cons of this decision.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利得", "reading": "li4 de2", "sentence": "公司今年获得了很大利得", "translation": "The company made a large profit this year.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利欲", "reading": "li4 yu4", "sentence": "他被贪婪的利欲蒙蔽了双眼", "translation": "He was blinded by cupidity.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利手", "reading": "li4 shou3", "sentence": "右手通常是人的利手", "translation": "The right hand is usually the dominant hand.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利于", "reading": "li4 yu2", "sentence": "多吃蔬菜利于身体健康", "translation": "Eating more vegetables is beneficial to health.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利权", "reading": "li4 quan2", "sentence": "国家要保护企业的利权", "translation": "The state must protect the economic rights of enterprises.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利民", "reading": "li4 min2", "sentence": "政府推行了许多利民政策", "translation": "The government has implemented many policies that benefit the people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利爪", "reading": "li4 zhao3", "sentence": "那只老鹰有锋利的利爪", "translation": "That eagle has sharp claws.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利禄", "reading": "li4 lu4", "sentence": "他并不贪图世间的利禄", "translation": "He does not covet worldly wealth and rank.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利空", "reading": "li4 kong1", "sentence": "这条消息引发了市场利空", "translation": "This news triggered bearish sentiment in the market.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利索", "reading": "li4 suo5", "sentence": "他做事向来都很利索", "translation": "He has always been nimble in doing things.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利兹", "reading": "Li4 zi1", "sentence": "我想去英国利兹旅游", "translation": "I want to travel to Leeds, England.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利落", "reading": "li4 luo5", "sentence": "她动作利落爬上了树", "translation": "She climbed the tree with agile movements.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利诱", "reading": "li4 you4", "sentence": "他试图用钱财来利诱我", "translation": "He tried to lure me with money.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利贴", "reading": "Li4 tie1", "sentence": "请在文件上贴个利贴", "translation": "Please put a Post-it note on the document.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利钱", "reading": "li4 qian2", "sentence": "这笔贷款的利钱很高", "translation": "The interest on this loan is very high.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "利马", "reading": "Li4 ma3", "sentence": "利马是秘鲁的首都", "translation": "Lima is the capital of Peru.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删剪", "reading": "shan1 jian3", "sentence": "这部电影删剪了很多镜头", "translation": "This movie had many scenes cut out.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删帖", "reading": "shan1 tie3", "sentence": "版主把那条广告删帖了", "translation": "The moderator deleted that advertisement post.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删改", "reading": "shan1 gai3", "sentence": "这篇文章还需要仔细删改", "translation": "This article still needs careful editing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删汰", "reading": "shan1 tai4", "sentence": "我们要删汰掉冗余信息", "translation": "We need to eliminate redundant information.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删减", "reading": "shan1 jian3", "sentence": "这份报告需要删减内容", "translation": "This report needs to have its content abridged.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "删节", "reading": "shan1 jie2", "sentence": "这本书被删节了很多章节", "translation": "Many chapters were abridged from this book.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮伤", "reading": "gua1 shang1", "sentence": "我的手臂不小心被刮伤了", "translation": "My arm was accidentally scratched.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮刀", "reading": "gua1 dao1", "sentence": "请用刮刀把奶油抹平", "translation": "Please use a spatula to smooth out the cream.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮勺", "reading": "gua1 shao2", "sentence": "我买了一个新的刮勺", "translation": "I bought a new scraper.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮擦", "reading": "gua1 ca1", "sentence": "车身在墙上刮擦了一下", "translation": "The car body scraped against the wall.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮痧", "reading": "gua1 sha1", "sentence": "爷爷正在帮我做刮痧", "translation": "Grandpa is helping me with gua sha.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮蹭", "reading": "gua1 ceng4", "sentence": "两辆车在路口刮蹭了", "translation": "Two cars sideswiped each other at the intersection.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刮铲", "reading": "gua1 chan3", "sentence": "他用刮铲清理了墙皮", "translation": "He used a scraper to clean off the wall paint.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到了", "reading": "dao4 liao3", "sentence": "我们到了目的地了", "translation": "We have arrived at our destination at last.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到付", "reading": "dao4 fu4", "sentence": "这个包裹可以选到付", "translation": "This package can be sent COD.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到任", "reading": "dao4 ren4", "sentence": "新任经理明天正式到任", "translation": "The new manager will officially take office tomorrow.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到场", "reading": "dao4 chang3", "sentence": "很遗憾你没能到场参加聚会", "translation": "It is a pity that you could not show up for the party.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到得", "reading": "dao4 de2", "sentence": "我们终于到得山顶了", "translation": "We finally arrived at the top of the mountain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到时", "reading": "dao4 shi2", "sentence": "到时我会给你打电话", "translation": "I will call you at that time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到此", "reading": "dao4 ci3", "sentence": "我们今天的工作就到此为止", "translation": "Our work for today ends here.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到货", "reading": "dao4 huo4", "sentence": "新买的图书已经到货了", "translation": "The newly purchased books have arrived.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到账", "reading": "dao4 zhang4", "sentence": "工资已经准时到账了", "translation": "The salary has arrived in the account on time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到点", "reading": "dao4 dian3", "sentence": "大家快走吧到点了", "translation": "Let's go, it is time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "到齐", "reading": "dao4 qi2", "sentence": "所有人都到齐了我们可以开会", "translation": "Everyone is present, we can start the meeting.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制伏", "reading": "zhi4 fu2", "sentence": "警察很快将歹徒制伏了", "translation": "The police quickly overpowered the criminal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制动", "reading": "zhi4 dong4", "sentence": "开车时要及时使用制动", "translation": "You should use the brakes in time when driving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制导", "reading": "zhi4 dao3", "sentence": "这枚导弹采用了激光制导", "translation": "This missile uses laser guidance.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制式", "reading": "zhi4 shi4", "sentence": "这把枪采用了制式装备", "translation": "This gun uses standardized equipment.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制约", "reading": "zhi4 yue1", "sentence": "资源匮乏制约了经济发展", "translation": "Lack of resources restricts economic development.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制衡", "reading": "zhi4 heng2", "sentence": "权力必须相互制衡", "translation": "Power must be checked and balanced.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制订", "reading": "zhi4 ding4", "sentence": "我们要制订新的学习计划", "translation": "We need to work out a new study plan.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制钱", "reading": "zhi4 qian2", "sentence": "博物馆里陈列着古代制钱", "translation": "The museum displays ancient copper coins.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "制霸", "reading": "zhi4 ba4", "sentence": "他在那个领域长期制霸", "translation": "He has reigned supreme in that field for a long time.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷入", "reading": "shua1 ru4", "sentence": "你需要重新刷入固件", "translation": "You need to flash the firmware again.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷剧", "reading": "shua1 ju4", "sentence": "周末我喜欢在家刷剧", "translation": "I like to binge-watch TV shows at home on weekends.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷单", "reading": "shua1 dan1", "sentence": "刷单是违规的商业行为", "translation": "Gaming transactions is a prohibited commercial behavior.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷夜", "reading": "shua1 ye4", "sentence": "为了考试他不得不刷夜", "translation": "He had to pull an all-nighter for the exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷子", "reading": "shua1 zi5", "sentence": "请用这把刷子清理灰尘", "translation": "Please use this brush to clean the dust.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷屏", "reading": "shua1 ping2", "sentence": "别在群里乱发消息刷屏", "translation": "Don't flood the group chat with messages.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷扣", "reading": "shua1 kou4", "sentence": "他拿起吉他轻轻刷扣。", "translation": "He picked up the guitar and lightly strummed a chord.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷洗", "reading": "shua1 xi3", "sentence": "请把这个碗刷洗干净。", "translation": "Please scrub this bowl clean.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷爆", "reading": "shua1 bao4", "sentence": "他昨天把信用卡刷爆了。", "translation": "He maxed out his credit card yesterday.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷脸", "reading": "shua1 lian3", "sentence": "现在进门可以直接刷脸。", "translation": "You can now enter by scanning your face.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷头", "reading": "shua1 tou2", "sentence": "这个牙刷头该换新的了。", "translation": "This toothbrush head needs to be replaced.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刷题", "reading": "shua1 ti2", "sentence": "为了考试他每天都在刷题。", "translation": "He is doing practice questions every day for the exam.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "券商", "reading": "quan4 shang1", "sentence": "他在这家券商工作多年。", "translation": "He has worked at this securities firm for many years.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺中", "reading": "ci4 zhong4", "sentence": "那一箭正好刺中靶心。", "translation": "That arrow hit the bullseye perfectly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺伤", "reading": "ci4 shang1", "sentence": "我不小心被刀子刺伤了。", "translation": "I accidentally got stabbed by a knife.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺儿", "reading": "ci4 r5", "sentence": "玫瑰花上有很多小刺儿。", "translation": "There are many small thorns on the rose.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺史", "reading": "ci4 shi3", "sentence": "这位刺史深受百姓爱戴。", "translation": "This provincial governor was deeply loved by the people.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺字", "reading": "ci4 zi4", "sentence": "古代犯人常被刺字。", "translation": "In ancient times, criminals were often tattooed.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺客", "reading": "ci4 ke4", "sentence": "传说刺客在夜里行动。", "translation": "Legend says the assassin acts at night.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺戳", "reading": "ci4 chuo1", "sentence": "不要用尖东西刺戳气球。", "translation": "Do not stab the balloon with sharp objects.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺探", "reading": "ci4 tan4", "sentence": "他总是试图刺探我的隐私。", "translation": "He is always trying to pry into my privacy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺柏", "reading": "ci4 bai3", "sentence": "院子里种着一棵刺柏。", "translation": "There is a Chinese juniper planted in the yard.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺桐", "reading": "ci4 tong2", "sentence": "公园里开满了红色的刺桐。", "translation": "The park is full of blooming red Indian coral trees.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺梨", "reading": "ci4 li2", "sentence": "刺梨含有丰富的维生素。", "translation": "Chestnut rose fruit is rich in vitamins.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺棱", "reading": "ci1 leng1", "sentence": "小老鼠刺棱一下跑了。", "translation": "The little mouse scurried away quickly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺槐", "reading": "ci4 huai2", "sentence": "路边长着许多高大的刺槐。", "translation": "There are many tall false acacia trees growing by the road.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺死", "reading": "ci4 si3", "sentence": "他持刀将敌人刺死。", "translation": "He stabbed the enemy to death with a knife.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺痛", "reading": "ci4 tong4", "sentence": "伤口处感到一阵阵刺痛。", "translation": "The wound felt a sharp stinging pain.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺目", "reading": "ci4 mu4", "sentence": "这件衣服的颜色太刺目了。", "translation": "The color of this clothes is too gaudy.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺眼", "reading": "ci4 yan3", "sentence": "强烈的阳光非常刺眼。", "translation": "The strong sunlight is very dazzling.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺破", "reading": "ci4 po4", "sentence": "钉子把轮胎刺破了。", "translation": "The nail punctured the tire.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺绣", "reading": "ci4 xiu4", "sentence": "她很喜欢在衣服上刺绣。", "translation": "She likes to embroider on her clothes.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺耳", "reading": "ci4 er3", "sentence": "这声音太刺耳了。", "translation": "This sound is too ear-piercing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺胞", "reading": "ci4 bao1", "sentence": "水母身上长有刺胞。", "translation": "Jellyfish have cnidocytes on their bodies.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺花", "reading": "ci4 hua1", "sentence": "他年轻时在手臂上刺花。", "translation": "He got a tattoo on his arm when he was young.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺苋", "reading": "ci4 xian4", "sentence": "路边长满了刺苋。", "translation": "The roadside is full of prickly amaranth.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刺鼻", "reading": "ci4 bi2", "sentence": "屋子里有一股刺鼻的气味。", "translation": "There is a pungent smell in the room.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻刀", "reading": "ke4 dao1", "sentence": "他用刻刀雕刻木头。", "translation": "He uses a carving knife to carve wood.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻剥", "reading": "ke4 bo1", "sentence": "这种刻剥的行为让人反感。", "translation": "This kind of exploitative behavior is repulsive.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻印", "reading": "ke4 yin4", "sentence": "他去店里刻印。", "translation": "He went to the shop to engrave a seal.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻奇", "reading": "ke4 qi2", "sentence": "这是一种典型的刻奇心理。", "translation": "This is a typical case of kitsch.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻写", "reading": "ke4 xie3", "sentence": "古人在石碑上刻写文字。", "translation": "The ancients inscribed words on stone tablets.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻度", "reading": "ke4 du4", "sentence": "这个杯子上有明显的刻度。", "translation": "There are clear markings on this cup.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻本", "reading": "ke4 ben3", "sentence": "这是一本珍贵的古籍刻本。", "translation": "This is a precious block-printed ancient book.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻毒", "reading": "ke4 du2", "sentence": "她说话总是那么刻毒。", "translation": "She is always so spiteful when she speaks.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻版", "reading": "ke4 ban3", "sentence": "印刷术离不开刻版技术。", "translation": "Printing technology cannot function without block engraving.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻画", "reading": "ke4 hua4", "sentence": "小说把人物刻画得很生动。", "translation": "The novel portrays the characters vividly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻痕", "reading": "ke4 hen2", "sentence": "木门上留下一道深深的刻痕。", "translation": "There is a deep notch left on the wooden door.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻薄", "reading": "ke4 bo2", "sentence": "做人不能太刻薄。", "translation": "One should not be too unkind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "刻骨", "reading": "ke4 gu3", "sentence": "这段经历让他刻骨铭心。", "translation": "This experience is deeply ingrained in his memory.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剁椒", "reading": "duo4 jiao1", "sentence": "剁椒鱼头是一道名菜。", "translation": "Steamed fish head with chopped chili is a famous dish.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剁碎", "reading": "duo4 sui4", "sentence": "请把肉剁碎做成馅儿。", "translation": "Please mince the meat to make filling.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剃刀", "reading": "ti4 dao1", "sentence": "他买了一把新的剃刀。", "translation": "He bought a new razor.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剃度", "reading": "ti4 du4", "sentence": "他决定去寺庙剃度出家。", "translation": "He decided to go to the temple to take the tonsure.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剃头", "reading": "ti4 tou2", "sentence": "他去理发店剃头。", "translation": "He went to the barbershop to have his head shaved.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剃须", "reading": "ti4 xu1", "sentence": "他每天早上都会剃须。", "translation": "He shaves every morning.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "则个", "reading": "ze2 ge4", "sentence": "你且听我道则个", "translation": "Listen to what I have to say.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "则已", "reading": "ze2 yi3", "sentence": "不做则已要做就做好", "translation": "If you are going to do it, do it well; otherwise don't do it at all.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "锉冰", "reading": "cuo4 bing1", "sentence": "夏天吃碗锉冰真凉快", "translation": "Eating a bowl of shaved ice in summer is really refreshing.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "锉尸", "reading": "cuo4 shi1", "sentence": "古代罪行严重者会被锉尸", "translation": "In ancient times, those who committed serious crimes would have their corpses dismembered.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削价", "reading": "xue1 jia4", "sentence": "商店为了促销开始削价", "translation": "The store started cutting prices to promote sales.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削波", "reading": "xue1 bo1", "sentence": "这个音频信号出现了削波", "translation": "This audio signal has clipping.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削球", "reading": "xiao1 qiu2", "sentence": "他在乒乓球比赛中削球", "translation": "He uses a chop shot in the table tennis match.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削瘦", "reading": "xue1 shou4", "sentence": "大病之后他显得很削瘦", "translation": "He looks very thin after the serious illness.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削籍", "reading": "xue1 ji2", "sentence": "皇帝下令将贪官削籍", "translation": "The emperor ordered the corrupt official to be stripped of his status.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削职", "reading": "xue1 zhi2", "sentence": "他因工作失误被削职", "translation": "He was demoted due to his work error.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "削发", "reading": "xue1 fa4", "sentence": "他看破红尘决定削发", "translation": "He saw through the vanity of the world and decided to shave his head.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "克扣", "reading": "ke4 kou4", "sentence": "老板不准克扣员工工资", "translation": "The boss is not allowed to withhold employees' wages.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "克星", "reading": "ke4 xing1", "sentence": "他是那支球队的克星", "translation": "He is the nemesis of that team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "剋架", "reading": "kei1 jia4", "sentence": "他们在大街上打得剋架", "translation": "They were fighting on the street.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前世", "reading": "qian2 shi4", "sentence": "有人相信人有前世", "translation": "Some people believe in previous lives.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前事", "reading": "qian2 shi4", "sentence": "前事不忘后事之师", "translation": "Past experience, if not forgotten, is a guide for the future.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前件", "reading": "qian2 jian4", "sentence": "这个逻辑推理缺少前件", "translation": "This logical inference is missing an antecedent.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前传", "reading": "qian2 chuan2", "sentence": "橄榄球比赛中常见前传", "translation": "Forward passes are common in football games.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前倾", "reading": "qian2 qing1", "sentence": "他身体微微向前倾", "translation": "His body leaned slightly forward.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前儿", "reading": "qian2 r5", "sentence": "我前儿才见过他", "translation": "I just saw him the day before yesterday.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前冠", "reading": "qian2 guan1", "sentence": "请为这篇文章写个前冠", "translation": "Please write a heading for this article.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前列", "reading": "qian2 lie4", "sentence": "他走在队伍的前列", "translation": "He walked at the very front of the team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前叉", "reading": "qian2 cha1", "sentence": "这辆车的自行车前叉坏了", "translation": "The bicycle fork on this bike is broken.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前司", "reading": "qian2 si1", "sentence": "我在前司学会了很多实用技能。", "translation": "I learned a lot of practical skills at my previous company.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前咽", "reading": "qian2 yan1", "sentence": "扁形动物的身体前端有前咽结构。", "translation": "Platyhelminthes have a prepharynx structure at the front of their body.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前哨", "reading": "qian2 shao4", "sentence": "战士们在山上设立了一个前哨。", "translation": "The soldiers established an outpost on the mountain.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前因", "reading": "qian2 yin1", "sentence": "警察正在调查这件案的前因后果。", "translation": "The police are investigating the antecedents and consequences of this case.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前尘", "reading": "qian2 chen2", "sentence": "老人常常回忆起过去的前尘往事。", "translation": "The old man often recalls past events.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前夜", "reading": "qian2 ye4", "sentence": "考试前夜他紧张得睡不着觉。", "translation": "On the eve of the exam, he was too nervous to sleep.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前奏", "reading": "qian2 zou4", "sentence": "这首歌曲的前奏非常动听。", "translation": "The prelude to this song is very pleasant to listen to.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前嫌", "reading": "qian2 xian2", "sentence": "他们冰释前嫌重修旧好。", "translation": "They let go of former grudges and patched things up.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前导", "reading": "qian2 dao3", "sentence": "警车在前导引路确保安全。", "translation": "Police cars preceded the way to ensure safety.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前年", "reading": "qian2 nian2", "sentence": "我们前年去过一次北京旅游。", "translation": "We traveled to Beijing the year before last.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前庭", "reading": "qian2 ting2", "sentence": "房子的前庭里种满了鲜花。", "translation": "The front courtyard of the house is full of flowers.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前廊", "reading": "qian2 lang2", "sentence": "爷爷坐在前廊上晒太阳喝茶。", "translation": "Grandpa sits on the front porch sunbathing and drinking tea.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前厅", "reading": "qian2 ting1", "sentence": "请客人在酒店的前厅稍作休息。", "translation": "Guests are requested to rest briefly in the hotel anteroom.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前情", "reading": "qian2 qing2", "sentence": "电视剧开头回顾了上一集的前情。", "translation": "The beginning of the TV drama reviewed the previous recap.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前戏", "reading": "qian2 xi4", "sentence": "充足的前戏能让双方体验更好。", "translation": "Sufficient foreplay can give both parties a better experience.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前提", "reading": "qian2 ti2", "sentence": "互相信任是合作成功的前提。", "translation": "Mutual trust is the premise of successful cooperation.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前揭", "reading": "qian2 jie1", "sentence": "具体数据请参见前揭表格。", "translation": "For specific data, please refer to the table named above.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前摆", "reading": "qian2 bai3", "sentence": "我前摆去过他家里玩。", "translation": "I went to hang out at his house last time.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前摄", "reading": "qian2 she4", "sentence": "这款手机的前摄拍照很清晰。", "translation": "The front camera of this phone takes very clear photos.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前敌", "reading": "qian2 di2", "sentence": "指挥官亲赴前敌指挥战斗。", "translation": "The commander personally went to the front line to command the battle.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前文", "reading": "qian2 wen2", "sentence": "前文已经详细解释了这个概念。", "translation": "The preceding text has already explained this concept in detail.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前日", "reading": "qian2 ri4", "sentence": "我前日刚刚收到这封邮件。", "translation": "I received this email just the day before yesterday.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前晌", "reading": "qian2 shang3", "sentence": "我前晌去集市买了一些新鲜蔬菜。", "translation": "I went to the market in the morning to buy some fresh vegetables.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前朝", "reading": "qian2 chao2", "sentence": "这座古建筑建于前朝时期。", "translation": "This ancient building was built during the previous dynasty.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前期", "reading": "qian2 qi1", "sentence": "项目前期需要做大量的准备工作。", "translation": "The early stage of the project requires a lot of preparation work.", "model": "gemini-3.6-flash", "added": "2026-10-27"}
+{"word": "前桅", "reading": "qian2 wei2", "sentence": "这艘船的前桅被大风吹断了", "translation": "The ship's foremast was broken by the strong wind.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前桥", "reading": "Qian2 qiao2", "sentence": "他下周要去日本的前桥出差", "translation": "He is going to Maebashi, Japan for a business trip next week.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前此", "reading": "qian2 ci3", "sentence": "前此我从未见过这种水果", "translation": "I had never seen this kind of fruit before today.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前段", "reading": "qian2 duan4", "sentence": "这条路的前段路况不太好", "translation": "The road condition of the front part of this road is not very good.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前沿", "reading": "qian2 yan2", "sentence": "战士们正在向敌人的前沿推进", "translation": "The soldiers are advancing toward the enemy's forward position.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前凉", "reading": "Qian2 Liang2", "sentence": "前凉是五胡十六国时期的政权", "translation": "Former Liang was a regime during the Sixteen Kingdoms period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前汉", "reading": "Qian2 Han4", "sentence": "前汉的历史记载非常丰富", "translation": "The historical records of the Former Han dynasty are very rich.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前灯", "reading": "qian2 deng1", "sentence": "这辆车的左前灯坏了", "translation": "The left headlight of this car is broken.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前燕", "reading": "Qian2 Yan1", "sentence": "前燕在十六国时期曾经很强大", "translation": "Former Yan was once very powerful during the Sixteen Kingdoms period.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前生", "reading": "qian2 sheng1", "sentence": "有些人相信人是有前生的", "translation": "Some people believe that humans have a previous life.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前田", "reading": "Qian2 tian2", "sentence": "前田先生是我的日语老师", "translation": "Mr. Maeda is my Japanese teacher.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前瞻", "reading": "qian2 zhan1", "sentence": "我们需要具有前瞻的眼光", "translation": "We need to have a forward-looking perspective.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前秦", "reading": "Qian2 Qin2", "sentence": "前秦曾经统一过中国北方", "translation": "Former Qin once unified northern China.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前端", "reading": "qian2 duan1", "sentence": "请站在队伍的前端排队", "translation": "Please stand at the front of the line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前线", "reading": "qian2 xian4", "sentence": "士兵们勇敢地守卫着前线", "translation": "The soldiers are bravely guarding the front line.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前翅", "reading": "qian2 chi4", "sentence": "这只蝴蝶的前翅颜色很鲜艳", "translation": "The front wings of this butterfly are brightly colored.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前肢", "reading": "qian2 zhi1", "sentence": "猫的前肢比后肢短一些", "translation": "A cat's forelimbs are shorter than its hind limbs.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前胃", "reading": "qian2 wei4", "sentence": "昆虫的前胃主要用于磨碎食物", "translation": "The proventriculus of an insect is mainly used to grind food.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前胸", "reading": "qian2 xiong1", "sentence": "他感到前胸有些隐隐作痛", "translation": "He felt a dull pain in his chest.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前腰", "reading": "qian2 yao1", "sentence": "他在球队里担任前腰的位置", "translation": "He plays the position of attacking midfielder in the team.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前脚", "reading": "qian2 jiao3", "sentence": "前脚刚走后脚就下雨了", "translation": "It started raining just after he left.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前腿", "reading": "qian2 tui3", "sentence": "小狗的前腿正在轻微发抖", "translation": "The puppy's forelegs are trembling slightly.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前舱", "reading": "qian2 cang1", "sentence": "货物都装在船的前舱里", "translation": "The cargo is all loaded in the ship's fore hold.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前茅", "reading": "qian2 mao2", "sentence": "我们的队伍一直走在前茅", "translation": "Our team has always been in the lead.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
+{"word": "前菜", "reading": "qian2 cai4", "sentence": "我们先点几道前菜吧", "translation": "Let's order some appetizers first.", "model": "gemini-3.1-flash-lite", "added": "2026-10-27"}
