@@ -18642,3 +18642,832 @@
 {"word": "변혁기", "reading": "변ː혁끼", "sentence": "지금은 우리 사회의 중요한 변혁기예요.", "translation": "This is an important period of change for our society.", "model": "gemini-3.1-flash-lite", "added": "2026-11-06"}
 {"word": "변호인", "reading": "변ː호인", "sentence": "변호인이 피고인을 위해 최선을 다해요.", "translation": "The defense counsel is doing their best for the defendant.", "model": "gemini-3.1-flash-lite", "added": "2026-11-06"}
 {"word": "변화율", "reading": "변ː화율", "sentence": "물가 변화율이 생각보다 높아요.", "translation": "The rate of price change is higher than I thought.", "model": "gemini-3.1-flash-lite", "added": "2026-11-06"}
+{"word": "떠내다", "reading": "", "sentence": "국물 위에 뜬 기름을 떠내세요.", "translation": "Scoop off the oil floating on top of the soup.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "맞히다", "reading": "마치다", "sentence": "선생님이 정답을 맞히라고 했어요", "translation": "The teacher told us to give the correct answer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "뭐하다", "reading": "뭐ː하다", "sentence": "그와 단둘이 있으니 뭐하다.", "translation": "It is awkward being alone with him.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "미쁘다", "reading": "", "sentence": "그 사람은 참 미쁘네요.", "translation": "That person is truly trustworthy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "박차다", "reading": "", "sentence": "말이 땅을 박차고 달립니다.", "translation": "The horse kicks the ground and runs.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "번듯이", "reading": "번드시", "sentence": "그림이 벽에 번듯이 걸려 있어요.", "translation": "The picture hangs nicely and straight on the wall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "번하다", "reading": "번ː하다", "sentence": "달빛에 방 안이 번하게 보여요.", "translation": "The room looks dimly lit in the moonlight.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "벌주다", "reading": "", "sentence": "선생님은 지각한 학생을 벌주셨어요.", "translation": "The teacher punished the student who was late.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별나다", "reading": "별라다", "sentence": "그 친구는 옷을 별나게 입어요.", "translation": "That friend dresses in a peculiar way.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별달리", "reading": "", "sentence": "오늘은 별달리 할 일이 없어요.", "translation": "I have nothing particularly to do today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별동대", "reading": "별똥대", "sentence": "별동대가 밤에 작전을 시작했어요.", "translation": "The special operation troop started the operation at night.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별똥별", "reading": "별ː똥별", "sentence": "밤하늘에서 별똥별을 보았어요.", "translation": "I saw a shooting star in the night sky.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별말씀", "reading": "", "sentence": "그런 말씀은 별말씀이세요.", "translation": "Please do not mention it.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별문제", "reading": "", "sentence": "지금은 그것이 별문제가 아니에요.", "translation": "That is not an irrelevant problem right now.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별생각", "reading": "", "sentence": "그것에 대해 별생각은 없어요.", "translation": "I do not have any particular thoughts about that.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별세계", "reading": "", "sentence": "이곳은 마치 별세계 같아요.", "translation": "This place is like another world.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별소리", "reading": "", "sentence": "남들이 하는 별소리에 신경 쓰지 마세요.", "translation": "Do not pay attention to what other people say.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별안간", "reading": "", "sentence": "별안간 비가 내리기 시작했어요.", "translation": "Suddenly, rain started to fall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별의별", "reading": "벼릐별", "sentence": "시장에는 별의별 물건이 많아요.", "translation": "There are assorted goods in the market.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별자리", "reading": "별ː자리", "sentence": "밤하늘에서 밝은 별자리를 찾았어요.", "translation": "I found a bright constellation in the night sky.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "별천지", "reading": "", "sentence": "시골 풍경은 완전히 별천지였어요.", "translation": "The rural scenery was completely another world.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병간호", "reading": "병ː간호", "sentence": "엄마가 아픈 동생을 병간호했어요.", "translation": "Mom nursed my sick younger sibling.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병구완", "reading": "병ː구완", "sentence": "할머니의 병구완을 위해 휴가를 냈어요.", "translation": "I took a leave to nurse my grandmother.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병들다", "reading": "병ː들다", "sentence": "나이가 들면서 몸이 병들었어요.", "translation": "My body became sick as I aged.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병따개", "reading": "", "sentence": "병따개가 어디에 있는지 아세요?", "translation": "Do you know where the bottle opener is?", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병뚜껑", "reading": "", "sentence": "음료수 병뚜껑을 단단히 닫으세요.", "translation": "Close the bottle cap tightly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병리학", "reading": "병ː니학", "sentence": "대학교에서 병리학을 공부해요.", "translation": "I study pathology at university.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병마개", "reading": "", "sentence": "병마개를 단단히 닫아주세요.", "translation": "Please close the bottle stopper tightly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병맥주", "reading": "병맥쭈", "sentence": "시원한 병맥주를 한 잔 마셔요.", "translation": "I drink a glass of cold bottled beer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병아리", "reading": "", "sentence": "노란 병아리가 아주 귀여워요.", "translation": "The yellow chick is very cute.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병약자", "reading": "병ː약짜", "sentence": "병약자에게는 따뜻한 배려가 필요해요.", "translation": "An infirm person needs warm consideration.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병원균", "reading": "병ː원균", "sentence": "손을 씻어서 병원균을 없애요.", "translation": "Wash your hands to eliminate germs.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병원장", "reading": "병ː원장", "sentence": "새로운 병원장님이 부임하셨어요.", "translation": "The new head of the hospital has taken office.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병원체", "reading": "병ː원체", "sentence": "이 병원체는 전염성이 매우 강해요.", "translation": "This pathogen is highly contagious.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병조림", "reading": "", "sentence": "복숭아 병조림을 맛있게 먹어요.", "translation": "I enjoy eating canned peaches.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병충해", "reading": "병ː충해", "sentence": "농부가 병충해를 예방하고 있어요.", "translation": "The farmer is preventing damage from disease and pests.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "병치레", "reading": "병ː치레", "sentence": "올해는 자주 병치레를 했어요.", "translation": "I suffered from bouts of illness often this year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보건소", "reading": "보ː건소", "sentence": "가까운 보건소에서 예방접종을 받아요.", "translation": "I get vaccinated at the nearby public health center.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보고서", "reading": "보ː고서", "sentence": "오후까지 보고서를 작성해야 해요.", "translation": "I need to write the report by this afternoon.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보관료", "reading": "보ː관뇨", "sentence": "창고에 맡긴 물건의 보관료를 냈어요.", "translation": "I paid the storage fee for the items left in the warehouse.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보관소", "reading": "보ː관소", "sentence": "역 안의 보관소에 가방을 맡겼어요.", "translation": "I left my bag at the checkroom inside the station.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보관함", "reading": "보ː관함", "sentence": "지하철역 물품보관함에 짐을 넣어요.", "translation": "I put my luggage in the subway station storage box.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보균자", "reading": "보ː균자", "sentence": "보균자는 특별한 관리가 필요해요.", "translation": "A carrier requires special management.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보급소", "reading": "보ː급쏘", "sentence": "신문 보급소에서 아르바이트를 해요.", "translation": "I work part-time at the newspaper distributor.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보너스", "reading": "", "sentence": "회사에서 여름 보너스를 받았어요.", "translation": "I received a summer bonus from the company.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보도진", "reading": "보ː도진", "sentence": "많은 보도진이 현장을 취재하고 있어요.", "translation": "Many press members are covering the scene.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보듬다", "reading": "보듬따", "sentence": "엄마가 아이를 따뜻하게 보듬어줘요.", "translation": "The mother hugs her child warmly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보따리", "reading": "", "sentence": "할머니께서 보따리를 풀고 계셔요.", "translation": "Grandmother is unpacking her bundle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보랏빛", "reading": "보라삗", "sentence": "저녁 하늘이 예쁜 보랏빛이에요.", "translation": "The evening sky is a pretty violet color.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보름날", "reading": "", "sentence": "보름날에 부러진 달을 보았어요.", "translation": "I saw the bright moon on the fifteenth day of the lunar month.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보름달", "reading": "보름딸", "sentence": "오늘 밤에는 보름달이 아주 밝아요.", "translation": "The full moon is very bright tonight.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보리밥", "reading": "", "sentence": "건강을 위해서 보리밥을 먹어요.", "translation": "I eat barley rice for my health.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보리밭", "reading": "보리받", "sentence": "푸른 보리밭이 바람에 흔들려요.", "translation": "The green barley field sways in the wind.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보리쌀", "reading": "", "sentence": "어머니께서 보리쌀을 물에 씻으셔요.", "translation": "My mother washes the polished barley in water.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보리차", "reading": "", "sentence": "시원한 보리차를 한 잔 주세요.", "translation": "Please give me a glass of cold barley tea.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보물섬", "reading": "보ː물썸", "sentence": "우리는 보물섬 책을 읽었어요.", "translation": "We read the Treasure Island book.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보살핌", "reading": "", "sentence": "따뜻한 보살핌 덕분에 다 나았어요.", "translation": "Thanks to the warm care, I recovered completely.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보상금", "reading": "보ː상금", "sentence": "정부에서 피해자에게 보상금을 줬어요.", "translation": "The government gave compensation money to the victims.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보상액", "reading": "보ː상액", "sentence": "정확한 보상액을 아직 몰라요.", "translation": "I do not know the exact amount of compensation yet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보석금", "reading": "보ː석끔", "sentence": "지인은 보석금을 내고 풀려났어요.", "translation": "My acquaintance paid bail money and was released.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보석상", "reading": "보ː석쌍", "sentence": "어머니가 보석상에서 반지를 사셨어요.", "translation": "My mother bought a ring at the jeweler.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보수성", "reading": "보ː수썽", "sentence": "그 사회에는 강한 보수성이 있어요.", "translation": "There is a strong conservatism in that society.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보수적", "reading": "보ː수적", "sentence": "아버지는 생각이 아주 보수적이에요.", "translation": "My father is very conservative in his thinking.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보수파", "reading": "보ː수파", "sentence": "보수파가 이번 선거에서 이겼어요.", "translation": "The conservatives won this election.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보슬비", "reading": "", "sentence": "창밖으로 보슬비가 조용히 내려요.", "translation": "A drizzle is falling quietly outside the window.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보시기", "reading": "", "sentence": "작은 보시기어에 반찬을 담았어요.", "translation": "I put side dishes in a small small dish.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보신각", "reading": "보ː신각", "sentence": "새해에 보신각 종을 울려요.", "translation": "They ring the Bosingak Pavilion bell on New Year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보신탕", "reading": "보ː신탕", "sentence": "어떤 사람들은 복날에 보신탕을 먹어요.", "translation": "Some people eat bosintang on the hottest days of summer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보안경", "reading": "보ː안경", "sentence": "용접할 때는 꼭 보안경을 쓰세요.", "translation": "Be sure to wear safety glasses when welding.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보안관", "reading": "보ː안관", "sentence": "영화에서 보안관이 범인을 잡았어요.", "translation": "The sheriff caught the criminal in the movie.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보안등", "reading": "보ː안등", "sentence": "골목길마다 밝은 보안등이 있어요.", "translation": "There are bright security lights in every alley.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보얗다", "reading": "보ː야타", "sentence": "아침 안개가 껴서 세상이 보얗다.", "translation": "The world is murky because of the morning fog.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보온병", "reading": "보ː온병", "sentence": "보온병에 따뜻한 물을 담아 가요.", "translation": "I take warm water in a thermos bottle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보유고", "reading": "보ː유고", "sentence": "우리나라의 외환 보유고가 늘었어요.", "translation": "Our country's foreign exchange reserves have increased.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보유량", "reading": "보ː유량", "sentence": "우리 나라의 석유 보유량이 늘었어요.", "translation": "Our country's oil reserves have increased.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보유자", "reading": "보ː유자", "sentence": "이 자격증의 보유자는 혜택을 받아요.", "translation": "Holders of this certificate receive benefits.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보육원", "reading": "보ː유권", "sentence": "부모님이 없는 아이들이 보육원에 살아요.", "translation": "Children without parents live in an orphanage.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보이콧", "reading": "", "sentence": "소비자들이 그 상품에 대해 보이콧을 했어요.", "translation": "Consumers boycotted that product.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보일러", "reading": "", "sentence": "겨울에는 보일러를 매일 켜야 해요.", "translation": "We need to turn on the boiler every day in winter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보자기", "reading": "", "sentence": "선물을 예쁜 보자기 끈으로 묶었어요.", "translation": "I tied the gift with a pretty wrapping cloth ribbon.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보장금", "reading": "보ː장금", "sentence": "열심히 일해서 올해 보장금을 받았어요.", "translation": "I worked hard and received an incentive this year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보조개", "reading": "", "sentence": "웃을 때 양쪽 볼에 보조개가 생겨요.", "translation": "Dimples appear on both cheeks when she smiles.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보조금", "reading": "보ː조금", "sentence": "정부에서 소상공인에게 보조금을 줬어요.", "translation": "The government gave a subsidy to small business owners.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보조사", "reading": "보ː조사", "sentence": "이 문장에서 도는 보조사에 해당해요.", "translation": "In this sentence, do corresponds to an auxiliary particle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보조원", "reading": "보ː조원", "sentence": "병원에 간호 보조원으로 취직했어요.", "translation": "I got a job as a nursing assistant at the hospital.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보조적", "reading": "보ː조적", "sentence": "그것은 단지 보조적인 역할일 뿐이에요.", "translation": "That is merely a supplementary role.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보좌관", "reading": "보ː좌관", "sentence": "국회의원의 보좌관이 회의실로 들어왔어요.", "translation": "The lawmaker's aide entered the meeting room.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보증금", "reading": "", "sentence": "새 집으로 이사하면서 보증금을 냈어요.", "translation": "I paid the deposit while moving into a new house.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보증서", "reading": "", "sentence": "새 냉장고를 사고 보증서를 받았어요.", "translation": "I bought a new refrigerator and received a warranty.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보증인", "reading": "", "sentence": "대출을 받을 때 보증인이 필요했어요.", "translation": "A guarantor was needed when taking out the loan.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보채다", "reading": "", "sentence": "아기가 졸려서 계속 보채고 있어요.", "translation": "The baby is sleepy and keeps whining.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보청기", "reading": "보ː청기", "sentence": "할아버지께서 귀가 어두워서 보청기를 끼셔요.", "translation": "My grandfather wears a hearing aid because he is hard of hearing.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보태다", "reading": "", "sentence": "부족한 용돈을 알바해서 좀 보태었어요.", "translation": "I supplemented my insufficient allowance by doing a part-time job.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보퉁이", "reading": "", "sentence": "짐을 큰 보퉁이에 싸서 여행을 떠났어요.", "translation": "I packed my luggage in a large bundle and left for a trip.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보편성", "reading": "보ː편썽", "sentence": "이 예술 작품에는 깊은 보편성이 있어요.", "translation": "This artwork has deep universality.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보편적", "reading": "보ː편적", "sentence": "그것은 모든 사람에게 보편적인 사실이에요.", "translation": "That is a universal fact for everyone.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보편화", "reading": "보ː편화", "sentence": "인터넷의 보편화로 삶이 편리해졌어요.", "translation": "Life has become convenient with the universal access to the internet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보풀다", "reading": "", "sentence": "오래 입은 옷에 보풀이 많이 생겼어요.", "translation": "The clothes I've worn for a long time have a lot of fuzz.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보하다", "reading": "보ː하다", "sentence": "인삼은 기력을 보하는 좋은 음식이에요.", "translation": "Ginseng is a good food that tones up and strengthens vitality.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보행기", "reading": "보ː행기", "sentence": "아기가 보행기를 타고 잘 놀아요", "translation": "The baby is playing well in the walker.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보행자", "reading": "보ː행자", "sentence": "길을 건널 때는 보행자를 조심하세요", "translation": "Please watch out for pedestrians when crossing the street.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보험금", "reading": "보ː험금", "sentence": "사고가 나서 보험금을 받았어요", "translation": "I received an insurance payment after an accident.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보험료", "reading": "보ː험뇨", "sentence": "매달 자동차 보험료를 내요", "translation": "I pay car insurance premiums every month.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보험증", "reading": "보ː험쯩", "sentence": "지갑에 보험증을 넣고 다녀요", "translation": "I carry my insurance certificate in my wallet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호국", "reading": "보ː호국", "sentence": "역사 속에는 여러 보호국이 있었어요", "translation": "There were various protected states in history.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호막", "reading": "보ː호막", "sentence": "그림 위에 투명한 보호막을 씌웠어요", "translation": "I put a transparent protective layer over the picture.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호색", "reading": "보ː호색", "sentence": "카멜레온의 피부는 보호색을 띱니다", "translation": "The chameleon's skin has a protective color.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호석", "reading": "보ː호석", "sentence": "임산부를 위해 보호석에 앉지 않았어요", "translation": "I did not sit in the designated seats for pregnant women.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호자", "reading": "보ː호자", "sentence": "병원에 가려면 보호자가 필요해요", "translation": "You need a guardian to go to the hospital.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "보호책", "reading": "보ː호책", "sentence": "정부가 강력한 환경 보호책을 발표했습니다", "translation": "The government announced strong environmental protection measures.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복고적", "reading": "복꼬적", "sentence": "요즘은 음악도 복고적인 느낌이 유행이에요", "translation": "Nowadays, music with a retro feel is popular.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복고풍", "reading": "복꼬풍", "sentence": "그 카페는 인테리어가 복고풍이에요", "translation": "The interior of that cafe has a retro style.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복더위", "reading": "복떠위", "sentence": "복더위에는 시원한 음식을 많이 먹어요", "translation": "People eat a lot of cool food during the hottest days of summer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복덕방", "reading": "복떡빵", "sentence": "집을 구하려고 동네 복덕방에 갔어요", "translation": "I went to the neighborhood real estate agency to find a house.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복덩이", "reading": "복떵이", "sentence": "우리 집 막내딸은 정말 복덩이에요", "translation": "Our youngest daughter is truly a bringer of luck.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복마전", "reading": "봉마전", "sentence": "그 회사는 비리의 복마전이 되었습니다", "translation": "That company has become an abode of demons of corruption.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복막염", "reading": "봉망념", "sentence": "심한 복통이 와서 병원에 갔더니 복막염이래요", "translation": "I went to the hospital due to severe stomachache, and they said it is peritonitis.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복무자", "reading": "봉무자", "sentence": "건물 안에 있는 복무자는 안내를 도와주세요", "translation": "Persons on duty inside the building, please help with the guidance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복부인", "reading": "복뿌인", "sentence": "부동산 투기를 하는 복부인을 조심해야 해요", "translation": "We must be careful of speculative ladies who engage in real estate speculation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복사기", "reading": "복싸기", "sentence": "사무실에 있는 복사기로 서류를 뽑았어요", "translation": "I printed the documents using the copy machine in the office.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복사본", "reading": "복싸본", "sentence": "중요한 서류니까 복사본을 만들어 두세요", "translation": "Since it is an important document, please make a duplicate.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복사뼈", "reading": "복싸뼈", "sentence": "많이 걸어서 복사뼈가 좀 아파요", "translation": "My ankle bone hurts a bit because I walked a lot.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복사판", "reading": "복싸판", "sentence": "그 그림은 원본과 아주 닮은 복사판이에요", "translation": "That painting is a copy that looks very much like the original.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복수심", "reading": "복쑤심", "sentence": "그의 마음속에는 복수심이 가득했어요.", "translation": "His heart was filled with a desire for revenge.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복음서", "reading": "보금서", "sentence": "우리는 복음서를 매일 읽어요.", "translation": "We read the Gospels every day.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복잡성", "reading": "복짭썽", "sentence": "이 문제에는 큰 복잡성이 있어요.", "translation": "There is a great complexity in this problem.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복제물", "reading": "복쩨물", "sentence": "미술관에서 유명한 그림의 복제물을 봤어요.", "translation": "I saw a reproduction of a famous painting at the art museum.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복제판", "reading": "복쩨판", "sentence": "중요한 계약서의 복제판을 준비했어요.", "translation": "I prepared a duplicate of the important contract.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복제품", "reading": "복쩨품", "sentence": "박물관에서 도자기 복제품을 샀어요.", "translation": "I bought a ceramic replica at the museum.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복조리", "reading": "복쪼리", "sentence": "새해에 현관에 복조리를 걸어두었어요.", "translation": "I hung a bokjori on the front door for the New Year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복학생", "reading": "보칵쌩", "sentence": "우리 동아리에 새로운 복학생이 들어왔어요.", "translation": "A new returning student joined our club.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복합어", "reading": "보카버", "sentence": "이 단어는 대표적인 복합어예요.", "translation": "This word is a typical compound.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복합적", "reading": "보캅쩍", "sentence": "그 사건의 원인은 매우 복합적이에요.", "translation": "The cause of that incident is very complex.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "복합체", "reading": "보캅체", "sentence": "그 도시는 거대한 경제 복합체예요.", "translation": "That city is a huge economic composite.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볶이다", "reading": "보끼다", "sentence": "고기가 팬에서 맛있게 볶이고 있어요.", "translation": "The meat is being deliciously stir-fried in the pan.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본거지", "reading": "", "sentence": "이 도시는 해적들의 본거지였어요.", "translation": "This city was the base of the pirates.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본격적", "reading": "본껵쩍", "sentence": "다음 주부터 본격적인 공사가 시작돼요.", "translation": "Construction in full swing will start from next week.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본격화", "reading": "본껴콰", "sentence": "봄이 되면서 꽃의 본격화가 시작되었어요.", "translation": "As spring came, the full swing of blooming started.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본고장", "reading": "", "sentence": "이 음식은 전라도가 본고장이에요.", "translation": "Jeolla-do is the home of this food.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본궤도", "reading": "", "sentence": "우리 경제가 드디어 본궤도에 올랐어요.", "translation": "Our economy has finally gotten back on track.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본능적", "reading": "", "sentence": "위험을 느낄 때 나오는 본능적인 반응이에요.", "translation": "It is an instinctive reaction when feeling danger.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본동사", "reading": "", "sentence": "이 문장에는 본동사가 두 개 있어요.", "translation": "There are two main verbs in this sentence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본딧말", "reading": "본딘말", "sentence": "그 단어의 본딧말을 찾아보았어요.", "translation": "I looked up the original form of the word.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본모습", "reading": "", "sentence": "그 사람은 화장을 지우니 본모습이 달랐어요.", "translation": "When she removed her makeup, her real self was different.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본바닥", "reading": "", "sentence": "오랜만에 고향 본바닥에 돌아왔어요.", "translation": "I came back to my native place after a long time.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본바탕", "reading": "", "sentence": "그 아이는 본바탕이 착하고 성실해요.", "translation": "That child has a kind and sincere nature.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본받다", "reading": "본받따", "sentence": "우리는 훌륭한 위인의 삶을 본받아야 해요.", "translation": "We should emulate the lives of great people.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본보기", "reading": "", "sentence": "그 선수는 모든 면에서 좋은 본보기예요.", "translation": "That player is a good example in every way.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본부석", "reading": "", "sentence": "운동장 중앙에 큰 본부석이 있어요.", "translation": "There is a big box seat in the center of the playground.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본부인", "reading": "", "sentence": "그의 본부인은 이미 외국으로 떠났어요.", "translation": "His ex-wife has already left for abroad.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본용언", "reading": "본뇽언", "sentence": "문장에서 본용언의 역할을 잘 알아야 해요.", "translation": "You need to know the role of the main predicate element well in a sentence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본원적", "reading": "보눤적", "sentence": "그것은 경제의 본원적 문제예요.", "translation": "That is a fundamental problem of the economy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본적지", "reading": "본적찌", "sentence": "제 서류에 본적지를 정확히 썼어요.", "translation": "I wrote my permanent domicile accurately on my document.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본질적", "reading": "본질쩍", "sentence": "이 문제는 우리에게 본질적이에요.", "translation": "This issue is essential to us.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "본회의", "reading": "", "sentence": "오늘 오후에 중요한 본회의가 있어요.", "translation": "There is an important plenary session this afternoon.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볼거리", "reading": "볼꺼리", "sentence": "이 도시에는 다양한 볼거리가 있어요.", "translation": "There are various attractions in this city.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볼때기", "reading": "", "sentence": "추워서 아이의 볼때기가 빨개졌어요.", "translation": "The child's cheeks turned red because it was cold.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볼레로", "reading": "", "sentence": "오늘 드레스 위에 예쁜 볼레로를 입었어요.", "translation": "I wore a pretty bolero over my dress today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볼링장", "reading": "", "sentence": "친구들과 함께 주말에 볼링장에 가요.", "translation": "I go to the bowling alley with my friends on the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "볼연지", "reading": "볼련지", "sentence": "그녀는 화장할 때 볼연지를 살짝 발라요.", "translation": "She lightly applies blusher when she puts on makeup.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄기운", "reading": "봄끼운", "sentence": "아침 공기에서 따뜻한 봄기운이 느껴져요.", "translation": "I can feel the warm air of spring in the morning breeze.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄나물", "reading": "", "sentence": "시장에 가면 싱싱한 봄나물이 많아요.", "translation": "There are many fresh spring greens when you go to the market.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄노래", "reading": "", "sentence": "라디오에서 감미로운 봄노래가 흘러나와요.", "translation": "A sweet spring song is playing on the radio.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄맞이", "reading": "봄마지", "sentence": "우리는 즐거운 마음으로 봄맞이를 해요.", "translation": "We greet the spring with joyful hearts.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄바람", "reading": "봄빠람", "sentence": "창문을 열었더니 시원한 봄바람이 불어요.", "translation": "When I opened the window, a cool spring breeze blew in.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봄소식", "reading": "", "sentence": "남쪽에서 따뜻한 봄소식이 들려와요.", "translation": "Warm tidings of spring are coming from the south.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉건성", "reading": "봉건썽", "sentence": "아직도 사회에는 봉건성이 남아 있어요.", "translation": "Feudality still remains in society.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉건적", "reading": "", "sentence": "그의 사고방식은 너무 봉건적이에요.", "translation": "His way of thinking is too feudal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉고차", "reading": "", "sentence": "회사 짐을 싣기 위해 봉고차를 빌렸어요.", "translation": "I rented a van to load the company's luggage.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉급날", "reading": "봉ː금날", "sentence": "내일은 기다리던 기쁜 봉급날이에요.", "translation": "Tomorrow is the joyful payday I have been waiting for.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉긋이", "reading": "봉그시", "sentence": "떡이 봉긋이 부풀었어요.", "translation": "The rice cake puffed up like a hill.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉사료", "reading": "봉ː사료", "sentence": "영수증에 봉사료가 포함되어 있어요.", "translation": "The service charge is included in the receipt.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉사자", "reading": "봉ː사자", "sentence": "많은 봉사자들이 도우러 왔어요.", "translation": "Many volunteers came to help.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉쇄망", "reading": "", "sentence": "경찰이 철저한 봉쇄망을 쳤어요.", "translation": "The police set up a thorough blockade network.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉오리", "reading": "", "sentence": "꽃봉오리가 예쁘게 피었어요.", "translation": "The flower bud bloomed nicely.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉우리", "reading": "", "sentence": "저기 높은 봉우리가 보입니다.", "translation": "The high peak is visible over there.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉합선", "reading": "봉합썬", "sentence": "옷의 봉합선이 터졌어요.", "translation": "The seam of the clothes burst.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉화대", "reading": "", "sentence": "산 정상에 옛 봉화대가 있어요.", "translation": "There is an old beacon mound at the top of the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봉황새", "reading": "봉ː황새", "sentence": "궁궐 지붕에 봉황새 조각이 있어요.", "translation": "There is a phoenix sculpture on the palace roof.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "봐주다", "reading": "봐ː주다", "sentence": "이번 한 번만 잘 봐주세요.", "translation": "Please overlook it just this once.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부과금", "reading": "부ː과금", "sentence": "환경 부과금을 납부해야 합니다.", "translation": "You must pay the environmental tax.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부교수", "reading": "부ː교수", "sentence": "그분은 대학에서 부교수로 일합니다.", "translation": "He works as an associate professor at the university.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부교재", "reading": "부ː교재", "sentence": "이 책은 우리 학교 부교재예요.", "translation": "This book is our school's supplementary textbook.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부끄럼", "reading": "", "sentence": "아이가 부끄럼을 많이 타요.", "translation": "The child is very shy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부녀간", "reading": "", "sentence": "두 사람은 다정한 부녀간이에요.", "translation": "The two are a affectionate father and daughter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부녀자", "reading": "", "sentence": "마을 부녀자들이 회의를 열었어요.", "translation": "The village women held a meeting.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부녀회", "reading": "", "sentence": "우리 동네 부녀회에 가입했어요.", "translation": "I joined our neighborhood women's association.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부단히", "reading": "", "sentence": "그들은 부단히 노력하고 있어요.", "translation": "They are constantly making efforts.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부담감", "reading": "부ː담감", "sentence": "큰 시험이라 부담감이 큽니다.", "translation": "It is a big exam, so the pressure is great.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부담금", "reading": "부ː담금", "sentence": "공사 비용의 부담금을 계산합니다.", "translation": "We calculate the share of the construction cost.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부담액", "reading": "부ː다맥", "sentence": "개인별 부담액이 결정되었습니다.", "translation": "The amount to be borne by each individual has been decided.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부당성", "reading": "부당썽", "sentence": "규정의 부당성을 지적했습니다.", "translation": "I pointed out the injustice of the regulation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부당히", "reading": "", "sentence": "그 사람은 일을 부당히 처리했어요.", "translation": "That person handled the work unfairly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부대장", "reading": "", "sentence": "부대장이 부대원들을 점검합니다.", "translation": "The commander inspects the unit members.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부도덕", "reading": "", "sentence": "그런 부도덕한 행동은 하지 마세요.", "translation": "Please do not do such immoral behavior.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부동표", "reading": "", "sentence": "이번 선거에서 부동표가 당락을 결정해요.", "translation": "Floating votes determine the election outcome this time.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부둣가", "reading": "부두까", "sentence": "우리는 저녁에 부둣가를 걸었어요.", "translation": "We walked along the wharfside in the evening.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부득불", "reading": "부득뿔", "sentence": "그 일은 부득불 제가 해야 합니다.", "translation": "I inevitably have to do that work.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부득이", "reading": "부드기", "sentence": "사정상 부득이 결석하게 되었습니다.", "translation": "I had to be absent unavoidably due to circumstances.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부등식", "reading": "", "sentence": "이 부등식을 풀어 보세요.", "translation": "Try to solve this inequation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부등호", "reading": "", "sentence": "수식에 부등호를 알맞게 넣으세요.", "translation": "Put the appropriate inequality sign in the mathematical expression.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부딪다", "reading": "부딛따", "sentence": "길을 가다가 나무에 부딪어요.", "translation": "I bump into a tree while walking on the road.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부뚜막", "reading": "", "sentence": "어머니께서 부뚜막을 깨끗이 닦으셨어요.", "translation": "Mother cleaned the stove platform neatly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부락민", "reading": "부랑민", "sentence": "친절한 부락민들이 우리를 반겨 주었어요.", "translation": "The kind villagers welcomed us warmly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부랑아", "reading": "", "sentence": "추운 겨울날 부랑아가 거리에 있었습니다.", "translation": "There was a juvenile vagrant on the street on a cold winter day.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부랑자", "reading": "", "sentence": "밤에는 부랑자를 조심해야 합니다.", "translation": "You should be careful of vagrants at night.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부르르", "reading": "", "sentence": "추워서 몸이 부르르 떨렸어요.", "translation": "My body trembled shiveringly because it was cold.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부르릉", "reading": "", "sentence": "자동차 엔진이 부르릉 소리를 냈어요.", "translation": "The car engine made a coughing sound.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부리다", "reading": "", "sentence": "욕심을 부리면 안 됩니다.", "translation": "You should not be greedy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부메랑", "reading": "", "sentence": "친구에게 부메랑을 던져서 받았어요.", "translation": "I threw a boomerang to a friend and caught it.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부반장", "reading": "부ː반장", "sentence": "우리 반 부반장이 상을 받았어요.", "translation": "Our class vice president received an award.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부부간", "reading": "", "sentence": "부부간에는 서로 존중해야 합니다.", "translation": "Married couples should respect each other.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부부애", "reading": "", "sentence": "그 부부의 깊은 부부애가 느껴졌어요.", "translation": "I could feel the deep conjugal love of that couple.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부분적", "reading": "", "sentence": "이번 계획은 부분적으로 수정해야 해요.", "translation": "This plan needs to be partially revised.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사격", "reading": "부ː사껵", "sentence": "이 단어는 부사격 조사가 붙었어요.", "translation": "This word has an adverbial case particle attached.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사관", "reading": "부ː사관", "sentence": "형은 군대에서 부사관으로 근무합니다.", "translation": "My older brother serves as a non-commissioned officer in the military.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사어", "reading": "부ː사어", "sentence": "문장에서 부사어의 역할을 찾으세요.", "translation": "Find the role of the adverb in the sentence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사장", "reading": "부ː사장", "sentence": "회사 부사장님이 회의를 주재하셨어요.", "translation": "The company vice president presided over the meeting.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사절", "reading": "부ː사절", "sentence": "이 문장은 부사절을 포함하고 있어요.", "translation": "This sentence contains an adverbial clause.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부사형", "reading": "부ː사형", "sentence": "이 단어의 부사형을 공부해요.", "translation": "I study the adverbial form of this word.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부산물", "reading": "부ː산물", "sentence": "이것은 가죽 공예의 부산물이에요.", "translation": "This is a byproduct of leathercraft.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부산히", "reading": "", "sentence": "어머니가 아침부터 부산히 움직여요.", "translation": "Mother moves about bustlingly since morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부상병", "reading": "부ː상병", "sentence": "병원에 많은 부상병이 있어요.", "translation": "There are many injured soldiers in the hospital.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부상자", "reading": "부ː상자", "sentence": "사고 현장에서 부상자가 나왔어요.", "translation": "An injured person came out from the accident site.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부성애", "reading": "", "sentence": "그 영화에서 깊은 부성애가 느껴져요.", "translation": "Deep paternal love is felt in that movie.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부속물", "reading": "부ː송물", "sentence": "청소기에 여러 부속물이 있어요.", "translation": "There are several attachments for the vacuum cleaner.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부속실", "reading": "부ː속씰", "sentence": "대표님 실 옆에 부속실이 있어요.", "translation": "There is an ancillary room next to the CEO's office.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부속품", "reading": "부ː속품", "sentence": "기계의 작은 부속품을 바꿨어요.", "translation": "I replaced a small component of the machine.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부수다", "reading": "", "sentence": "아이가 장난감을 실수로 부수었어요.", "translation": "The child accidentally broke the toy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부수입", "reading": "부ː수입", "sentence": "주말 알바로 소소한 부수입을 얻어요.", "translation": "I get a little extra income from a weekend part-time job.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부수적", "reading": "부ː수적", "sentence": "그 일은 저에게 부수적인 문제예요.", "translation": "That matter is secondary to me.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부스럭", "reading": "", "sentence": "비닐봉지가 부스럭 소리를 내요.", "translation": "The plastic bag makes a rustling sound.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부스럼", "reading": "", "sentence": "다리에 작은 부스럼이 생겼어요.", "translation": "A small boil has formed on my leg.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부스스", "reading": "", "sentence": "아침에 일어나서 머리가 부스스해요.", "translation": "My hair is untidy after waking up in the morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부슬비", "reading": "", "sentence": "창밖으로 가늘게 부슬비가 내려요.", "translation": "A fine drizzle is falling outside the window.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부시장", "reading": "부ː시장", "sentence": "부시장이 회의를 주재하고 있어요.", "translation": "The deputy mayor is presiding over the meeting.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부실화", "reading": "", "sentence": "회사의 재정이 빠르게 부실화되고 있어요.", "translation": "The company's finance is rapidly becoming weak.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부싯돌", "reading": "부시똘", "sentence": "옛날에는 부싯돌로 불을 피웠어요.", "translation": "In the past, people made fire with flint.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부엉이", "reading": "", "sentence": "밤나무 위에서 부엉이가 울어요.", "translation": "An owl hoots on the chestnut tree.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부역자", "reading": "부ː역짜", "sentence": "역사 속에서 부역자는 비난을 받아요.", "translation": "Traitors in history receive condemnation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부옇다", "reading": "부ː여타", "sentence": "오늘 아침 안개 때문에 하늘이 부옇다.", "translation": "The sky is foggy this morning because of the mist.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부유층", "reading": "부ː유층", "sentence": "그 도시는 부유층이 모여 사는 곳이에요.", "translation": "That city is a place where the wealthy class gathers to live.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부의금", "reading": "부ː의금", "sentence": "장례식장에 가서 부의금을 냈어요.", "translation": "I went to the funeral hall and gave condolence money.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부익부", "reading": "부ː익뿌", "sentence": "요즘 경제는 부익부 빈익빈 현상이 심해요.", "translation": "The current economy has severe polarization where the rich get richer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부인과", "reading": "부인꽈", "sentence": "건강 검진을 받으러 부인과에 갔어요.", "translation": "I went to the department of gynecology for a health checkup.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부인복", "reading": "", "sentence": "이 백화점은 2층에 부인복 매장이 있어요.", "translation": "This department store has a women's clothing shop on the second floor.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부임지", "reading": "부ː임지", "sentence": "다음 주에 새로운 부임지로 떠나요.", "translation": "I am leaving for my new post next week.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부자간", "reading": "", "sentence": "두 사람은 다정한 부자간이에요.", "translation": "Those two are an affectionate father and son.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부자유", "reading": "", "sentence": "다리가 다쳐서 행동이 부자유스러워요.", "translation": "My movements are restricted because I injured my leg.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부작용", "reading": "부ː자굥", "sentence": "이 약은 감기 치료에 좋지만 부작용이 있어요.", "translation": "This medicine is good for colds, but it has side effects.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부잣집", "reading": "부ː자찝", "sentence": "친구 집은 동네에서 소문난 부잣집이에요.", "translation": "My friend's house is a well-known rich family in the neighborhood.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부재자", "reading": "", "sentence": "부재자 투표를 미리 신청했어요.", "translation": "I applied for absentee voting in advance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부재중", "reading": "", "sentence": "상사분은 지금 부재중이십니다.", "translation": "My boss is currently absent.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부적격", "reading": "부적껵", "sentence": "그 사람은 이번 시험에서 부적격 판정을 받았어요.", "translation": "That person was judged unqualified in this exam.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부적응", "reading": "부저긍", "sentence": "새로운 환경에 부적응해서 힘들어요.", "translation": "It is hard because of maladjustment to the new environment.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부적합", "reading": "부저캅", "sentence": "이 재료는 기준에 부적합해서 사용할 수 없어요.", "translation": "This material cannot be used as it is unfit for the standards.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부전공", "reading": "부ː전공", "sentence": "저는 대학에서 경영학을 부전공으로 공부했어요.", "translation": "I studied business administration as a minor in university.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부정맥", "reading": "", "sentence": "가끔 심장이 두근거리는 부정맥이 있어요.", "translation": "I sometimes have arrhythmia where my heart races.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부정문", "reading": "부ː정문", "sentence": "선생님께서 부정문을 만드는 방법을 알려주셨어요.", "translation": "The teacher taught us how to make a negative sentence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부정사", "reading": "", "sentence": "영어 문법 시간에 부정사를 배웠어요.", "translation": "I learned about the infinitive in English grammar class.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부정적", "reading": "부ː정적", "sentence": "그 제안에 대해 모두 부정적인 반응을 보였어요.", "translation": "Everyone showed a negative response to that proposal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부정확", "reading": "", "sentence": "보고서의 데이터가 부정확해서 다시 확인해야 해요.", "translation": "The report data is inaccurate, so we need to check it again.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부조금", "reading": "", "sentence": "결혼식장에 가서 축하 부조금을 냈어요.", "translation": "I went to the wedding venue and gave congratulatory money.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부조리", "reading": "", "sentence": "사회적인 부조리를 해결하기 위해 노력해야 해요.", "translation": "We must work hard to resolve social unreasonableness.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부조화", "reading": "", "sentence": "색깔의 부조화로 인해서 인테리어가 어수선해요.", "translation": "The interior is messy due to the disharmony of colors.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부족감", "reading": "부족깜", "sentence": "외국어 공부를 할 때 항상 어휘 부족감을 느껴요.", "translation": "I always feel a sense of lack of vocabulary when studying foreign languages.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부족분", "reading": "부족뿐", "sentence": "예산이 모자라서 부족분을 채워야 해요.", "translation": "The budget is short, so we need to fill the shortfall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부족액", "reading": "부조객", "sentence": "올해 사업 결산에서 발생한 부족액을 계산했어요.", "translation": "I calculated the deficit that occurred in this year's business settlement.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부주의", "reading": "", "sentence": "작은 부주의로 사고가 났어요.", "translation": "An accident happened due to a small carelessness.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부지런", "reading": "", "sentence": "그의 부지런함은 모두가 칭찬해요.", "translation": "Everyone praises his diligence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부지중", "reading": "", "sentence": "부지중에 실수를 하고 말았어요.", "translation": "I made a mistake unawares.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부차적", "reading": "부ː차적", "sentence": "그 문제는 부차적인 사항입니다.", "translation": "That matter is a secondary detail.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부채꼴", "reading": "", "sentence": "운동장이 반원 모양의 부채꼴이에요.", "translation": "The playground is a semicircular fan shape.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부채질", "reading": "", "sentence": "더워서 부채질을 열심히 했어요.", "translation": "I fanned myself hard because it was hot.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부채춤", "reading": "", "sentence": "무용수들이 아름다운 부채춤을 췄어요.", "translation": "The dancers performed a beautiful fan dance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부챗살", "reading": "부채쌀", "sentence": "종이를 접어 부챗살을 만들었어요.", "translation": "I folded paper to make the ribs of a fan.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부처님", "reading": "", "sentence": "부처님 오신 날에 절에 갔어요.", "translation": "I went to the temple on Buddha's Birthday.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부총리", "reading": "부ː총니", "sentence": "부총리가 회의를 주재하고 있어요.", "translation": "The deputy prime minister is presiding over the meeting.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부총장", "reading": "부ː총장", "sentence": "대학 부총장님이 직접 상을 주셨어요.", "translation": "The university vice-president gave me the award personally.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부총재", "reading": "부ː총재", "sentence": "은행 부총재가 새로운 계획을 발표했어요.", "translation": "The vice-president of the bank announced a new plan.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부친상", "reading": "", "sentence": "동료의 부친상 소식을 들었어요.", "translation": "I heard the news of my colleague's father's death.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부침개", "reading": "", "sentence": "비 오는 날에는 부침개를 먹어요.", "translation": "We eat buchimgae on rainy days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부통령", "reading": "부ː통녕", "sentence": "미국 부통령이 한국을 방문했어요.", "translation": "The US vice president visited Korea.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부패상", "reading": "부ː패상", "sentence": "사회적 부패상을 고발하는 영화예요.", "translation": "It is a movie that denounces social corruption.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부평초", "reading": "", "sentence": "연못 위에 작은 부평초가 떠 있어요.", "translation": "Small duckweed is floating on the pond.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부풀다", "reading": "", "sentence": "이불 솜이 푹신하게 부풀었어요.", "translation": "The cotton in the futon became fluffy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부하다", "reading": "부ː하다", "sentence": "그 집안은 대대로 부하다.", "translation": "That family has been wealthy for generations.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부호화", "reading": "부ː호화", "sentence": "데이터를 안전하게 부호화하는 과정입니다.", "translation": "This is the process of safely encoding data.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부활제", "reading": "부ː활쩨", "sentence": "교회에서 부활제 행사를 준비했어요.", "translation": "The church prepared for the Easter event.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부회장", "reading": "부ː회장", "sentence": "회사 부회장님이 연설을 하셨어요.", "translation": "The company's vice chairman gave a speech.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부흥기", "reading": "부ː흥기", "sentence": "우리 나라는 경제 부흥기를 맞았어요.", "translation": "Our country has entered a period of economic revival.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "부흥회", "reading": "부ː흥회", "sentence": "주말에 교회에서 부흥회가 열려요.", "translation": "A revival meeting is held at the church this weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북극곰", "reading": "북끅꼼", "sentence": "동물원에서 북극곰을 봤어요.", "translation": "I saw a polar bear at the zoo.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북극해", "reading": "북끄캐", "sentence": "북극해는 얼음으로 덮여 있어요.", "translation": "The Arctic Ocean is covered with ice.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북돋다", "reading": "북똗따", "sentence": "친구를 만나서 마음을 북돋았어요.", "translation": "I met my friend and cheered them up.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북동쪽", "reading": "북똥쪽", "sentence": "우리 집은 학교 북동쪽에 있어요.", "translation": "Our house is to the northeast of the school.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북망산", "reading": "붕만산", "sentence": "할아버지께서 북망산에 가셨어요.", "translation": "My grandfather passed away.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북반구", "reading": "북빤구", "sentence": "한국은 북반구에 위치합니다.", "translation": "Korea is located in the northern hemisphere.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북반부", "reading": "북빤부", "sentence": "그 나라는 북반부가 더 추워요.", "translation": "The northern half of that country is colder.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북새통", "reading": "북쌔통", "sentence": "시장 안은 늘 북새통을 이뤄요.", "translation": "The inside of the market is always bustling.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북서쪽", "reading": "북써쪽", "sentence": "공원은 지하철역 북서쪽에 있어요.", "translation": "The park is to the northwest of the subway station.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북서풍", "reading": "북써풍", "sentence": "오늘 날씨가 쌀쌀하고 북서풍이 불어요.", "translation": "Today the weather is chilly and a northwesterly wind is blowing.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북소리", "reading": "북쏘리", "sentence": "멀리서 북소리가 들려옵니다.", "translation": "The sound of drums can be heard from afar.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북어포", "reading": "부거포", "sentence": "어머니가 북어포를 물에 불리셨어요.", "translation": "My mother soaked dried pollack in water.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "북엇국", "reading": "부거꾹", "sentence": "아침에 따뜻한 북엇국을 먹었어요.", "translation": "I ate warm dried pollack soup in the morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분가루", "reading": "분까루", "sentence": "화장대에 하얀 분가루가 묻었어요.", "translation": "White powder got on the dressing table.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분갈이", "reading": "분가리", "sentence": "주말에 화분의 분갈이를 했어요.", "translation": "I repotted the flowerpot over the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분계선", "reading": "", "sentence": "군사 분계선을 넘을 수 없습니다.", "translation": "You cannot cross the military demarcation line.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분권화", "reading": "분꿘화", "sentence": "정부는 행정 분권화를 추진합니다.", "translation": "The government is pursuing administrative decentralization.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분기점", "reading": "분기쩜", "sentence": "이 도로는 큰 분기점을 지나요.", "translation": "This road passes a major junction.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분노심", "reading": "분ː노심", "sentence": "그 사건으로 분노심이 생겼어요.", "translation": "That incident caused rage to well up inside.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분담금", "reading": "", "sentence": "모든 주민이 분담금을 냈습니다.", "translation": "All residents paid their allotted charges.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분리대", "reading": "불리대", "sentence": "도로 중앙에 분리대가 설치되었어요.", "translation": "A median barrier was installed in the middle of the road.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분만실", "reading": "", "sentence": "임산부가 분만실로 들어갔어요.", "translation": "The pregnant woman entered the delivery room.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분무기", "reading": "분ː무기", "sentence": "식물에 물을 주려고 분무기를 썼어요.", "translation": "I used a sprayer to water the plants.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분별력", "reading": "", "sentence": "어른들은 올바른 분별력이 필요해요.", "translation": "Adults need sound judgment.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분분히", "reading": "", "sentence": "사람들의 의견이 분분히 갈렸어요.", "translation": "People's opinions were divided contradictorily.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분비물", "reading": "", "sentence": "콧물이 분비물로 많이 나왔어요.", "translation": "A lot of nasal mucus came out as secretion.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분산적", "reading": "", "sentence": "이런 분산적 태도는 좋지 않아요.", "translation": "This kind of dispersed attitude is not good.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분석가", "reading": "분석까", "sentence": "그 분석가가 시장을 정확히 예측했어요.", "translation": "That analyst accurately predicted the market.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분석력", "reading": "분성녁", "sentence": "팀장님은 분석력이 아주 뛰어납니다.", "translation": "The team leader has great analytical skills.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분석적", "reading": "분석쩍", "sentence": "그녀는 항상 분석적으로 문제를 봐요.", "translation": "She always looks at problems analytically.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분석표", "reading": "", "sentence": "회의실 벽에 분석표를 붙여 놓았어요.", "translation": "I posted the analysis table on the meeting room wall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분수대", "reading": "분ː수대", "sentence": "공원 분수대 앞에서 만나요.", "translation": "Let's meet in front of the park fountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분수령", "reading": "", "sentence": "이번 경기가 우승의 분수령이 될 거예요.", "translation": "This game will be the watershed for winning the championship.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분식집", "reading": "분식찝", "sentence": "점심에 회사 근처 분식집에 갔어요.", "translation": "I went to a bunsikjip near the office for lunch.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분양가", "reading": "부냥까", "sentence": "새 아파트의 분양가가 너무 비쌉니다.", "translation": "The lotting-out price of the new apartment is too expensive.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분업화", "reading": "부너퐈", "sentence": "우리 공장은 작업의 분업화가 잘 되어 있어요.", "translation": "Our factory has a well-established division of labor.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분연히", "reading": "부ː년히", "sentence": "그는 부당한 처사에 분연히 일어섰어요.", "translation": "He rose indignantly against the unfair treatment.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분열증", "reading": "부녈쯩", "sentence": "의사가 조현병을 옛날에는 분열증이라고 불렀어요.", "translation": "Doctors used to call schizophrenia by this name in the past.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분장실", "reading": "", "sentence": "배우가 분장실에서 화장을 지우고 있어요.", "translation": "The actor is removing makeup in the dressing room.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분절적", "reading": "분절쩍", "sentence": "이 언어의 특징은 분절적 소리입니다.", "translation": "The characteristic of this language is segmental sounds.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분주히", "reading": "", "sentence": "엄마는 아침마다 주방에서 분주히 움직이셔요.", "translation": "Mom moves around busily in the kitchen every morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분출구", "reading": "분ː출구", "sentence": "화산의 분출구에서 연기가 피어올랐어요.", "translation": "Smoke rose from the crater outlet of the volcano.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분탕질", "reading": "", "sentence": "남의 재산을 가지고 분탕질을 치면 안 돼요.", "translation": "You should not squander other people's property.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분포도", "reading": "", "sentence": "지도에 미세먼지 분포도가 나와 있습니다.", "translation": "The fine dust distribution chart is shown on the map.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분풀이", "reading": "분ː푸리", "sentence": "친구에게 화를 내는 것은 좋은 분풀이가 아니에요.", "translation": "Taking your anger out on a friend is not a good way to vent.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분홍빛", "reading": "분ː홍삗", "sentence": "저녁 하늘이 예쁜 분홍빛으로 물들었어요.", "translation": "The evening sky was dyed in a pretty pink color.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "분화구", "reading": "분ː화구", "sentence": "백두산 천지는 거대한 분화구입니다.", "translation": "Lake Cheonji on Mount Baekdu is a huge crater.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불이다", "reading": "", "sentence": "건물에 불이나서 모두 대피했어요.", "translation": "A fire broke out in the building and everyone evacuated.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가결", "reading": "", "sentence": "물은 우리 생활에 불가결한 존재입니다.", "translation": "Water is indispensable to our lives.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가능", "reading": "", "sentence": "그 일은 현재 상황에서 불가능합니다.", "translation": "That task is impossible in the current situation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가마", "reading": "", "sentence": "주말에 땀을 빼러 불가마에 갑니다.", "translation": "I go to the traditional sweat bath to sweat out the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가분", "reading": "", "sentence": "이 문제와 환경은 서로 불가분의 관계입니다.", "translation": "This issue and the environment have an inseparable relationship.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가불", "reading": "", "sentence": "이 상황에서는 불가불 결정을 내려야 합니다.", "translation": "We inevitably have to make a decision in this situation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가침", "reading": "", "sentence": "우리는 서로의 영토를 불가침으로 정했습니다.", "translation": "We agreed on the inviolability of each other's territory.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불가해", "reading": "", "sentence": "그의 행동은 정말 불가해한 일입니다.", "translation": "His behavior is truly an incomprehensible matter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불간섭", "reading": "", "sentence": "우리는 타국의 내정에 불간섭을 원칙으로 합니다.", "translation": "We make noninterference in the internal affairs of other countries a principle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불감증", "reading": "불감쯩", "sentence": "요즘 날이 추워서 손발에 불감증이 느껴져요.", "translation": "It is cold these days, so I feel numbness in my hands and feet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불같다", "reading": "불갇따", "sentence": "그의 의지는 불같이 강했습니다.", "translation": "His will was resolutely strong.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불같이", "reading": "불가치", "sentence": "그는 자신의 꿈을 향해 불같이 달려갔습니다.", "translation": "He ran passionately toward his dream.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불개미", "reading": "", "sentence": "산에 갔다가 불개미를 보았습니다.", "translation": "I saw red ants when I went to the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불개입", "reading": "", "sentence": "정부는 이번 분쟁에 불개입 입장을 밝혔습니다.", "translation": "The government stated its position of nonintervention in this conflict.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불경기", "reading": "", "sentence": "요즘 장사가 안 되어 불경기입니다.", "translation": "Business is bad these days, so it is a recession.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불경죄", "reading": "불경쬐", "sentence": "왕실에 대한 비판은 불경죄로 다스렸습니다.", "translation": "Criticism of the royal family was punished as lese majesty.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불공정", "reading": "", "sentence": "이 계약은 명백히 불공정합니다.", "translation": "This contract is clearly inequitable.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불공평", "reading": "", "sentence": "규칙이 너무 불공평하다고 생각합니다.", "translation": "I think the rules are too unfair.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불구경", "reading": "", "sentence": "어릴 때 동네에 불이 나서 불구경을 갔습니다.", "translation": "When I was young, there was a fire in the neighborhood, so I went to watch the fire.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불구속", "reading": "", "sentence": "법원은 피의자에 대해 불구속 결정을 내렸습니다.", "translation": "The court decided on non-detention for the suspect.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불구자", "reading": "", "sentence": "사회적 약자와 불구자를 배려해야 합니다.", "translation": "We must consider the socially vulnerable and the disabled.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불국사", "reading": "불국싸", "sentence": "경주에 가면 아름다운 불국사가 있습니다.", "translation": "If you go to Gyeongju, there is the beautiful Bulguksa Temple.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불균등", "reading": "", "sentence": "지역 간의 소득 불균등이 심각합니다.", "translation": "Income inequality between regions is serious.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불균형", "reading": "", "sentence": "식단이 영양 불균형을 초래했습니다.", "translation": "The diet caused a nutritional imbalance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불기소", "reading": "", "sentence": "검찰은 증거 불충분으로 불기소 처분을 내렸습니다.", "translation": "The prosecution issued a disposition of non-prosecution due to insufficient evidence.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불기운", "reading": "불끼운", "sentence": "아궁이에서 따뜻한 불기운이 느껴집니다.", "translation": "I can feel the warm heat of the fire from the hearth.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불더미", "reading": "불떠미", "sentence": "캠프파이어에 큰 불더미가 생겼어요.", "translation": "A large mass of fire formed in the campfire.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불덩이", "reading": "불떵이", "sentence": "아이의 이마가 불덩이 같아요.", "translation": "The child's forehead feels like a fireball.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불도그", "reading": "", "sentence": "우리 집 강아지는 불도그예요.", "translation": "Our dog is a bulldog.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불도저", "reading": "", "sentence": "공사장 앞에 불도저가 있어요.", "translation": "There is a bulldozer in front of the construction site.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불란서", "reading": "", "sentence": "옛날에는 불란서라고 불렀어요.", "translation": "In the old days, it was called France.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불량배", "reading": "", "sentence": "골목길에서 불량배를 조심하세요.", "translation": "Watch out for gang members in the alley.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불량자", "reading": "", "sentence": "그 사람은 동네 불량자에요.", "translation": "That person is a neighborhood rascal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불량품", "reading": "", "sentence": "이 상품은 완전히 불량품이에요.", "translation": "This product is completely defective.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불로초", "reading": "", "sentence": "옛왕들은 불로초를 찾았어요.", "translation": "Ancient kings searched for the herb of eternal youth.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불만족", "reading": "", "sentence": "결과에 큰 불만족을 느꼈어요.", "translation": "I felt great dissatisfaction with the result.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불면증", "reading": "불면쯩", "sentence": "요즘 불면증으로 고생해요.", "translation": "I suffer from insomnia these days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불명예", "reading": "", "sentence": "그 사건은 큰 불명예였어요.", "translation": "That incident was a great disgrace.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불모지", "reading": "", "sentence": "이 땅은 완전히 불모지입니다.", "translation": "This land is completely a wasteland.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불문법", "reading": "불문뻡", "sentence": "그 나라에는 불문법이 있어요.", "translation": "There is an unwritten law in that country.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불문율", "reading": "불문뉼", "sentence": "회사에는 여러 불문율이 있어요.", "translation": "There are several unwritten rules in the company.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불바다", "reading": "", "sentence": "전쟁으로 도시가 불바다가 되었어요.", "translation": "The city became a sea of flames due to the war.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불발탄", "reading": "", "sentence": "산에서 불발탄을 발견했어요.", "translation": "I discovered an unexploded bomb on the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불법적", "reading": "불법쩍", "sentence": "그 행동은 매우 불법적입니다.", "translation": "That action is very illegal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불법화", "reading": "불버퐈", "sentence": "정부가 그 약을 불법화했어요.", "translation": "The government made that drug illegal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불벼락", "reading": "", "sentence": "상사에게 엄청난 불벼락을 맞았어요.", "translation": "I got chewed out fiercely by my boss.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불변성", "reading": "불변썽", "sentence": "이 물질은 불변성을 가집니다.", "translation": "This substance has invariability.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불복종", "reading": "불복쫑", "sentence": "학생의 불복종은 용납되지 않아요.", "translation": "Student disobedience is not tolerated.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불붙다", "reading": "불붇따", "sentence": "장작에 쉽게 불붙었어요.", "translation": "The firewood caught fire easily.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불사신", "reading": "불싸신", "sentence": "주인공은 영화 속에서 불사신 같아요.", "translation": "The main character seems like an immortal in the movie.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불사조", "reading": "불싸조", "sentence": "불사조처럼 다시 일어날 수 있어요.", "translation": "You can rise again like a phoenix.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불상사", "reading": "불쌍사", "sentence": "행사 중에 큰 불상사가 없어서 다행입니다.", "translation": "It is a relief that there were no major mishaps during the event.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불성실", "reading": "불썽실", "sentence": "그 직원의 불성실한 태도에 화가 납니다.", "translation": "I am angry at the employee's insincere attitude.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불세출", "reading": "불쎄출", "sentence": "그는 불세출의 영웅으로 기억됩니다.", "translation": "He is remembered as an unequaled hero.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불순물", "reading": "불쑨물", "sentence": "이 물에는 불순물이 전혀 없습니다.", "translation": "There are no impurities in this water at all.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불시착", "reading": "불씨착", "sentence": "비행기가 농무 때문에 불시착했어요.", "translation": "The airplane made an emergency landing due to thick fog.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불신감", "reading": "불씬감", "sentence": "정부에 대한 불신감이 커지고 있어요.", "translation": "Distrust toward the government is growing.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불신임", "reading": "불씨님", "sentence": "국회에서 장관 불신임안이 통과되었습니다.", "translation": "A motion of no confidence in the minister was passed in the National Assembly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불신자", "reading": "불씬자", "sentence": "그는 종교를 믿지 않는 불신자입니다.", "translation": "He is a non-believer who does not follow any religion.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불쌍히", "reading": "", "sentence": "길가의 버려진 강아지를 불쌍히 여겼어요.", "translation": "I felt pity for the abandoned puppy on the street.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불안감", "reading": "부란감", "sentence": "시험을 앞두고 불안감이 커졌습니다.", "translation": "Anxiety grew ahead of the exam.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불안정", "reading": "부란정", "sentence": "요즘 경제 상황이 너무 불안정합니다.", "translation": "The economic situation these days is very unstable.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불안증", "reading": "부란쯩", "sentence": "그 환자는 심한 불안증을 앓고 있어요.", "translation": "The patient is suffering from severe anxiety.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불야성", "reading": "부랴성", "sentence": "서울의 밤은 언제나 불야성을 이룹니다.", "translation": "The nights of Seoul are always bustling like a city that never sleeps.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불여우", "reading": "불려우", "sentence": "저 사람의 성격은 정말 불여우 같아요.", "translation": "That person's personality is really like a sly fox.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불연성", "reading": "부련썽", "sentence": "이 건축 자재는 불연성 소재입니다.", "translation": "This building material is a non-flammable substance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불연속", "reading": "부련속", "sentence": "이 그래프는 데이터의 불연속을 보여줍니다.", "translation": "This graph shows the discontinuity of the data.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불완전", "reading": "부롼전", "sentence": "제 계획은 아직 불완전한 상태입니다.", "translation": "My plan is still in an incomplete state.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불원간", "reading": "부뤈간", "sentence": "불원간 좋은 소식이 있을 것입니다.", "translation": "There will be good news before long.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불이익", "reading": "불리익", "sentence": "계약 조건을 잘 살펴서 불이익을 피하세요.", "translation": "Check the contract terms carefully to avoid disadvantages.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불이행", "reading": "불리행", "sentence": "계약 불이행 시 법적 책임을 집니다.", "translation": "Legal responsibility is taken in case of breach of contract.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불일치", "reading": "부릴치", "sentence": "두 자료의 결과에 큰 불일치가 있습니다.", "translation": "There is a major discrepancy in the results of the two data sets.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불임증", "reading": "부림쯩", "sentence": "요즘은 의학이 발달하여 불임증도 치료합니다.", "translation": "Nowadays, medical science is advanced enough to treat infertility as well.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불입금", "reading": "부립끔", "sentence": "이번 달 불입금을 아직 내지 않았어요.", "translation": "I haven't paid this month's installment yet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불입액", "reading": "부리백", "sentence": "이번 달 불입액을 확인했어요.", "translation": "I checked this month's payment amount.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불장난", "reading": "", "sentence": "아이들이 집에서 불장난을 하면 위험해요.", "translation": "It is dangerous if children play with fire at home.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불제자", "reading": "", "sentence": "그 스님은 많은 불제자를 가르치셨어요.", "translation": "That monk taught many Buddhist disciples.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불조심", "reading": "", "sentence": "겨울철에는 항상 불조심을 해야 해요.", "translation": "We must always watch out for fires in winter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불참석", "reading": "", "sentence": "회의에 불참석 사유를 제출했어요.", "translation": "I submitted a reason for absence from the meeting.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불참자", "reading": "", "sentence": "오늘 모임의 불참자는 모두 다섯 명이에요.", "translation": "There are five absentees from today's gathering in total.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불청객", "reading": "", "sentence": "주말에 불청객이 찾아와서 놀랐어요.", "translation": "I was surprised when an uninvited guest visited over the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불출마", "reading": "", "sentence": "그 정치인은 다음 선거에 불출마를 선언했어요.", "translation": "The politician declared not to run in the next election.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불충분", "reading": "", "sentence": "설명이 불충분해서 다시 물어봤어요.", "translation": "The explanation was insufficient, so I asked again.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불치병", "reading": "불치뼝", "sentence": "의학 기술이 발달해서 불치병을 치료해요.", "translation": "Medical technology has advanced to treat incurable diseases.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불친절", "reading": "", "sentence": "그 식당 직원이 너무 불친절했어요.", "translation": "The restaurant staff was very unkind.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불침번", "reading": "", "sentence": "오늘 밤에는 제가 불침번을 서요.", "translation": "I am taking the night watch tonight.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불쾌감", "reading": "", "sentence": "그의 말에서 불쾌감이 느껴졌어요.", "translation": "I felt an unpleasant sensation from his words.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불투명", "reading": "", "sentence": "내년 경제 전망이 여전히 불투명해요.", "translation": "Next year's economic outlook is still opaque.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불특정", "reading": "불특쩡", "sentence": "이 설문조사는 불특정 다수를 대상으로 해요.", "translation": "This survey targets unspecific individuals.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불평등", "reading": "", "sentence": "우리 사회의 경제적 불평등을 줄여야 해요.", "translation": "We need to reduce economic inequality in our society.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불포화", "reading": "", "sentence": "견과류에는 불포화 지방이 많이 들어 있어요.", "translation": "Nuts contain a lot of unsaturated fats.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불필요", "reading": "불피료", "sentence": "이 물건들은 우리에게 완전히 불필요해요.", "translation": "These items are completely unnecessary for us.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불한당", "reading": "", "sentence": "밤길에 불한당을 만나서 가방을 빼앗겼어요.", "translation": "I met a scoundrel on the night road and had my bag stolen.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불합격", "reading": "불합껵", "sentence": "운전면허 시험에서 아쉽게 불합격했어요.", "translation": "I unfortunately failed the driver's license test.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불합리", "reading": "불함니", "sentence": "그 회사의 규정은 너무 불합리해요.", "translation": "The company's regulations are very unreasonable.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불행히", "reading": "", "sentence": "불행히도 비행기가 지연되었어요.", "translation": "Unfortunately, the airplane was delayed.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불현듯", "reading": "불현듣", "sentence": "집에 도착하자마자 불현듯 고향 생각이 났어요.", "translation": "As soon as I arrived home, I suddenly thought of my hometown.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불확실", "reading": "불확씰", "sentence": "미래에 대한 계획이 아직 불확실해요.", "translation": "Plans for the future are still uncertain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "불효자", "reading": "", "sentence": "저는 부모님께 불효자인 것 같아요.", "translation": "I think I am an unfilial child to my parents.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "붉은빛", "reading": "불근빋", "sentence": "하늘이 아름다운 붉은빛으로 물들었어요.", "translation": "The sky was dyed with a beautiful reddish hue.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "붉은색", "reading": "불근색", "sentence": "그녀는 붉은색 옷을 아주 좋아해요.", "translation": "She likes red clothes very much.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "붙들다", "reading": "붇뜰다", "sentence": "친구의 손을 꼭 붙들었습니다.", "translation": "I held my friend's hand tightly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "붙박다", "reading": "붇빡따", "sentence": "벽에 못을 단단히 붙박아 주세요.", "translation": "Please fasten the nail firmly into the wall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "붙잡다", "reading": "붇짭따", "sentence": "도망치는 범인의 옷자락을 붙잡았어요.", "translation": "I grabbed the hem of the running criminal's clothes.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "브랜드", "reading": "", "sentence": "이 신발은 유명한 브랜드 제품이에요.", "translation": "These shoes are a product of a famous brand.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "브로치", "reading": "", "sentence": "외투에 예쁜 브로치를 달았습니다.", "translation": "I pinned a pretty brooch to my coat.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "브리핑", "reading": "", "sentence": "오전에 중요한 업무 브리핑이 있어요.", "translation": "There is an important work briefing in the morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "블로그", "reading": "", "sentence": "요즘 매일 맛집 블로그를 구경해요.", "translation": "These days I look at restaurant blogs every day.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비공개", "reading": "비ː공개", "sentence": "이 문서는 비공개로 처리되었습니다.", "translation": "This document has been handled as non-disclosure.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비과세", "reading": "비ː과세", "sentence": "이 상품은 비과세 혜택이 있어요.", "translation": "This product has a tax-free benefit.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비관적", "reading": "비ː관적", "sentence": "너무 비관적으로 생각하지 마세요.", "translation": "Do not think too pessimistically.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비교적", "reading": "비ː교적", "sentence": "올해 날씨는 비교적 따뜻한 편이에요.", "translation": "This year's weather is relatively warm.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비구름", "reading": "", "sentence": "하늘에 먹구름과 비구름이 몰려와요.", "translation": "Dark clouds and rain clouds are gathering in the sky.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비극적", "reading": "비ː극쩍", "sentence": "영화의 결말이 너무 비극적이었어요.", "translation": "The ending of the movie was too tragic.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비꼬다", "reading": "비ː꼬다", "sentence": "그 사람은 늘 남의 말을 비꼬아요.", "translation": "That person always twists other people's words sarcastically.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비눗갑", "reading": "비누깝", "sentence": "화장실 세면대 위에 비눗갑이 있어요.", "translation": "There is a soap dish on the bathroom sink.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비대칭", "reading": "비ː대칭", "sentence": "이 건물은 독특한 비대칭 구조예요.", "translation": "This building has a unique asymmetrical structure.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비뚜로", "reading": "", "sentence": "모자가 비뚜로 쓰여 있어요", "translation": "Your hat is worn askew.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비뚤다", "reading": "", "sentence": "액자가 조금 비뚤어 보여요", "translation": "The picture frame looks a bit slanted.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비로소", "reading": "", "sentence": "그제를서야 비로소 진실을 알았어요", "translation": "Only then did I know the truth.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비리다", "reading": "", "sentence": "생선이 좀 비리네요", "translation": "The fish tastes a bit fishy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비린내", "reading": "", "sentence": "부엌에서 비린내가 나요", "translation": "There is a fishy smell coming from the kitchen.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비무장", "reading": "비ː무장", "sentence": "그 지역은 완전한 비무장 상태예요", "translation": "That area is in a complete state of demilitarization.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비밀리", "reading": "비ː밀리", "sentence": "그 일은 비밀리에 진행되었어요", "translation": "That matter was carried out in secret.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비바람", "reading": "", "sentence": "창밖으로 비바람이 몰아쳐요", "translation": "Rain and wind are sweeping outside the window.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비상구", "reading": "비ː상구", "sentence": "비상구를 미리 확인하세요", "translation": "Check the emergency exit in advance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비상금", "reading": "비ː상금", "sentence": "서랍 속에 비상금을 숨겨뒀어요", "translation": "I hid some cash reserves in the drawer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비상벨", "reading": "", "sentence": "위급할 때 비상벨을 누르세요", "translation": "Press the emergency bell in case of danger.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비상시", "reading": "비ː상시", "sentence": "비상시에 대피하는 법을 배워요", "translation": "Learn how to evacuate during an emergency.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비상용", "reading": "비ː상뇽", "sentence": "이것은 비상용 랜턴이에요", "translation": "This is an emergency lantern.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비서실", "reading": "비ː서실", "sentence": "사장님은 지금 비서실에 계세요", "translation": "The boss is in the secretary's office now.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비소설", "reading": "비ː소설", "sentence": "저는 소설보다 비소설을 좋아해요", "translation": "I like nonfiction more than novels.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비속어", "reading": "비ː소거", "sentence": "친구에게 비속어를 쓰지 마세요", "translation": "Do not use slang with your friends.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비수기", "reading": "비ː수기", "sentence": "지금은 여행지의 비수기예요", "translation": "Now is the off-season for travel destinations.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비스킷", "reading": "", "sentence": "우유와 함께 비스킷을 먹어요", "translation": "Eat biscuits with milk.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비슷이", "reading": "비스시", "sentence": "두 가지 맛이 비슷이 느껴져요", "translation": "The two tastes feel similarly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비약적", "reading": "비약쩍", "sentence": "우리 회사는 비약적인 성장을 했어요", "translation": "Our company achieved rapid growth.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비올라", "reading": "", "sentence": "오케스트라에서 비올라를 연주해요", "translation": "I play the viola in the orchestra.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비웃다", "reading": "비ː욷따", "sentence": "남의 실패를 비웃지 마세요", "translation": "Do not mock other people's failures.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비웃음", "reading": "비ː우슴", "sentence": "그의 말에 차가운 비웃음이 나왔어요", "translation": "A cold sneer came out at his words.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비유적", "reading": "비ː유적", "sentence": "그 선생님의 설명은 비유적이라서 이해하기 쉬워요.", "translation": "The teacher's explanation is figurative so it is easy to understand.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비자금", "reading": "비ː자금", "sentence": "회사의 비자금 문제가 뉴스에 보도되었어요.", "translation": "The company's slush fund issue was reported on the news.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비장미", "reading": "비ː장미", "sentence": "이 영화의 결말에는 깊은 비장미가 느껴져요.", "translation": "A deep tragic beauty is felt in the ending of this movie.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비정상", "reading": "비ː정상", "sentence": "요즘 날씨가 평년과 달라 비정상이에요.", "translation": "The weather these days is different from normal years, so it is abnormal.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비좁다", "reading": "비ː좁따", "sentence": "우리 방은 너무 비좁아서 짐을 놓기 힘들어요.", "translation": "Our room is too cramped, so it is hard to put luggage.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비주류", "reading": "비ː주류", "sentence": "그 음악가는 오랜 기간 비주류로 활동했어요.", "translation": "That musician worked as a non-mainstream artist for a long time.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비준서", "reading": "비ː준서", "sentence": "양국이 조약의 비준서를 교환했어요.", "translation": "The two countries exchanged the ratification instruments of the treaty.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비지땀", "reading": "", "sentence": "농부들이 밭에서 비지땀을 흘리며 일해요.", "translation": "The farmers are working while shedding heavy sweat in the field.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비지떡", "reading": "", "sentence": "싼 게 비지떡이라서 금방 망가졌어요.", "translation": "You get what you pay for, so it broke quickly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비집다", "reading": "비ː집따", "sentence": "사람들 틈을 비집고 지하철을 탔어요.", "translation": "I squeezed through the crowd and got on the subway.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비추다", "reading": "", "sentence": "달빛이 어두운 밤길을 환하게 비추어요.", "translation": "The moonlight brightly illuminates the dark night road.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비취색", "reading": "비ː취색", "sentence": "그 바다는 맑은 비취색을 띠고 있어요.", "translation": "That sea has a clear jade green color.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비치다", "reading": "", "sentence": "거울에 제 모습이 살짝 비치네요.", "translation": "My reflection shines slightly in the mirror.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비키니", "reading": "", "sentence": "여름 휴가 때 예쁜 비키니를 입을 거예요.", "translation": "I am going to wear a pretty bikini during summer vacation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비탈길", "reading": "비탈낄", "sentence": "가파른 비탈길을 조심스럽게 걸어 올라갔어요.", "translation": "I walked up the steep slope carefully.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비틀다", "reading": "비ː틀다", "sentence": "운동을 하기 전에 몸을 여러 방향으로 비틀어요.", "translation": "I twist my body in various directions before exercising.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비판력", "reading": "비ː판녁", "sentence": "책을 많이 읽으면 비판력이 좋아져요.", "translation": "If you read many books, your critical power improves.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비판적", "reading": "비ː판적", "sentence": "우리는 뉴스 내용을 비판적으로 보아야 해요.", "translation": "We need to look at news content critically.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비평가", "reading": "비ː평가", "sentence": "유명한 비평가가 그 미술전을 관람했어요.", "translation": "A famous critic visited that art exhibition.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비합리", "reading": "비ː함니", "sentence": "그 회사의 규정에는 비합리적인 부분이 많아요.", "translation": "There are many irrational parts in the company's regulations.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비행선", "reading": "", "sentence": "하늘 위로 커다란 비행선이 지나가고 있어요.", "translation": "A large airship is passing overhead in the sky.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비행장", "reading": "", "sentence": "비행장이 시내에서 멀리 떨어져 있어요.", "translation": "The airport is located far from downtown.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비협조", "reading": "비ː협쪼", "sentence": "상대방의 비협조로 회의가 길어졌어요.", "translation": "The meeting became long due to the other party's noncooperation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비회원", "reading": "비ː회원", "sentence": "비회원으로도 상품을 구매할 수 있습니다.", "translation": "You can purchase products as a nonmember.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "비효율", "reading": "비ː효율", "sentence": "이 방식은 너무 비효율이 커요.", "translation": "This method has too much inefficiency.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈곤층", "reading": "", "sentence": "정부는 빈곤층 지원을 늘리고 있습니다.", "translation": "The government is increasing support for the poor.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈대떡", "reading": "", "sentence": "비 오는 날에는 빈대떡을 먹어요.", "translation": "I eat bindaetteok on rainy days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈민가", "reading": "", "sentence": "도시 주변에 큰 빈민가가 있어요.", "translation": "There is a large slum near the city.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈민층", "reading": "", "sentence": "빈민층을 위한 복지 정책이 필요해요.", "translation": "Welfare policies for the poor are needed.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈번히", "reading": "", "sentence": "그 도시는 겨울에 눈이 빈번히 내려요.", "translation": "It snows frequently in that city during winter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈익빈", "reading": "비닉삔", "sentence": "현대 사회는 빈익빈 현상이 심합니다.", "translation": "Modern society suffers from severe wealth polarization.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈자리", "reading": "빈ː자리", "sentence": "버스 안에 빈자리가 하나도 없어요.", "translation": "There is not a single empty seat on the bus.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈주먹", "reading": "빈ː주먹", "sentence": "그는 빈주먹으로 성공을 이루었습니다.", "translation": "He achieved success with empty hands.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빈혈증", "reading": "빈혈쯩", "sentence": "어지러운 것은 빈혈증 때문이에요.", "translation": "The dizziness is due to anemia.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빌붙다", "reading": "빌ː붇따", "sentence": "친구에게 빌붙어 사는 것은 나빠요.", "translation": "It is bad to live off your friends.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗기다", "reading": "빋끼다", "sentence": "엄마가 아이의 머리를 빗기 줍니다.", "translation": "Mom combs the child's hair.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗대다", "reading": "빋때다", "sentence": "그 사람의 말을 나를 빗대어 한 말이에요.", "translation": "That person's words were directed at me.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗방울", "reading": "비빵울", "sentence": "창문에 빗방울이 떨어지기 시작해요.", "translation": "Raindrops are starting to fall on the window.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗소리", "reading": "비쏘리", "sentence": "밤새 빗소리가 창문을 두드렸어요.", "translation": "The sound of rain tapped on the window all night.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗자루", "reading": "비짜루", "sentence": "방 안을 빗자루로 깨끗이 쓸었어요.", "translation": "I swept the room clean with a broom.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빗줄기", "reading": "비쭐기", "sentence": "하늘에서 굵은 빗줄기가 내립니다.", "translation": "Heavy sheets of rain are falling from the sky.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빙긋이", "reading": "빙그시", "sentence": "그는 내 말을 듣고 빙긋이 웃었어요.", "translation": "He listened to my words and smiled gently.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빙판길", "reading": "빙판낄", "sentence": "추운 날씨에 빙판길을 조심하세요.", "translation": "Be careful of icy roads in cold weather.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빚더미", "reading": "빋떠미", "sentence": "그는 빚더미에 앉아 힘들어합니다.", "translation": "He is struggling under a mountain of debt.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빚쟁이", "reading": "빋쨍이", "sentence": "집 앞에 빚쟁이가 찾아왔어요.", "translation": "A moneylender came to the front of the house.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빚지다", "reading": "빋찌다", "sentence": "은행에서 돈을 빚지게 되었습니다.", "translation": "I ended up getting a loan from the bank.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빛나다", "reading": "빈나다", "sentence": "밤하늘의 별이 아름답게 빛나요.", "translation": "The stars in the night sky shine beautifully.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빛내다", "reading": "빈내다", "sentence": "우리 학교는 축제로 가문의 이름을 빛내다.", "translation": "Our school honors its name with the festival.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빠개다", "reading": "", "sentence": "아버지가 장작을 도끼로 빠개셨어요.", "translation": "My father split the firewood with an axe.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빠끔히", "reading": "", "sentence": "진실이 빠끔히 드러났어요.", "translation": "The truth was clearly revealed.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨간불", "reading": "", "sentence": "횡단보도 앞에 빨간불이 켜졌어요.", "translation": "A red light turned on in front of the crosswalk.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨갱이", "reading": "", "sentence": "그 단어는 옛날에 빨갱이라는 비난을 받았어요.", "translation": "That word received accusations of being a Commie in the old days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨래방", "reading": "", "sentence": "동네에 새로운 빨래방이 생겼어요.", "translation": "A new laundromat opened in the neighborhood.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨래판", "reading": "", "sentence": "할머니는 빨래판으로 옷을 씻으셨어요.", "translation": "Grandmother washed the clothes with a washboard.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨랫감", "reading": "빨래깜", "sentence": "오늘 빨랫감이 정말 많네요.", "translation": "There really is a lot of laundry today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨랫줄", "reading": "빨래쭐", "sentence": "어머니가 빨랫줄에 옷을 널어요.", "translation": "Mother hangs the clothes on the clothesline.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨리다", "reading": "", "sentence": "주스가 빨대를 통해 쉽게 빨리네요.", "translation": "The juice is easily sucked through the straw.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빨치산", "reading": "", "sentence": "역사 책에서 빨치산 이야기를 읽었어요.", "translation": "I read about partisans in the history book.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빳빳이", "reading": "빧빠시", "sentence": "종이가 구겨지지 않게 빳빳이 펴요.", "translation": "Smooth the paper out straight so it doesn't wrinkle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빵가루", "reading": "빵까루", "sentence": "돈가스에 빵가루를 골고루 묻혀요.", "translation": "Coat the pork cutlet evenly with breadcrumbs.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼곡히", "reading": "빼고키", "sentence": "책장에 책이 빼곡히 꽂혀 있어요.", "translation": "Books are densely packed on the bookshelf.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼꼼히", "reading": "", "sentence": "고양이가 문틈으로 빼꼼히 내다봐요.", "translation": "The cat peeks out distinctly through the door gap.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼내다", "reading": "빼ː내다", "sentence": "가방에서 지갑을 살짝 빼내었어요.", "translation": "I gently pulled the wallet out of the bag.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼놓다", "reading": "빼ː노타", "sentence": "숙제를 하나도 빼놓지 않고 다 했어요.", "translation": "I did all the homework without leaving anything out.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼닮다", "reading": "빼ː담따", "sentence": "저 아이는 아빠를 아주 빼닮았어요.", "translation": "That child is the spitting image of his dad.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼먹다", "reading": "빼ː먹따", "sentence": "중요한 일정을 하나 빼먹었어요.", "translation": "I omitted one important schedule.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼물다", "reading": "빼ː물다", "sentence": "아기가 장난치며 혀를 살짝 빼물었어요.", "translation": "The baby playfully stuck its tongue out.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빼앗다", "reading": "빼앋따", "sentence": "길에서 아이의 장난감을 빼앗지 마세요.", "translation": "Do not take away the child's toy on the street.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "빽빽이", "reading": "빽빼기", "sentence": "주차장에 자동차가 빽빽이 들어찼어요.", "translation": "Cars are packed closely in the parking lot.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "뺑뺑이", "reading": "", "sentence": "고등학교를 뺑뺑이로 배정받았어요.", "translation": "My high school was assigned by drawing lots.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뺑소니", "reading": "", "sentence": "경찰이 뺑소니 차량을 찾고 있어요.", "translation": "The police are looking for the hit-and-run vehicle.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뺨따귀", "reading": "", "sentence": "동생의 뺨따귀를 가볍게 때렸어요.", "translation": "I lightly slapped my younger sibling's cheek.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뺨치다", "reading": "", "sentence": "친구는 전문가 뺨치게 요리를 잘해요.", "translation": "My friend cooks so well that it puts experts to shame.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻐개다", "reading": "", "sentence": "아버지가 장작을 반으로 뻐개셨어요.", "translation": "My father split the firewood in half.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻐근히", "reading": "", "sentence": "목과 어깨가 뻐근히 아파요.", "translation": "My neck and shoulders hurt stiffly.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻐꾸기", "reading": "", "sentence": "숲에서 뻐꾸기 소리가 들려요.", "translation": "I hear the sound of a cuckoo in the forest.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻔뻔히", "reading": "", "sentence": "그는 잘못을 하고도 뻔뻔히 웃었어요.", "translation": "Even after doing wrong, he laughed shamelessly.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻗대다", "reading": "뻗때다", "sentence": "아이가 고집을 부리며 뻗대요.", "translation": "The child resists stubbornly.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻘겋다", "reading": "뻘ː거타", "sentence": "사과가 뻘겋게 익었어요.", "translation": "The apples ripened deep red.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻣뻣이", "reading": "뻗뻐시", "sentence": "할아버지는 허리를 뻣뻣이 펴셨어요.", "translation": "Grandfather straightened his back stiffly.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뻥튀기", "reading": "", "sentence": "시장에서 고소한 뻥튀기를 샀어요.", "translation": "I bought savory puffed snacks at the market.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뼈다귀", "reading": "", "sentence": "강아지가 뼈다귀를 물고 놀아요.", "translation": "The puppy is playing with a bone in its mouth.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뼈마디", "reading": "", "sentence": "비가 오면 뼈마디가 쑤시고 아파요.", "translation": "When it rains, my joints ache and hurt.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뽀드득", "reading": "", "sentence": "접시를 뽀드득 소리 나게 닦았어요.", "translation": "I wiped the plate clean until it made a squeaky sound.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뽀얗다", "reading": "뽀ː야타", "sentence": "아침에 안개가 뽀얗게 끼었어요.", "translation": "A foggy mist hung thick in the morning.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뽐내다", "reading": "", "sentence": "여동생이 새 구두를 뽐내며 걸어요.", "translation": "My younger sister walks proudly showing off her new shoes.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뾰루지", "reading": "", "sentence": "이마에 작은 뾰루지가 났어요.", "translation": "A small pimple came up on my forehead.", "model": "gemini-3.6-flash", "added": "2026-11-07"}
+{"word": "뿌옇다", "reading": "뿌ː여타", "sentence": "오늘 아침에는 날씨가 뿌옇습니다.", "translation": "The weather is murky this morning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "뿌지직", "reading": "", "sentence": "국물이 뿌지직 끓어올라요.", "translation": "The soup is boiling away with a sizzling sound.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "뿔뿔이", "reading": "뿔뿌리", "sentence": "가족들이 뿔뿔이 흩어졌어요.", "translation": "The family members scattered in all directions.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삐거덕", "reading": "", "sentence": "의자가 삐거덕 소리를 냅니다.", "translation": "The chair makes a creaking sound.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삐뚤다", "reading": "", "sentence": "액자가 조금 삐뚤어요.", "translation": "The picture frame is a bit crooked.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삐지다", "reading": "삐ː지다", "sentence": "친구가 금방 삐지네요.", "translation": "My friend sulks so easily.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사각형", "reading": "사ː가켱", "sentence": "종이에 사각형을 그려요.", "translation": "I draw a quadrangle on the paper.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사고력", "reading": "", "sentence": "독서는 사고력을 키워 줍니다.", "translation": "Reading develops thinking ability.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사과문", "reading": "사ː과문", "sentence": "회사가 공식 사과문을 발표했습니다.", "translation": "The company released an official written apology.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사교계", "reading": "", "sentence": "그는 화려한 사교계에 진출했습니다.", "translation": "He entered the glamorous social circles.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사교성", "reading": "사교썽", "sentence": "그녀는 사교성이 참 좋습니다.", "translation": "She has great sociability.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사교육", "reading": "", "sentence": "많은 아이들이 사교육을 받습니다.", "translation": "Many children receive private education.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사교장", "reading": "", "sentence": "호텔 로비는 멋진 사교장입니다.", "translation": "The hotel lobby is a wonderful social gathering place.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사교적", "reading": "", "sentence": "그는 매우 사교적인 성격이에요.", "translation": "He has a very sociable personality.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사군자", "reading": "사ː군자", "sentence": "벽에 사군자 그림이 걸려 있어요.", "translation": "A traditional painting of the four gracious plants hangs on the wall.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사글세", "reading": "사글쎄", "sentence": "우리는 사글세 방에서 살았습니다.", "translation": "We lived in a room rented on a monthly basis.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사기극", "reading": "", "sentence": "그 사건은 거대한 사기극이었습니다.", "translation": "That incident was a huge fraud scheme.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사기꾼", "reading": "", "sentence": "경찰이 사기꾼을 붙잡았습니다.", "translation": "The police caught the swindler.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사기업", "reading": "", "sentence": "그는 안정된 사기업에 취직했어요.", "translation": "He got a job at a stable private company.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사기죄", "reading": "사기쬐", "sentence": "그는 결국 사기죄로 기소되었습니다.", "translation": "He was eventually indicted for fraud.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사나이", "reading": "", "sentence": "그는 정말 멋진 사나이입니다.", "translation": "He is a truly cool man.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사나흘", "reading": "", "sentence": "고향에 사나흘 정도 다녀오겠습니다.", "translation": "I will visit my hometown for three or four days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사납다", "reading": "사ː납따", "sentence": "산속의 바람이 꽤 사납습니다.", "translation": "The wind in the mountains is quite fierce.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사내애", "reading": "", "sentence": "놀이터에서 사내애들이 뛰어놉니다.", "translation": "Boys are running around playing at the playground.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사냥감", "reading": "사냥깜", "sentence": "사냥감이 갑자기 숲으로 숨었습니다.", "translation": "The prey suddenly hid in the forest.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사냥개", "reading": "사냥깨", "sentence": "사냥개가 냄새를 맡고 쫓아갑니다.", "translation": "The hunting dog follows the scent.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사냥꾼", "reading": "", "sentence": "저 산에는 노련한 사냥꾼이 삽니다.", "translation": "An experienced hunter lives in that mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사냥터", "reading": "", "sentence": "여기는 사슴을 잡는 사냥터입니다.", "translation": "This is a hunting ground to catch deer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사다리", "reading": "", "sentence": "높은 곳에 올라가려고 사다리를 씁니다.", "translation": "I use a ladder to go up high.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사대문", "reading": "사ː대문", "sentence": "서울 사대문 안은 역사가 깊습니다.", "translation": "Inside the four great gates of Seoul is deeply historical.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사대부", "reading": "사ː대부", "sentence": "조선 시대의 사대부가 살던 곳입니다.", "translation": "It is the place where the sadaebu lived in the Joseon dynasty.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사돈댁", "reading": "사돈땍", "sentence": "명절에 사돈댁에 선물을 보냈습니다.", "translation": "I sent a gift to the in-laws' house for the holiday.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사동법", "reading": "사ː동뻡", "sentence": "이 문장은 사동법을 사용하고 있습니다.", "translation": "This sentence is using the causative.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사람됨", "reading": "사ː람됨", "sentence": "그 사람은 사람됨이 참 좋습니다.", "translation": "That person has a really good character.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사랑니", "reading": "", "sentence": "어젯밤에 사랑니를 뽑아서 아픕니다.", "translation": "It hurts because I had my wisdom tooth pulled out last night.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사랑방", "reading": "", "sentence": "할아버지께서 사랑방에서 손님을 맞이하십니다.", "translation": "Grandfather welcomes guests in the sarangbang.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사령탑", "reading": "", "sentence": "잠수함의 사령탑이 물 위로 올라왔습니다.", "translation": "The conning tower of the submarine came above the water.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사례금", "reading": "사ː례금", "sentence": "잃어버린 지갑을 찾아준 분께 사례금을 드렸습니다.", "translation": "I gave a reward to the person who found my lost wallet.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사르르", "reading": "", "sentence": "얼음이 햇살 아래서 사르르 녹았습니다.", "translation": "The ice melted softly under the sunlight.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사립대", "reading": "사립때", "sentence": "우리 동생은 서울의 사립대에 다닙니다.", "translation": "My younger sibling attends a private university in Seoul.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사립문", "reading": "사림문", "sentence": "시골 집 마당에는 낡은 사립문이 있습니다.", "translation": "There is an old sarimmun in the yard of the country house.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사마귀", "reading": "사ː마귀", "sentence": "초록색 사마귀 한 마리가 풀잎에 앉아 있습니다.", "translation": "A green mantis is sitting on a blade of grass.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사망자", "reading": "사ː망자", "sentence": "이번 사고로 안타까운 사망자가 발생했습니다.", "translation": "Regrettable casualties occurred in this accident.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사명감", "reading": "사ː명감", "sentence": "경찰관은 강한 사명감으로 일합니다.", "translation": "The police officer works with a strong sense of duty.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사모님", "reading": "", "sentence": "선생님 사모님께서 음식을 만들어 주셨습니다.", "translation": "The teacher's wife made food for us.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사무소", "reading": "사ː무소", "sentence": "저희 회사 사무소는 지하철역 근처에 있습니다.", "translation": "Our company office is near the subway station.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사무용", "reading": "사ː무용", "sentence": "이 책상은 사무용으로 아주 적합합니다.", "translation": "This desk is very suitable for office use.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사무원", "reading": "사ː무원", "sentence": "친절한 사무원이 저를 안내해 주었습니다.", "translation": "A friendly office worker guided me.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사무적", "reading": "사ː무적", "sentence": "그의 말투가 너무 사무적입니다.", "translation": "His tone of voice is too official.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사무직", "reading": "사ː무직", "sentence": "저는 사무직에서 일하고 있습니다.", "translation": "I am working in an office job.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사문화", "reading": "사ː문화", "sentence": "그 법은 완전히 사문화되었습니다.", "translation": "That law has become completely a dead letter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사물함", "reading": "", "sentence": "사물함에 가방을 넣고 열쇠를 챙겼습니다.", "translation": "I put my bag in the locker and took the key.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사법권", "reading": "사법꿘", "sentence": "사법권은 법원에 속해 있습니다.", "translation": "Judicial power belongs to the court.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사법부", "reading": "사법뿌", "sentence": "사법부는 민주주의의 중요한 축입니다.", "translation": "The judiciary is an important pillar of democracy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사변적", "reading": "", "sentence": "그 문제에 대한 사변적 접근은 피해야 합니다.", "translation": "We should avoid a speculative approach to that problem.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사부님", "reading": "", "sentence": "오늘 선생님과 사부님을 함께 뵈었습니다.", "translation": "I met my teacher and her husband together today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사상가", "reading": "사ː상가", "sentence": "그는 유명한 사상가의 책을 읽고 있습니다.", "translation": "He is reading a famous thinker's book.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사상범", "reading": "사ː상범", "sentence": "역사 속에는 많은 사상범이 존재했습니다.", "translation": "Many political offenders existed in history.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사상자", "reading": "사ː상자", "sentence": "사고 현장에서 많은 사상자가 발생했습니다.", "translation": "Many casualties occurred at the accident scene.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사색적", "reading": "사색쩍", "sentence": "그는 창밖을 보며 사색적 표정을 지었습니다.", "translation": "He looked out the window with a contemplative expression.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사생아", "reading": "", "sentence": "옛날에는 사생아에 대한 편견이 심했습니다.", "translation": "In the past, prejudice against children born out of wedlock was severe.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사서함", "reading": "", "sentence": "우체국 사서함 번호를 새로 받았습니다.", "translation": "I got a new post office box number.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사슴뿔", "reading": "", "sentence": "수컷 사슴은 멋진 사슴뿔을 가지고 있습니다.", "translation": "Male deer have wonderful antlers.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사실성", "reading": "사실썽", "sentence": "이 영화는 이야기의 사실성이 떨어집니다.", "translation": "This movie lacks realism in its story.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사실적", "reading": "사실쩍", "sentence": "그 그림은 실제 풍경처럼 아주 사실적입니다.", "translation": "That painting is very realistic, like a real landscape.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사양길", "reading": "사양낄", "sentence": "그 전통 산업은 현재 사양길에 접어들었습니다.", "translation": "That traditional industry is now on the decline.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사업가", "reading": "사ː업까", "sentence": "그는 자수성가한 훌륭한 사업가입니다.", "translation": "He is a great self-made businessperson.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사업자", "reading": "사ː업짜", "sentence": "모든 사업자는 세금을 성실히 납부해야 합니다.", "translation": "All business operators must faithfully pay taxes.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사업장", "reading": "사ː업짱", "sentence": "정부는 안전한 사업장을 만들어야 합니다.", "translation": "The government must create a safe workplace.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사업주", "reading": "사ː업쭈", "sentence": "사업주와 근로자가 함께 회의를 했습니다.", "translation": "The proprietor and the workers held a meeting together.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사업체", "reading": "사ː업체", "sentence": "우리 아버지는 작은 사업체를 운영하십니다.", "translation": "My father runs a small business.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사용권", "reading": "사ː용꿘", "sentence": "소프트웨어 사용권을 확인해 주세요.", "translation": "Please check the software license.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사용량", "reading": "사ː용냥", "sentence": "이번 달 수도 사용량이 많아요.", "translation": "The water usage is high this month.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사용료", "reading": "사ː용뇨", "sentence": "매달 주차장 사용료를 내야 해요.", "translation": "I have to pay the parking fee every month.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사용법", "reading": "사ː용뻡", "sentence": "이 기계의 사용법을 알려 주세요.", "translation": "Please tell me how to use this machine.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사우나", "reading": "", "sentence": "주말에 피곤해서 사우나에 갔어요.", "translation": "I went to the sauna because I was tired on the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사윗감", "reading": "사위깜", "sentence": "어머니는 훌륭한 사윗감을 원하세요.", "translation": "Mother wants a great prospective son-in-law.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사유서", "reading": "사ː유서", "sentence": "지각해서 사유서를 제출했어요.", "translation": "I submitted a letter of explanation for being late.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사유지", "reading": "", "sentence": "여기는 개인이 소유한 사유지예요.", "translation": "This is private land owned by an individual.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사유화", "reading": "", "sentence": "공기업의 사유화는 논란이 많아요.", "translation": "The privatization of public enterprises is controversial.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사육장", "reading": "사육짱", "sentence": "농장에서 동물 사육장을 청소해요.", "translation": "I clean the animal breeding farm at the farm.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사은품", "reading": "사ː은품", "sentence": "화장품을 사고 사은품을 받았어요.", "translation": "I bought cosmetics and received an appreciation gift.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사이렌", "reading": "", "sentence": "밖에서 구급차 사이렌 소리가 들려요.", "translation": "I hear an ambulance siren outside.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사이비", "reading": "사ː이비", "sentence": "그 사람은 사이비 종교에 빠졌어요.", "translation": "That person fell into a pseudo-religion.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사이클", "reading": "", "sentence": "경제는 일정한 사이클을 반복해요.", "translation": "The economy repeats a certain cycle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사이트", "reading": "", "sentence": "필요한 정보를 인터넷 사이트에서 찾아요.", "translation": "I find the necessary information on an internet site.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사인펜", "reading": "", "sentence": "아이에게 파란색 사인펜을 주었어요.", "translation": "I gave the child a blue felt-tipped pen.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사잇길", "reading": "사이낄", "sentence": "공원으로 가는 조용한 사잇길로 걸어요.", "translation": "I walk along the quiet road in between going to the park.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사잇문", "reading": "사인문", "sentence": "뒷마당으로 통하는 작은 사잇문이 있어요.", "translation": "There is a small side gate leading to the backyard.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사재기", "reading": "", "sentence": "물가가 오를까 봐 마트에서 사재기를 해요.", "translation": "People panic buy at the mart fearing prices will rise.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사절단", "reading": "사ː절딴", "sentence": "외국에서 경제 사절단이 방문했어요.", "translation": "An economic delegation visited from abroad.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사중주", "reading": "사ː중주", "sentence": "저녁 콘서트에서 현악 사중주를 연주해요.", "translation": "They are playing a string quartet at the evening concert.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사직서", "reading": "사직써", "sentence": "회사에 내일 날짜로 사직서를 냈어요.", "translation": "I submitted my letter of resignation to the company dated tomorrow.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진가", "reading": "", "sentence": "유명한 사진가가 아름다운 풍경을 찍어요.", "translation": "A famous photographer takes pictures of beautiful scenery.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진관", "reading": "", "sentence": "증명사진을 찍으러 사진관에 갔어요.", "translation": "I went to the photo studio to take an ID photo.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진기", "reading": "", "sentence": "여행을 떠나기 전에 사진기를 샀어요.", "translation": "I bought a camera before going on a trip.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진반", "reading": "", "sentence": "대학교에서 사진반에 가입했어요.", "translation": "I joined the photography club at university.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진사", "reading": "", "sentence": "유명한 사진사가 사진을 찍어요.", "translation": "A famous photographer takes pictures.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사진첩", "reading": "", "sentence": "책상 위에 가족 사진첩이 있어요.", "translation": "There is a family photo album on the desk.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사차원", "reading": "사ː차원", "sentence": "그 친구는 조금 사차원 같아요.", "translation": "That friend seems a bit eccentric.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사창가", "reading": "", "sentence": "경찰이 사창가를 단속합니다.", "translation": "The police crack down on the red-light district.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사춘기", "reading": "", "sentence": "동생이 요즘 사춘기를 겪고 있어요.", "translation": "My younger sibling is going through puberty these days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사치성", "reading": "사치썽", "sentence": "이 물건은 사치성이 너무 강해요.", "translation": "This item is too extravagant.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사치품", "reading": "", "sentence": "백화점에서 고가의 사치품을 팝니다.", "translation": "The department store sells expensive luxury goods.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사투리", "reading": "사ː투리", "sentence": "할머니의 고향 사투리가 정겹습니다.", "translation": "My grandmother's hometown dialect is warm and cozy.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사학자", "reading": "사ː학짜", "sentence": "아버지는 역사학자이자 사학자이십니다.", "translation": "My father is a historian.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사행심", "reading": "", "sentence": "복권 구입은 사행심을 부추깁니다.", "translation": "Buying lottery tickets encourages a speculative mindset.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사형수", "reading": "사ː형수", "sentence": "그 영화는 사형수의 이야기를 다룹니다.", "translation": "That movie deals with the story of a death row inmate.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사형장", "reading": "사ː형장", "sentence": "영화에서 사형장 장면이 나왔어요.", "translation": "A scene of the execution ground appeared in the movie.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회면", "reading": "", "sentence": "오늘 신문 사회면을 읽었어요.", "translation": "I read the society section of the newspaper today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회상", "reading": "", "sentence": "이 소설은 당시의 사회상을 잘 보여줍니다.", "translation": "This novel shows the social reality of that time very well.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회성", "reading": "사회썽", "sentence": "제 동생은 사회성이 아주 좋습니다.", "translation": "My younger sibling has great sociability.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회악", "reading": "", "sentence": "보안관은 사회악을 소탕했습니다.", "translation": "The sheriff wiped out social evils.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회인", "reading": "", "sentence": "내년이면 저도 진정한 사회인이 됩니다.", "translation": "Next year, I will truly become a member of society.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회자", "reading": "", "sentence": "오늘 행사의 사회자가 정말 재밌어요.", "translation": "The host of today's event is really funny.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회학", "reading": "", "sentence": "대학교에서 사회학을 전공하고 있어요.", "translation": "I am majoring in sociology at university.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "사회화", "reading": "", "sentence": "학교는 아이들의 사회화를 돕습니다.", "translation": "Schools help children with their socialization.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삭히다", "reading": "사키다", "sentence": "어머니께서 맛있는 김치를 삭히고 계세요.", "translation": "My mother is fermenting delicious kimchi.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산골짝", "reading": "산꼴짝", "sentence": "깊은 산골짝에 작은 오두막이 있어요.", "translation": "There is a small cabin deep in the mountain valley.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산기슭", "reading": "산끼슥", "sentence": "산기슭에 예쁜 꽃이 피었어요.", "translation": "Pretty flowers bloomed at the foot of the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산나물", "reading": "", "sentence": "주말에 산나물을 캐러 갔어요.", "translation": "I went to gather wild greens on the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산더미", "reading": "산떠미", "sentence": "책상 위에 숙제가 산더미예요.", "translation": "There is a pile of homework on the desk.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산동네", "reading": "산똥네", "sentence": "우리 할머니는 산동네에 사셔요.", "translation": "My grandmother lives in a hillside neighborhood.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산딸기", "reading": "", "sentence": "등산로에서 산딸기를 따 먹었어요.", "translation": "I picked and ate wild berries on the hiking trail.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산란기", "reading": "살ː란기", "sentence": "지금은 연어의 산란기입니다.", "translation": "Now is the spawning season for salmon.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산마루", "reading": "", "sentence": "산마루에 올라서 시원한 바람을 쐬었어요.", "translation": "I climbed to the ridge and enjoyed the cool breeze.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산문가", "reading": "산ː문가", "sentence": "그 유명한 산문가의 책을 읽었어요.", "translation": "I read a book by that famous prose writer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산문시", "reading": "산ː문시", "sentence": "오늘 수업 시간에 산문시를 배웠어요.", "translation": "We learned about prose poems in class today.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산비탈", "reading": "산삐탈", "sentence": "산비탈에 밭을 일구어 채소를 심었어요.", "translation": "We cultivated a field on the mountain slope and planted vegetables.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산사태", "reading": "", "sentence": "폭우 때문에 산사태가 발생했어요.", "translation": "A landslide occurred due to heavy rain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산산이", "reading": "산ː사니", "sentence": "유리잔이 바닥에 떨어져 산산이 깨졌어요.", "translation": "The glass fell to the floor and shattered to pieces.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산성비", "reading": "", "sentence": "산성비를 맞아서 머리가 아파요.", "translation": "My head hurts because I was caught in the acid rain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산성화", "reading": "", "sentence": "토양의 산성화가 심각한 문제입니다.", "translation": "The acidification of the soil is a serious problem.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산소통", "reading": "", "sentence": "소방관들이 산소통을 메고 들어갔어요.", "translation": "The firefighters went in carrying oxygen tanks.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산송장", "reading": "산ː송장", "sentence": "야근을 너무 많이 해서 산송장이 되었어요.", "translation": "I worked so much overtime that I feel like a living corpse.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산수화", "reading": "", "sentence": "미술관에서 아름다운 산수화를 보았어요.", "translation": "I saw a beautiful traditional landscape painting at the art museum.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산술적", "reading": "산ː술쩍", "sentence": "이번 계획은 산술적으로 불가능해요.", "translation": "This plan is arithmetically impossible.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산신령", "reading": "산실령", "sentence": "옛날 이야기 속 산신령을 만났어요.", "translation": "I met the mountain spirit from the old story.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산악인", "reading": "사나긴", "sentence": "그 산악인은 에베레스트를 정복했어요.", "translation": "That mountaineer conquered Mount Everest.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산업용", "reading": "사ː넘뇽", "sentence": "이 물건은 산업용으로만 쓰입니다.", "translation": "This item is used exclusively for industrial purposes.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산업체", "reading": "사ː넙체", "sentence": "많은 산업체가 탄소 감축에 노력해요.", "translation": "Many industrial enterprises strive to reduce carbon emissions.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산업화", "reading": "사ː너퐈", "sentence": "한국은 빠른 산업화를 겪었습니다.", "translation": "Korea underwent rapid industrialization.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산울림", "reading": "사눌림", "sentence": "계곡에서 소리치니 산울림이 들렸어요.", "translation": "When I shouted in the valley, an echo was heard.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산유국", "reading": "사ː뉴국", "sentence": "중동은 대표적인 산유국 중 하나예요.", "translation": "The Middle East is one of the representative oil-producing countries.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산자락", "reading": "", "sentence": "산자락에 예쁜 집들이 많아요.", "translation": "There are many pretty houses at the foot of the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산줄기", "reading": "산쭐기", "sentence": "저 멀리 산줄기가 아주 멋져요.", "translation": "The mountain range far away looks very nice.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산증인", "reading": "산ː증인", "sentence": "할아버지는 그 일의 산증인이에요.", "translation": "Grandfather is a living witness to that event.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산짐승", "reading": "산찜승", "sentence": "깊은 산속에서 산짐승을 보았어요.", "translation": "I saw a wild animal deep in the mountains.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산출량", "reading": "산ː출량", "sentence": "올해 쌀 산출량이 작년보다 많아요.", "translation": "This year's rice output is larger than last year's.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산토끼", "reading": "", "sentence": "풀밭에서 산토끼 한 마리가 뛰어다녀요.", "translation": "A wild rabbit is hopping around in the grassy field.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산파역", "reading": "산ː파역", "sentence": "그분이 이번 일에 산파역을 맡았어요.", "translation": "That person played a midwife role in this matter.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산허리", "reading": "", "sentence": "구름이 산허리를 부드럽게 감싸요.", "translation": "Clouds gently wrap around the waist of the mountain.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산호색", "reading": "", "sentence": "친구가 산호색 치마를 입었어요.", "translation": "My friend wore a coral-colored skirt.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "산호초", "reading": "", "sentence": "바다 속에 아름다운 산호초가 있어요.", "translation": "There are beautiful coral reefs in the sea.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살가죽", "reading": "살까죽", "sentence": "햇볕이 강해서 살가죽이 따가워요.", "translation": "My skin stings because the sunlight is strong.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살균제", "reading": "", "sentence": "식탁을 닦을 때 살균제를 써요.", "translation": "I use a disinfectant when wiping the dining table.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살덩이", "reading": "살떵이", "sentence": "운동을 했더니 살덩이가 단단해졌어요.", "translation": "My flesh became firm after working out.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살뜰히", "reading": "", "sentence": "어머니는 집안일을 살뜰히 하세요.", "translation": "Mother takes care of the housework sincerely.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살림꾼", "reading": "", "sentence": "저희 어머니는 훌륭한 살림꾼이셔요.", "translation": "My mother is an excellent homemaker.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살림방", "reading": "살림빵", "sentence": "이 방은 우리 가족의 살림방이에요.", "translation": "This room is our family's living quarters.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살림집", "reading": "살림찝", "sentence": "도시 외곽에 예쁜 살림집을 지었어요.", "translation": "We built a pretty house on the outskirts of the city.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살모사", "reading": "", "sentence": "등산할 때 살모사를 조심해야 해요.", "translation": "You must watch out for vipers when hiking.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살붙이", "reading": "살부치", "sentence": "명절이라서 살붙이들이 모두 모였어요.", "translation": "All the kinsfolk gathered for the holiday.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살얼음", "reading": "사러름", "sentence": "강물 위에 살얼음이 살짝 얼었어요.", "translation": "Thin ice has frozen slightly on the river.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살인마", "reading": "사린마", "sentence": "뉴스에서 무서운 살인마를 잡았대요.", "translation": "The news says they caught a scary killer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살인범", "reading": "사린범", "sentence": "경찰이 결국 살인범을 검거했어요.", "translation": "The police finally arrested the murderer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살인자", "reading": "사린자", "sentence": "경찰이 살인자를 빨리 잡았어요.", "translation": "The police caught the murderer quickly.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살인적", "reading": "사린적", "sentence": "요즘 일정은 정말 살인적이에요.", "translation": "My schedule these days is truly backbreaking.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살충제", "reading": "", "sentence": "식물에 살충제를 뿌렸어요.", "translation": "I sprayed insecticide on the plants.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살코기", "reading": "", "sentence": "기름기가 없는 살코기를 좋아해요.", "translation": "I like lean meat without fat.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살쾡이", "reading": "", "sentence": "숲에서 살쾡이를 보았어요.", "translation": "I saw a wild cat in the forest.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살포시", "reading": "", "sentence": "그녀가 눈을 살포시 감았어요.", "translation": "She gently closed her eyes.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살풀이", "reading": "살푸리", "sentence": "전통 공연에서 살풀이를 췄어요.", "translation": "They danced the salpuri at the traditional performance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살피다", "reading": "", "sentence": "주위를 잘 살피고 건너세요.", "translation": "Check your surroundings carefully before crossing.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "살해범", "reading": "", "sentence": "살해범이 경찰에 자수했어요.", "translation": "The murderer surrendered to the police.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼가다", "reading": "", "sentence": "늦은 밤에는 외출을 삼가세요.", "translation": "Refrain from going out late at night.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼각형", "reading": "삼가켱", "sentence": "종이에 삼각형을 그려 보세요.", "translation": "Try drawing a triangle on the paper.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼림욕", "reading": "삼님뇩", "sentence": "주말에 산에서 삼림욕을 했어요.", "translation": "I went forest bathing in the mountains over the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼매경", "reading": "", "sentence": "그는 독서 삼매경에 빠졌어요.", "translation": "He was lost in reading.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼박자", "reading": "삼박짜", "sentence": "이 곡은 왈츠처럼 삼박자에요.", "translation": "This song is in triple time like a waltz.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼베옷", "reading": "삼베옫", "sentence": "옛날에는 삼베옷을 많이 입었어요.", "translation": "In the past, people wore hemp clothes a lot.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼원색", "reading": "사뭔색", "sentence": "빛의 삼원색은 빨강, 초록, 파랑이에요.", "translation": "The three primary colors of light are red, green, and blue.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼인조", "reading": "사민조", "sentence": "그 삼인조 그룹이 노래를 잘해요.", "translation": "That trio group sings well.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼인칭", "reading": "사민칭", "sentence": "이 문장은 삼인칭으로 썼어요.", "translation": "This sentence was written in the third person.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼일장", "reading": "사밀장", "sentence": "할아버지의 장례는 삼일장으로 치렀어요.", "translation": "My grandfather's funeral was held as a three-day service.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼일절", "reading": "사밀쩔", "sentence": "삼일절에는 태극기를 걸어요.", "translation": "We hang the national flag on Samiljeol.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼중고", "reading": "", "sentence": "요즘 물가 상승으로 삼중고를 겪어요.", "translation": "We are experiencing a triple handicap due to rising prices these days.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼중주", "reading": "", "sentence": "바이올린과 피아노의 삼중주를 들었어요.", "translation": "I listened to a trio of violin and piano.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼중창", "reading": "", "sentence": "세 명의 가수가 멋진 삼중창을 불렀어요.", "translation": "Three singers sang a wonderful trio.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼차원", "reading": "", "sentence": "이 영화는 삼차원 영상으로 제작되었어요.", "translation": "This movie was produced in three-dimensional video.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼천리", "reading": "삼철리", "sentence": "우리나라를 아름다운 삼천리 금수강산이라고 불러요.", "translation": "We call our country the beautiful three-thousand-li land of rivers and mountains.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼총사", "reading": "", "sentence": "우리 회사에는 세 명의 삼총사가 있어요.", "translation": "There is a trio of three people in our company.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼키다", "reading": "", "sentence": "약을 먹을 때 물과 함께 삼키세요.", "translation": "Swallow it with water when taking medicine.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼태기", "reading": "", "sentence": "할아버지께서 낙엽을 삼태기에 담으셨어요.", "translation": "Grandfather put the fallen leaves into a samtaegi.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼파전", "reading": "", "sentence": "이번 선거는 치열한 삼파전이 되었어요.", "translation": "This election has become a fierce three-way battle.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삼행시", "reading": "", "sentence": "친구 이름으로 재미있는 삼행시를 지었어요.", "translation": "I wrote a fun three-line acrostic poem using my friend's name.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삽살개", "reading": "삽쌀개", "sentence": "마당에서 귀여운 삽살개가 뛰어놀아요.", "translation": "A cute sapsalgae is running around in the yard.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삽시간", "reading": "삽씨간", "sentence": "맛있는 음식이 삽시간에 사라졌어요.", "translation": "The delicious food disappeared in an instant.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삽자루", "reading": "삽짜루", "sentence": "오래된 삽의 삽자루가 부러졌어요.", "translation": "The handle of the old shovel broke.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "삿대질", "reading": "삳ː때질", "sentence": "길에서 삿대질을 하며 싸우지 마세요.", "translation": "Do not fight while pointing fingers on the street.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상갓집", "reading": "상가찝", "sentence": "친구의 부고를 듣고 상갓집에 다녀왔어요.", "translation": "I heard about my friend's bereavement and visited the house in mourning.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상거래", "reading": "", "sentence": "안전한 상거래를 위해 계약서를 쓰세요.", "translation": "Write a contract for safe business transactions.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상견례", "reading": "상견녜", "sentence": "주말에 양가 부모님과 상견례를 해요.", "translation": "We are having the first meeting with both sets of parents this weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상공업", "reading": "", "sentence": "이 도시는 상공업이 아주 발달했어요.", "translation": "Commerce and industry are very well developed in this city.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상관성", "reading": "상관썽", "sentence": "두 현상 사이의 상관성을 분석했어요.", "translation": "We analyzed the correlation between the two phenomena.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상급반", "reading": "상ː급빤", "sentence": "동생이 올해 상급반으로 올라갔어요.", "translation": "My younger sibling moved up to the upper grades this year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상급생", "reading": "상ː급쌩", "sentence": "복도에서 무서운 상급생을 만났어요.", "translation": "I met a scary senior student in the hallway.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상급자", "reading": "상ː급짜", "sentence": "업무에 대해 상급자와 상의해 보세요.", "translation": "Try discussing the work with your superior.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상다리", "reading": "상따리", "sentence": "음식을 너무 많이 올려서 상다리가 부러질 것 같아요.", "translation": "There is so much food that the table legs feel like they will break.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상담소", "reading": "", "sentence": "마음이 힘들 때 청소년 상담소를 찾아가세요.", "translation": "Visit the youth counseling center when you are having a hard time.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상담실", "reading": "", "sentence": "선생님과 이야기하려고 상담실에 갔어요.", "translation": "I went to the counseling office to talk with the teacher.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상담원", "reading": "상다뭔", "sentence": "친절한 상담원과 전화로 연결되었습니다.", "translation": "You have been connected by phone with a friendly representative.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상당수", "reading": "", "sentence": "시험에서 상당수가 같은 실수를 했어요.", "translation": "A considerable number of people made the same mistake on the test.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상대방", "reading": "", "sentence": "대화할 때는 상대방의 눈을 바라보세요.", "translation": "Look into the other person's eyes when having a conversation.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상대적", "reading": "", "sentence": "행복은 주관적이고 상대적이에요.", "translation": "Happiness is subjective and relative.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상대편", "reading": "", "sentence": "상대편의 이야기를 잘 들어주세요.", "translation": "Please listen carefully to the other party's story.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상등품", "reading": "상ː등품", "sentence": "이 사과는 상등품이라서 아주 달아요.", "translation": "These apples are very sweet because they are top-grade goods.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상록수", "reading": "상녹쑤", "sentence": "운동장에 초록색 상록수가 있어요.", "translation": "There is a green evergreen tree on the playground.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상류층", "reading": "상ː뉴층", "sentence": "그들은 사회 상류층에 속해요.", "translation": "They belong to the upper class of society.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상머슴", "reading": "상ː머슴", "sentence": "그 일꾼은 힘이 세서 상머슴이라고 불려요.", "translation": "That worker is called a brawny farmhand because he is strong.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상반기", "reading": "상ː반기", "sentence": "올해 상반기에 목표를 달성했어요.", "translation": "We achieved our goals in the first half of this year.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상반부", "reading": "상ː반부", "sentence": "동상의 상반부만 사진을 찍었어요.", "translation": "I took a picture of only the upper half of the statue.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상반신", "reading": "상ː반신", "sentence": "수영을 해서 상반신 근육이 발달했어요.", "translation": "My upper body muscles developed from swimming.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상보적", "reading": "", "sentence": "두 부처의 기술은 상보적이에요.", "translation": "The technologies of the two departments are complementary.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상비군", "reading": "", "sentence": "국가에는 항상 상비군이 필요해요.", "translation": "A country always needs a standing army.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상비약", "reading": "", "sentence": "서랍에 상비약을 준비해 두세요.", "translation": "Please prepare some first-aid medicine in the drawer.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상상력", "reading": "상ː상녁", "sentence": "아이들은 상상력이 아주 풍부해요.", "translation": "Children have a very rich imagination.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상상외", "reading": "상ː상외", "sentence": "그 결과는 우리의 상상외였어요.", "translation": "The result was beyond our imagination.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상상화", "reading": "상ː상화", "sentence": "미술 시간에 상상화를 그렸어요.", "translation": "I drew an imaginary painting in art class.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상설관", "reading": "", "sentence": "박물관에 새로운 상설관이 생겼어요.", "translation": "A new permanent exhibition hall was established in the museum.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상세히", "reading": "", "sentence": "그 사건에 대해 상세히 설명해 주세요.", "translation": "Please explain that incident in detail.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상소리", "reading": "상쏘리", "sentence": "공공장소에서는 상소리를 하지 마세요.", "translation": "Do not use vulgar words in public places.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상소문", "reading": "상ː소문", "sentence": "역사 책에서 왕에게 올린 상소문을 읽었어요.", "translation": "I read a sangsomun presented to the king in a history book.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상속권", "reading": "상속꿘", "sentence": "자녀들은 공평한 상속권을 가집니다.", "translation": "Children have equal rights of inheritance.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상속법", "reading": "상속뻡", "sentence": "우리나라의 상속법이 개정되었어요.", "translation": "Our country's inheritance act has been revised.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상속세", "reading": "상속쎄", "sentence": "재산을 물려받으려면 상속세를 내야 해요.", "translation": "You have to pay inheritance tax to inherit property.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상속인", "reading": "상소긴", "sentence": "그 회사의 새로운 상속인은 젊은 여성이에요.", "translation": "The new inheritor of that company is a young woman.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상속자", "reading": "상속짜", "sentence": "그는 거대한 유산의 유일한 상속자예요.", "translation": "He is the sole heir to a huge fortune.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상수도", "reading": "상ː수도", "sentence": "우리 동네는 상수도 공사를 하고 있어요", "translation": "Our neighborhood is doing waterworks construction.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상수원", "reading": "상ː수원", "sentence": "이곳은 깨끗한 상수원을 보호하는 지역입니다", "translation": "This place is a protected area for clean water sources.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상습범", "reading": "상습뻠", "sentence": "경찰은 그 상습범을 결국 붙잡았습니다", "translation": "The police finally caught the habitual offender.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상습자", "reading": "상습짜", "sentence": "그 상습자는 법원에서 무거운 처벌을 받았습니다", "translation": "That habitual offender received a heavy punishment in court.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상습적", "reading": "상습쩍", "sentence": "그의 지각은 이미 상습적인 문제가 되었습니다", "translation": "His tardiness has already become a habitual problem.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상승기", "reading": "상ː승기", "sentence": "우리 회사는 지금 좋은 상승기에 있습니다", "translation": "Our company is currently in a good period of expansion.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상승세", "reading": "상ː승세", "sentence": "주식 시장이 드디어 상승세를 타고 있어요", "translation": "The stock market is finally on an upturn.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상식선", "reading": "상식썬", "sentence": "그 요구는 상식선을 완전히 넘어섰습니다", "translation": "That demand completely crossed the bounds of common sense.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상식적", "reading": "상식쩍", "sentence": "그것은 아주 상식적인 판단이라고 생각해요", "translation": "I think that is a very sensible judgment.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상식화", "reading": "상시콰", "sentence": "재택근무의 상식화가 빠르게 진행되고 있습니다", "translation": "Working from home is rapidly becoming common sense.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상실감", "reading": "", "sentence": "친구가 떠난 후에 큰 상실감이 찾아왔어요", "translation": "A great sense of loss came over me after my friend left.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상아색", "reading": "", "sentence": "이 코트는 은은한 상아색을 띠고 있습니다", "translation": "This coat has a subtle ivory color.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상아탑", "reading": "", "sentence": "대학은 더 이상 순수한 상아탑이 아닙니다", "translation": "Universities are no longer pure ivory towers.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상업계", "reading": "상업꼐", "sentence": "그는 고등학교 때부터 상업계 학교를 다녔습니다", "translation": "He has attended a commercial school since high school.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상업성", "reading": "상업썽", "sentence": "그 영화는 예술성보다 상업성이 돋보입니다", "translation": "That movie stands out more for its commerciality than its artistry.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상업적", "reading": "상업쩍", "sentence": "우리는 그 제안을 상업적인 관점에서 보았습니다", "translation": "We looked at the proposal from a commercial perspective.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상업화", "reading": "상어퐈", "sentence": "예술의 상업화에 대해 많은 사람들이 우려합니다", "translation": "Many people are concerned about the commercialization of art.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상여금", "reading": "", "sentence": "회사는 직원들에게 추석 상여금을 지급했습니다", "translation": "The company paid Chuseok bonuses to its employees.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상위권", "reading": "상ː위꿘", "sentence": "우리 아이는 이번 시험에서 상위권에 들었습니다", "translation": "My child placed in the upper rank on this exam.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상이점", "reading": "상이쩜", "sentence": "두 제품 사이에는 큰 상이점이 없습니다", "translation": "There are no major differences between the two products.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상점가", "reading": "", "sentence": "주말이라서 상점가에 사람들이 정말 많습니다", "translation": "There are really a lot of people in the shopping district because it is the weekend.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상중하", "reading": "상ː중하", "sentence": "이 상품은 품질이 상중하로 나뉘어 있습니다", "translation": "The quality of this product is divided into good, fair, and poor.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상징물", "reading": "", "sentence": "그 동상은 우리 도시의 평화 상징물입니다", "translation": "That statue is a symbol of peace for our city.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상징성", "reading": "상징썽", "sentence": "이 기념비는 역사적 상징성이 매우 큽니다", "translation": "This monument has great historical symbolism.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
+{"word": "상징어", "reading": "", "sentence": "한국어에는 소리를 나타내는 재미있는 상징어가 많아요", "translation": "There are many interesting ideophones representing sounds in Korean.", "model": "gemini-flash-lite-latest", "added": "2026-11-07"}
