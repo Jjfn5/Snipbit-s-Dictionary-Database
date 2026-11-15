@@ -66,7 +66,7 @@ def test_ccedict():
         m = json.loads((out / "manifest.json").read_text())
         assert m["source"] == "ccedict" and m["rowCount"] == 3
         assert m["rankedRows"] == 2 and m["frequencySource"].startswith("file-")
-        assert m["schemaVersion"] == dictlib.SCHEMA_VERSION == 2
+        assert m["schemaVersion"] == dictlib.SCHEMA_VERSION == 1
         assert m["dbSha256"] == dictlib.sha256_file(out / "ccedict.db.gz")
 
 
