@@ -24,7 +24,7 @@ from typing import Callable, Iterable, Optional
 
 import freqlib
 
-SCHEMA_VERSION = 2  # bump when the entries columns change (the app checks it); 2 = + freq_rank
+SCHEMA_VERSION = 1   # must equal PrebuiltImporter.ENTRIES_SCHEMA_VERSION in the app (prototype: single schema version)
 UA = "snipbit-dictionary-builder"
 REPO_RELEASES = "https://github.com/Jjfn5/Snipbit-s-Dictionary-Database/releases/download"
 
