@@ -30,7 +30,7 @@ import freqlib  # noqa: E402
 
 RELEASE_API = "https://api.github.com/repos/scriptin/jmdict-simplified/releases/latest"
 ASSET_RE = re.compile(r"^jmdict-eng-\d.*\.json\.zip$")
-SCHEMA_VERSION = 2   # bump when the entries columns change (app must check); 2 = + freq_rank
+SCHEMA_VERSION = 1   # must equal PrebuiltImporter.ENTRIES_SCHEMA_VERSION in the app (prototype: single schema version)
 BUILDER_VERSION = 1  # bump when parsing logic changes, to force a rebuild
 DEFAULT_BASE_URL = (
     "https://github.com/Jjfn5/Snipbit-s-Dictionary-Database/releases/download/jmdict"
