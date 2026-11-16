@@ -74,6 +74,11 @@ jobs:
             --prev-manifest out/prev-manifest.json \
             --base-url "https://github.com/${{ github.repository }}/releases/download/${{ matrix.source }}"
 
+      - name: Show what was built
+        run: |
+          echo "changed=${{ steps.build.outputs.changed }}"
+          ls -la out
+
       # One rolling release per language (tag = source id). Assets are named
       # per kind, so this replaces only the dictionary files and leaves the
       # examples files published by the examples workflow untouched.
@@ -84,6 +89,7 @@ jobs:
           tag_name: ${{ matrix.source }}
           name: ${{ matrix.name }} (rolling)
           make_latest: false
+          fail_on_unmatched_files: true
           files: |
             out/${{ matrix.source }}.db.gz
             out/manifest.json
